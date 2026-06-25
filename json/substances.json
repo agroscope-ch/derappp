@@ -1,0 +1,1952 @@
+[
+  {
+    "substance": "1-Decanol",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "1-Methylcyclopropene",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "1-Naphthylacetic acid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "2,4-D",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "2,4-DB",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "2,6-Dichlorobenzamide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "2-(1-Naphthyl) acetamide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "2-Amino-4,6-dimethoxypyrimidine",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "3AEY",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "6-Benzyladenine",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Abamectin",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Acequinocyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Acetamiprid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Acibenzolar-S-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Aclonifen",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Aluminium phosphide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Aluminium potassium sulfate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Aluminium sulfate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Ametoctradin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Amidosulfuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Aminopyralid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Amisulbrom",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Amitrole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Aqueous Extract of sweet Lupinus albus",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Atrazine",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Atrazine-2-hydroxy",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Atrazine-desethyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Atrazine-desisopropyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Aureobasidium pullulans",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Avermectin B1a",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Avermectin B1b",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Azadirachtin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Azoxystrobin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Beflubutamid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Benalaxyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Benalaxyl-M",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bensulfuron-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bentazone",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Benthiavalicarb-isopropyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Benzovindiflupyr",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Beta-cyfluthrin",
+    "n_chents": 4,
+    "type": "mixture"
+  },
+  {
+    "substance": "Bifenazate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bifenox",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bifenthrin",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Bifenthrin-(1R,3R)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bifenthrin-(1S,3S)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bixafen",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bordeaux mixture",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Boscalid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bromoxynil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bromoxynil butyrate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bromoxynil heptanoate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bromoxynil octanoate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bromuconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Bupirimate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Buprofezin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Butafenacil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "CGA232449",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "CGA249287",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Calcium hydroxide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Calcium pentasulfide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Calcium thiosulfate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Captan",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Carbendazim",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Carfentrazone-ethyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Chlorantraniliprole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Chloridazon",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Chlormequat",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Chlorothalonil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Chlorothalonil-4-hydroxy",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Chlorotoluron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Chlorpyrifos",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Chlorpyrifos-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Chromafenozide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cinerin I",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cinerin II",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cinnamaldehyde",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Clethodim",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Clodinafop-propargyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Clofentezine",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Clomazone",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Clopyralid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Clothianidin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Codlemone",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Copper",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Copper oxychloride",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Copper(I) oxide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Copper(II) chloride",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Copper(II) hydroxide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Copper(II) nitrate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Copper(II) sulfate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cupric ion",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyantraniliprole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyazofamid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cydia pomonella granulovirus",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Cyflufenamid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyfluthrin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyfluthrin-(1R,3R,alphaR)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyfluthrin-(1R,3R,alphaS)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyfluthrin-(1R,3S,alphaR)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyfluthrin-(1R,3S,alphaS)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyfluthrin-(1S,3R,alphaR)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyfluthrin-(1S,3R,alphaS)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyfluthrin-(1S,3S,alphaR)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyfluthrin-(1S,3S,alphaS)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyhalothrin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyhalothrin-(1S,3S,alphaR)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cymoxanil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cypermethrin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cypermethrin-(1R,3R,alphaR)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cypermethrin-(1R,3R,alphaS)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cypermethrin-(1R,3S,alphaR)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cypermethrin-(1R,3S,alphaS)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cypermethrin-(1S,3R,alphaR)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cypermethrin-(1S,3R,alphaS)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cypermethrin-(1S,3S,alphaR)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cypermethrin-(1S,3S,alphaS)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyproconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Cyprodinil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Daminozide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dazomet",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Deltamethrin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Desmedipham",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Desmethoxy-linuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dicamba",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dichlobenil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Difenoconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Diflubenzuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Diflufenican",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Diflufenzopyr",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dimethachlor",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dimethenamid-P",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dimethoate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dimethomorph",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dimoxystrobin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Diquat",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Disodium phosphonate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dithianon",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Diuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dodemorph",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Dodine",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Emamectin benzoate",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Emamectin benzoate B1a",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Emamectin benzoate B1b",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Endosulfan sulfate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Epoxiconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Ethaboxam",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Ethametsulfuron methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Ethephon",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Ethirimol",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Ethofumesate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Ethoxylated triglyceride 10 OE",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Etofenprox",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Etoxazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Famoxadone",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fatty acids",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Fatty acids, C7-18 and C18-unsatd., potassium salts",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Fenamidone",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fenarimol",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fenazaquin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fenhexamid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fenoxaprop-P-ethyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fenoxycarb",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fenpicoxamid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fenpropidin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fenpropimorph",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fenpyrazamine",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fenpyroximate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Ferric phosphate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fipronil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Flazasulfuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Flonicamid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Florasulam",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fluazifop-P-butyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fluazinam",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fludioxonil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Flufenacet",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Flumioxazin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fluopicolide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fluopyram",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fluoxastrobin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Flupyradifurone",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Flupyrsulfuron-methyl-sodium",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fluquinconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Flurochloridone",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fluroxypyr",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Flusilazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Flutianil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Flutolanil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fluxapyroxad",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Folpet",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Foramsulfuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fosetyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Fosetyl-aluminium",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Gamma-cyhalothrin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Gibberellic acid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Gibberellin A4",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Gibberellin A7",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Gibberellins",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Glufosinate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Glufosinate-ammonium",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Glyphosate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Halauxifen-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Halosulfuron-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Haloxyfop-P-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Hexaflumuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Horsetail extract",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Hymexazol",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "IB-1-1",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "IC-0",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "IM-1-2",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "IM-1-4",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "IM-1-5",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Imazalil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Imazamox",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Imidacloprid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Indoxacarb",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Iodosulfuron-methyl-sodium",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Ioxynil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Iprovalicarb",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Isofetamid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Isoproturon",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Isoproturon-didemethyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Isopyrazam",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Isoxaben",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Isoxaflutole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Jasmolin I",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Jasmolin II",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Kaolin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Kresoxim-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Lambda-cyhalothrin",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Laminarin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Lenacil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Lime sulfur",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Linuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Lufenuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "MCPA",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "MITC",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Malathion",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Maleic hydrazide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Maltodextrin",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Mancozeb",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Mandipropamid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Maneb",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Mecoprop-P",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Mefentrifluconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Mepanipyrim",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Mepiquat chloride",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Meptyldinocap",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Mesosulfuron-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Mesotrione",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metalaxyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metalaxyl-M",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metaldehyde",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metamitron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metazachlor",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Methiocarb",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Methomyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Methoxyfenozide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metiram",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Metobromuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metolachlor ESA",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metolachlor OA",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metosulam",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metrafenone",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metribuzin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Metsulfuron-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Milbemectin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Mineral oil",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Myclobutanil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Napropamide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Nicosulfuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Novaluron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Orange oil",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Orbencarb",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Oryzalin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Oxadiargyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Oxamyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Oxathiapiprolin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Oxyfluorfen",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Paclobutrazol",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Paraffin oil",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Pelargonic acid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Penconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pencycuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pendimethalin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Penflufen",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Penoxsulam",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Penthiopyrad",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pethoxamid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Phenmedipham",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Phosphonic acid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Picloram",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Picolinafen",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Picoxystrobin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pinoxaden",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Piperonyl butoxide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pirimicarb",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Potassium bicarbonate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Prochloraz",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Prohexadione-calcium",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Propamocarb",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Propamocarb hydrochloride",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Propiconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Propoxycarbazone-sodium",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Propyzamide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Proquinazid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Prosulfocarb",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Prosulfuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Prothioconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pyraclostrobin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pyraflufen-ethyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pyrethrin I",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pyrethrin II",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pyrethrins",
+    "n_chents": 6,
+    "type": "mixture"
+  },
+  {
+    "substance": "Pyridate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pyrifenox",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pyrimethanil",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pyriofenone",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pyroxsulam",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Quinmerac",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Quinoxyfen",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Quizalofop-P-ethyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "R417888",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "R611968",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Rimsulfuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "S-Metolachlor",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Sedaxane",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Sodium 2-nitrophenolate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Sodium 4-nitrophenolate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Sodium 5-nitroguaiacolate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Soy lecithin",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Spinetoram",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Spinetoram J",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Spinetoram L",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Spinosad",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Spinosyn A",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Spinosyn B",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Spinosyn D",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Spirodiclofen",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Spirotetramat",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Spiroxamine",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Sulcotrione",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Sulfosulfuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Sulfoxaflor",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Sulfur",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tau-fluvalinate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tea tree oil",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Tebuconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tebufenozide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tebufenpyrad",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Teflubenzuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tefluthrin",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Tefluthrin-(1R,3R)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tefluthrin-(1S,3S)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tembotrione",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Terbuthylazine",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Terbuthylazine-desethyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Terpenoid Blend QRD 460",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Tetraconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Thiabendazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Thiacloprid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Thiamethoxam",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Thiencarbazone-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Thifensulfuron-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Thiocyanate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Thiophanate-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tolclofos-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tolylfluanid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Topramezone",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Triadimenol",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Triazoxide",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tribasic copper sulfate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tribenuron-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Triclopyr",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Triclopyr-butotyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Trifloxystrobin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Trifloxystrobin acid",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Triflumizole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Trifluralin",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Triflusulfuron-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Trinexapac-ethyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Triticonazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tritosulfuron",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Valifenalate",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Zeta-cypermethrin",
+    "n_chents": 4,
+    "type": "mixture"
+  },
+  {
+    "substance": "Zineb",
+    "n_chents": 0,
+    "type": "undefined"
+  },
+  {
+    "substance": "Ziram",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Zoxamide",
+    "n_chents": 1,
+    "type": "chent"
+  }
+]

@@ -1,0 +1,194 @@
+---
+title: The derappp data object
+subtitle: Revision 2 July 2026
+author: Johannes Ranke
+bibliography: ../inst/REFERENCES.bib
+format:
+  html:
+    toc: true
+    code-fold: true
+vignette: >
+  %\VignetteIndexEntry{The derappp data object}
+  %\VignetteEngine{quarto::html}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r packages, message = FALSE}
+library(dplyr, warn.conflicts = FALSE)
+library(dm, warn.conflicts = FALSE)
+library(derappp)
+library(units)
+```
+
+The data contained in this package is mainly provided in the form of the data object
+`derappp::derappp`. This data object is a so-called
+[`dm`](https://dm.cynkra.com/reference/dm.html) object that can
+be seen as a collection of tables. The relations between the tables are
+shown in @fig-derappp.
+
+```{r}
+#| label: fig-derappp
+#| fig-cap: >
+#|   Diagram showing the relation between the different tables in the data
+#|   object. Unique keys are underlined, foreign key relationships are displayed
+#|   as curved arrows between the tables.
+#| fig-height: 8
+dm_draw(derappp)
+```
+
+The tables containing the endpoints (dark blue), like `p0` for the vapour
+pressure, or `soil_sorption` for data on sorption to soils, contain references
+to the table of substances (`substances`) and to the table of information
+sources (`sources`). Tables containing endpoints from toxicity tests
+additionally contain references to the table of test species (`species`).
+The table `substance_keys` contains mappings of the substance names
+to identifiers used in other relevant data sources. The compositions
+of the substances are defined in `substance_compositions`, which contains
+references to the table of chemical entities (`chents`).
+
+The tables in the data object are described in the following sections.
+
+## Substances and their compositions
+
+There are three types of substances in this table. Pure, well-defined
+chemical substances are considered to be chemical entities and have type `chent`.
+For all chemical entities, the structure is available in the form of a SMILES
+code. Substances can also be of the type `mixture` or `undefined`.
+
+```{r}
+derappp$substances
+```
+
+### Pure substances with defined chemical structure (chemical entities)
+
+The chemical composition of the substances is stored in `substance_compositions`
+as follows. Chemical entities are substances with only one component. The
+name of the substance is equal to the name of the chemical entity, and the
+minimum as well as the maximum content is equal to one.
+
+```{r}
+derappp$substance_compositions |> filter(min == 1)
+```
+
+### Mixtures of chemical entities
+
+For mixtures, the minimum content of at least one component is less than one.
+The source of the compositional information is given via a DOI and a page number.
+
+```{r}
+derappp$substance_compositions |> filter(min < 1)
+```
+
+### Substances without specified composition
+
+Substances for which no minimum content is recorded for any
+chemical entity are considered `undefined` and listed as such in the `substances`
+table.
+
+```{r}
+derappp$substance_compositions |> filter(is.na(min))
+```
+
+## Chemical entities
+
+The table of chemical entities in the package is shown below.
+
+```{r}
+derappp$chents
+```
+
+In the package, there is also a list of chent objects that can be used to plot any of the structures,
+if the `chents` package is installed, as illustrated in @fig-tebufenozide below.
+
+```{r}
+#| label: fig-tebufenozide
+#| fig-cap: Chemical structure of tebufenozide, plotted using the chents package
+#| message: FALSE
+#| fig-alt: >
+#|   Chemical structure diagram of tebufenozide
+if (requireNamespace("chents")) {
+	plot(derappp_chents[["Tebufenozide"]])
+}
+```
+
+## Sources
+
+The table of sources that can be referenced is given below.
+
+```{r sources}
+derappp$sources
+```
+
+Any of the sources can be referenced in any vignette in this package. For
+example, we can refer to the derapp package [@derappp], to the website
+of the British Crop Protection Council for the ISO names [@BCPC_Compendium],
+or to any of the EFSA conclusions, e.g. the one for cyprodinil [@j.efsa.2006.51r],
+or the Listing of Endpoints for acetamiprid [@j.efsa.2016.4610_LoEP].
+
+### Species
+
+The table of species observed in the toxicity tests is given below.
+
+```{r}
+derappp$species
+```
+
+## Endpoint tables
+
+The endpoint tables make use of the units package, where applicable. As the
+`tibble` package supports printing these units, they are shown in the output
+listings below.
+
+### Vapour pressure `p0`
+
+```{r}
+derappp$p0
+```
+
+### Water solubility `cwsat`
+
+```{r}
+derappp$cwsat
+```
+
+### Soil sorption
+
+```{r}
+print(derappp$soil_sorption[c("substance", "soil_type", "soil_pH",
+  "Kd", "Koc", "Kf", "Kfoc", "n", "sk")])
+```
+
+### Soil degradation
+
+A table of worst‑case soil degradation values, most of them as used for PECsoil
+calculations in EFSA Conclusions. Actual half‑life values are reported in the
+column DT50 when the Simple First‑Order (SFO) kinetic model provided the best
+fit to the degradation data. When other kinetic models were used (FOMC, DFOP,
+HS), the corresponding model parameters are recorded, and a pseudo‑DT50 value
+is calculated for comparison purposes (DT90/3.32 for FOMC, and ln(2)/k₂ for
+DFOP and HS).
+
+```{r}
+print(derappp$soil_degradation[c("substance", "DT50", "kinetics",
+  "alpha", "beta", "k1", "k2", "g", "tb", "sk")])
+```
+
+### Aquatic toxicity
+
+```{r}
+derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
+  "sign", "value", "sk")]
+```
+
+### Soil toxicity
+
+As soil toxicity values can have incompatible unit types, as some values
+are expressed as rates (e.g. in g/ha) and some are expressed as concentrations
+(e.g. mg/kg dry soil), there is a dedicated `unit` column in the `soil_toxicity` table.
+
+```{r}
+derappp$soil_toxicity[c("substance", "derappp_species", "duration", "effect",
+  "sign", "value", "unit", "sk")]
+```
+
+## References

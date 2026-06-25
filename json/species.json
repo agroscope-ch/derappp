@@ -1,0 +1,1793 @@
+[
+  {
+    "species": "Acipenser transmontanus",
+    "group": "Fish",
+    "derappp_species": "Acipenser transmontanus",
+    "ott_id": 378925,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Americamysis bahia",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Americamysis bahia",
+    "ott_id": 333961,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": true
+  },
+  {
+    "species": "American flag fish",
+    "group": "Fish",
+    "derappp_species": "Jordanella floridae",
+    "ott_id": 82326,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "American waterweed (Pondweed) (live plants)",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Elodea canadensis",
+    "ott_id": 1070307,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Amphiascus tenuiremis",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Amphiascus tenuiremis",
+    "ott_id": 595191,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Anabaena flos-aquae",
+    "group": "Aquatic cyanobacteria",
+    "derappp_species": "Dolichospermum flos-aquae",
+    "ott_id": 368766,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Anabaena flosaquae",
+    "group": "Aquatic cyanobacteria",
+    "derappp_species": "Dolichospermum flos-aquae",
+    "ott_id": 368766,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Anabaena variabilis",
+    "group": "Aquatic cyanobacteria",
+    "derappp_species": "Trichormus variabilis",
+    "ott_id": 523599,
+    "is_synonym": true,
+    "flags": "inconsistent",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ankistrodesmus falcatus",
+    "group": "Aquatic algae",
+    "derappp_species": "Ankistrodesmus falcatus",
+    "ott_id": 727972,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Aphanizomenon flos-aquae",
+    "group": "Aquatic cyanobacteria",
+    "derappp_species": "Aphanizomenon flos-aquae",
+    "ott_id": 893789,
+    "is_synonym": false,
+    "flags": "sibling_higher, inconsistent",
+    "salt_water_species": false
+  },
+  {
+    "species": "Asellus aquaticus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Asellus aquaticus",
+    "ott_id": 335971,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Atlantic salmon",
+    "group": "Fish",
+    "derappp_species": "Salmo salar",
+    "ott_id": 688328,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Barbatula barbatula",
+    "group": "Fish",
+    "derappp_species": "Barbatula barbatula",
+    "ott_id": 611751,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Bluegill",
+    "group": "Fish",
+    "derappp_species": "Lepomis macrochirus",
+    "ott_id": 836783,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Brachidanio rerio",
+    "group": "Fish",
+    "derappp_species": "Danio rerio",
+    "ott_id": 1005914,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Brachionus calciflorus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Brachionus calyciflorus",
+    "ott_id": 939320,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Brachionus calyciflorus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Brachionus calyciflorus",
+    "ott_id": 939320,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Brachydanio rerio",
+    "group": "Fish",
+    "derappp_species": "Danio rerio",
+    "ott_id": 1005914,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Brook trout",
+    "group": "Fish",
+    "derappp_species": "Salvelinus fontinalis",
+    "ott_id": 688339,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Brown trout",
+    "group": "Fish",
+    "derappp_species": "Salmo trutta",
+    "ott_id": 688332,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Cabomba caroliniana",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Cabomba caroliniana",
+    "ott_id": 10943,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Catostomus commersoni",
+    "group": "Fish",
+    "derappp_species": "Catostomus commersonii",
+    "ott_id": 955101,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Catostomus commersonii",
+    "group": "Fish",
+    "derappp_species": "Catostomus commersonii",
+    "ott_id": 955101,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ceratophyllum demersum",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Ceratophyllum demersum (species in kingdom Archaeplastida)",
+    "ott_id": 10930,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ceriodaphnia dubia",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Ceriodaphnia dubia",
+    "ott_id": 216556,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ceriodaphnia sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Ceriodaphnia",
+    "ott_id": 374387,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Channel catfish",
+    "group": "Fish",
+    "derappp_species": "Ictalurus punctatus",
+    "ott_id": 701523,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chaoborus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chaoborus",
+    "ott_id": 800080,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chaoborus crystallinus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chaoborus crystallinus",
+    "ott_id": 250527,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chaoborus sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chaoborus",
+    "ott_id": 800080,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chara globularis",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Chara globularis",
+    "ott_id": 179058,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chironomus riparius",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chironomus riparius (species in domain Eukaryota)",
+    "ott_id": 209377,
+    "is_synonym": false,
+    "flags": "incertae_sedis",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chironomus riparius (species in domain Eukaryota)",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chironomus riparius (species in domain Eukaryota)",
+    "ott_id": 209377,
+    "is_synonym": false,
+    "flags": "incertae_sedis",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chironomus sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chironomus",
+    "ott_id": 269685,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chironomus tentans",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chironomus tentans",
+    "ott_id": 269681,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chironomus yoshimatsui",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chironomus yoshimatsui",
+    "ott_id": 282474,
+    "is_synonym": false,
+    "flags": "incertae_sedis",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chlamydomonas noctigama",
+    "group": "Aquatic algae",
+    "derappp_species": "Chlamydomonas noctigama",
+    "ott_id": 421946,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chlamydomonas terricola",
+    "group": "Aquatic algae",
+    "derappp_species": "Chlamydomonas noctigama",
+    "ott_id": 421946,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chlorella pyrenoidosa",
+    "group": "Aquatic algae",
+    "derappp_species": "Auxenochlorella pyrenoidosa",
+    "ott_id": 972586,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chlorella vulgaris",
+    "group": "Aquatic algae",
+    "derappp_species": "Chlorella vulgaris",
+    "ott_id": 804978,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Chydorus sphaericus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chydorus sphaericus",
+    "ott_id": 1022214,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Cloeon dipterum",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Cloeon dipterum",
+    "ott_id": 725593,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Cloeon sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Cloeon",
+    "ott_id": 725595,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Closterium cornu",
+    "group": "Aquatic algae",
+    "derappp_species": "Closterium cornu",
+    "ott_id": 401398,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Common carp",
+    "group": "Fish",
+    "derappp_species": "Cyprinus carpio",
+    "ott_id": 429083,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Common duckweed",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Lemna minor",
+    "ott_id": 431388,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Common hornwort (live plants)",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Ceratophyllum demersum (species in kingdom Archaeplastida)",
+    "ott_id": 10930,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Corixa sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Corixa",
+    "ott_id": 727836,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Crassostrea virginica",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Crassostrea virginica",
+    "ott_id": 365708,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": true
+  },
+  {
+    "species": "Ctenodrilus serratus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Ctenodrilus serratus",
+    "ott_id": 1060422,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Cyclopoida",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Cyclopoida",
+    "ott_id": 462829,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Cyclops sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Cyclops",
+    "ott_id": 850514,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Cyprinodon variegatus",
+    "group": "Fish",
+    "derappp_species": "Cyprinodon variegatus",
+    "ott_id": 82335,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": true
+  },
+  {
+    "species": "Cyprinus carpio",
+    "group": "Fish",
+    "derappp_species": "Cyprinus carpio",
+    "ott_id": 429083,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "D. subspicatus",
+    "group": "Aquatic algae",
+    "derappp_species": "Desmodesmus subspicatus",
+    "ott_id": 727399,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Daggerblade grass Shrimp",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Palaemon pugio",
+    "ott_id": 41512,
+    "is_synonym": true,
+    "flags": "sibling_higher",
+    "salt_water_species": true
+  },
+  {
+    "species": "Danio rerio",
+    "group": "Fish",
+    "derappp_species": "Danio rerio",
+    "ott_id": 1005914,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Danio rerio (embryo)",
+    "group": "Fish",
+    "derappp_species": "Danio rerio",
+    "ott_id": 1005914,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Daphnia longispina",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Daphnia longispina",
+    "ott_id": 469782,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Daphnia longispona",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Daphnia longispina",
+    "ott_id": 469782,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Daphnia magna",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Daphnia magna",
+    "ott_id": 668392,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Daphnia pulex",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Daphnia pulex",
+    "ott_id": 59086,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Daphniopsis sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Daphnia",
+    "ott_id": 59084,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Desmodesmus subspicatus",
+    "group": "Aquatic algae",
+    "derappp_species": "Desmodesmus subspicatus",
+    "ott_id": 727399,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Dolichospermum flos-aquae",
+    "group": "Aquatic cyanobacteria",
+    "derappp_species": "Dolichospermum flos-aquae",
+    "ott_id": 368766,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Dungeness crab",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Metacarcinus magister",
+    "ott_id": 812825,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Egeria densa",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Egeria densa",
+    "ott_id": 752590,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Eisenia andrei",
+    "group": "Soil fauna",
+    "derappp_species": "Eisenia andrei",
+    "ott_id": 279738,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "derappp_species": "Eisenia fetida",
+    "ott_id": 316451,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Elodea canadensis",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Elodea canadensis",
+    "ott_id": 1070307,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Elodea densa",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Egeria densa",
+    "ott_id": 752590,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Enchytraeus albidus",
+    "group": "Soil fauna",
+    "derappp_species": "Enchytraeus albidus",
+    "ott_id": 316448,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Enchytraeus crypticus",
+    "group": "Soil fauna",
+    "derappp_species": "Enchytraeus crypticus",
+    "ott_id": 249077,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Esox lucius",
+    "group": "Fish",
+    "derappp_species": "Esox lucius",
+    "ott_id": 739941,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Eudiaptomus graciloides",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Eudiaptomus graciloides",
+    "ott_id": 341027,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Eurasian watermilfoil",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Myriophyllum spicatum",
+    "ott_id": 461144,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "European perch",
+    "group": "Fish",
+    "derappp_species": "Perca fluviatilis",
+    "ott_id": 186488,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Fathead minnow",
+    "group": "Fish",
+    "derappp_species": "Pimephales notatus",
+    "ott_id": 538621,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Fistulifera pelliculosa",
+    "group": "Aquatic algae",
+    "derappp_species": "Fistulifera pelliculosa",
+    "ott_id": 525510,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Floating sweet-grass",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Glyceria fluitans",
+    "ott_id": 513048,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Folsomia candida",
+    "group": "Soil fauna",
+    "derappp_species": "Folsomia candida",
+    "ott_id": 861693,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Gambusia holbrooki",
+    "group": "Fish",
+    "derappp_species": "Gambusia holbrooki",
+    "ott_id": 553631,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Gammarus fasciatus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Gammarus fasciatus",
+    "ott_id": 585520,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Gammarus pseudolimnaeus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Gammarus pseudolimnaeus",
+    "ott_id": 585529,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Gammarus pulex",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Gammarus pulex",
+    "ott_id": 970750,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Gammarus sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Gammarus (genus in superorder Peracarida)",
+    "ott_id": 130011,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Gammerus pulex",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Gammarus pulex",
+    "ott_id": 970750,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Gasterosteus aculeatus",
+    "group": "Fish",
+    "derappp_species": "Gasterosteus aculeatus",
+    "ott_id": 401066,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Glyceria fluitans",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Glyceria fluitans",
+    "ott_id": 513048,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Glyceria max",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Glyceria maxima",
+    "ott_id": 271605,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Glyceria maxima",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Glyceria maxima",
+    "ott_id": 271605,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Great pond snail",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Lymnaea stagnalis",
+    "ott_id": 844828,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Green cabomba (live plants)",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Cabomba caroliniana",
+    "ott_id": 10943,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Guppy",
+    "group": "Fish",
+    "derappp_species": "Poecilia reticulata",
+    "ott_id": 312452,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Harlequin fly",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chironomus riparius (species in domain Eukaryota)",
+    "ott_id": 209377,
+    "is_synonym": false,
+    "flags": "incertae_sedis",
+    "salt_water_species": false
+  },
+  {
+    "species": "Hyalella azteca",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Hyalella azteca",
+    "ott_id": 648347,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Hydracarina",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Hydracarina (suborder ncbi:92068)",
+    "ott_id": 69277,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Hypoaspis aculeifer",
+    "group": "Soil fauna",
+    "derappp_species": "Gaeolaelaps aculeifer",
+    "ott_id": 158257,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ictalurus punctatus",
+    "group": "Fish",
+    "derappp_species": "Ictalurus punctatus",
+    "ott_id": 701523,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ide",
+    "group": "Fish",
+    "derappp_species": "Leuciscus idus",
+    "ott_id": 41137,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Inland silverside",
+    "group": "Fish",
+    "derappp_species": "Menidia beryllina",
+    "ott_id": 804705,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ischnura elegans",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Ischnura elegans",
+    "ott_id": 253311,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Jordanella floridae",
+    "group": "Fish",
+    "derappp_species": "Jordanella floridae",
+    "ott_id": 82326,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Lampsilis siliquiidea",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Lampsilis siliquoidea",
+    "ott_id": 765106,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Lampsilis siliquoidea",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Lampsilis siliquoidea",
+    "ott_id": 765106,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Leiostomus xanthurus",
+    "group": "Fish",
+    "derappp_species": "Leiostomus xanthurus",
+    "ott_id": 1052160,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Lemna gibba",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Lemna gibba",
+    "ott_id": 431383,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Lemna minor",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Lemna minor",
+    "ott_id": 431388,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Lepomis macrochiris",
+    "group": "Fish",
+    "derappp_species": "Lepomis macrochirus",
+    "ott_id": 836783,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Lepomis macrochirus",
+    "group": "Fish",
+    "derappp_species": "Lepomis macrochirus",
+    "ott_id": 836783,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Leptocheirus plumulosus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Leptocheirus plumulosus",
+    "ott_id": 977816,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": true
+  },
+  {
+    "species": "Leuciscus idus",
+    "group": "Fish",
+    "derappp_species": "Leuciscus idus",
+    "ott_id": 41137,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Leuciscus idus melanotu",
+    "group": "Fish",
+    "derappp_species": "Leuciscus idus",
+    "ott_id": 41137,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Louisiana crayfish",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Procambarus clarkii",
+    "ott_id": 79864,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Lymnaea stagnalis",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Lymnaea stagnalis",
+    "ott_id": 844828,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Macrocyclops fuscus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Macrocyclops fuscus",
+    "ott_id": 2946891,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Menidia beryllina",
+    "group": "Fish",
+    "derappp_species": "Menidia beryllina",
+    "ott_id": 804705,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Mercenaria mercenaria",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Mercenaria mercenaria",
+    "ott_id": 80121,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Metacarcinus magister",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Metacarcinus magister",
+    "ott_id": 812825,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Microcystis aeruginosa",
+    "group": "Aquatic cyanobacteria",
+    "derappp_species": "Microcystis aeruginosa",
+    "ott_id": 269069,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Mosquitofish",
+    "group": "Fish",
+    "derappp_species": "Gambusia holbrooki",
+    "ott_id": 553631,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Mozambique tilapia",
+    "group": "Fish",
+    "derappp_species": "Oreochromis mossambicus",
+    "ott_id": 288069,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Myriophyllum aquaticum",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Myriophyllum aquaticum",
+    "ott_id": 836617,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Myriophyllum sp.",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Myriophyllum (genus in kingdom Archaeplastida)",
+    "ott_id": 1009624,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Myriophyllum spicatum",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Myriophyllum spicatum",
+    "ott_id": 461144,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Mysidopsis bahia",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Americamysis bahia",
+    "ott_id": 333961,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": true
+  },
+  {
+    "species": "Nasturtium officinale",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Nasturtium officinale",
+    "ott_id": 556245,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Navicula pelliculosa",
+    "group": "Aquatic algae",
+    "derappp_species": "Fistulifera pelliculosa",
+    "ott_id": 525510,
+    "is_synonym": true,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Neomacheilus barbatulus",
+    "group": "Fish",
+    "derappp_species": "Barbatula barbatula",
+    "ott_id": 611751,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Nitzschia palea",
+    "group": "Aquatic algae",
+    "derappp_species": "Nitzschia palea",
+    "ott_id": 949876,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Northern quahog",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Mercenaria mercenaria",
+    "ott_id": 80121,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Onchorhynchus mykiss",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
+    "ott_id": 165368,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Oncorhynchus kisutch",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus kisutch",
+    "ott_id": 739917,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Oncorhynchus mykiss",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
+    "ott_id": 165368,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Oncorhynchus mykiss (species in domain Eukaryota)",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
+    "ott_id": 165368,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Oncorrynchus mykiss",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
+    "ott_id": 165368,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Oncorynchus mykiss",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
+    "ott_id": 165368,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Oreochromis mossambicus",
+    "group": "Fish",
+    "derappp_species": "Oreochromis mossambicus",
+    "ott_id": 288069,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Oryzias latipes",
+    "group": "Fish",
+    "derappp_species": "Oryzias latipes",
+    "ott_id": 942673,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ostracoda",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Ostracoda",
+    "ott_id": 580068,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ostracoda sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Ostracoda",
+    "ott_id": 580068,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "P. subcapitata",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum capricornutum",
+    "ott_id": 760164,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Pagrus major",
+    "group": "Fish",
+    "derappp_species": "Pagrus major",
+    "ott_id": 765344,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Palaemon kadiakensis",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Palaemon kadiakensis",
+    "ott_id": 28235,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Palaemon pugio",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Palaemon pugio",
+    "ott_id": 41512,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": true
+  },
+  {
+    "species": "Palaemonetes kadlakensis",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Palaemon kadiakensis",
+    "ott_id": 28235,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Palaemonetes pugio",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Palaemon pugio",
+    "ott_id": 41512,
+    "is_synonym": true,
+    "flags": "sibling_higher",
+    "salt_water_species": true
+  },
+  {
+    "species": "Parrot feather",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Myriophyllum aquaticum",
+    "ott_id": 836617,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Perca fluviatilis",
+    "group": "Fish",
+    "derappp_species": "Perca fluviatilis",
+    "ott_id": 186488,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Physa acuta",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Physa acuta",
+    "ott_id": 55904,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Pimephales notatus",
+    "group": "Fish",
+    "derappp_species": "Pimephales notatus",
+    "ott_id": 538621,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Pimephales promelas",
+    "group": "Fish",
+    "derappp_species": "Pimephales promelas",
+    "ott_id": 564459,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Planorbella trivolvis",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Planorbella trivolvis",
+    "ott_id": 110059,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Poecilia reticulata",
+    "group": "Fish",
+    "derappp_species": "Poecilia reticulata",
+    "ott_id": 312452,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Procambarus acutus acutus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Procambarus acutus acutus",
+    "ott_id": 5930450,
+    "is_synonym": false,
+    "flags": "infraspecific",
+    "salt_water_species": false
+  },
+  {
+    "species": "Procambarus clarkii",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Procambarus clarkii",
+    "ott_id": 79864,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Pseodokirchneriella subcapitata",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum capricornutum",
+    "ott_id": 760164,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Pseudokichneriella subcapitata",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum capricornutum",
+    "ott_id": 760164,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Pseudokirchnella subcapitata",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum capricornutum",
+    "ott_id": 760164,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Pseudokirchneriella subcapitata",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum capricornutum",
+    "ott_id": 760164,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Pseudokirchneriella subspicata",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum capricornutum",
+    "ott_id": 760164,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Rainbow trout",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
+    "ott_id": 165368,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ranunculus aquatilis",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Ranunculus aquatilis",
+    "ott_id": 491491,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Raphidocelis subcapitata",
+    "group": "Aquatic algae",
+    "derappp_species": "Raphidocelis subcapitata",
+    "ott_id": 832044,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Red seabream",
+    "group": "Fish",
+    "derappp_species": "Pagrus major",
+    "ott_id": 765344,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "S. capricornutum",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum capricornutum",
+    "ott_id": 760164,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "S. subspicatus",
+    "group": "Aquatic algae",
+    "derappp_species": "Desmodesmus subspicatus",
+    "ott_id": 727399,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Salmo gairdneri",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
+    "ott_id": 165368,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Salmo gairdnerii",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
+    "ott_id": 165368,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Salmo salar",
+    "group": "Fish",
+    "derappp_species": "Salmo salar",
+    "ott_id": 688328,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Salmo trutta",
+    "group": "Fish",
+    "derappp_species": "Salmo trutta",
+    "ott_id": 688332,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Salvelinus fontinalis",
+    "group": "Fish",
+    "derappp_species": "Salvelinus fontinalis",
+    "ott_id": 688339,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Scenedesmus pannonicus",
+    "group": "Aquatic algae",
+    "derappp_species": "Desmodesmus pannonicus",
+    "ott_id": 378267,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Scenedesmus quadricauda",
+    "group": "Aquatic algae",
+    "derappp_species": "Scenedesmus quadricauda",
+    "ott_id": 5152847,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Scenedesmus subcapitata",
+    "group": "Aquatic algae",
+    "derappp_species": "Desmodesmus subspicatus",
+    "ott_id": 727399,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Scenedesmus subspicatus",
+    "group": "Aquatic algae",
+    "derappp_species": "Desmodesmus subspicatus",
+    "ott_id": 727399,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Selenastrum capricornutum",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum capricornutum",
+    "ott_id": 760164,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Sheepshead minnow",
+    "group": "Fish",
+    "derappp_species": "Cyprinodon variegatus",
+    "ott_id": 82335,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": true
+  },
+  {
+    "species": "Simocephalus sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Simocephalus (genus in Protostomia)",
+    "ott_id": 424899,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Simocephalus vetulus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Simocephalus vetulus",
+    "ott_id": 424900,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Simulium latigonium",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Simulium latigonium",
+    "ott_id": 4459353,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Skeletonema costatum",
+    "group": "Aquatic algae",
+    "derappp_species": "Skeletonema costatum",
+    "ott_id": 569306,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": true
+  },
+  {
+    "species": "Spot croaker",
+    "group": "Fish",
+    "derappp_species": "Leiostomus xanthurus",
+    "ott_id": 1052160,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Steinernema carpocapsae",
+    "group": "Soil fauna",
+    "derappp_species": "Steinernema carpocapsae",
+    "ott_id": 1040298,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Swollen duckweed",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Lemna gibba",
+    "ott_id": 431383,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Synechococcus leopoliensis",
+    "group": "Aquatic cyanobacteria",
+    "derappp_species": "Synechococcus leopoliensis",
+    "ott_id": 114644,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Thamnocephalus platyururs",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Thamnocephalus platyurus",
+    "ott_id": 418106,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Thamnocephalus platyurus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Thamnocephalus platyurus",
+    "ott_id": 418106,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Three-spined stickleback",
+    "group": "Fish",
+    "derappp_species": "Gasterosteus aculeatus",
+    "ott_id": 401066,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Tigriopus japonicas",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Tigriopus japonicus",
+    "ott_id": 22163,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Tigriopus japonicus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Tigriopus japonicus",
+    "ott_id": 22163,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Vallisneria americana",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Vallisneria americana",
+    "ott_id": 328973,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Water celery",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Vallisneria americana",
+    "ott_id": 328973,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Wild celery",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Vallisneria americana",
+    "ott_id": 328973,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Wild celery (water celery) (live plants)",
+    "group": "Aquatic macrophytes",
+    "derappp_species": "Vallisneria americana",
+    "ott_id": 328973,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Xanthonema debile",
+    "group": "Aquatic algae",
+    "derappp_species": "Xanthonema debile",
+    "ott_id": 775186,
+    "is_synonym": false,
+    "flags": "sibling_higher",
+    "salt_water_species": false
+  },
+  {
+    "species": "Xenopis laevis",
+    "group": "Amphibians",
+    "derappp_species": "Xenopus laevis",
+    "ott_id": 465096,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Xenopus laevis",
+    "group": "Amphibians",
+    "derappp_species": "Xenopus laevis",
+    "ott_id": 465096,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Zebra fish",
+    "group": "Fish",
+    "derappp_species": "Danio rerio",
+    "ott_id": 1005914,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  }
+]

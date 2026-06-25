@@ -1,0 +1,25 @@
+[
+  {
+    "substance": "Fipronil",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "46_1",
+    "duration": 56,
+    "effect": "reproduction",
+    "level": "NOEC",
+    "sign": "≥",
+    "value": 1000,
+    "unit": "mg/kg",
+    "sk": "Fipronil_DAR_12_Vol_3_B9_public",
+    "page": "640",
+    "sk_EFSA": "j.efsa.2006.65r",
+    "page_EFSA": "103",
+    "sk_RAR": "Fipronil_DAR_12_Vol_3_B9_public",
+    "page_RAR": "640",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Fipronil_DAR_2005/Fipronil_DAR_12_Vol 3_B9_public.pdf"
+  }
+]

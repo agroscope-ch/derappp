@@ -1,0 +1,10 @@
+ℹ Testing derappp
+✔ | F W  S  OK | Context
+✔ |          2 | derappp
+✔ |         11 | translate
+✔ |         13 | wlt [1.0s]
+
+══ Results ═════════════════════════════════════════════════════════════════════
+Duration: 2.1 s
+
+[ FAIL 0 | WARN 0 | SKIP 0 | PASS 26 ]

@@ -1,0 +1,4222 @@
+[
+  {
+    "substance": "1-Decanol",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1715"
+  },
+  {
+    "substance": "1-Methylcyclopropene",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5308"
+  },
+  {
+    "substance": "1-Naphthylacetic acid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2019"
+  },
+  {
+    "substance": "1-Naphthylacetic acid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2020"
+  },
+  {
+    "substance": "2,4-D",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4500"
+  },
+  {
+    "substance": "2,4-DB",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4500"
+  },
+  {
+    "substance": "2,6-Dichlorobenzamide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1705"
+  },
+  {
+    "substance": "2-(1-Naphthyl) acetamide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2019"
+  },
+  {
+    "substance": "2-(1-Naphthyl) acetamide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2020"
+  },
+  {
+    "substance": "2-Amino-4,6-dimethoxypyrimidine",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4695"
+  },
+  {
+    "substance": "6-Benzyladenine",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1716"
+  },
+  {
+    "substance": "Abamectin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2022.7544"
+  },
+  {
+    "substance": "Acequinocyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3212"
+  },
+  {
+    "substance": "Acetamiprid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4610"
+  },
+  {
+    "substance": "Acibenzolar-S-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3691"
+  },
+  {
+    "substance": "Acibenzolar-S-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2021.6687"
+  },
+  {
+    "substance": "Aclonifen",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.149r"
+  },
+  {
+    "substance": "Aluminium phosphide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.182r"
+  },
+  {
+    "substance": "Ametoctradin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2921"
+  },
+  {
+    "substance": "Amidosulfuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.116r"
+  },
+  {
+    "substance": "Amidosulfuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.8984"
+  },
+  {
+    "substance": "Aminopyralid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3352"
+  },
+  {
+    "substance": "Amisulbrom",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3237"
+  },
+  {
+    "substance": "Amitrole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3742"
+  },
+  {
+    "substance": "Azoxystrobin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1542"
+  },
+  {
+    "substance": "Benalaxyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2020.5985"
+  },
+  {
+    "substance": "Benalaxyl-M",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3148"
+  },
+  {
+    "substance": "Bensulfuron-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.178r"
+  },
+  {
+    "substance": "Bentazone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4077"
+  },
+  {
+    "substance": "Benthiavalicarb-isopropyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2021.6833"
+  },
+  {
+    "substance": "Benzovindiflupyr",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4043"
+  },
+  {
+    "substance": "Beta-cyfluthrin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2020.6058"
+  },
+  {
+    "substance": "Bifenazate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2021.6818"
+  },
+  {
+    "substance": "Bifenox",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.119r"
+  },
+  {
+    "substance": "Bifenthrin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2159"
+  },
+  {
+    "substance": "Bixafen",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2917"
+  },
+  {
+    "substance": "Bordeaux mixture",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3235"
+  },
+  {
+    "substance": "Bordeaux mixture",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5152"
+  },
+  {
+    "substance": "Bromoxynil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5490"
+  },
+  {
+    "substance": "Bromoxynil butyrate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4790"
+  },
+  {
+    "substance": "Bromoxynil heptanoate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4790"
+  },
+  {
+    "substance": "Bromoxynil octanoate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4790"
+  },
+  {
+    "substance": "Bromuconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1704"
+  },
+  {
+    "substance": "Bupirimate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1786"
+  },
+  {
+    "substance": "Buprofezin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1624"
+  },
+  {
+    "substance": "Buprofezin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4207"
+  },
+  {
+    "substance": "Captan",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.296r"
+  },
+  {
+    "substance": "Captan",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2020.6230"
+  },
+  {
+    "substance": "Carbendazim",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1598"
+  },
+  {
+    "substance": "Carfentrazone-ethyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4569"
+  },
+  {
+    "substance": "Chlorantraniliprole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3143"
+  },
+  {
+    "substance": "Chloridazon",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2007.108r"
+  },
+  {
+    "substance": "Chlorothalonil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5126"
+  },
+  {
+    "substance": "Chlorpyrifos",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3640"
+  },
+  {
+    "substance": "Chromafenozide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3461"
+  },
+  {
+    "substance": "Clethodim",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2417"
+  },
+  {
+    "substance": "Clodinafop-propargyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2020.6151"
+  },
+  {
+    "substance": "Clofentezine",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2021.6817"
+  },
+  {
+    "substance": "Clomazone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2007.109r"
+  },
+  {
+    "substance": "Clomazone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9206"
+  },
+  {
+    "substance": "Clothianidin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5177"
+  },
+  {
+    "substance": "Copper oxychloride",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5152"
+  },
+  {
+    "substance": "Copper(I) oxide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3235"
+  },
+  {
+    "substance": "Copper(I) oxide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5152"
+  },
+  {
+    "substance": "Copper(II) chloride",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5152"
+  },
+  {
+    "substance": "Copper(II) hydroxide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5152"
+  },
+  {
+    "substance": "Copper(II) nitrate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5152"
+  },
+  {
+    "substance": "Copper(II) sulfate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5152"
+  },
+  {
+    "substance": "Cyantraniliprole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3814"
+  },
+  {
+    "substance": "Cyazofamid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2020.6232"
+  },
+  {
+    "substance": "Cyflufenamid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.258r"
+  },
+  {
+    "substance": "Cyhalothrin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3560"
+  },
+  {
+    "substance": "Cymoxanil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.167r"
+  },
+  {
+    "substance": "Cypermethrin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5402"
+  },
+  {
+    "substance": "Cyproconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1897"
+  },
+  {
+    "substance": "Cyprodinil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2006.51r"
+  },
+  {
+    "substance": "Cyprodinil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9209"
+  },
+  {
+    "substance": "Daminozide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9210"
+  },
+  {
+    "substance": "Dazomet",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1833"
+  },
+  {
+    "substance": "Desmedipham",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5150"
+  },
+  {
+    "substance": "Dicamba",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.1965"
+  },
+  {
+    "substance": "Dichlobenil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1705"
+  },
+  {
+    "substance": "Difenoconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.1967"
+  },
+  {
+    "substance": "Diflubenzuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.332r"
+  },
+  {
+    "substance": "Diflubenzuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2870"
+  },
+  {
+    "substance": "Diflufenican",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.122r"
+  },
+  {
+    "substance": "Diflufenican",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2026.9758"
+  },
+  {
+    "substance": "Dimethachlor",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.169r"
+  },
+  {
+    "substance": "Dimethenamid-P",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5211"
+  },
+  {
+    "substance": "Dimethoate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3233"
+  },
+  {
+    "substance": "Dimethoate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5454"
+  },
+  {
+    "substance": "Dimethomorph",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2006.82r"
+  },
+  {
+    "substance": "Dimethomorph",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.8032"
+  },
+  {
+    "substance": "Dimoxystrobin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2005.46r"
+  },
+  {
+    "substance": "Diquat",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4308"
+  },
+  {
+    "substance": "Disodium phosphonate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3213"
+  },
+  {
+    "substance": "Dithianon",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1904"
+  },
+  {
+    "substance": "Dithianon",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4278"
+  },
+  {
+    "substance": "Diuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2005.25r"
+  },
+  {
+    "substance": "Dodine",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1631"
+  },
+  {
+    "substance": "Dodine",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4209"
+  },
+  {
+    "substance": "Epoxiconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.138r"
+  },
+  {
+    "substance": "Epoxiconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4123"
+  },
+  {
+    "substance": "Ethametsulfuron methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3787"
+  },
+  {
+    "substance": "Ethephon",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.7742"
+  },
+  {
+    "substance": "Ethirimol",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1786"
+  },
+  {
+    "substance": "Ethofumesate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4374"
+  },
+  {
+    "substance": "Etofenprox",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.213r"
+  },
+  {
+    "substance": "Etoxazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4988"
+  },
+  {
+    "substance": "Famoxadone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4194"
+  },
+  {
+    "substance": "Fenamidone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4406"
+  },
+  {
+    "substance": "Fenazaquin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3166"
+  },
+  {
+    "substance": "Fenhexamid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3744"
+  },
+  {
+    "substance": "Fenoxaprop-P-ethyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2007.121r"
+  },
+  {
+    "substance": "Fenoxaprop-P-ethyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.9053"
+  },
+  {
+    "substance": "Fenoxycarb",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1779"
+  },
+  {
+    "substance": "Fenpicoxamid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5146"
+  },
+  {
+    "substance": "Fenpropidin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.124r"
+  },
+  {
+    "substance": "Fenpropimorph",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.144r"
+  },
+  {
+    "substance": "Fenpyrazamine",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2496"
+  },
+  {
+    "substance": "Fenpyroximate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3493"
+  },
+  {
+    "substance": "Ferric phosphate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.3973"
+  },
+  {
+    "substance": "Fipronil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2006.65r"
+  },
+  {
+    "substance": "Fipronil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3158"
+  },
+  {
+    "substance": "Flazasulfuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4575"
+  },
+  {
+    "substance": "Flonicamid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1445"
+  },
+  {
+    "substance": "Florasulam",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.3984"
+  },
+  {
+    "substance": "Fluazifop-P-butyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2945"
+  },
+  {
+    "substance": "Fluazinam",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.137r"
+  },
+  {
+    "substance": "Fludioxonil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2007.110r"
+  },
+  {
+    "substance": "Fludioxonil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.9047"
+  },
+  {
+    "substance": "Flufenacet",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.8997"
+  },
+  {
+    "substance": "Flumioxazin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5415"
+  },
+  {
+    "substance": "Fluopicolide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.299r"
+  },
+  {
+    "substance": "Fluopyram",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3052"
+  },
+  {
+    "substance": "Fluoxastrobin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2005.102r"
+  },
+  {
+    "substance": "Flupyradifurone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4020"
+  },
+  {
+    "substance": "Flupyrsulfuron-methyl-sodium",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3881"
+  },
+  {
+    "substance": "Fluquinconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2096"
+  },
+  {
+    "substance": "Fluquinconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4454"
+  },
+  {
+    "substance": "Flurochloridone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1869"
+  },
+  {
+    "substance": "Fluroxypyr",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2091"
+  },
+  {
+    "substance": "Flutianil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3805"
+  },
+  {
+    "substance": "Flutolanil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.126r"
+  },
+  {
+    "substance": "Flutolanil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.7997"
+  },
+  {
+    "substance": "Fluxapyroxad",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2522"
+  },
+  {
+    "substance": "Folpet",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.297r"
+  },
+  {
+    "substance": "Folpet",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.8139_LoEP"
+  },
+  {
+    "substance": "Foramsulfuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4421"
+  },
+  {
+    "substance": "Fosetyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9513"
+  },
+  {
+    "substance": "Fosetyl-aluminium",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5307"
+  },
+  {
+    "substance": "Gamma-cyhalothrin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3560"
+  },
+  {
+    "substance": "Gibberellic acid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2507"
+  },
+  {
+    "substance": "Gibberellic acid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.9065"
+  },
+  {
+    "substance": "Gibberellin A4",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2502"
+  },
+  {
+    "substance": "Gibberellin A7",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2502"
+  },
+  {
+    "substance": "Gibberellins",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.9066"
+  },
+  {
+    "substance": "Glufosinate-ammonium",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2005.27r"
+  },
+  {
+    "substance": "Glufosinate-ammonium",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2609"
+  },
+  {
+    "substance": "Glyphosate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4979"
+  },
+  {
+    "substance": "Glyphosate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.8164"
+  },
+  {
+    "substance": "Halauxifen-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3913"
+  },
+  {
+    "substance": "Hymexazol",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1653"
+  },
+  {
+    "substance": "Imazalil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1526"
+  },
+  {
+    "substance": "Imazamox",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4432"
+  },
+  {
+    "substance": "Imidacloprid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.148r"
+  },
+  {
+    "substance": "Imidacloprid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5178"
+  },
+  {
+    "substance": "Indoxacarb",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5140"
+  },
+  {
+    "substance": "Iodosulfuron-methyl-sodium",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4453"
+  },
+  {
+    "substance": "Iprovalicarb",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4060"
+  },
+  {
+    "substance": "Isofetamid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4265"
+  },
+  {
+    "substance": "Isoproturon",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4206"
+  },
+  {
+    "substance": "Isopyrazam",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2600"
+  },
+  {
+    "substance": "Isoxaben",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1714"
+  },
+  {
+    "substance": "Isoxaflutole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4731"
+  },
+  {
+    "substance": "Kaolin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2022.7637"
+  },
+  {
+    "substance": "Kresoxim-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1891"
+  },
+  {
+    "substance": "Lambda-cyhalothrin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3677"
+  },
+  {
+    "substance": "Laminarin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4836"
+  },
+  {
+    "substance": "Lenacil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.1326"
+  },
+  {
+    "substance": "Lenacil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3354"
+  },
+  {
+    "substance": "Lenacil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.8860"
+  },
+  {
+    "substance": "Linuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4518"
+  },
+  {
+    "substance": "Lufenuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.189r"
+  },
+  {
+    "substance": "Malathion",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.333r"
+  },
+  {
+    "substance": "Maleic hydrazide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4492"
+  },
+  {
+    "substance": "Maleic hydrazide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9522"
+  },
+  {
+    "substance": "Maltodextrin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3007"
+  },
+  {
+    "substance": "Maltodextrin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9294"
+  },
+  {
+    "substance": "Mancozeb",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2020.5755"
+  },
+  {
+    "substance": "Mandipropamid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2935"
+  },
+  {
+    "substance": "Mecoprop-P",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4832"
+  },
+  {
+    "substance": "Mefentrifluconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5379"
+  },
+  {
+    "substance": "Mepanipyrim",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4852"
+  },
+  {
+    "substance": "Mepanipyrim",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.8196"
+  },
+  {
+    "substance": "Mepiquat chloride",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.146r"
+  },
+  {
+    "substance": "Mepiquat chloride",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.8923"
+  },
+  {
+    "substance": "Mesosulfuron-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4584"
+  },
+  {
+    "substance": "Mesotrione",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4419"
+  },
+  {
+    "substance": "Metalaxyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.3999"
+  },
+  {
+    "substance": "Metalaxyl-M",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.3999"
+  },
+  {
+    "substance": "Metalaxyl-M",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.8373_LoEP"
+  },
+  {
+    "substance": "Metalaxyl-M",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9573"
+  },
+  {
+    "substance": "Metamitron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.185r"
+  },
+  {
+    "substance": "Metazachlor",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.145r"
+  },
+  {
+    "substance": "Metazachlor",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4833"
+  },
+  {
+    "substance": "Metconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2006.64r"
+  },
+  {
+    "substance": "Methiocarb",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5429"
+  },
+  {
+    "substance": "Methomyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.222r"
+  },
+  {
+    "substance": "Methoxyfenozide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4978"
+  },
+  {
+    "substance": "Metiram",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.7937"
+  },
+  {
+    "substance": "Metobromuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3541"
+  },
+  {
+    "substance": "Metosulam",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1592"
+  },
+  {
+    "substance": "Metrafenone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2006.58r"
+  },
+  {
+    "substance": "Metrafenone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.8012"
+  },
+  {
+    "substance": "Metribuzin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2006.88r"
+  },
+  {
+    "substance": "Metsulfuron-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4912"
+  },
+  {
+    "substance": "Myclobutanil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1682"
+  },
+  {
+    "substance": "Napropamide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1565"
+  },
+  {
+    "substance": "Nicosulfuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.120r"
+  },
+  {
+    "substance": "Oryzalin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1707"
+  },
+  {
+    "substance": "Oryzalin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3351"
+  },
+  {
+    "substance": "Oxamyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2005.26r"
+  },
+  {
+    "substance": "Oxathiapiprolin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4504"
+  },
+  {
+    "substance": "Oxyfluorfen",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1906"
+  },
+  {
+    "substance": "Oxyfluorfen",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4205"
+  },
+  {
+    "substance": "Paclobutrazol",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1876"
+  },
+  {
+    "substance": "Paraffin oil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.8913"
+  },
+  {
+    "substance": "Pelargonic acid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9408"
+  },
+  {
+    "substance": "Penconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.175r"
+  },
+  {
+    "substance": "Pencycuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1828"
+  },
+  {
+    "substance": "Pendimethalin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4420"
+  },
+  {
+    "substance": "Pendimethalin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9511"
+  },
+  {
+    "substance": "Penflufen",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4604"
+  },
+  {
+    "substance": "Penoxsulam",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.343r"
+  },
+  {
+    "substance": "Penoxsulam",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.9055"
+  },
+  {
+    "substance": "Penthiopyrad",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3111"
+  },
+  {
+    "substance": "Pethoxamid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4981"
+  },
+  {
+    "substance": "Phenmedipham",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5151"
+  },
+  {
+    "substance": "Phosphonic acid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5307"
+  },
+  {
+    "substance": "Picloram",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.1390"
+  },
+  {
+    "substance": "Picolinafen",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4279"
+  },
+  {
+    "substance": "Picoxystrobin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4515"
+  },
+  {
+    "substance": "Pinoxaden",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3269"
+  },
+  {
+    "substance": "Pinoxaden",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9622"
+  },
+  {
+    "substance": "Pirimicarb",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2005.43r"
+  },
+  {
+    "substance": "Pirimicarb",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.9046"
+  },
+  {
+    "substance": "Prochloraz",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2323"
+  },
+  {
+    "substance": "Prohexadione-calcium",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1555"
+  },
+  {
+    "substance": "Propamocarb hydrochloride",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2006.78r"
+  },
+  {
+    "substance": "Propiconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4887"
+  },
+  {
+    "substance": "Propoxycarbazone-sodium",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4612"
+  },
+  {
+    "substance": "Propyzamide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2016.4554"
+  },
+  {
+    "substance": "Proquinazid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.1350"
+  },
+  {
+    "substance": "Prosulfocarb",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2007.111r"
+  },
+  {
+    "substance": "Prosulfuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3815"
+  },
+  {
+    "substance": "Prothioconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2007.106r"
+  },
+  {
+    "substance": "Prothioconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9593"
+  },
+  {
+    "substance": "Pyraclostrobin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9257"
+  },
+  {
+    "substance": "Pyraflufen-ethyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4001"
+  },
+  {
+    "substance": "Pyrethrins",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3032"
+  },
+  {
+    "substance": "Pyridate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3801"
+  },
+  {
+    "substance": "Pyrimethanil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2006.61r"
+  },
+  {
+    "substance": "Pyrimethanil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.8998"
+  },
+  {
+    "substance": "Pyriofenone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3147"
+  },
+  {
+    "substance": "Pyroxsulam",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3182"
+  },
+  {
+    "substance": "Quinmerac",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1523"
+  },
+  {
+    "substance": "Quinoxyfen",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5085"
+  },
+  {
+    "substance": "Quizalofop-P-ethyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.205r"
+  },
+  {
+    "substance": "Rimsulfuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5258"
+  },
+  {
+    "substance": "S-Metolachlor",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.7852"
+  },
+  {
+    "substance": "Sedaxane",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3057"
+  },
+  {
+    "substance": "Sodium 5-nitroguaiacolate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.191r"
+  },
+  {
+    "substance": "Spinetoram",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3220"
+  },
+  {
+    "substance": "Spinosad",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5252"
+  },
+  {
+    "substance": "Spinosad",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9193"
+  },
+  {
+    "substance": "Spirodiclofen",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.339r"
+  },
+  {
+    "substance": "Spirotetramat",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3243"
+  },
+  {
+    "substance": "Spiroxamine",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1719"
+  },
+  {
+    "substance": "Sulcotrione",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.150r"
+  },
+  {
+    "substance": "Sulfosulfuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3764"
+  },
+  {
+    "substance": "Sulfoxaflor",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3692"
+  },
+  {
+    "substance": "Sulfoxaflor",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2020.6056"
+  },
+  {
+    "substance": "Sulfur",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.7805_LoEP"
+  },
+  {
+    "substance": "Tau-fluvalinate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1645"
+  },
+  {
+    "substance": "Tea tree oil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2012.2542"
+  },
+  {
+    "substance": "Tebuconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3485"
+  },
+  {
+    "substance": "Tebufenozide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1871"
+  },
+  {
+    "substance": "Tebufenpyrad",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.192r"
+  },
+  {
+    "substance": "Teflubenzuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.184r"
+  },
+  {
+    "substance": "Tefluthrin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1709"
+  },
+  {
+    "substance": "Tembotrione",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3131"
+  },
+  {
+    "substance": "Terbuthylazine",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.1969"
+  },
+  {
+    "substance": "Terbuthylazine",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2019.5817"
+  },
+  {
+    "substance": "Terpenoid Blend QRD 460",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3816"
+  },
+  {
+    "substance": "Tetraconazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.152r"
+  },
+  {
+    "substance": "Thiabendazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3880"
+  },
+  {
+    "substance": "Thiacloprid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2019.5595"
+  },
+  {
+    "substance": "Thiamethoxam",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5179"
+  },
+  {
+    "substance": "Thiencarbazone-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3270"
+  },
+  {
+    "substance": "Thifensulfuron-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2015.4201"
+  },
+  {
+    "substance": "Thiophanate-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5133"
+  },
+  {
+    "substance": "Tolclofos-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5130"
+  },
+  {
+    "substance": "Tolylfluanid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2005.29r"
+  },
+  {
+    "substance": "Topramezone",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3540"
+  },
+  {
+    "substance": "Triadimenol",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2008.177r"
+  },
+  {
+    "substance": "Triazoxide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2018"
+  },
+  {
+    "substance": "Tribasic copper sulfate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2013.3235"
+  },
+  {
+    "substance": "Tribasic copper sulfate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5152"
+  },
+  {
+    "substance": "Tribenuron-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4912"
+  },
+  {
+    "substance": "Triclopyr",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2006.56r"
+  },
+  {
+    "substance": "Triclopyr",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.8177"
+  },
+  {
+    "substance": "Triclopyr-butotyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2024.8177"
+  },
+  {
+    "substance": "Trifloxystrobin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4989"
+  },
+  {
+    "substance": "Triflumizole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.1415"
+  },
+  {
+    "substance": "Trifluralin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.327r"
+  },
+  {
+    "substance": "Triflusulfuron-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2022.7303"
+  },
+  {
+    "substance": "Trinexapac-ethyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2006.57r"
+  },
+  {
+    "substance": "Trinexapac-ethyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2018.5229"
+  },
+  {
+    "substance": "Trinexapac-ethyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.8082"
+  },
+  {
+    "substance": "Triticonazole",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2005.33ar"
+  },
+  {
+    "substance": "Tritosulfuron",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.8142"
+  },
+  {
+    "substance": "Zeta-cypermethrin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.196r"
+  },
+  {
+    "substance": "Zoxamide",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2017.4980"
+  },
+  {
+    "substance": "1-Decanol",
+    "db": "srppp",
+    "key": "1662"
+  },
+  {
+    "substance": "1-Decanol",
+    "db": "srppp",
+    "key": "B57E6C3E-6A51-4FCE-821A-F10944D162E6"
+  },
+  {
+    "substance": "1-Naphthylacetic acid",
+    "db": "srppp",
+    "key": "3"
+  },
+  {
+    "substance": "1-Naphthylacetic acid",
+    "db": "srppp",
+    "key": "6F14D297-81BA-4AA0-9636-D65F2F1A0BD6"
+  },
+  {
+    "substance": "2,4-D",
+    "db": "srppp",
+    "key": "4"
+  },
+  {
+    "substance": "2,4-D",
+    "db": "srppp",
+    "key": "CED72E0E-FFC7-4720-A929-5F9B0394A6E2"
+  },
+  {
+    "substance": "2-(1-Naphthyl) acetamide",
+    "db": "srppp",
+    "key": "813"
+  },
+  {
+    "substance": "6-Benzyladenine",
+    "db": "srppp",
+    "key": "1542"
+  },
+  {
+    "substance": "6-Benzyladenine",
+    "db": "srppp",
+    "key": "9D73C4BB-CEE3-4441-B9F4-1EA2FF89EC5D"
+  },
+  {
+    "substance": "Abamectin",
+    "db": "srppp",
+    "key": "8"
+  },
+  {
+    "substance": "Abamectin",
+    "db": "srppp",
+    "key": "B12482B3-AAA7-4B13-A8CD-FDA6343D48C4"
+  },
+  {
+    "substance": "Acequinocyl",
+    "db": "srppp",
+    "key": "1494"
+  },
+  {
+    "substance": "Acequinocyl",
+    "db": "srppp",
+    "key": "4BE0D277-3F4D-44D2-852B-855C4DD2FCB7"
+  },
+  {
+    "substance": "Acetamiprid",
+    "db": "srppp",
+    "key": "1350"
+  },
+  {
+    "substance": "Acetamiprid",
+    "db": "srppp",
+    "key": "D6BBFA61-D571-408B-87DD-0B62F874493F"
+  },
+  {
+    "substance": "Acibenzolar-S-methyl",
+    "db": "srppp",
+    "key": "1298"
+  },
+  {
+    "substance": "Aclonifen",
+    "db": "srppp",
+    "key": "13"
+  },
+  {
+    "substance": "Aclonifen",
+    "db": "srppp",
+    "key": "FEC03074-57A6-4B53-B768-88AC4854DF99"
+  },
+  {
+    "substance": "Ametoctradin",
+    "db": "srppp",
+    "key": "1800"
+  },
+  {
+    "substance": "Ametoctradin",
+    "db": "srppp",
+    "key": "8381D435-B266-487F-BA42-2FCF021F90A0"
+  },
+  {
+    "substance": "Amidosulfuron",
+    "db": "srppp",
+    "key": "26"
+  },
+  {
+    "substance": "Amidosulfuron",
+    "db": "srppp",
+    "key": "AB9B02C4-25D1-420D-87DA-3279090B1A93"
+  },
+  {
+    "substance": "Aminopyralid",
+    "db": "srppp",
+    "key": "1570"
+  },
+  {
+    "substance": "Aminopyralid",
+    "db": "srppp",
+    "key": "EA526877-7A99-4643-A7B2-5656C4BF8535"
+  },
+  {
+    "substance": "Amisulbrom",
+    "db": "srppp",
+    "key": "1560"
+  },
+  {
+    "substance": "Amisulbrom",
+    "db": "srppp",
+    "key": "E166875A-D0F1-4E04-BA5B-D9F2FC812E46"
+  },
+  {
+    "substance": "Aureobasidium pullulans",
+    "db": "srppp",
+    "key": "1547"
+  },
+  {
+    "substance": "Aureobasidium pullulans",
+    "db": "srppp",
+    "key": "F27EE7FE-6993-48E3-902F-8415C3E34CE5"
+  },
+  {
+    "substance": "Azoxystrobin",
+    "db": "srppp",
+    "key": "1319"
+  },
+  {
+    "substance": "Azoxystrobin",
+    "db": "srppp",
+    "key": "24E6793B-C9CE-4FD7-98F6-F2BD49090672"
+  },
+  {
+    "substance": "Beflubutamid",
+    "db": "srppp",
+    "key": "1463"
+  },
+  {
+    "substance": "Benalaxyl",
+    "db": "srppp",
+    "key": "1118"
+  },
+  {
+    "substance": "Benalaxyl-M",
+    "db": "srppp",
+    "key": "1541"
+  },
+  {
+    "substance": "Benalaxyl-M",
+    "db": "srppp",
+    "key": "CDA8D78B-C22F-4087-94C0-8A766E51DDDE"
+  },
+  {
+    "substance": "Benthiavalicarb-isopropyl",
+    "db": "srppp",
+    "key": "1467"
+  },
+  {
+    "substance": "Benzovindiflupyr",
+    "db": "srppp",
+    "key": "1795"
+  },
+  {
+    "substance": "Benzovindiflupyr",
+    "db": "srppp",
+    "key": "F47B3C0E-82D2-473D-BCAB-9F7C574C732C"
+  },
+  {
+    "substance": "Beta-cyfluthrin",
+    "db": "srppp",
+    "key": "1474"
+  },
+  {
+    "substance": "Bifenox",
+    "db": "srppp",
+    "key": "52"
+  },
+  {
+    "substance": "Bifenthrin",
+    "db": "srppp",
+    "key": "1122"
+  },
+  {
+    "substance": "Bixafen",
+    "db": "srppp",
+    "key": "1581"
+  },
+  {
+    "substance": "Bixafen",
+    "db": "srppp",
+    "key": "958E6100-152F-4709-9768-534247BF377F"
+  },
+  {
+    "substance": "Boscalid",
+    "db": "srppp",
+    "key": "1468"
+  },
+  {
+    "substance": "Boscalid",
+    "db": "srppp",
+    "key": "F5457E14-E6F1-4049-BB8E-11C4616DAAF4"
+  },
+  {
+    "substance": "Bromoxynil",
+    "db": "srppp",
+    "key": "70"
+  },
+  {
+    "substance": "Bupirimate",
+    "db": "srppp",
+    "key": "71"
+  },
+  {
+    "substance": "Bupirimate",
+    "db": "srppp",
+    "key": "BD9B7DE0-61F0-4724-9B2B-B235668CE8CF"
+  },
+  {
+    "substance": "Buprofezin",
+    "db": "srppp",
+    "key": "72"
+  },
+  {
+    "substance": "Buprofezin",
+    "db": "srppp",
+    "key": "64CAB174-7137-4CA6-9C0A-B77DA54B5166"
+  },
+  {
+    "substance": "Butafenacil",
+    "db": "srppp",
+    "key": "1365"
+  },
+  {
+    "substance": "Captan",
+    "db": "srppp",
+    "key": "79"
+  },
+  {
+    "substance": "Captan",
+    "db": "srppp",
+    "key": "05EE341B-B460-4263-A894-8E47314529B3"
+  },
+  {
+    "substance": "Carbendazim",
+    "db": "srppp",
+    "key": "81"
+  },
+  {
+    "substance": "Carfentrazone-ethyl",
+    "db": "srppp",
+    "key": "1263"
+  },
+  {
+    "substance": "Carfentrazone-ethyl",
+    "db": "srppp",
+    "key": "76CB859A-2CD8-467B-BB83-017886B6889C"
+  },
+  {
+    "substance": "Chloridazon",
+    "db": "srppp",
+    "key": "92"
+  },
+  {
+    "substance": "Chlormequat",
+    "db": "srppp",
+    "key": "1753"
+  },
+  {
+    "substance": "Chlorotoluron",
+    "db": "srppp",
+    "key": "881"
+  },
+  {
+    "substance": "Chlorotoluron",
+    "db": "srppp",
+    "key": "92A01916-8A38-4DB0-AFC6-2B7559927CD1"
+  },
+  {
+    "substance": "Chlorpyrifos",
+    "db": "srppp",
+    "key": "101"
+  },
+  {
+    "substance": "Chlorpyrifos-methyl",
+    "db": "srppp",
+    "key": "102"
+  },
+  {
+    "substance": "Clethodim",
+    "db": "srppp",
+    "key": "106"
+  },
+  {
+    "substance": "Clethodim",
+    "db": "srppp",
+    "key": "62EEA366-C8CE-4D9C-8743-AAA34DB0683F"
+  },
+  {
+    "substance": "Clodinafop-propargyl",
+    "db": "srppp",
+    "key": "1218"
+  },
+  {
+    "substance": "Clodinafop-propargyl",
+    "db": "srppp",
+    "key": "0AB13A00-20FE-4671-BA02-3B6F4783AFE1"
+  },
+  {
+    "substance": "Clofentezine",
+    "db": "srppp",
+    "key": "107"
+  },
+  {
+    "substance": "Clomazone",
+    "db": "srppp",
+    "key": "108"
+  },
+  {
+    "substance": "Clomazone",
+    "db": "srppp",
+    "key": "FCEE064F-A5A2-4DA9-90FF-14EA7864D038"
+  },
+  {
+    "substance": "Clopyralid",
+    "db": "srppp",
+    "key": "110"
+  },
+  {
+    "substance": "Clopyralid",
+    "db": "srppp",
+    "key": "FC3EB8FF-AA00-4E3D-95DE-A85480B58063"
+  },
+  {
+    "substance": "Clothianidin",
+    "db": "srppp",
+    "key": "1471"
+  },
+  {
+    "substance": "Codlemone",
+    "db": "srppp",
+    "key": "1498"
+  },
+  {
+    "substance": "Cyazofamid",
+    "db": "srppp",
+    "key": "1469"
+  },
+  {
+    "substance": "Cyazofamid",
+    "db": "srppp",
+    "key": "AC35B7AC-B5F6-4983-9C0F-F4B9E4EA94B1"
+  },
+  {
+    "substance": "Cyflufenamid",
+    "db": "srppp",
+    "key": "1507"
+  },
+  {
+    "substance": "Cyflufenamid",
+    "db": "srppp",
+    "key": "28F3C20A-5BAE-488F-9ACF-E616AB35B6BE"
+  },
+  {
+    "substance": "Cyfluthrin",
+    "db": "srppp",
+    "key": "1092"
+  },
+  {
+    "substance": "Cymoxanil",
+    "db": "srppp",
+    "key": "114"
+  },
+  {
+    "substance": "Cymoxanil",
+    "db": "srppp",
+    "key": "9D9A5C3D-1941-4FC3-9111-1FE4CD86E28B"
+  },
+  {
+    "substance": "Cypermethrin",
+    "db": "srppp",
+    "key": "115"
+  },
+  {
+    "substance": "Cypermethrin",
+    "db": "srppp",
+    "key": "9BA42DE8-F253-4019-81C8-C2530F9A32FD"
+  },
+  {
+    "substance": "Cyproconazole",
+    "db": "srppp",
+    "key": "116"
+  },
+  {
+    "substance": "Cyprodinil",
+    "db": "srppp",
+    "key": "952"
+  },
+  {
+    "substance": "Cyprodinil",
+    "db": "srppp",
+    "key": "88B71880-B07F-4228-AA18-AF99DC9D4CB4"
+  },
+  {
+    "substance": "Daminozide",
+    "db": "srppp",
+    "key": "119"
+  },
+  {
+    "substance": "Daminozide",
+    "db": "srppp",
+    "key": "81778438-E2D1-4860-803F-247FA9456F3F"
+  },
+  {
+    "substance": "Deltamethrin",
+    "db": "srppp",
+    "key": "453"
+  },
+  {
+    "substance": "Deltamethrin",
+    "db": "srppp",
+    "key": "37D99E20-BA7B-4E6E-9019-714B6B78015D"
+  },
+  {
+    "substance": "Desmedipham",
+    "db": "srppp",
+    "key": "121"
+  },
+  {
+    "substance": "Dicamba",
+    "db": "srppp",
+    "key": "124"
+  },
+  {
+    "substance": "Dicamba",
+    "db": "srppp",
+    "key": "738BFE0C-9D22-4FEB-B40B-56C57C372424"
+  },
+  {
+    "substance": "Dichlobenil",
+    "db": "srppp",
+    "key": "125"
+  },
+  {
+    "substance": "Diflubenzuron",
+    "db": "srppp",
+    "key": "135"
+  },
+  {
+    "substance": "Diflufenican",
+    "db": "srppp",
+    "key": "1147"
+  },
+  {
+    "substance": "Diflufenican",
+    "db": "srppp",
+    "key": "90EEFA87-4052-4FB2-A869-592281D89461"
+  },
+  {
+    "substance": "Dimethachlor",
+    "db": "srppp",
+    "key": "873"
+  },
+  {
+    "substance": "Dimethachlor",
+    "db": "srppp",
+    "key": "D6906EB7-2A7F-4524-9316-E5482572CA10"
+  },
+  {
+    "substance": "Dimethenamid-P",
+    "db": "srppp",
+    "key": "1423"
+  },
+  {
+    "substance": "Dimethenamid-P",
+    "db": "srppp",
+    "key": "9E7171A1-E29B-4381-B529-24E445ED2F78"
+  },
+  {
+    "substance": "Dimethoate",
+    "db": "srppp",
+    "key": "138"
+  },
+  {
+    "substance": "Dimethomorph",
+    "db": "srppp",
+    "key": "912"
+  },
+  {
+    "substance": "Diquat",
+    "db": "srppp",
+    "key": "1076"
+  },
+  {
+    "substance": "Dithianon",
+    "db": "srppp",
+    "key": "1155"
+  },
+  {
+    "substance": "Dithianon",
+    "db": "srppp",
+    "key": "63C58A64-ED05-473A-A71D-1B266552E710"
+  },
+  {
+    "substance": "Diuron",
+    "db": "srppp",
+    "key": "1156"
+  },
+  {
+    "substance": "Dodemorph",
+    "db": "srppp",
+    "key": "1311"
+  },
+  {
+    "substance": "Dodine",
+    "db": "srppp",
+    "key": "152"
+  },
+  {
+    "substance": "Dodine",
+    "db": "srppp",
+    "key": "514F42F1-9D2A-4E1F-950C-A7DB9E668347"
+  },
+  {
+    "substance": "Epoxiconazole",
+    "db": "srppp",
+    "key": "990"
+  },
+  {
+    "substance": "Ethephon",
+    "db": "srppp",
+    "key": "162"
+  },
+  {
+    "substance": "Ethephon",
+    "db": "srppp",
+    "key": "1F6392CF-1ED0-4F15-8EF0-8F6CC7828765"
+  },
+  {
+    "substance": "Ethofumesate",
+    "db": "srppp",
+    "key": "165"
+  },
+  {
+    "substance": "Ethofumesate",
+    "db": "srppp",
+    "key": "5529C655-E167-468D-B30E-A08694D44EE1"
+  },
+  {
+    "substance": "Etofenprox",
+    "db": "srppp",
+    "key": "1407"
+  },
+  {
+    "substance": "Etofenprox",
+    "db": "srppp",
+    "key": "78C7343C-C601-4639-A19B-13D3A631F68B"
+  },
+  {
+    "substance": "Famoxadone",
+    "db": "srppp",
+    "key": "1344"
+  },
+  {
+    "substance": "Fenazaquin",
+    "db": "srppp",
+    "key": "171"
+  },
+  {
+    "substance": "Fenhexamid",
+    "db": "srppp",
+    "key": "1366"
+  },
+  {
+    "substance": "Fenhexamid",
+    "db": "srppp",
+    "key": "59487F47-48BD-48E2-A5AA-2387DE2BE77C"
+  },
+  {
+    "substance": "Fenoxaprop-P-ethyl",
+    "db": "srppp",
+    "key": "872"
+  },
+  {
+    "substance": "Fenoxaprop-P-ethyl",
+    "db": "srppp",
+    "key": "32AD9072-3F0B-4400-BAE6-7D8AF97E93D2"
+  },
+  {
+    "substance": "Fenoxycarb",
+    "db": "srppp",
+    "key": "174"
+  },
+  {
+    "substance": "Fenpropidin",
+    "db": "srppp",
+    "key": "946"
+  },
+  {
+    "substance": "Fenpropidin",
+    "db": "srppp",
+    "key": "B89C332B-EE7D-4406-ABA2-EB22473F05FC"
+  },
+  {
+    "substance": "Fenpropimorph",
+    "db": "srppp",
+    "key": "176"
+  },
+  {
+    "substance": "Fenpyroximate",
+    "db": "srppp",
+    "key": "1162"
+  },
+  {
+    "substance": "Fenpyroximate",
+    "db": "srppp",
+    "key": "66C01E01-A378-43F2-9928-F670AF311C57"
+  },
+  {
+    "substance": "Fipronil",
+    "db": "srppp",
+    "key": "973"
+  },
+  {
+    "substance": "Flazasulfuron",
+    "db": "srppp",
+    "key": "564"
+  },
+  {
+    "substance": "Flazasulfuron",
+    "db": "srppp",
+    "key": "A08E209B-9F4F-4818-A4F0-6CA80B2A39D3"
+  },
+  {
+    "substance": "Flonicamid",
+    "db": "srppp",
+    "key": "1543"
+  },
+  {
+    "substance": "Flonicamid",
+    "db": "srppp",
+    "key": "7500A9E0-E91D-4F12-A72B-86980275E03B"
+  },
+  {
+    "substance": "Florasulam",
+    "db": "srppp",
+    "key": "1368"
+  },
+  {
+    "substance": "Florasulam",
+    "db": "srppp",
+    "key": "6D80509F-0ED5-4F2B-81A2-AB85E082BE64"
+  },
+  {
+    "substance": "Fluazifop-P-butyl",
+    "db": "srppp",
+    "key": "943"
+  },
+  {
+    "substance": "Fluazifop-P-butyl",
+    "db": "srppp",
+    "key": "0F29D476-230A-401E-B300-FCB7D933CC62"
+  },
+  {
+    "substance": "Fluazinam",
+    "db": "srppp",
+    "key": "896"
+  },
+  {
+    "substance": "Fluazinam",
+    "db": "srppp",
+    "key": "12F5B2CC-D00D-4D7C-8AC0-D60A21EDF77C"
+  },
+  {
+    "substance": "Fludioxonil",
+    "db": "srppp",
+    "key": "982"
+  },
+  {
+    "substance": "Fludioxonil",
+    "db": "srppp",
+    "key": "2C992C62-B045-43AC-B481-AE20B32D1ED0"
+  },
+  {
+    "substance": "Flufenacet",
+    "db": "srppp",
+    "key": "1400"
+  },
+  {
+    "substance": "Flufenacet",
+    "db": "srppp",
+    "key": "235C3063-2BA5-45F8-BDDA-04C8CB06DD6B"
+  },
+  {
+    "substance": "Flumioxazin",
+    "db": "srppp",
+    "key": "1406"
+  },
+  {
+    "substance": "Flumioxazin",
+    "db": "srppp",
+    "key": "6D40EA6E-4757-4DA4-8E91-40CC61454E49"
+  },
+  {
+    "substance": "Fluopicolide",
+    "db": "srppp",
+    "key": "1528"
+  },
+  {
+    "substance": "Fluopicolide",
+    "db": "srppp",
+    "key": "CCA4A392-9454-4F64-B10F-A589ED61BA9D"
+  },
+  {
+    "substance": "Fluopyram",
+    "db": "srppp",
+    "key": "1583"
+  },
+  {
+    "substance": "Fluopyram",
+    "db": "srppp",
+    "key": "68FB63B0-2A1E-4ABF-B549-8158D2DA0340"
+  },
+  {
+    "substance": "Fluoxastrobin",
+    "db": "srppp",
+    "key": "1482"
+  },
+  {
+    "substance": "Fluoxastrobin",
+    "db": "srppp",
+    "key": "F4D3BC38-80BB-4837-8767-478EF9775183"
+  },
+  {
+    "substance": "Flupyrsulfuron-methyl-sodium",
+    "db": "srppp",
+    "key": "1356"
+  },
+  {
+    "substance": "Fluquinconazole",
+    "db": "srppp",
+    "key": "1326"
+  },
+  {
+    "substance": "Fluroxypyr",
+    "db": "srppp",
+    "key": "875"
+  },
+  {
+    "substance": "Fluroxypyr",
+    "db": "srppp",
+    "key": "7AD9E7AE-A54C-43F8-B11A-3F195330CC04"
+  },
+  {
+    "substance": "Flusilazole",
+    "db": "srppp",
+    "key": "188"
+  },
+  {
+    "substance": "Flutolanil",
+    "db": "srppp",
+    "key": "1481"
+  },
+  {
+    "substance": "Flutolanil",
+    "db": "srppp",
+    "key": "9F229C2C-1CBA-49CF-BD3C-174CF5BB2302"
+  },
+  {
+    "substance": "Fluxapyroxad",
+    "db": "srppp",
+    "key": "1739"
+  },
+  {
+    "substance": "Fluxapyroxad",
+    "db": "srppp",
+    "key": "541A8565-A1AD-46F6-8BF0-F4D0626EDA31"
+  },
+  {
+    "substance": "Folpet",
+    "db": "srppp",
+    "key": "190"
+  },
+  {
+    "substance": "Folpet",
+    "db": "srppp",
+    "key": "683783D6-0B1F-43D4-BF12-209FD6E3C693"
+  },
+  {
+    "substance": "Foramsulfuron",
+    "db": "srppp",
+    "key": "1457"
+  },
+  {
+    "substance": "Foramsulfuron",
+    "db": "srppp",
+    "key": "8C577BBF-55E0-4EC9-A999-CE31C41E828A"
+  },
+  {
+    "substance": "Fosetyl",
+    "db": "srppp",
+    "key": "196"
+  },
+  {
+    "substance": "Fosetyl",
+    "db": "srppp",
+    "key": "37DDAF9E-CBB5-4CFD-8929-C46F9E2C1130"
+  },
+  {
+    "substance": "Glufosinate",
+    "db": "srppp",
+    "key": "868"
+  },
+  {
+    "substance": "Halauxifen-methyl",
+    "db": "srppp",
+    "key": "1793"
+  },
+  {
+    "substance": "Halauxifen-methyl",
+    "db": "srppp",
+    "key": "7867F638-B7CB-49A3-BEBE-829EDDFF83FD"
+  },
+  {
+    "substance": "Hexaflumuron",
+    "db": "srppp",
+    "key": "949"
+  },
+  {
+    "substance": "Hymexazol",
+    "db": "srppp",
+    "key": "925"
+  },
+  {
+    "substance": "Hymexazol",
+    "db": "srppp",
+    "key": "B69935D6-DB6B-4032-B2A5-1C5CC35ABE40"
+  },
+  {
+    "substance": "Imazalil",
+    "db": "srppp",
+    "key": "924"
+  },
+  {
+    "substance": "Imazalil",
+    "db": "srppp",
+    "key": "D973ED99-C05D-454A-BB37-654333C16D3D"
+  },
+  {
+    "substance": "Imazamox",
+    "db": "srppp",
+    "key": "1434"
+  },
+  {
+    "substance": "Imazamox",
+    "db": "srppp",
+    "key": "8D5E29C3-272B-4641-BBF9-0F180184C707"
+  },
+  {
+    "substance": "Imidacloprid",
+    "db": "srppp",
+    "key": "971"
+  },
+  {
+    "substance": "Indoxacarb",
+    "db": "srppp",
+    "key": "1362"
+  },
+  {
+    "substance": "Ioxynil",
+    "db": "srppp",
+    "key": "878"
+  },
+  {
+    "substance": "Iprovalicarb",
+    "db": "srppp",
+    "key": "1428"
+  },
+  {
+    "substance": "Iprovalicarb",
+    "db": "srppp",
+    "key": "ED934DE2-178E-4537-9884-87D067D02EF6"
+  },
+  {
+    "substance": "Isoproturon",
+    "db": "srppp",
+    "key": "869"
+  },
+  {
+    "substance": "Isoxaflutole",
+    "db": "srppp",
+    "key": "1416"
+  },
+  {
+    "substance": "Isoxaflutole",
+    "db": "srppp",
+    "key": "BD9791A5-2C9B-42A2-AD57-354B48CB63DB"
+  },
+  {
+    "substance": "Kaolin",
+    "db": "srppp",
+    "key": "1531"
+  },
+  {
+    "substance": "Kaolin",
+    "db": "srppp",
+    "key": "8EAF59C3-C67B-46E3-9D9D-6B421AE7D67C"
+  },
+  {
+    "substance": "Kresoxim-methyl",
+    "db": "srppp",
+    "key": "1317"
+  },
+  {
+    "substance": "Kresoxim-methyl",
+    "db": "srppp",
+    "key": "634E1B51-7C89-4BAB-A320-1CDEC4111BB8"
+  },
+  {
+    "substance": "Lambda-cyhalothrin",
+    "db": "srppp",
+    "key": "1187"
+  },
+  {
+    "substance": "Lambda-cyhalothrin",
+    "db": "srppp",
+    "key": "1FCE99C4-F8AE-4225-9FAD-EC9E6FB0FF47"
+  },
+  {
+    "substance": "Laminarin",
+    "db": "srppp",
+    "key": "1533"
+  },
+  {
+    "substance": "Laminarin",
+    "db": "srppp",
+    "key": "4B0F1FD6-CEBA-43B3-8152-F4755449AAE4"
+  },
+  {
+    "substance": "Lenacil",
+    "db": "srppp",
+    "key": "876"
+  },
+  {
+    "substance": "Lenacil",
+    "db": "srppp",
+    "key": "9B96406A-C6E8-40AD-992B-CB9CEEFF0EA3"
+  },
+  {
+    "substance": "Linuron",
+    "db": "srppp",
+    "key": "1060"
+  },
+  {
+    "substance": "Lufenuron",
+    "db": "srppp",
+    "key": "945"
+  },
+  {
+    "substance": "MCPA",
+    "db": "srppp",
+    "key": "879"
+  },
+  {
+    "substance": "MCPA",
+    "db": "srppp",
+    "key": "E3F7BA6E-7A42-4E07-83F3-8EE6C995E992"
+  },
+  {
+    "substance": "Maltodextrin",
+    "db": "srppp",
+    "key": "1660"
+  },
+  {
+    "substance": "Maltodextrin",
+    "db": "srppp",
+    "key": "740DC585-F4DC-404C-A9F7-62CEEF136FCB"
+  },
+  {
+    "substance": "Mancozeb",
+    "db": "srppp",
+    "key": "909"
+  },
+  {
+    "substance": "Mandipropamid",
+    "db": "srppp",
+    "key": "1554"
+  },
+  {
+    "substance": "Mandipropamid",
+    "db": "srppp",
+    "key": "3016B169-B572-40D0-8A71-4A39AE2CC4F7"
+  },
+  {
+    "substance": "Maneb",
+    "db": "srppp",
+    "key": "914"
+  },
+  {
+    "substance": "Mecoprop-P",
+    "db": "srppp",
+    "key": "877"
+  },
+  {
+    "substance": "Mecoprop-P",
+    "db": "srppp",
+    "key": "E86FD4D8-44ED-447E-9B6A-7C099F919020"
+  },
+  {
+    "substance": "Mefentrifluconazole",
+    "db": "srppp",
+    "key": "1933"
+  },
+  {
+    "substance": "Mepanipyrim",
+    "db": "srppp",
+    "key": "981"
+  },
+  {
+    "substance": "Mesosulfuron-methyl",
+    "db": "srppp",
+    "key": "1466"
+  },
+  {
+    "substance": "Mesosulfuron-methyl",
+    "db": "srppp",
+    "key": "29E2E104-E12B-4CCC-BC74-13F9050B0B87"
+  },
+  {
+    "substance": "Mesotrione",
+    "db": "srppp",
+    "key": "1422"
+  },
+  {
+    "substance": "Mesotrione",
+    "db": "srppp",
+    "key": "B4DB7526-EBDC-4580-BA4B-E26DC1F6CC9A"
+  },
+  {
+    "substance": "Metalaxyl-M",
+    "db": "srppp",
+    "key": "1299"
+  },
+  {
+    "substance": "Metalaxyl-M",
+    "db": "srppp",
+    "key": "6AFF308C-3581-42BF-9D04-C96816B18EBB"
+  },
+  {
+    "substance": "Metamitron",
+    "db": "srppp",
+    "key": "880"
+  },
+  {
+    "substance": "Metamitron",
+    "db": "srppp",
+    "key": "7BF196DB-35BC-4B5E-BE95-09856D02EE40"
+  },
+  {
+    "substance": "Metazachlor",
+    "db": "srppp",
+    "key": "1069"
+  },
+  {
+    "substance": "Metazachlor",
+    "db": "srppp",
+    "key": "9901EF9E-BF16-4572-9EED-E92AD73BD280"
+  },
+  {
+    "substance": "Metconazole",
+    "db": "srppp",
+    "key": "1301"
+  },
+  {
+    "substance": "Metconazole",
+    "db": "srppp",
+    "key": "21475125-BF63-4DD4-8E8C-47A4DEF54F52"
+  },
+  {
+    "substance": "Methomyl",
+    "db": "srppp",
+    "key": "1194"
+  },
+  {
+    "substance": "Methoxyfenozide",
+    "db": "srppp",
+    "key": "1462"
+  },
+  {
+    "substance": "Metiram",
+    "db": "srppp",
+    "key": "701"
+  },
+  {
+    "substance": "Metobromuron",
+    "db": "srppp",
+    "key": "1071"
+  },
+  {
+    "substance": "Metobromuron",
+    "db": "srppp",
+    "key": "69CDC31C-3EA1-4782-B5AD-56A65AD08DB2"
+  },
+  {
+    "substance": "Metosulam",
+    "db": "srppp",
+    "key": "1426"
+  },
+  {
+    "substance": "Metrafenone",
+    "db": "srppp",
+    "key": "1509"
+  },
+  {
+    "substance": "Metrafenone",
+    "db": "srppp",
+    "key": "81609369-9936-4F94-A754-894094F8AA38"
+  },
+  {
+    "substance": "Metribuzin",
+    "db": "srppp",
+    "key": "706"
+  },
+  {
+    "substance": "Metribuzin",
+    "db": "srppp",
+    "key": "D8A1C403-1553-4B4D-A8D9-AF0E3648F7B5"
+  },
+  {
+    "substance": "Metsulfuron-methyl",
+    "db": "srppp",
+    "key": "1196"
+  },
+  {
+    "substance": "Metsulfuron-methyl",
+    "db": "srppp",
+    "key": "C70B01C0-B9C2-4D34-8B5B-684EC0356F95"
+  },
+  {
+    "substance": "Milbemectin",
+    "db": "srppp",
+    "key": "1527"
+  },
+  {
+    "substance": "Milbemectin",
+    "db": "srppp",
+    "key": "D93AAC59-4B12-4FEA-8074-688F65F74D8C"
+  },
+  {
+    "substance": "Myclobutanil",
+    "db": "srppp",
+    "key": "883"
+  },
+  {
+    "substance": "Napropamide",
+    "db": "srppp",
+    "key": "1200"
+  },
+  {
+    "substance": "Napropamide",
+    "db": "srppp",
+    "key": "5A6C95DD-0DB5-4E6B-9F66-4C591CD16083"
+  },
+  {
+    "substance": "Nicosulfuron",
+    "db": "srppp",
+    "key": "269"
+  },
+  {
+    "substance": "Nicosulfuron",
+    "db": "srppp",
+    "key": "EAD03721-D238-4241-9011-E57423A35B94"
+  },
+  {
+    "substance": "Novaluron",
+    "db": "srppp",
+    "key": "1403"
+  },
+  {
+    "substance": "Orbencarb",
+    "db": "srppp",
+    "key": "1212"
+  },
+  {
+    "substance": "Oryzalin",
+    "db": "srppp",
+    "key": "276"
+  },
+  {
+    "substance": "Oxadiargyl",
+    "db": "srppp",
+    "key": "1545"
+  },
+  {
+    "substance": "Oxathiapiprolin",
+    "db": "srppp",
+    "key": "13D3F11A-2224-4F66-8E83-EF5E1E5825A0"
+  },
+  {
+    "substance": "Oxyfluorfen",
+    "db": "srppp",
+    "key": "283"
+  },
+  {
+    "substance": "Paclobutrazol",
+    "db": "srppp",
+    "key": "284"
+  },
+  {
+    "substance": "Paclobutrazol",
+    "db": "srppp",
+    "key": "42BD4717-51C9-49DF-A673-0149C04C1936"
+  },
+  {
+    "substance": "Penconazole",
+    "db": "srppp",
+    "key": "286"
+  },
+  {
+    "substance": "Penconazole",
+    "db": "srppp",
+    "key": "207EF3C9-2CE9-47E3-B829-DA201FE18B46"
+  },
+  {
+    "substance": "Pencycuron",
+    "db": "srppp",
+    "key": "1217"
+  },
+  {
+    "substance": "Pendimethalin",
+    "db": "srppp",
+    "key": "287"
+  },
+  {
+    "substance": "Pendimethalin",
+    "db": "srppp",
+    "key": "F0425D85-89CC-4D14-9588-FE6F8228CFA8"
+  },
+  {
+    "substance": "Penoxsulam",
+    "db": "srppp",
+    "key": "1593"
+  },
+  {
+    "substance": "Penoxsulam",
+    "db": "srppp",
+    "key": "E74C6EF2-2CD0-47BB-98A9-C4B8F40F526C"
+  },
+  {
+    "substance": "Penthiopyrad",
+    "db": "srppp",
+    "key": "1589"
+  },
+  {
+    "substance": "Penthiopyrad",
+    "db": "srppp",
+    "key": "5F235D17-4E2D-4CE1-88C5-6A47347EA610"
+  },
+  {
+    "substance": "Pethoxamid",
+    "db": "srppp",
+    "key": "1475"
+  },
+  {
+    "substance": "Pethoxamid",
+    "db": "srppp",
+    "key": "20260754-535D-46FF-AAFC-D83ECD3026B1"
+  },
+  {
+    "substance": "Phenmedipham",
+    "db": "srppp",
+    "key": "291"
+  },
+  {
+    "substance": "Phenmedipham",
+    "db": "srppp",
+    "key": "03CDB89A-A3A0-43D6-BF53-1180A187444E"
+  },
+  {
+    "substance": "Picloram",
+    "db": "srppp",
+    "key": "299"
+  },
+  {
+    "substance": "Picloram",
+    "db": "srppp",
+    "key": "CDC2B69D-9418-4FFD-8F2F-C9DE9D586310"
+  },
+  {
+    "substance": "Picoxystrobin",
+    "db": "srppp",
+    "key": "1460"
+  },
+  {
+    "substance": "Pinoxaden",
+    "db": "srppp",
+    "key": "1529"
+  },
+  {
+    "substance": "Pinoxaden",
+    "db": "srppp",
+    "key": "EAE2CCDA-F75F-4A6B-B094-3BD9419AB8B0"
+  },
+  {
+    "substance": "Pirimicarb",
+    "db": "srppp",
+    "key": "301"
+  },
+  {
+    "substance": "Pirimicarb",
+    "db": "srppp",
+    "key": "A2DD5346-E9AE-4607-8586-435BA2FCA2E5"
+  },
+  {
+    "substance": "Prochloraz",
+    "db": "srppp",
+    "key": "305"
+  },
+  {
+    "substance": "Prohexadione-calcium",
+    "db": "srppp",
+    "key": "1363"
+  },
+  {
+    "substance": "Prohexadione-calcium",
+    "db": "srppp",
+    "key": "FDD02E7C-9268-4332-AEA3-7B62CF829F6C"
+  },
+  {
+    "substance": "Propamocarb",
+    "db": "srppp",
+    "key": "311"
+  },
+  {
+    "substance": "Propamocarb",
+    "db": "srppp",
+    "key": "1D9BCAC4-2D0D-402F-BB92-A339F4126A4D"
+  },
+  {
+    "substance": "Propiconazole",
+    "db": "srppp",
+    "key": "0"
+  },
+  {
+    "substance": "Propiconazole",
+    "db": "srppp",
+    "key": "1751"
+  },
+  {
+    "substance": "Propoxycarbazone-sodium",
+    "db": "srppp",
+    "key": "1444"
+  },
+  {
+    "substance": "Propoxycarbazone-sodium",
+    "db": "srppp",
+    "key": "2E117D6A-72A2-46C6-B373-B325A60A79E6"
+  },
+  {
+    "substance": "Propyzamide",
+    "db": "srppp",
+    "key": "93DF970D-7967-4CAD-B8AB-EA188D111B64"
+  },
+  {
+    "substance": "Proquinazid",
+    "db": "srppp",
+    "key": "1500"
+  },
+  {
+    "substance": "Proquinazid",
+    "db": "srppp",
+    "key": "BEF27B58-A0A9-446D-8D7B-C4B9F50C8968"
+  },
+  {
+    "substance": "Prosulfocarb",
+    "db": "srppp",
+    "key": "1221"
+  },
+  {
+    "substance": "Prosulfocarb",
+    "db": "srppp",
+    "key": "517E3519-EB56-409C-8613-05E49B27A23A"
+  },
+  {
+    "substance": "Prosulfuron",
+    "db": "srppp",
+    "key": "44"
+  },
+  {
+    "substance": "Prothioconazole",
+    "db": "srppp",
+    "key": "1476"
+  },
+  {
+    "substance": "Prothioconazole",
+    "db": "srppp",
+    "key": "D9EF28D6-98AF-4429-B2D9-B3BE2AFCCD79"
+  },
+  {
+    "substance": "Pyraclostrobin",
+    "db": "srppp",
+    "key": "1425"
+  },
+  {
+    "substance": "Pyraclostrobin",
+    "db": "srppp",
+    "key": "C69216D9-8945-4C73-A22B-4C4E150FD817"
+  },
+  {
+    "substance": "Pyraflufen-ethyl",
+    "db": "srppp",
+    "key": "1456"
+  },
+  {
+    "substance": "Pyraflufen-ethyl",
+    "db": "srppp",
+    "key": "209EF971-59B0-4C44-BF89-EE32F525FB09"
+  },
+  {
+    "substance": "Pyridate",
+    "db": "srppp",
+    "key": "1075"
+  },
+  {
+    "substance": "Pyridate",
+    "db": "srppp",
+    "key": "A1465223-B55B-4C63-9763-9AFDED0CFFA3"
+  },
+  {
+    "substance": "Pyrifenox",
+    "db": "srppp",
+    "key": "887"
+  },
+  {
+    "substance": "Pyrimethanil",
+    "db": "srppp",
+    "key": "980"
+  },
+  {
+    "substance": "Pyrimethanil",
+    "db": "srppp",
+    "key": "1A2BDF91-7ED3-42B1-AEBF-8DD6DCC68AA4"
+  },
+  {
+    "substance": "Pyroxsulam",
+    "db": "srppp",
+    "key": "1564"
+  },
+  {
+    "substance": "Pyroxsulam",
+    "db": "srppp",
+    "key": "BAA1BA06-1232-4144-9857-FEE30AB160E0"
+  },
+  {
+    "substance": "Quinmerac",
+    "db": "srppp",
+    "key": "1268"
+  },
+  {
+    "substance": "Quinmerac",
+    "db": "srppp",
+    "key": "05177A88-0036-466A-A1D1-629F24DEBD0F"
+  },
+  {
+    "substance": "Quinoxyfen",
+    "db": "srppp",
+    "key": "1345"
+  },
+  {
+    "substance": "Quizalofop-P-ethyl",
+    "db": "srppp",
+    "key": "942"
+  },
+  {
+    "substance": "Quizalofop-P-ethyl",
+    "db": "srppp",
+    "key": "2ECA23B2-6C2F-46EF-BAA4-D3AAA9E727F1"
+  },
+  {
+    "substance": "Rimsulfuron",
+    "db": "srppp",
+    "key": "890"
+  },
+  {
+    "substance": "Rimsulfuron",
+    "db": "srppp",
+    "key": "F26735AB-4601-4FCC-A7E9-0334DCB0E794"
+  },
+  {
+    "substance": "S-Metolachlor",
+    "db": "srppp",
+    "key": "1349"
+  },
+  {
+    "substance": "Spinetoram",
+    "db": "srppp",
+    "key": "1588"
+  },
+  {
+    "substance": "Spinetoram",
+    "db": "srppp",
+    "key": "384C3717-8D59-4791-91CC-0FA8FFDDC942"
+  },
+  {
+    "substance": "Spinosad",
+    "db": "srppp",
+    "key": "1421"
+  },
+  {
+    "substance": "Spinosad",
+    "db": "srppp",
+    "key": "D67B0846-5F67-4BCD-A264-73497A613919"
+  },
+  {
+    "substance": "Spirodiclofen",
+    "db": "srppp",
+    "key": "1470"
+  },
+  {
+    "substance": "Spirotetramat",
+    "db": "srppp",
+    "key": "1568"
+  },
+  {
+    "substance": "Spirotetramat",
+    "db": "srppp",
+    "key": "EE8F4C48-C65E-44FD-B346-6228D774DE6B"
+  },
+  {
+    "substance": "Spiroxamine",
+    "db": "srppp",
+    "key": "1367"
+  },
+  {
+    "substance": "Spiroxamine",
+    "db": "srppp",
+    "key": "6C28B1D5-38BB-4E47-9392-E8A58E4B3656"
+  },
+  {
+    "substance": "Sulcotrione",
+    "db": "srppp",
+    "key": "891"
+  },
+  {
+    "substance": "Sulfosulfuron",
+    "db": "srppp",
+    "key": "1267"
+  },
+  {
+    "substance": "Sulfosulfuron",
+    "db": "srppp",
+    "key": "5AB5D02D-8D03-4F0B-B8C8-1812052B443E"
+  },
+  {
+    "substance": "Tebuconazole",
+    "db": "srppp",
+    "key": "893"
+  },
+  {
+    "substance": "Tebuconazole",
+    "db": "srppp",
+    "key": "D4C6CB2D-B453-49D6-8019-726C79EC90C5"
+  },
+  {
+    "substance": "Tebufenozide",
+    "db": "srppp",
+    "key": "948"
+  },
+  {
+    "substance": "Tebufenozide",
+    "db": "srppp",
+    "key": "6CE21C18-17EE-4D44-9724-FFED5AC6E217"
+  },
+  {
+    "substance": "Tebufenpyrad",
+    "db": "srppp",
+    "key": "1239"
+  },
+  {
+    "substance": "Tebufenpyrad",
+    "db": "srppp",
+    "key": "F130852A-ACAF-4FDA-A0EC-1BA5EBB548C0"
+  },
+  {
+    "substance": "Teflubenzuron",
+    "db": "srppp",
+    "key": "1241"
+  },
+  {
+    "substance": "Tefluthrin",
+    "db": "srppp",
+    "key": "344"
+  },
+  {
+    "substance": "Tefluthrin",
+    "db": "srppp",
+    "key": "714F6C9B-F9BA-43D5-94A5-1ABCFCAA8B3E"
+  },
+  {
+    "substance": "Tembotrione",
+    "db": "srppp",
+    "key": "1546"
+  },
+  {
+    "substance": "Tembotrione",
+    "db": "srppp",
+    "key": "5BF729C3-C579-4696-8F08-2D7F612DB38F"
+  },
+  {
+    "substance": "Terbuthylazine",
+    "db": "srppp",
+    "key": "1245"
+  },
+  {
+    "substance": "Terbuthylazine",
+    "db": "srppp",
+    "key": "736564C2-CA47-4979-AC4A-917F2B97B61A"
+  },
+  {
+    "substance": "Thiabendazole",
+    "db": "srppp",
+    "key": "920"
+  },
+  {
+    "substance": "Thiabendazole",
+    "db": "srppp",
+    "key": "11AA9D40-8814-4BCC-A43D-58CEFE989A0C"
+  },
+  {
+    "substance": "Thiacloprid",
+    "db": "srppp",
+    "key": "1399"
+  },
+  {
+    "substance": "Thiamethoxam",
+    "db": "srppp",
+    "key": "1473"
+  },
+  {
+    "substance": "Thiencarbazone-methyl",
+    "db": "srppp",
+    "key": "26CA7D7E-EF3A-45E4-B9F6-C94CF554D639"
+  },
+  {
+    "substance": "Thifensulfuron-methyl",
+    "db": "srppp",
+    "key": "1248"
+  },
+  {
+    "substance": "Thifensulfuron-methyl",
+    "db": "srppp",
+    "key": "9E2CF77C-CF80-44E3-B307-A1A98A704698"
+  },
+  {
+    "substance": "Thiophanate-methyl",
+    "db": "srppp",
+    "key": "917"
+  },
+  {
+    "substance": "Tolclofos-methyl",
+    "db": "srppp",
+    "key": "793"
+  },
+  {
+    "substance": "Triadimenol",
+    "db": "srppp",
+    "key": "795"
+  },
+  {
+    "substance": "Tribenuron-methyl",
+    "db": "srppp",
+    "key": "1253"
+  },
+  {
+    "substance": "Tribenuron-methyl",
+    "db": "srppp",
+    "key": "B5879942-B6E2-43D6-A3FB-BB6D931EA12F"
+  },
+  {
+    "substance": "Triclopyr",
+    "db": "srppp",
+    "key": "1254"
+  },
+  {
+    "substance": "Trifloxystrobin",
+    "db": "srppp",
+    "key": "1364"
+  },
+  {
+    "substance": "Trifloxystrobin",
+    "db": "srppp",
+    "key": "216523E4-D6C9-4BBD-971D-B1F5520C1A90"
+  },
+  {
+    "substance": "Triflumizole",
+    "db": "srppp",
+    "key": "803"
+  },
+  {
+    "substance": "Trifluralin",
+    "db": "srppp",
+    "key": "1080"
+  },
+  {
+    "substance": "Triflusulfuron-methyl",
+    "db": "srppp",
+    "key": "941"
+  },
+  {
+    "substance": "Trinexapac-ethyl",
+    "db": "srppp",
+    "key": "1257"
+  },
+  {
+    "substance": "Trinexapac-ethyl",
+    "db": "srppp",
+    "key": "F893B128-47DD-475C-B38F-256118C54269"
+  },
+  {
+    "substance": "Triticonazole",
+    "db": "srppp",
+    "key": "928"
+  },
+  {
+    "substance": "Triticonazole",
+    "db": "srppp",
+    "key": "CE067EA3-5692-4D1E-804D-FF878089800D"
+  },
+  {
+    "substance": "Tritosulfuron",
+    "db": "srppp",
+    "key": "1508"
+  },
+  {
+    "substance": "Tritosulfuron",
+    "db": "srppp",
+    "key": "2A0BCAA6-A9E4-413B-936B-CFF2174726F8"
+  },
+  {
+    "substance": "Valifenalate",
+    "db": "srppp",
+    "key": "1579"
+  },
+  {
+    "substance": "Valifenalate",
+    "db": "srppp",
+    "key": "D5D9B1C2-D0B0-43DB-94A8-1840F1950794"
+  },
+  {
+    "substance": "Zeta-cypermethrin",
+    "db": "srppp",
+    "key": "24"
+  },
+  {
+    "substance": "Zineb",
+    "db": "srppp",
+    "key": "1008"
+  },
+  {
+    "substance": "Ziram",
+    "db": "srppp",
+    "key": "1260"
+  },
+  {
+    "substance": "Ziram",
+    "db": "srppp",
+    "key": "F8EF3D5B-E0F8-4E3C-AF05-C5AF58F7F478"
+  },
+  {
+    "substance": "Aluminium phosphide",
+    "db": "srppp",
+    "key": "1110"
+  },
+  {
+    "substance": "Aluminium phosphide",
+    "db": "srppp",
+    "key": "0F6DBED8-C3E6-4713-8C19-BEF7272A758F"
+  },
+  {
+    "substance": "Aluminium sulfate",
+    "db": "srppp",
+    "key": "1701"
+  },
+  {
+    "substance": "Aluminium sulfate",
+    "db": "srppp",
+    "key": "3E5EEF6E-D791-42C7-9AEC-5DA6CB1163FE"
+  },
+  {
+    "substance": "Azadirachtin",
+    "db": "srppp",
+    "key": "1265"
+  },
+  {
+    "substance": "Azadirachtin",
+    "db": "srppp",
+    "key": "DB475BCA-9092-4B5E-ADED-C423D021C8A5"
+  },
+  {
+    "substance": "Chlorantraniliprole",
+    "db": "srppp",
+    "key": "1575"
+  },
+  {
+    "substance": "Chlorantraniliprole",
+    "db": "srppp",
+    "key": "373C1C2E-8FF7-45B5-8E7A-69543D682CEA"
+  },
+  {
+    "substance": "Copper",
+    "db": "srppp",
+    "key": "31403F9A-BB7F-4A16-BC4C-C9083ABDD1AB"
+  },
+  {
+    "substance": "Copper(II) hydroxide",
+    "db": "srppp",
+    "key": "897"
+  },
+  {
+    "substance": "Copper(II) hydroxide",
+    "db": "srppp",
+    "key": "A9525EF1-C3E3-47D4-818D-886CE105775F"
+  },
+  {
+    "substance": "Copper(II) sulfate",
+    "db": "srppp",
+    "key": "926"
+  },
+  {
+    "substance": "Copper oxychloride",
+    "db": "srppp",
+    "key": "898"
+  },
+  {
+    "substance": "Copper oxychloride",
+    "db": "srppp",
+    "key": "9B6470F1-F00C-406A-B980-05FCEDD9BE73"
+  },
+  {
+    "substance": "Cydia pomonella granulovirus",
+    "db": "srppp",
+    "key": "834"
+  },
+  {
+    "substance": "Cydia pomonella granulovirus",
+    "db": "srppp",
+    "key": "215D748A-135D-4642-8540-16694070A4D3"
+  },
+  {
+    "substance": "Difenoconazole",
+    "db": "srppp",
+    "key": "894"
+  },
+  {
+    "substance": "Difenoconazole",
+    "db": "srppp",
+    "key": "112F60C6-7C33-4123-9D70-000D29E9D90D"
+  },
+  {
+    "substance": "Emamectin benzoate",
+    "db": "srppp",
+    "key": "5C0BFB4B-B7BF-41F4-8351-F6EEF8F45169"
+  },
+  {
+    "substance": "Etoxazole",
+    "db": "srppp",
+    "key": "1458"
+  },
+  {
+    "substance": "Fatty acids, C7-18 and C18-unsatd., potassium salts",
+    "db": "srppp",
+    "key": "C9775705-3E09-4EA1-86F5-A514C7F8412B"
+  },
+  {
+    "substance": "Flurochloridone",
+    "db": "srppp",
+    "key": "1168"
+  },
+  {
+    "substance": "Flurochloridone",
+    "db": "srppp",
+    "key": "4A17896B-BC2C-41D6-AFA7-C6F1463E6005"
+  },
+  {
+    "substance": "Gibberellic acid",
+    "db": "srppp",
+    "key": "1175"
+  },
+  {
+    "substance": "Gibberellins",
+    "db": "srppp",
+    "key": "1174"
+  },
+  {
+    "substance": "Glyphosate",
+    "db": "srppp",
+    "key": "199"
+  },
+  {
+    "substance": "Glyphosate",
+    "db": "srppp",
+    "key": "7B9F385E-0CFF-48B1-B32A-F7618D2A25D0"
+  },
+  {
+    "substance": "Haloxyfop-P-methyl",
+    "db": "srppp",
+    "key": "1176"
+  },
+  {
+    "substance": "Horsetail extract",
+    "db": "srppp",
+    "key": "1331"
+  },
+  {
+    "substance": "Horsetail extract",
+    "db": "srppp",
+    "key": "7DE422F7-BCC3-4456-A6C4-5772A0CF7FFB"
+  },
+  {
+    "substance": "Metaldehyde",
+    "db": "srppp",
+    "key": "34CDA556-62F3-449F-8B48-22888FA69E77"
+  },
+  {
+    "substance": "Methiocarb",
+    "db": "srppp",
+    "key": "1193"
+  },
+  {
+    "substance": "2-(1-Naphthyl) acetamide",
+    "db": "srppp",
+    "key": "1106"
+  },
+  {
+    "substance": "2-(1-Naphthyl) acetamide",
+    "db": "srppp",
+    "key": "7C1C8A05-90DF-4902-BC72-D036B4CD3A0B"
+  },
+  {
+    "substance": "Paraffin oil",
+    "db": "srppp",
+    "key": "1027"
+  },
+  {
+    "substance": "Paraffin oil",
+    "db": "srppp",
+    "key": "F976B504-5034-45E2-817D-0FEB04132757"
+  },
+  {
+    "substance": "Paraffin oil",
+    "db": "srppp",
+    "key": "1D7FC783-1AA4-47FD-B973-83867751B87B"
+  },
+  {
+    "substance": "Pelargonic acid",
+    "db": "srppp",
+    "key": "11510"
+  },
+  {
+    "substance": "Pelargonic acid",
+    "db": "srppp",
+    "key": "0B26FA4D-F418-468D-895E-8C368A55B504"
+  },
+  {
+    "substance": "Piperonyl butoxide",
+    "db": "srppp",
+    "key": "1025"
+  },
+  {
+    "substance": "Piperonyl butoxide",
+    "db": "srppp",
+    "key": "8D005DE7-4B89-4DB2-A4FA-50254D2CED8B"
+  },
+  {
+    "substance": "Potassium bicarbonate",
+    "db": "srppp",
+    "key": "1532"
+  },
+  {
+    "substance": "Potassium bicarbonate",
+    "db": "srppp",
+    "key": "EE073DEB-EA92-40CA-AF20-94BBA34BDA7B"
+  },
+  {
+    "substance": "Propamocarb hydrochloride",
+    "db": "srppp",
+    "key": "1220"
+  },
+  {
+    "substance": "Propamocarb hydrochloride",
+    "db": "srppp",
+    "key": "8654D583-DB58-4B25-88B4-71556701D579"
+  },
+  {
+    "substance": "Propyzamide",
+    "db": "srppp",
+    "key": "863"
+  },
+  {
+    "substance": "Pyrethrins",
+    "db": "srppp",
+    "key": "323"
+  },
+  {
+    "substance": "Pyrethrins",
+    "db": "srppp",
+    "key": "7639690D-56F7-455F-9CFB-33D3C620FE91"
+  },
+  {
+    "substance": "Soy lecithin",
+    "db": "srppp",
+    "key": "988"
+  },
+  {
+    "substance": "Soy lecithin",
+    "db": "srppp",
+    "key": "1F1AC43C-E2CC-4039-B39A-21346E6687F6"
+  },
+  {
+    "substance": "Sulfur",
+    "db": "srppp",
+    "key": "338"
+  },
+  {
+    "substance": "Sulfur",
+    "db": "srppp",
+    "key": "D95F01F3-9ED2-4D08-92FD-A58AF1B5F49F"
+  },
+  {
+    "substance": "Zoxamide",
+    "db": "srppp",
+    "key": "1404"
+  },
+  {
+    "substance": "Zoxamide",
+    "db": "srppp",
+    "key": "905CE62C-691D-415C-8FAE-2A273246CDC5"
+  },
+  {
+    "substance": "2,6-Dichlorobenzamide",
+    "db": "NABO_SQ",
+    "key": "2,6-Dichlorobenzamide"
+  },
+  {
+    "substance": "2-Amino-4,6-dimethoxypyrimidine",
+    "db": "NABO_SQ",
+    "key": "2-Amino-4,6-dimethoxypyrimidine"
+  },
+  {
+    "substance": "Amisulbrom",
+    "db": "NABO_SQ",
+    "key": "Amisulbrom"
+  },
+  {
+    "substance": "Atrazine",
+    "db": "NABO_SQ",
+    "key": "Atrazine"
+  },
+  {
+    "substance": "Atrazine-2-hydroxy",
+    "db": "NABO_SQ",
+    "key": "Atrazine-2-hydroxy"
+  },
+  {
+    "substance": "Atrazine-desethyl",
+    "db": "NABO_SQ",
+    "key": "Atrazine-desethyl"
+  },
+  {
+    "substance": "Atrazine-desisopropyl",
+    "db": "NABO_SQ",
+    "key": "Atrazine-desisopropyl"
+  },
+  {
+    "substance": "Azoxystrobin",
+    "db": "NABO_SQ",
+    "key": "Azoxystrobin"
+  },
+  {
+    "substance": "Beflubutamid",
+    "db": "NABO_SQ",
+    "key": "Beflubutamid"
+  },
+  {
+    "substance": "Benalaxyl",
+    "db": "NABO_SQ",
+    "key": "Benalaxyl"
+  },
+  {
+    "substance": "Bixafen",
+    "db": "NABO_SQ",
+    "key": "Bixafen"
+  },
+  {
+    "substance": "Boscalid",
+    "db": "NABO_SQ",
+    "key": "Boscalid"
+  },
+  {
+    "substance": "Bupirimate",
+    "db": "NABO_SQ",
+    "key": "Bupirimate"
+  },
+  {
+    "substance": "Buprofezin",
+    "db": "NABO_SQ",
+    "key": "Buprofezin"
+  },
+  {
+    "substance": "Carbendazim",
+    "db": "NABO_SQ",
+    "key": "Carbendazim"
+  },
+  {
+    "substance": "Clofentezine",
+    "db": "NABO_SQ",
+    "key": "Clofentezine"
+  },
+  {
+    "substance": "Chlorantraniliprole",
+    "db": "NABO_SQ",
+    "key": "Chlorantraniliprole"
+  },
+  {
+    "substance": "Chloridazon",
+    "db": "NABO_SQ",
+    "key": "Chloridazon"
+  },
+  {
+    "substance": "R417888",
+    "db": "NABO_SQ",
+    "key": "Chlorothalonil R417888"
+  },
+  {
+    "substance": "R611968",
+    "db": "NABO_SQ",
+    "key": "Chlorothalonil R611968"
+  },
+  {
+    "substance": "Chlorothalonil-4-hydroxy",
+    "db": "NABO_SQ",
+    "key": "Chlorothalonil-4-hydroxy"
+  },
+  {
+    "substance": "Chlorotoluron",
+    "db": "NABO_SQ",
+    "key": "Chlorotoluron"
+  },
+  {
+    "substance": "Chlorpyrifos",
+    "db": "NABO_SQ",
+    "key": "Chlorpyrifos"
+  },
+  {
+    "substance": "Clomazone",
+    "db": "NABO_SQ",
+    "key": "Clomazone"
+  },
+  {
+    "substance": "Clothianidin",
+    "db": "NABO_SQ",
+    "key": "Clothianidin"
+  },
+  {
+    "substance": "Cyazofamid",
+    "db": "NABO_SQ",
+    "key": "Cyazofamid"
+  },
+  {
+    "substance": "Cyproconazole",
+    "db": "NABO_SQ",
+    "key": "Cyproconazole"
+  },
+  {
+    "substance": "Cyprodinil",
+    "db": "NABO_SQ",
+    "key": "Cyprodinil"
+  },
+  {
+    "substance": "CGA249287",
+    "db": "NABO_SQ",
+    "key": "Cyprodinil CGA249287"
+  },
+  {
+    "substance": "CGA232449",
+    "db": "NABO_SQ",
+    "key": "Cyprodinil CGA232449"
+  },
+  {
+    "substance": "Desmedipham",
+    "db": "NABO_SQ",
+    "key": "Desmedipham"
+  },
+  {
+    "substance": "Desmethoxy-linuron",
+    "db": "NABO_SQ",
+    "key": "Desmethoxy-linuron"
+  },
+  {
+    "substance": "Difenoconazole",
+    "db": "NABO_SQ",
+    "key": "Difenoconazole"
+  },
+  {
+    "substance": "Diflufenican",
+    "db": "NABO_SQ",
+    "key": "Diflufenican"
+  },
+  {
+    "substance": "Dimethomorph",
+    "db": "NABO_SQ",
+    "key": "Dimethomorph"
+  },
+  {
+    "substance": "Diuron",
+    "db": "NABO_SQ",
+    "key": "Diuron"
+  },
+  {
+    "substance": "Dodemorph",
+    "db": "NABO_SQ",
+    "key": "Dodemorph"
+  },
+  {
+    "substance": "Endosulfan sulfate",
+    "db": "NABO_SQ",
+    "key": "Endosulfan sulfate"
+  },
+  {
+    "substance": "Epoxiconazole",
+    "db": "NABO_SQ",
+    "key": "Epoxiconazole"
+  },
+  {
+    "substance": "Ethirimol",
+    "db": "NABO_SQ",
+    "key": "Ethirimol"
+  },
+  {
+    "substance": "Ethofumesate",
+    "db": "NABO_SQ",
+    "key": "Ethofumesate"
+  },
+  {
+    "substance": "Fenarimol",
+    "db": "NABO_SQ",
+    "key": "Fenarimol"
+  },
+  {
+    "substance": "Fenpropidin",
+    "db": "NABO_SQ",
+    "key": "Fenpropidin"
+  },
+  {
+    "substance": "Fenpropimorph",
+    "db": "NABO_SQ",
+    "key": "Fenpropimorph"
+  },
+  {
+    "substance": "Fenpyroximate",
+    "db": "NABO_SQ",
+    "key": "Fenpyroximate"
+  },
+  {
+    "substance": "Fipronil",
+    "db": "NABO_SQ",
+    "key": "Fipronil"
+  },
+  {
+    "substance": "Fluazinam",
+    "db": "NABO_SQ",
+    "key": "Fluazinam"
+  },
+  {
+    "substance": "Fludioxonil",
+    "db": "NABO_SQ",
+    "key": "Fludioxonil"
+  },
+  {
+    "substance": "Flufenacet",
+    "db": "NABO_SQ",
+    "key": "Flufenacet"
+  },
+  {
+    "substance": "Fluopicolide",
+    "db": "NABO_SQ",
+    "key": "Fluopicolide"
+  },
+  {
+    "substance": "Fluopyram",
+    "db": "NABO_SQ",
+    "key": "Fluopyram"
+  },
+  {
+    "substance": "Fluoxastrobin",
+    "db": "NABO_SQ",
+    "key": "Fluoxastrobin"
+  },
+  {
+    "substance": "Fluquinconazole",
+    "db": "NABO_SQ",
+    "key": "Fluquinconazole"
+  },
+  {
+    "substance": "Flurochloridone",
+    "db": "NABO_SQ",
+    "key": "Flurochloridone"
+  },
+  {
+    "substance": "Flusilazole",
+    "db": "NABO_SQ",
+    "key": "Flusilazole"
+  },
+  {
+    "substance": "Fluxapyroxad",
+    "db": "NABO_SQ",
+    "key": "Fluxapyroxad"
+  },
+  {
+    "substance": "Imazalil",
+    "db": "NABO_SQ",
+    "key": "Imazalil"
+  },
+  {
+    "substance": "Imidacloprid",
+    "db": "NABO_SQ",
+    "key": "Imidacloprid"
+  },
+  {
+    "substance": "Indoxacarb",
+    "db": "NABO_SQ",
+    "key": "Indoxacarb"
+  },
+  {
+    "substance": "Isoproturon",
+    "db": "NABO_SQ",
+    "key": "Isoproturon"
+  },
+  {
+    "substance": "Isoproturon-didemethyl",
+    "db": "NABO_SQ",
+    "key": "Isoproturon-didemethyl"
+  },
+  {
+    "substance": "Linuron",
+    "db": "NABO_SQ",
+    "key": "Linuron"
+  },
+  {
+    "substance": "Lufenuron",
+    "db": "NABO_SQ",
+    "key": "Lufenuron"
+  },
+  {
+    "substance": "Mandipropamid",
+    "db": "NABO_SQ",
+    "key": "Mandipropamid"
+  },
+  {
+    "substance": "Mepanipyrim",
+    "db": "NABO_SQ",
+    "key": "Mepanipyrim"
+  },
+  {
+    "substance": "Metalaxyl",
+    "db": "NABO_SQ",
+    "key": "Metalaxyl"
+  },
+  {
+    "substance": "Metamitron",
+    "db": "NABO_SQ",
+    "key": "Metamitron"
+  },
+  {
+    "substance": "Metconazole",
+    "db": "NABO_SQ",
+    "key": "Metconazole"
+  },
+  {
+    "substance": "Methiocarb",
+    "db": "NABO_SQ",
+    "key": "Methiocarb"
+  },
+  {
+    "substance": "Metolachlor ESA",
+    "db": "NABO_SQ",
+    "key": "Metolachlor ESA"
+  },
+  {
+    "substance": "Metolachlor OA",
+    "db": "NABO_SQ",
+    "key": "Metolachlor OA"
+  },
+  {
+    "substance": "Metrafenone",
+    "db": "NABO_SQ",
+    "key": "Metrafenone"
+  },
+  {
+    "substance": "Myclobutanil",
+    "db": "NABO_SQ",
+    "key": "Myclobutanil"
+  },
+  {
+    "substance": "Napropamide",
+    "db": "NABO_SQ",
+    "key": "Napropamide"
+  },
+  {
+    "substance": "Orbencarb",
+    "db": "NABO_SQ",
+    "key": "Orbencarb"
+  },
+  {
+    "substance": "Oryzalin",
+    "db": "NABO_SQ",
+    "key": "Oryzalin"
+  },
+  {
+    "substance": "Paclobutrazol",
+    "db": "NABO_SQ",
+    "key": "Paclobutrazol"
+  },
+  {
+    "substance": "Penconazole",
+    "db": "NABO_SQ",
+    "key": "Penconazole"
+  },
+  {
+    "substance": "Pencycuron",
+    "db": "NABO_SQ",
+    "key": "Pencycuron"
+  },
+  {
+    "substance": "Pendimethalin",
+    "db": "NABO_SQ",
+    "key": "Pendimethalin"
+  },
+  {
+    "substance": "Pethoxamid",
+    "db": "NABO_SQ",
+    "key": "Pethoxamid"
+  },
+  {
+    "substance": "Phenmedipham",
+    "db": "NABO_SQ",
+    "key": "Phenmedipham"
+  },
+  {
+    "substance": "Picoxystrobin",
+    "db": "NABO_SQ",
+    "key": "Picoxystrobin"
+  },
+  {
+    "substance": "Piperonyl butoxide",
+    "db": "NABO_SQ",
+    "key": "Piperonyl butoxide"
+  },
+  {
+    "substance": "Pirimicarb",
+    "db": "NABO_SQ",
+    "key": "Pirimicarb"
+  },
+  {
+    "substance": "Prochloraz",
+    "db": "NABO_SQ",
+    "key": "Prochloraz"
+  },
+  {
+    "substance": "Propiconazole",
+    "db": "NABO_SQ",
+    "key": "Propiconazole"
+  },
+  {
+    "substance": "Propyzamide",
+    "db": "NABO_SQ",
+    "key": "Propyzamide"
+  },
+  {
+    "substance": "Proquinazid",
+    "db": "NABO_SQ",
+    "key": "Proquinazid"
+  },
+  {
+    "substance": "Prosulfocarb",
+    "db": "NABO_SQ",
+    "key": "Prosulfocarb"
+  },
+  {
+    "substance": "Pyraclostrobin",
+    "db": "NABO_SQ",
+    "key": "Pyraclostrobin"
+  },
+  {
+    "substance": "Pyrifenox",
+    "db": "NABO_SQ",
+    "key": "Pyrifenox"
+  },
+  {
+    "substance": "Pyrimethanil",
+    "db": "NABO_SQ",
+    "key": "Pyrimethanil"
+  },
+  {
+    "substance": "Quinoxyfen",
+    "db": "NABO_SQ",
+    "key": "Quinoxyfen"
+  },
+  {
+    "substance": "S-Metolachlor",
+    "db": "NABO_SQ",
+    "key": "S-Metolachlor"
+  },
+  {
+    "substance": "Tebuconazole",
+    "db": "NABO_SQ",
+    "key": "Tebuconazole"
+  },
+  {
+    "substance": "Tebufenozide",
+    "db": "NABO_SQ",
+    "key": "Tebufenozide"
+  },
+  {
+    "substance": "Tebufenpyrad",
+    "db": "NABO_SQ",
+    "key": "Tebufenpyrad"
+  },
+  {
+    "substance": "Teflubenzuron",
+    "db": "NABO_SQ",
+    "key": "Teflubenzuron"
+  },
+  {
+    "substance": "Terbuthylazine",
+    "db": "NABO_SQ",
+    "key": "Terbuthylazine"
+  },
+  {
+    "substance": "Terbuthylazine-desethyl",
+    "db": "NABO_SQ",
+    "key": "Terbuthylazine-desethyl"
+  },
+  {
+    "substance": "Thiabendazole",
+    "db": "NABO_SQ",
+    "key": "Thiabendazole"
+  },
+  {
+    "substance": "Thiacloprid",
+    "db": "NABO_SQ",
+    "key": "Thiacloprid"
+  },
+  {
+    "substance": "Thiamethoxam",
+    "db": "NABO_SQ",
+    "key": "Thiamethoxam"
+  },
+  {
+    "substance": "Triadimenol",
+    "db": "NABO_SQ",
+    "key": "Triadimenol"
+  },
+  {
+    "substance": "Trifloxystrobin",
+    "db": "NABO_SQ",
+    "key": "Trifloxystrobin"
+  },
+  {
+    "substance": "Trifloxystrobin acid",
+    "db": "NABO_SQ",
+    "key": "Trifloxystrobin acid"
+  },
+  {
+    "substance": "Triticonazole",
+    "db": "NABO_SQ",
+    "key": "Triticonazole"
+  },
+  {
+    "substance": "Zoxamide",
+    "db": "NABO_SQ",
+    "key": "Zoxamide"
+  }
+]

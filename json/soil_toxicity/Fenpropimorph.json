@@ -1,0 +1,26 @@
+[
+  {
+    "substance": "Fenpropimorph",
+    "formulation": "BAS 421 12 F",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "44_1",
+    "duration": 56,
+    "effect": "reproduction",
+    "level": "NOER",
+    "sign": "=",
+    "value": 5953.6,
+    "unit": "g/ha",
+    "sk": "Fenpropimorph_DAR_09_Vol_3_B9_public",
+    "page": "594",
+    "sk_EFSA": "j.efsa.2008.144r",
+    "page_EFSA": "83",
+    "sk_RAR": "Fenpropimorph_DAR_09_Vol_3_B9_public",
+    "page_RAR": "594",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Fenpropimorph_DAR_2005/Fenpropimorph_DAR_09_Vol 3_B9_public.pdf"
+  }
+]

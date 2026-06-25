@@ -1,0 +1,44 @@
+<!-- README.md is generated from README.rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-"
+)
+```
+
+# derappp - Data for Environmental Risk Assessment of Plant Protection Products
+
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
+```{r, results = "asis", echo = FALSE}
+read.dcf("DESCRIPTION")[, "Description"] |> cat()
+```
+
+## Documentation
+
+A good point to start is the vignette 
+["Get Started"](https://agroscope-ch.github.io/derappp/articles/derappp.html)
+in the online documentation. 
+
+## Installation
+
+You can install the current binary packages provided at R-Universe using:
+
+```r
+install.packages("derappp",
+  repos = c(
+    "https://agroscope-ch.r-universe.dev",  # For derappp and srppphist
+    "https://jranke.r-universe.dev",        # For chents
+    "https://cran.r-project.org"))
+```
+
+This will also install the dependencies [`chents`](https://pkgdown.jrwb.de/chents/) and [`srppphist`](https://agroscope-ch.github.io/srppphist/).
+
+## Concept and scope
+
+Please have a look a the
+[concept](https://agroscope-ch.github.io/derappp/articles/concept.html)
+for details.
+

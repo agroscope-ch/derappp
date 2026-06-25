@@ -1,0 +1,27 @@
+[
+  {
+    "substance": "Terbuthylazine-desethyl",
+    "reported_species": "Eisenia andrei",
+    "derappp_species": "Eisenia andrei",
+    "group": "Soil fauna",
+    "test_nr": "101_1",
+    "duration": 56,
+    "OM": 10,
+    "effect": "others",
+    "effect_details": "weight, reproduction",
+    "level": "NOEC",
+    "sign": "≥",
+    "value": 5.6,
+    "unit": "mg/kg",
+    "sk": "Terbuthylazine_AR_06_Vol3_B9_public",
+    "page": "718",
+    "sk_EFSA": "j.efsa.2011.1969",
+    "page_EFSA": "122",
+    "sk_RAR": "Terbuthylazine_AR_06_Vol3_B9_public",
+    "page_RAR": "718",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Terbuthylazine_DAR_2010/Terbuthylazine_AR_06_Vol3_B9_public.pdf"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "substance": "Copper(II) chloride",
+    "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
+    "group": "Fish",
+    "test_nr": "25",
+    "test_system": "flow-through",
+    "duration": 60,
+    "effect": "growth",
+    "level": "NOEC",
+    "sign": "=",
+    "value": 0.0046544453,
+    "sk": "j.efsa.2018.5152_LoEP",
+    "page": "82",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "note": "Expressed as Copper(II) chloride (134.45 g/mol). Original value was 0.0022 mg/L, expressed as copper",
+    "reported_species": "Oncorhynchus mykiss",
+    "recorded": "luel",
+    "checked": "rajo",
+    "file": "copper_aquatic_toxicity.xlsx"
+  }
+]

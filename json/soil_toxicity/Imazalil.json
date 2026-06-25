@@ -1,0 +1,26 @@
+[
+  {
+    "substance": "Imazalil",
+    "reported_species": "Hypoaspis aculeifer",
+    "derappp_species": "Gaeolaelaps aculeifer",
+    "group": "Soil fauna",
+    "test_nr": "57_1",
+    "duration": 14,
+    "OM": 5,
+    "effect": "reproduction",
+    "level": "NOEC",
+    "sign": "=",
+    "value": 106.6,
+    "unit": "mg/kg",
+    "sk": "Imazalil_AR_07_VOL_3_B9_public",
+    "page": "47",
+    "sk_EFSA": "j.efsa.2010.1526",
+    "page_EFSA": "63",
+    "sk_RAR": "Imazalil_AR_07_VOL_3_B9_public",
+    "page_RAR": "47",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Imazalil_RAR_2009/Imazalil_AR_07_VOL 3_B9_public.pdf"
+  }
+]

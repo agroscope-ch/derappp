@@ -1,0 +1,18 @@
+url: https://agroscope-ch.github.io/derappp
+
+template:
+  bootstrap: 5
+
+reference:
+  - title: Data objects
+    contents:
+      - derappp
+      - derappp_chents
+      - derappp_bib
+  - title: Helper functions
+    contents:
+      - loep
+      - translate_substances
+  - title: Data evaluation functions
+    contents:
+      - wlt

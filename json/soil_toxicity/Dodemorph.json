@@ -1,0 +1,27 @@
+[
+  {
+    "substance": "Dodemorph",
+    "formulation": "BAS 238 07 F",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "37_1",
+    "duration": 56,
+    "OM": 10,
+    "effect": "reproduction",
+    "level": "NOEC",
+    "sign": "=",
+    "value": 103,
+    "unit": "mg/kg",
+    "sk": "Dodemorph_DAR_06_Vol3_B9_public",
+    "page": "243",
+    "sk_EFSA": "j.efsa.2008.170r",
+    "page_EFSA": "55",
+    "sk_RAR": "Dodemorph_DAR_06_Vol3_B9_public",
+    "page_RAR": "243",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Dodemorph_DAR_2007/Dodemorph_DAR_06_Vol3_B9_public.pdf"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "substance": "Benalaxyl",
+    "reported_species": "Eisenia andrei",
+    "derappp_species": "Eisenia andrei",
+    "group": "Soil fauna",
+    "test_nr": "10_1",
+    "duration": 28,
+    "OM": 10,
+    "effect": "others",
+    "effect_details": "mortality, body weight, reproduction",
+    "level": "NOEC",
+    "sign": "≥",
+    "value": 36.4,
+    "unit": "mg/kg",
+    "sk": "Benalaxyl_RAR_11_Volume_3CA_B-9_2017-10-20",
+    "page": "169",
+    "sk_EFSA": "j.efsa.2020.5985_LoEP",
+    "page_EFSA": "89",
+    "sk_RAR": "Benalaxyl_RAR_11_Volume_3CA_B-9_2017-10-20",
+    "page_RAR": "169",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Benalaxyl_RAR_2018/Benalaxyl_RAR_11_Volume_3CA_B-9_2017-10-20.pdf"
+  }
+]

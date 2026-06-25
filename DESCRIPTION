@@ -1,0 +1,71 @@
+Package: derappp
+Type: Package
+Title: Data for Environmental Risk Assessment of Plant Protection Products
+Version: 0.9.2
+Date: 2026-07-02
+Authors@R: c(
+  person("Elisabeth", "Lutz", role = "aut",
+    email = "elisabeth.lutz@agroscope.admin.ch",
+    comment = c(acronym = "luel", "aquatic toxicity data")),
+  person("Marcel", "Mathis", role = "aut",
+    email = "marcel.mathis@agroscope.admin.ch",
+    comment = c(acronym = "mamr", "aquatic toxicity data")),
+  person("Laurent", "Boualit", role = "ctb",
+    comment = c(acronym = "bolr", "aquatic toxicity data")),
+  person("Jhoniel", "Perdigon Ferreira", role = "ctb",
+    comment = c(acronym = "pejh", "soil toxicity data, review of aquatic toxicity data")),
+  person("Daniel", "Baumgartner", role = "ctb",
+    comment = "SMILES codes for pyrethroid stereoisomers"),
+  person("Fabian", "Balk", role = "rev",
+    comment = c(ORCID = "0000-0001-7764-7214", acronym = "bafa", "review of soil toxicity data")),
+  person("Johannes", "Ranke", role = c("aut", "cre"),
+    email = "johannes.ranke@agroscope.admin.ch",
+    comment = c(ORCID = "0000-0003-4371-6538", acronym = "rajo")),
+  person("European Food Safety Authority", role = "dtc",
+    comment = "EFSA conclusions, bibliographic information in OpenFoodTox, Renewal Assessment Reports"),
+  person("British Crop Protection Council", role = "dtc",
+    comment = "Chemical identity information from the Compendium of Pesticide Common Names"),
+  person("National Center for Biotechnology Information", role = "dtc",
+    comment = "Chemical identity information retrieved from the PubChem website"),
+  person("CAS division of the American Chemical Society", role = "dtc",
+    comment = "Chemical identity information retreived from the CAS Common Chemistry website"),
+  person("enviPath UG & Co KG", role = "dtc",
+    comment = "Chemical identity information retreived from the envipath website"),
+  person("Agroscope", role = "cph"))
+Description: Makes some public data for environmental risk assessment of plant
+  protection products accessible in R. Includes definitions of substances in
+  terms of well-defined chemical entities, if applicable. Also includes source
+  references including page numbers, most often referring to secondary sources,
+  as the original reports are usually unpublished. Uses standardised scientific
+  names for biological species and includes physicochemical as well as
+  ecotoxicological data. Data sources are mainly conclusions from the European
+  pesticide risk assessment peer review process published by the European Food
+  Safety Authority (EFSA) and Renewal Assessment Reports (RARs), also published
+  by EFSA. Note that the use of the data included in this package for
+  registration purposes may be restricted by regulatory data protection, also
+  known as data exclusivity rules, as detailed for example in article 59 of
+  Regulation (EC) No 1107/2009.
+Depends: R (>= 4.1.0), dm
+Imports: dplyr, tidyr, units, rlang, chents (>= 0.4.1), RefManageR,
+    srppphist (>= 2.0.1)
+Suggests:
+    devtools, knitr, rmarkdown, DiagrammeR (<= 1.0.11), DiagrammeRsvg,
+    roxygen2 (>= 7.3.3.9000), quarto,
+    pkgdown, testthat (>= 3.0.0),
+    here, tibble, yaml, purrr,
+    OpenFoodTox, lubridate, withr,
+    rotl,
+    readxl,
+    jsonlite
+BugReports: https://github.com/agroscope-ch/derappp/issues
+URL: https://agroscope-ch.github.io/derappp/
+Additional_repositories: https://agroscope-ch.r-universe.dev, https://jranke.r-universe.dev
+License: GPL
+LazyData: true
+LazyDataCompression: gzip
+Roxygen: list(markdown = TRUE)
+VignetteBuilder: quarto
+Encoding: UTF-8
+Language: en-GB
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.0.0

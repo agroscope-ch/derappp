@@ -1,0 +1,26 @@
+[
+  {
+    "substance": "Amisulbrom",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "3_1",
+    "duration": 56,
+    "OM": 10,
+    "effect": "reproduction",
+    "level": "NOEC",
+    "sign": "≥",
+    "value": 93.7,
+    "unit": "mg/kg",
+    "sk": "amisulbrom_12_vol3_b9_ecotox_february_2012_public",
+    "page": "736",
+    "sk_EFSA": "j.efsa.2014.3237",
+    "page_EFSA": "66",
+    "sk_RAR": "amisulbrom_12_vol3_b9_ecotox_february_2012_public",
+    "page_RAR": "736",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Amisulbrom_DAR_2012/amisulbrom_12_vol3_b9_ecotox_february_2012_public.pdf"
+  }
+]

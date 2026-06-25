@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+Configuration_at_Agroscope.md
+*.rda
+*.Rcheck
+*.tar.gz
+docs
+vignettes/*_cache/*
+private
+.positai

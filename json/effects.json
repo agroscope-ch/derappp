@@ -1,0 +1,56 @@
+[
+  {
+    "effect": "behaviour"
+  },
+  {
+    "effect": "behavior"
+  },
+  {
+    "effect": "biomass"
+  },
+  {
+    "effect": "body weight"
+  },
+  {
+    "effect": "development"
+  },
+  {
+    "effect": "development rate"
+  },
+  {
+    "effect": "emergence"
+  },
+  {
+    "effect": "growth"
+  },
+  {
+    "effect": "growth rate"
+  },
+  {
+    "effect": "hatchability"
+  },
+  {
+    "effect": "immobilisation"
+  },
+  {
+    "effect": "mortality"
+  },
+  {
+    "effect": "reproduction"
+  },
+  {
+    "effect": "survival"
+  },
+  {
+    "effect": "weight"
+  },
+  {
+    "effect": "yield"
+  },
+  {
+    "effect": "other"
+  },
+  {
+    "effect": "others"
+  }
+]

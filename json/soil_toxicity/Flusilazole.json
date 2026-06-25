@@ -1,0 +1,21 @@
+[
+  {
+    "substance": "Flusilazole",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "55_1",
+    "effect": "reproduction",
+    "level": "NOEC",
+    "sign": "=",
+    "value": 8.82,
+    "unit": "mg/kg",
+    "sk": "Flusilazole_RR_2007",
+    "page": "16",
+    "sk_RAR": "Flusilazole_RR_2007",
+    "page_RAR": "16",
+    "selected": true,
+    "recorded": "pejh",
+    "file": "EU_Review_Reports/Flusilazole_RR_2007.pdf"
+  }
+]

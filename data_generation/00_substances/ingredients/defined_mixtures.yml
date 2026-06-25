@@ -1,0 +1,156 @@
+---
+# These mixtures are used as ingredients in plant protection products
+Abamectin:
+  doi: 10.2903/j.efsa.2022.7544
+  page: 2
+  chents:
+    Avermectin B1a:
+      min: 0.8
+      max: 1
+    Avermectin B1b:
+      min: 0
+      max: 0.2
+Beta-cyfluthrin:
+  doi: 10.2903/j.efsa.2018.5405
+  page: 7
+  chents:
+    Cyfluthrin-(1S,3S,alphaR):
+      min: 0
+      max: 0.334
+    Cyfluthrin-(1R,3R,alphaS):
+      min: 0
+      max: 0.334
+    Cyfluthrin-(1S,3R,alphaR):
+      min: 0
+      max: 0.667
+    Cyfluthrin-(1R,3S,alphaS):
+      min: 0
+      max: 0.667
+Bifenthrin:
+  doi: 10.2903/j.efsa.2011.2159
+  page: 11
+  chents:
+    Bifenthrin-(1R,3R):
+      min: 0
+      max: 1
+    Bifenthrin-(1S,3S):
+      min: 0
+      max: 1
+Bordeaux mixture:
+  doi: 10.2903/j.efsa.2018.5152
+  page: 7
+  chents:
+    Copper(II) sulfate:
+      min: 0
+      max: 1
+    Calcium hydroxide:
+      min: 0
+      max: 1
+Emamectin benzoate:
+  doi: 10.2903/j.efsa.2012.2955
+  page: 21
+  chents:
+    Emamectin benzoate B1a:
+      min: 0.9
+      max: 1.0
+    Emamectin benzoate B1b:
+      min: 0.0
+      max: 0.1
+Gibberellins:
+  doi: 10.2903/j.efsa.2024.9066
+  page: 6
+  chents:
+    Gibberellin A4:
+      min: 0
+      max: 1
+    Gibberellin A7:
+      min: 0
+      max: 1
+Lambda-cyhalothrin:
+  doi: 10.2903/j.efsa.2014.3677
+  page: 7
+  chents:
+    Cyhalothrin-(1S,3S,alphaR):
+      min: 0.5
+      max: 0.5
+    Gamma-cyhalothrin:
+      min: 0.5
+      max: 0.5
+Lime sulfur:
+  doi: 10.2903/j.efsa.2010.1890
+  page: 17
+  chents:
+    Calcium pentasulfide:
+      min: 0.29
+      max: 0.32
+    Calcium thiosulfate:
+      min: 0
+      max: 0.025
+Pyrethrins:
+  doi: 10.2903/j.efsa.2013.3032
+  page: 7
+  chents:
+    Pyrethrin I:
+      min: 0
+      max: 1
+    Cinerin I:
+      min: 0
+      max: 1
+    Jasmolin I:
+      min: 0
+      max: 1
+    Pyrethrin II:
+      min: 0
+      max: 1
+    Cinerin II:
+      min: 0
+      max: 1
+    Jasmolin II:
+      min: 0
+      max: 1
+Spinetoram:
+  doi: 10.2903/j.efsa.2013.3220
+  page: 21
+  chents:
+    Spinetoram J:
+        min: 0.5
+        max: 0.9
+    Spinetoram L:
+        min: 0.1
+        max: 0.5
+Spinosad:
+  doi: 10.2903/j.efsa.2018.5252
+  page: 1
+  chents:
+    Spinosyn A:
+      min: 0.5
+      max: 0.95
+    Spinosyn D:
+      min: 0.05
+      max: 0.5
+Tefluthrin:
+  doi: 10.2903/j.efsa.2010.1709
+  page: 7
+  chents:
+    Tefluthrin-(1R,3R):
+      min: 0
+      max: 1
+    Tefluthrin-(1S,3S):
+      min: 0
+      max: 1
+Zeta-cypermethrin:
+  doi: 10.2903/j.efsa.2009.196r
+  page: 10
+  chents:
+    Cypermethrin-(1S,3S,alphaS):
+      min: 0
+      max: 0.55
+    Cypermethrin-(1R,3R,alphaS):
+      min: 0
+      max: 0.55
+    Cypermethrin-(1S,3R,alphaS):
+      min: 0
+      max: 0.55
+    Cypermethrin-(1R,3S,alphaS):
+      min: 0
+      max: 0.55

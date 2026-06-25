@@ -1,0 +1,24 @@
+[
+  {
+    "substance": "Copper(II) nitrate",
+    "derappp_species": "Pimephales promelas",
+    "group": "Fish",
+    "test_nr": "36",
+    "test_system": "flow-through",
+    "duration": 32,
+    "effect": "others",
+    "effect_details": "mortality, growth",
+    "level": "NOEC",
+    "sign": "=",
+    "value": 0.014166609,
+    "sk": "j.efsa.2018.5152_LoEP",
+    "page": "83",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "note": "Expressed as Copper(II) nitrate (187.56 g/mol). Original value was 0.0048 mg/L, expressed as copper",
+    "reported_species": "Pimephales promelas",
+    "recorded": "luel",
+    "checked": "rajo",
+    "file": "copper_aquatic_toxicity.xlsx"
+  }
+]

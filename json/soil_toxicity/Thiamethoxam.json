@@ -1,0 +1,22 @@
+[
+  {
+    "substance": "Thiamethoxam",
+    "formulation": "thiamethoxam WG 25%",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "104_1",
+    "effect": "reproduction",
+    "level": "NOER",
+    "sign": "=",
+    "value": 1154,
+    "unit": "g/ha",
+    "sk": "Thiamethoxam_RR_2006",
+    "page": "23",
+    "sk_RAR": "Thiamethoxam_RR_2006",
+    "page_RAR": "23",
+    "selected": true,
+    "recorded": "pejh",
+    "file": "EU_Review_Reports/Thiamethoxam_RR_2006.pdf"
+  }
+]

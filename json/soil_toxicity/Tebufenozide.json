@@ -1,0 +1,26 @@
+[
+  {
+    "substance": "Tebufenozide",
+    "formulation": "RH-73719 SC",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "97_1",
+    "duration": 56,
+    "effect": "reproduction",
+    "level": "NOEC",
+    "sign": "≥",
+    "value": 7.68,
+    "unit": "mg/kg",
+    "sk": "Tebufenozide_DAR_08_Vol_3_B9_public",
+    "page": "563",
+    "sk_EFSA": "j.efsa.2010.1871",
+    "page_EFSA": "114",
+    "sk_RAR": "Tebufenozide_DAR_08_Vol_3_B9_public",
+    "page_RAR": "563",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Tebufenozide_DAR_2006/Tebufenozide_DAR_08_Vol_3_B9_public.pdf"
+  }
+]

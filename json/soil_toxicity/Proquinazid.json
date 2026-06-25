@@ -1,0 +1,27 @@
+[
+  {
+    "substance": "Proquinazid",
+    "formulation": "proquinazid 200 g/l EC",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "89_1",
+    "duration": 56,
+    "OM": 10,
+    "effect": "weight",
+    "level": "NOEC",
+    "sign": "=",
+    "value": 50.9,
+    "unit": "mg/kg",
+    "sk": "Proquinazid_DAR_08_Vol_3_B9_public",
+    "page": "636",
+    "sk_EFSA": "j.efsa.2009.1350",
+    "page_EFSA": "122",
+    "sk_RAR": "Proquinazid_DAR_08_Vol_3_B9_public",
+    "page_RAR": "636",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Proquinazid_DAR_2006/Proquinazid_DAR_08_Vol_3_B9_public.pdf"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "substance": "Flurochloridone",
+    "formulation": "flurochloridone 250 CS",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "54_1",
+    "duration": 56,
+    "OM": 5,
+    "effect": "reproduction",
+    "level": "NOEC",
+    "sign": "≥",
+    "value": 10,
+    "unit": "mg/kg",
+    "sk": "Flurochloridone_DAR_07_Vol-3_B.9_public",
+    "page": "655",
+    "sk_EFSA": "j.efsa.2010.1869",
+    "page_EFSA": "60",
+    "sk_RAR": "Flurochloridone_DAR_07_Vol-3_B.9_public",
+    "page_RAR": "655",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Flurochloridone_DAR_2006/Flurochloridone_DAR_07_Vol-3_B.9 public.pdf"
+  }
+]

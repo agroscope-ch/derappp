@@ -1,0 +1,21 @@
+[
+  {
+    "substance": "Quinoxyfen",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "94_1",
+    "effect": "reproduction",
+    "level": "NOEC",
+    "sign": "=",
+    "value": 2.67,
+    "unit": "mg/kg",
+    "sk": "Quinoxyfen_RR_2003",
+    "page": "19",
+    "sk_RAR": "Quinoxyfen_RR_2003",
+    "page_RAR": "19",
+    "selected": true,
+    "recorded": "pejh",
+    "file": "EU_Review_Reports/Quinoxyfen_RR_2003.pdf"
+  }
+]

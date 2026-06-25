@@ -1,0 +1,3350 @@
+[
+  {
+    "chent": "1-Decanol",
+    "ai": true,
+    "mw": 158.28,
+    "smiles": "CCCCCCCCCCO",
+    "pubchem": 8174,
+    "inchikey": "MWKFXSUHUHTGQN-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "1-Methylcyclopropene",
+    "ai": true,
+    "mw": 54.09,
+    "smiles": "CC1=CC1",
+    "pubchem": 151080,
+    "inchikey": "SHDPRTQPPWIEJG-UHFFFAOYSA-N",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
+    "chent": "1-Naphthylacetic acid",
+    "ai": true,
+    "mw": 186.21,
+    "smiles": "C1=CC=C2C(=C1)C=CC=C2CC(=O)O",
+    "pubchem": 6862,
+    "inchikey": "PRPINYUDVPFIRX-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "2,4-D",
+    "ai": true,
+    "iso": "2,4-D",
+    "mw": 221.03,
+    "smiles": "C1=CC(=C(C=C1Cl)Cl)OCC(=O)O",
+    "pubchem": 1486,
+    "inchikey": "OVSKIKFHRZPJSS-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "2,4-DB",
+    "ai": true,
+    "iso": "2,4-DB",
+    "mw": 249.09,
+    "smiles": "C1=CC(=C(C=C1Cl)Cl)OCCCC(=O)O",
+    "pubchem": 1489,
+    "inchikey": "YIVXMZJTEQBPQO-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "2,6-Dichlorobenzamide",
+    "ai": false,
+    "mw": 190.02,
+    "smiles": "C1=CC(=C(C(=C1)Cl)C(=O)N)Cl",
+    "pubchem": 16183,
+    "inchikey": "JHSPCUHPSIUQRB-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "2-(1-Naphthyl) acetamide",
+    "ai": true,
+    "mw": 185.22,
+    "smiles": "C1=CC=C2C(=C1)C=CC=C2CC(=O)N",
+    "pubchem": 6861,
+    "inchikey": "XFNJVKMNNVCYEK-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "2-Amino-4,6-dimethoxypyrimidine",
+    "ai": false,
+    "mw": 155.15,
+    "smiles": "COC1=CC(=NC(=N1)N)OC",
+    "pubchem": 118946,
+    "inchikey": "LVFRCHIUUKWBLR-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "6-Benzyladenine",
+    "ai": true,
+    "mw": 225.25,
+    "smiles": "C1=CC=C(C=C1)CNC2=NC=NC3=C2NC=N3",
+    "pubchem": 62389,
+    "inchikey": "NWBJYWHLCVSVIJ-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Acequinocyl",
+    "ai": true,
+    "iso": "Acequinocyl",
+    "mw": 384.5,
+    "smiles": "CCCCCCCCCCCCC1=C(C(=O)C2=CC=CC=C2C1=O)OC(=O)C",
+    "pubchem": 93315,
+    "inchikey": "QDRXWCAVUNHOGA-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides"
+  },
+  {
+    "chent": "Acetamiprid",
+    "ai": true,
+    "iso": "Acetamiprid",
+    "mw": 222.67,
+    "smiles": "C(N(/C(=N/C#N)/C)C)C=1C=CC(Cl)=NC1",
+    "pubchem": 213021,
+    "inchikey": "WCXDHFDTOYPNIE-RIYZIHGNSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Acibenzolar-S-methyl",
+    "ai": true,
+    "mw": 210.3,
+    "smiles": "CSC(=O)C1=C2C(=CC=C1)N=NS2",
+    "pubchem": 86412,
+    "inchikey": "UELITFHSCLAHKR-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides, plant activators"
+  },
+  {
+    "chent": "Aclonifen",
+    "ai": true,
+    "iso": "Aclonifen",
+    "mw": 264.66,
+    "smiles": "C1=CC=C(C=C1)OC2=C(C(=C(C=C2)[N+](=O)[O-])N)Cl",
+    "pubchem": 92389,
+    "inchikey": "DDBMQDADIHOWIC-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Aluminium phosphide",
+    "ai": true,
+    "mw": 57.955,
+    "smiles": "[Al]#P",
+    "pubchem": 30332,
+    "inchikey": "PPNXXZIBFHTHDM-UHFFFAOYSA-N",
+    "bcpc_activity": "rodenticides"
+  },
+  {
+    "chent": "Aluminium potassium sulfate",
+    "ai": true,
+    "mw": 258.21,
+    "smiles": "[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[K+]",
+    "pubchem": 24856,
+    "inchikey": "GRLPQNLYRHEGIJ-UHFFFAOYSA-J"
+  },
+  {
+    "chent": "Aluminium sulfate",
+    "ai": true,
+    "mw": 342.2,
+    "smiles": "[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[Al+3]",
+    "pubchem": 24850,
+    "inchikey": "DIZPMCHEQGEION-UHFFFAOYSA-H"
+  },
+  {
+    "chent": "Ametoctradin",
+    "ai": true,
+    "iso": "Ametoctradin",
+    "mw": 275.39,
+    "smiles": "CCCCCCCCC1=C(N2C(=NC=N2)N=C1CC)N",
+    "pubchem": 15604010,
+    "inchikey": "GGKQIOFASHYUJZ-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Amidosulfuron",
+    "ai": true,
+    "iso": "Amidosulfuron",
+    "mw": 369.4,
+    "smiles": "CN(S(=O)(=O)C)S(=O)(=O)NC(=O)NC1=NC(=CC(=N1)OC)OC",
+    "pubchem": 91777,
+    "inchikey": "CTTHWASMBLQOFR-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Aminopyralid",
+    "ai": true,
+    "iso": "Aminopyralid",
+    "mw": 207.01,
+    "smiles": "C1=C(C(=C(N=C1Cl)C(=O)O)Cl)N",
+    "pubchem": 213012,
+    "inchikey": "NIXXQNOQHKNPEJ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Amisulbrom",
+    "ai": true,
+    "iso": "Amisulbrom",
+    "mw": 466.3,
+    "smiles": "CC1=C(C2=C(N1S(=O)(=O)C3=NN(C=N3)S(=O)(=O)N(C)C)C=C(C=C2)F)Br",
+    "pubchem": 10238657,
+    "inchikey": "BREATYVWRHIPIY-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Amitrole",
+    "ai": true,
+    "iso": "Amitrole",
+    "mw": 84.08,
+    "smiles": "C1=NNC(=N1)N",
+    "pubchem": 1639,
+    "inchikey": "KLSJWNVTNUYHDU-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Atrazine",
+    "ai": true,
+    "iso": "Atrazine",
+    "mw": 215.68,
+    "smiles": "CCNC1=NC(=NC(=N1)Cl)NC(C)C",
+    "pubchem": 2256,
+    "inchikey": "MXWJVTOOROXGIU-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Atrazine-2-hydroxy",
+    "ai": false,
+    "mw": 197.24,
+    "smiles": "CCNC1=NC(=O)NC(=N1)NC(C)C",
+    "pubchem": 135398733,
+    "inchikey": "NFMIMWNQWAWNDW-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Atrazine-desethyl",
+    "ai": false,
+    "mw": 187.63,
+    "smiles": "CC(C)NC1=NC(=NC(=N1)N)Cl",
+    "pubchem": 22563,
+    "inchikey": "DFWFIQKMSFGDCQ-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Atrazine-desisopropyl",
+    "ai": false,
+    "mw": 173.6,
+    "smiles": "CCNC1=NC(=NC(=N1)N)Cl",
+    "pubchem": 13878,
+    "inchikey": "IVENSCMCQBJAKW-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Avermectin B1a",
+    "ai": true,
+    "mw": 873.1,
+    "smiles": "CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\\C)C",
+    "pubchem": 6434889,
+    "inchikey": "RRZXIRBKKLTSOM-XPNPUAGNSA-N"
+  },
+  {
+    "chent": "Avermectin B1b",
+    "ai": true,
+    "mw": 859,
+    "smiles": "C[C@H]1/C=C/C=C/2\\CO[C@H]3[C@@]2([C@@H](C=C([C@H]3O)C)C(=O)O[C@H]4C[C@@H](C/C=C(/[C@H]1O[C@H]5C[C@@H]([C@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O)OC)OC)\\C)O[C@]7(C4)C=C[C@@H]([C@H](O7)C(C)C)C)O",
+    "pubchem": 6858005,
+    "inchikey": "ZFUKERYTFURFGA-PVVXTEPVSA-N"
+  },
+  {
+    "chent": "Azadirachtin",
+    "ai": true,
+    "mw": 720.7,
+    "smiles": "C/C=C(\\C)/C(=O)O[C@H]1C[C@H]([C@]2(CO[C@@H]3[C@@H]2[C@]14CO[C@@]([C@H]4[C@]([C@@H]3O)(C)[C@@]56[C@@H]7C[C@H]([C@@]5(O6)C)[C@]8(C=CO[C@H]8O7)O)(C(=O)OC)O)C(=O)OC)OC(=O)C",
+    "pubchem": 5281303,
+    "inchikey": "FTNJWQUOZFUQQJ-NDAWSKJSSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Azoxystrobin",
+    "ai": true,
+    "iso": "Azoxystrobin",
+    "mw": 403.4,
+    "smiles": "CO/C=C(\\C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)/C(=O)OC",
+    "pubchem": 3034285,
+    "inchikey": "WFDXOXNFNRHQEC-GHRIWEEISA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Beflubutamid",
+    "ai": true,
+    "iso": "Beflubutamid",
+    "mw": 355.3,
+    "smiles": "CCC(C(=O)NCC1=CC=CC=C1)OC2=CC(=C(C=C2)F)C(F)(F)F",
+    "pubchem": 6451159,
+    "inchikey": "FFQPZWRNXKPNPX-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Benalaxyl",
+    "ai": true,
+    "iso": "Benalaxyl",
+    "mw": 325.4,
+    "smiles": "CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)CC2=CC=CC=C2",
+    "pubchem": 51369,
+    "inchikey": "CJPQIRJHIZUAQP-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Benalaxyl-M",
+    "ai": true,
+    "iso": "Benalaxyl-M",
+    "mw": 325.4,
+    "smiles": "CC1=C(C(=CC=C1)C)N([C@H](C)C(=O)OC)C(=O)CC2=CC=CC=C2",
+    "pubchem": 176648,
+    "inchikey": "CJPQIRJHIZUAQP-MRXNPFEDSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Bensulfuron-methyl",
+    "ai": true,
+    "mw": 410.4,
+    "smiles": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)OC)OC",
+    "pubchem": 54960,
+    "inchikey": "XMQFTWRPUQYINF-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Bentazone",
+    "ai": true,
+    "iso": "Bentazone",
+    "mw": 240.28,
+    "smiles": "CC(C)N1C(=O)C2=CC=CC=C2NS1(=O)=O",
+    "pubchem": 2328,
+    "inchikey": "ZOMSMJKLGFBRBS-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Benthiavalicarb-isopropyl",
+    "ai": true,
+    "mw": 381.5,
+    "smiles": "C[C@H](C1=NC2=C(S1)C=C(C=C2)F)NC(=O)[C@H](C(C)C)NC(=O)OC(C)C",
+    "pubchem": 53297381,
+    "inchikey": "USRKFGIXLGKMKU-ABAIWWIYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Benzovindiflupyr",
+    "ai": true,
+    "iso": "Benzovindiflupyr",
+    "mw": 398.2,
+    "smiles": "CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC3=C2C4CCC3C4=C(Cl)Cl",
+    "pubchem": 53491464,
+    "inchikey": "CCCGEKHKTPTUHJ-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Bifenazate",
+    "ai": true,
+    "iso": "Bifenazate",
+    "mw": 300.35,
+    "smiles": "CC(C)OC(=O)NNC1=C(C=CC(=C1)C2=CC=CC=C2)OC",
+    "pubchem": 176879,
+    "inchikey": "VHLKTXFWDRXILV-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides"
+  },
+  {
+    "chent": "Bifenox",
+    "ai": true,
+    "iso": "Bifenox",
+    "mw": 342.1,
+    "smiles": "COC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-]",
+    "pubchem": 39230,
+    "inchikey": "SUSRORUBZHMPCO-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Bifenthrin-(1R,3R)",
+    "ai": false,
+    "mw": 422.9,
+    "smiles": "CC1(C)[C@H](C(=O)OCc2cccc(c3ccccc3)c2C)[C@@H]1\\C=C(/Cl)C(F)(F)F",
+    "pubchem": 6442842,
+    "inchikey": "OMFRMAHOUUJSGP-IRHGGOMRSA-N"
+  },
+  {
+    "chent": "Bifenthrin-(1S,3S)",
+    "ai": false,
+    "mw": 422.9,
+    "smiles": "CC1(C)[C@@H](C(=O)OCc2cccc(c3ccccc3)c2C)[C@H]1\\C=C(/Cl)C(F)(F)F",
+    "pubchem": 10938769,
+    "inchikey": "OMFRMAHOUUJSGP-JHEGMOCKSA-N"
+  },
+  {
+    "chent": "Bixafen",
+    "ai": true,
+    "iso": "Bixafen",
+    "mw": 414.2,
+    "smiles": "CN1C=C(C(=N1)C(F)F)C(=O)NC2=C(C=C(C=C2)F)C3=CC(=C(C=C3)Cl)Cl",
+    "pubchem": 11434448,
+    "inchikey": "LDLMOOXUCMHBMZ-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Boscalid",
+    "ai": true,
+    "iso": "Boscalid",
+    "mw": 343.2,
+    "smiles": "C1=CC=C(C(=C1)C2=CC=C(C=C2)Cl)NC(=O)C3=C(N=CC=C3)Cl",
+    "pubchem": 213013,
+    "inchikey": "WYEMLYFITZORAB-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Bromoxynil",
+    "ai": true,
+    "iso": "Bromoxynil",
+    "mw": 276.91,
+    "smiles": "C1=C(C=C(C(=C1Br)O)Br)C#N",
+    "pubchem": 15531,
+    "inchikey": "UPMXNNIRAGDFEH-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Bromoxynil butyrate",
+    "ai": true,
+    "mw": 347,
+    "smiles": "CCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br",
+    "pubchem": 62526,
+    "inchikey": "PGMZYNZXIYOOHJ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Bromoxynil heptanoate",
+    "ai": true,
+    "mw": 389.08,
+    "smiles": "CCCCCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br",
+    "pubchem": 62119,
+    "inchikey": "BHZWBQPHPLFZSV-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Bromoxynil octanoate",
+    "ai": true,
+    "mw": 403.11,
+    "smiles": "CCCCCCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br",
+    "pubchem": 15533,
+    "inchikey": "DQKWXTIYGWPGOO-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Bromuconazole",
+    "ai": true,
+    "iso": "Bromuconazole",
+    "mw": 377.1,
+    "smiles": "C1C(COC1(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl)Br",
+    "pubchem": 3444,
+    "inchikey": "HJJVPARKXDDIQD-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Bupirimate",
+    "ai": true,
+    "iso": "Bupirimate",
+    "mw": 316.42,
+    "smiles": "CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C",
+    "pubchem": 38884,
+    "inchikey": "DSKJPMWIHSOYEA-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Buprofezin",
+    "ai": true,
+    "iso": "Buprofezin",
+    "mw": 305.4,
+    "smiles": "C(C)(C)N1\\C(=N\\C(C)(C)C)\\SCN(C1=O)C2=CC=CC=C2",
+    "pubchem": 50367,
+    "inchikey": "PRLVTUNWOQKEAI-VKAVYKQESA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Butafenacil",
+    "ai": true,
+    "iso": "Butafenacil",
+    "mw": 474.8,
+    "smiles": "CC(C)(C(=O)OCC=C)OC(=O)C1=C(C=CC(=C1)N2C(=O)C=C(N(C2=O)C)C(F)(F)F)Cl",
+    "pubchem": 11826859,
+    "inchikey": "JEDYYFXHPAIBGR-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "CGA232449",
+    "ai": false,
+    "mw": 241.29,
+    "smiles": "C1=CC=C(C=C1)NC2=NC(=CC(=N2)CO)C3CC3",
+    "pubchem": 19874094,
+    "inchikey": "KWORTNPHVKWENH-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "CGA249287",
+    "ai": false,
+    "mw": 149.19,
+    "smiles": "CC1=NC(=NC(=C1)C2CC2)N",
+    "pubchem": 13672658,
+    "inchikey": "KPMMRZPKAYBHME-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Calcium hydroxide",
+    "ai": true,
+    "mw": 74.09,
+    "smiles": "[OH-].[OH-].[Ca+2]",
+    "pubchem": 6093208,
+    "inchikey": "AXCZMVOFGPJBDE-UHFFFAOYSA-L"
+  },
+  {
+    "chent": "Calcium pentasulfide",
+    "ai": true,
+    "mw": 200.4,
+    "smiles": "[S-]SSS[S-].[Ca+2]",
+    "pubchem": 121494065,
+    "inchikey": "JNVCSEDACVAATK-UHFFFAOYSA-L"
+  },
+  {
+    "chent": "Calcium thiosulfate",
+    "ai": true,
+    "mw": 152.2,
+    "smiles": "[O-]S(=O)(=S)[O-].[Ca+2]",
+    "pubchem": 24964,
+    "inchikey": "FAYYUXPSKDFLEC-UHFFFAOYSA-L"
+  },
+  {
+    "chent": "Captan",
+    "ai": true,
+    "iso": "Captan",
+    "mw": 300.6,
+    "smiles": "C1C=CCC2C1C(=O)N(C2=O)SC(Cl)(Cl)Cl",
+    "pubchem": 8606,
+    "inchikey": "LDVVMCZRFWMZSG-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Carbendazim",
+    "ai": true,
+    "iso": "Carbendazim",
+    "mw": 191.19,
+    "smiles": "COC(=O)NC1=NC2=CC=CC=C2N1",
+    "pubchem": 25429,
+    "inchikey": "TWFZGCMQGLPBSX-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Carfentrazone-ethyl",
+    "ai": true,
+    "mw": 412.2,
+    "smiles": "CCOC(=O)C(CC1=CC(=C(C=C1Cl)F)N2C(=O)N(C(=N2)C)C(F)F)Cl",
+    "pubchem": 86222,
+    "inchikey": "MLKCGVHIFJBRCD-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Chlorantraniliprole",
+    "ai": true,
+    "iso": "Chlorantraniliprole",
+    "mw": 483.1,
+    "smiles": "CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)Cl",
+    "pubchem": 11271640,
+    "inchikey": "PSOVNZZNOMJUBI-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Chloridazon",
+    "ai": true,
+    "iso": "Chloridazon",
+    "mw": 221.64,
+    "smiles": "C1=CC=C(C=C1)N2C(=O)C(=C(C=N2)N)Cl",
+    "pubchem": 15546,
+    "inchikey": "WYKYKTKDBLFHCY-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Chlormequat",
+    "ai": true,
+    "iso": "Chlormequat",
+    "mw": 122.62,
+    "smiles": "C[N+](C)(C)CCCl",
+    "pubchem": 13837,
+    "inchikey": "JUZXDNPBRPUIOR-UHFFFAOYSA-N",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
+    "chent": "Chlorothalonil",
+    "ai": true,
+    "iso": "Chlorothalonil",
+    "mw": 265.9,
+    "smiles": "C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl",
+    "pubchem": 15910,
+    "inchikey": "CRQQGFGUEAVUIL-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Chlorothalonil-4-hydroxy",
+    "ai": false,
+    "mw": 247.5,
+    "smiles": "C(#N)C1=C(C(=C(C(=C1Cl)C#N)Cl)Cl)O",
+    "pubchem": 34217,
+    "inchikey": "MDQKYGOECVSPIW-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Chlorotoluron",
+    "ai": true,
+    "iso": "Chlorotoluron",
+    "mw": 212.67,
+    "smiles": "CC1=C(C=C(C=C1)NC(=O)N(C)C)Cl",
+    "pubchem": 27375,
+    "inchikey": "JXCGFZXSOMJFOA-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Chlorpyrifos",
+    "ai": true,
+    "iso": "Chlorpyrifos",
+    "mw": 350.6,
+    "smiles": "CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl",
+    "pubchem": 2730,
+    "inchikey": "SBPBAQFWLVIOKP-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Chlorpyrifos-methyl",
+    "ai": true,
+    "iso": "Chlorpyrifos-methyl",
+    "mw": 322.5,
+    "smiles": "COP(=S)(OC)OC1=NC(=C(C=C1Cl)Cl)Cl",
+    "pubchem": 21803,
+    "inchikey": "HRBKVYFZANMGRE-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Chromafenozide",
+    "ai": true,
+    "iso": "Chromafenozide",
+    "mw": 394.5,
+    "smiles": "CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C3=C(C=C2)OCCC3)C)C",
+    "pubchem": 10157484,
+    "inchikey": "HPNSNYBUADCFDR-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Cinerin I",
+    "ai": true,
+    "mw": 316.4,
+    "smiles": "C/C=C\\CC1=C([C@H](CC1=O)OC(=O)[C@@H]2[C@H](C2(C)C)C=C(C)C)C",
+    "pubchem": 5281547,
+    "inchikey": "FMTFEIJHMMQUJI-DFKXKMKHSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Cinerin II",
+    "ai": true,
+    "mw": 360.4,
+    "smiles": "C/C=C\\CC1=C([C@H](CC1=O)OC(=O)[C@@H]2[C@H](C2(C)C)/C=C(\\C)/C(=O)OC)C",
+    "pubchem": 5281548,
+    "inchikey": "SHCRDCOTRILILT-WOBDGSLYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Cinnamaldehyde",
+    "ai": true,
+    "mw": 132.16,
+    "smiles": "C1=CC=C(C=C1)/C=C/C=O",
+    "pubchem": 637511,
+    "inchikey": "KJPRLNWUNMBNBZ-QPJJXVBHSA-N"
+  },
+  {
+    "chent": "Clethodim",
+    "ai": true,
+    "iso": "Clethodim",
+    "mw": 359.9,
+    "smiles": "CCC(=NOC/C=C/Cl)C1=C(CC(CC1=O)CC(C)SCC)O",
+    "pubchem": 136469009,
+    "inchikey": "SILSDTWXNBZOGF-JWGBMQLESA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Clodinafop-propargyl",
+    "ai": true,
+    "mw": 349.7,
+    "smiles": "C[C@H](C(=O)OCC#C)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)Cl)F",
+    "pubchem": 92431,
+    "inchikey": "JBDHZKLJNAIJNC-LLVKDONJSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Clofentezine",
+    "ai": true,
+    "iso": "Clofentezine",
+    "mw": 303.1,
+    "smiles": "C1=CC=C(C(=C1)C2=NN=C(N=N2)C3=CC=CC=C3Cl)Cl",
+    "pubchem": 73670,
+    "inchikey": "UXADOQPNKNTIHB-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides"
+  },
+  {
+    "chent": "Clomazone",
+    "ai": true,
+    "iso": "Clomazone",
+    "mw": 239.7,
+    "smiles": "CC1(CON(C1=O)CC2=CC=CC=C2Cl)C",
+    "pubchem": 54778,
+    "inchikey": "KIEDNEWSYUYDSN-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Clopyralid",
+    "ai": true,
+    "iso": "Clopyralid",
+    "mw": 192,
+    "smiles": "C1=CC(=NC(=C1Cl)C(=O)O)Cl",
+    "pubchem": 15553,
+    "inchikey": "HUBANNPOLNYSAD-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Clothianidin",
+    "ai": true,
+    "iso": "Clothianidin",
+    "mw": 249.68,
+    "smiles": "CN/C(=N\\[N+](=O)[O-])/NCC1=CN=C(S1)Cl",
+    "pubchem": 86287519,
+    "inchikey": "PGOOBECODWQEAB-PQKPOUEINA-N",
+    "bcpc_activity": "insecticides (nitroguanidine)\n"
+  },
+  {
+    "chent": "Codlemone",
+    "ai": true,
+    "mw": 182.3,
+    "smiles": "C/C=C/C=C/CCCCCCCO",
+    "pubchem": 1787910,
+    "inchikey": "CSWBSLXBXRFNST-MQQKCMAXSA-N"
+  },
+  {
+    "chent": "Copper",
+    "ai": true,
+    "mw": 63.55,
+    "smiles": "[Cu]",
+    "pubchem": 23978,
+    "inchikey": "RYGMFSIKBFXOCR-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Copper oxychloride",
+    "ai": true,
+    "mw": 213.57,
+    "smiles": "[OH-].[OH-].[OH-].[Cl-].[Cu+2].[Cu+2]",
+    "pubchem": 11969527,
+    "inchikey": "SKQUUKNCBWILCD-UHFFFAOYSA-J",
+    "bcpc_activity": "bactericides, bird repellents, fungicides"
+  },
+  {
+    "chent": "Copper(I) oxide",
+    "ai": true,
+    "mw": 143.09,
+    "smiles": "[O-2].[Cu+].[Cu+]",
+    "pubchem": 10313194,
+    "inchikey": "KRFJLUBVMFXRPN-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Copper(II) chloride",
+    "ai": true,
+    "mw": 134.45,
+    "smiles": "Cl[Cu]Cl",
+    "pubchem": 24014,
+    "inchikey": "ORTQZVOHEJQUHG-UHFFFAOYSA-L"
+  },
+  {
+    "chent": "Copper(II) hydroxide",
+    "ai": true,
+    "mw": 97.56,
+    "smiles": "[OH-].[OH-].[Cu+2]",
+    "pubchem": 164826,
+    "inchikey": "JJLJMEJHUUYSSY-UHFFFAOYSA-L"
+  },
+  {
+    "chent": "Copper(II) nitrate",
+    "ai": true,
+    "mw": 187.56,
+    "smiles": "[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Cu+2]",
+    "pubchem": 18616,
+    "inchikey": "XTVVROIMIGLXTD-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Copper(II) sulfate",
+    "ai": true,
+    "mw": 159.61,
+    "smiles": "[O-]S(=O)(=O)[O-].[Cu+2]",
+    "pubchem": 24462,
+    "inchikey": "ARUVKPQLZAKDPS-UHFFFAOYSA-L"
+  },
+  {
+    "chent": "Cupric ion",
+    "ai": true,
+    "mw": 63.55,
+    "smiles": "[Cu+2]",
+    "pubchem": 27099,
+    "inchikey": "JPVYNHNXODAKFH-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Cyantraniliprole",
+    "ai": true,
+    "iso": "Cyantraniliprole",
+    "mw": 473.7,
+    "smiles": "CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N",
+    "pubchem": 11578610,
+    "inchikey": "DVBUIBGJRQBEDP-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Cyazofamid",
+    "ai": true,
+    "iso": "Cyazofamid",
+    "mw": 324.79,
+    "smiles": "CC1=CC=C(C=C1)C2=C(N=C(N2S(=O)(=O)N(C)C)C#N)Cl",
+    "pubchem": 9862076,
+    "inchikey": "YXKMMRDKEKCERS-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Cyflufenamid",
+    "ai": true,
+    "iso": "Cyflufenamid",
+    "mw": 412.4,
+    "smiles": "C1CC1CO/N=C(/C2=C(C=CC(=C2F)F)C(F)(F)F)\\NC(=O)CC3=CC=CC=C3",
+    "pubchem": 135515530,
+    "inchikey": "ACMXQHFNODYQAT-TWGOXAJXNA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Cyfluthrin",
+    "ai": true,
+    "iso": "Cyfluthrin",
+    "mw": 434.3,
+    "smiles": "CC1(C(C1C(=O)OC(C#N)C2=CC(=C(C=C2)F)OC3=CC=CC=C3)C=C(Cl)Cl)C",
+    "pubchem": 104926,
+    "inchikey": "QQODLKZGRKWIFG-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Cyfluthrin-(1R,3R,alphaR)",
+    "ai": false,
+    "mw": 436.31,
+    "smiles": "O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@H](\\C=C(\\Cl)Cl)C1(C)C"
+  },
+  {
+    "chent": "Cyfluthrin-(1R,3R,alphaS)",
+    "ai": false,
+    "mw": 436.31,
+    "smiles": "O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@H](\\C=C(\\Cl)Cl)C1(C)C"
+  },
+  {
+    "chent": "Cyfluthrin-(1R,3S,alphaR)",
+    "ai": false,
+    "mw": 436.31,
+    "smiles": "O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@@H](\\C=C(\\Cl)Cl)C1(C)C"
+  },
+  {
+    "chent": "Cyfluthrin-(1R,3S,alphaS)",
+    "ai": false,
+    "mw": 436.31,
+    "smiles": "O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@@H](\\C=C(\\Cl)Cl)C1(C)C"
+  },
+  {
+    "chent": "Cyfluthrin-(1S,3R,alphaR)",
+    "ai": false,
+    "mw": 436.31,
+    "smiles": "O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@H](\\C=C(\\Cl)Cl)C1(C)C"
+  },
+  {
+    "chent": "Cyfluthrin-(1S,3R,alphaS)",
+    "ai": false,
+    "mw": 436.31,
+    "smiles": "O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@H](\\C=C(\\Cl)Cl)C1(C)C"
+  },
+  {
+    "chent": "Cyfluthrin-(1S,3S,alphaR)",
+    "ai": false,
+    "mw": 436.31,
+    "smiles": "O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@@H](\\C=C(\\Cl)Cl)C1(C)C"
+  },
+  {
+    "chent": "Cyfluthrin-(1S,3S,alphaS)",
+    "ai": false,
+    "mw": 436.31,
+    "smiles": "O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@@H](\\C=C(\\Cl)Cl)C1(C)C"
+  },
+  {
+    "chent": "Cyhalothrin",
+    "ai": true,
+    "iso": "Cyhalothrin",
+    "mw": 449.8,
+    "smiles": "CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\\Cl)C",
+    "pubchem": 5281873,
+    "inchikey": "OOAOVGPMANECPJ-RWEUCVCFSA-N",
+    "bcpc_activity": "acaricides, insecticides"
+  },
+  {
+    "chent": "Cyhalothrin-(1S,3S,alphaR)",
+    "ai": false,
+    "mw": 449.8,
+    "smiles": "CC1([C@@H]([C@@H]1C(=O)O[C@@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\\Cl)C",
+    "pubchem": 6440557,
+    "inchikey": "ZXQYGBMAQZUVMI-RDDWSQKMSA-N"
+  },
+  {
+    "chent": "Cymoxanil",
+    "ai": true,
+    "iso": "Cymoxanil",
+    "mw": 198.18,
+    "smiles": "CCNC(=O)NC(=O)C(=NOC)C#N",
+    "pubchem": 42614,
+    "inchikey": "XERJKGMBORTKEO-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Cypermethrin",
+    "ai": true,
+    "iso": "Cypermethrin",
+    "mw": 416.3,
+    "smiles": "CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C",
+    "pubchem": 2912,
+    "inchikey": "KAATUXNTWXVJKI-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides, insecticides"
+  },
+  {
+    "chent": "Cypermethrin-(1R,3R,alphaR)",
+    "ai": false,
+    "mw": 416.3,
+    "smiles": "O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@H](\\C=C(\\Cl)Cl)C1(C)C",
+    "pubchem": 6455181,
+    "inchikey": "KAATUXNTWXVJKI-BJLQDIEVSA-N"
+  },
+  {
+    "chent": "Cypermethrin-(1R,3R,alphaS)",
+    "ai": false,
+    "mw": 416.3,
+    "smiles": "O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@H](\\C=C(\\Cl)Cl)C1(C)C",
+    "pubchem": 93357,
+    "inchikey": "KAATUXNTWXVJKI-NSHGMRRFSA-N"
+  },
+  {
+    "chent": "Cypermethrin-(1R,3S,alphaR)",
+    "ai": false,
+    "mw": 416.3,
+    "smiles": "O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@@H](\\C=C(\\Cl)Cl)C1(C)C",
+    "pubchem": 6455379,
+    "inchikey": "KAATUXNTWXVJKI-HBFSDRIKSA-N"
+  },
+  {
+    "chent": "Cypermethrin-(1R,3S,alphaS)",
+    "ai": false,
+    "mw": 416.3,
+    "smiles": "O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@@H](\\C=C(\\Cl)Cl)C1(C)C",
+    "pubchem": 91691,
+    "inchikey": "KAATUXNTWXVJKI-GGPKGHCWSA-N"
+  },
+  {
+    "chent": "Cypermethrin-(1S,3R,alphaR)",
+    "ai": false,
+    "mw": 416.3,
+    "smiles": "O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@H](\\C=C(\\Cl)Cl)C1(C)C",
+    "pubchem": 12617361,
+    "inchikey": "KAATUXNTWXVJKI-CMKODMSKSA-N"
+  },
+  {
+    "chent": "Cypermethrin-(1S,3R,alphaS)",
+    "ai": false,
+    "mw": 416.3,
+    "smiles": "O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@H](\\C=C(\\Cl)Cl)C1(C)C",
+    "pubchem": 16722142,
+    "inchikey": "KAATUXNTWXVJKI-NLWGTHIKSA-N"
+  },
+  {
+    "chent": "Cypermethrin-(1S,3S,alphaR)",
+    "ai": false,
+    "mw": 416.3,
+    "smiles": "O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@@H](\\C=C(\\Cl)Cl)C1(C)C",
+    "pubchem": 3086172,
+    "inchikey": "KAATUXNTWXVJKI-WSTZPKSXSA-N"
+  },
+  {
+    "chent": "Cypermethrin-(1S,3S,alphaS)",
+    "ai": false,
+    "mw": 416.3,
+    "smiles": "O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@@H](\\C=C(\\Cl)Cl)C1(C)C",
+    "pubchem": 189554,
+    "inchikey": "KAATUXNTWXVJKI-QWFCFKBJSA-N"
+  },
+  {
+    "chent": "Cyproconazole",
+    "ai": true,
+    "iso": "Cyproconazole",
+    "mw": 291.77,
+    "smiles": "CC(C1CC1)C(CN2C=NC=N2)(C3=CC=C(C=C3)Cl)O",
+    "pubchem": 86132,
+    "inchikey": "UFNOUKDBUJZYDE-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Cyprodinil",
+    "ai": true,
+    "iso": "Cyprodinil",
+    "mw": 225.29,
+    "smiles": "CC1=CC(=NC(=N1)NC2=CC=CC=C2)C3CC3",
+    "pubchem": 86367,
+    "inchikey": "HAORKNGNJCEJBX-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Daminozide",
+    "ai": true,
+    "iso": "Daminozide",
+    "mw": 160.17,
+    "smiles": "CN(C)NC(=O)CCC(=O)O",
+    "pubchem": 15331,
+    "inchikey": "NOQGZXFMHARMLW-UHFFFAOYSA-N",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
+    "chent": "Dazomet",
+    "ai": true,
+    "iso": "Dazomet",
+    "mw": 162.3,
+    "smiles": "CN1CN(C(=S)SC1)C",
+    "pubchem": 10788,
+    "inchikey": "QAYICIQNSGETAS-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides, herbicides, nematicides"
+  },
+  {
+    "chent": "Deltamethrin",
+    "ai": true,
+    "iso": "Deltamethrin",
+    "mw": 505.2,
+    "smiles": "CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C",
+    "pubchem": 40585,
+    "inchikey": "OWZREIFADZCYQD-NSHGMRRFSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Desmedipham",
+    "ai": true,
+    "iso": "Desmedipham",
+    "mw": 300.31,
+    "smiles": "CCOC(=O)NC1=CC(=CC=C1)OC(=O)NC2=CC=CC=C2",
+    "pubchem": 24743,
+    "inchikey": "WZJZMXBKUWKXTQ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Desmethoxy-linuron",
+    "ai": false,
+    "mw": 219.06,
+    "smiles": "CNC(=O)NC1=CC(=C(C=C1)Cl)Cl",
+    "pubchem": 19113,
+    "inchikey": "IDQHRQQSSQDLTR-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Dicamba",
+    "ai": true,
+    "iso": "Dicamba",
+    "mw": 221.03,
+    "smiles": "COC1=C(C=CC(=C1C(=O)O)Cl)Cl",
+    "pubchem": 3030,
+    "inchikey": "IWEDIXLBFLAXBO-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Dichlobenil",
+    "ai": true,
+    "iso": "Dichlobenil",
+    "mw": 172.01,
+    "smiles": "C1=CC(=C(C(=C1)Cl)C#N)Cl",
+    "pubchem": 3031,
+    "inchikey": "YOYAIZYFCNQIRF-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Difenoconazole",
+    "ai": true,
+    "iso": "Difenoconazole",
+    "mw": 406.3,
+    "smiles": "CC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)OC4=CC=C(C=C4)Cl)Cl",
+    "pubchem": 86173,
+    "inchikey": "BQYJATMQXGBDHF-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Diflubenzuron",
+    "ai": true,
+    "iso": "Diflubenzuron",
+    "mw": 310.68,
+    "smiles": "C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC=C(C=C2)Cl)F",
+    "pubchem": 37123,
+    "inchikey": "QQQYTWIFVNKMRW-UHFFFAOYSA-N",
+    "bcpc_activity": "chemosterilants, insecticides"
+  },
+  {
+    "chent": "Diflufenican",
+    "ai": true,
+    "iso": "Diflufenican",
+    "mw": 394.3,
+    "smiles": "C1=CC(=CC(=C1)OC2=C(C=CC=N2)C(=O)NC3=C(C=C(C=C3)F)F)C(F)(F)F",
+    "pubchem": 91735,
+    "inchikey": "WYEHFWKAOXOVJD-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Diflufenzopyr",
+    "ai": true,
+    "iso": "Diflufenzopyr",
+    "mw": 334.28,
+    "smiles": "C/C(=N\\NC(=O)NC1=CC(=CC(=C1)F)F)/C2=C(C=CC=N2)C(=O)O",
+    "pubchem": 6125184,
+    "inchikey": "IRJQWZWMQCVOLA-DNTJNYDQSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Dimethachlor",
+    "ai": true,
+    "iso": "Dimethachlor",
+    "mw": 255.74,
+    "smiles": "CC1=C(C(=CC=C1)C)N(CCOC)C(=O)CCl",
+    "pubchem": 39722,
+    "inchikey": "SCCDDNKJYDZXMM-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Dimethenamid-P",
+    "ai": true,
+    "iso": "Dimethenamid-P",
+    "mw": 275.8,
+    "smiles": "CC1=CSC(=C1N([C@@H](C)COC)C(=O)CCl)C",
+    "pubchem": 13633097,
+    "inchikey": "JLYFCTQDENRSOL-VIFPVBQESA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Dimethoate",
+    "ai": true,
+    "iso": "Dimethoate",
+    "mw": 229.3,
+    "smiles": "CNC(=O)CSP(=S)(OC)OC",
+    "pubchem": 3082,
+    "inchikey": "MCWXGJITAZMZEV-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides, insecticides, nematicides"
+  },
+  {
+    "chent": "Dimethomorph",
+    "ai": true,
+    "iso": "Dimethomorph",
+    "mw": 387.9,
+    "smiles": "COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)Cl)OC",
+    "pubchem": 86298,
+    "inchikey": "QNBTYORWCCMPQP-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Dimoxystrobin",
+    "ai": true,
+    "iso": "Dimoxystrobin",
+    "mw": 326.4,
+    "smiles": "CC1=CC(=C(C=C1)C)OCC2=CC=CC=C2/C(=N\\OC)/C(=O)NC",
+    "pubchem": 10936292,
+    "inchikey": "WXUZAHCNPWONDH-DYTRJAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Diquat",
+    "ai": true,
+    "iso": "Diquat",
+    "mw": 184.24,
+    "smiles": "C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31",
+    "pubchem": 6795,
+    "inchikey": "SYJFEGQWDCRVNX-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Disodium phosphonate",
+    "ai": true,
+    "mw": 124.952,
+    "smiles": "[O-]P(=O)=O.[Na+].[Na+]",
+    "pubchem": 6336603,
+    "inchikey": "IIRVGTWONXBBAW-UHFFFAOYSA-M"
+  },
+  {
+    "chent": "Dithianon",
+    "ai": true,
+    "iso": "Dithianon",
+    "mw": 296.3,
+    "smiles": "C1=CC=C2C(=C1)C(=O)C3=C(C2=O)SC(=C(S3)C#N)C#N",
+    "pubchem": 18771,
+    "inchikey": "PYZSVQVRHDXQSL-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Diuron",
+    "ai": true,
+    "iso": "Diuron",
+    "mw": 233.09,
+    "smiles": "CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl",
+    "pubchem": 3120,
+    "inchikey": "XMTQQYYKAHVGBJ-UHFFFAOYSA-N",
+    "bcpc_activity": "algicides, herbicides"
+  },
+  {
+    "chent": "Dodemorph",
+    "ai": true,
+    "iso": "Dodemorph",
+    "mw": 281.5,
+    "smiles": "CC1CN(CC(O1)C)C2CCCCCCCCCCC2",
+    "pubchem": 61899,
+    "inchikey": "JMXKCYUTURMERF-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Dodine",
+    "ai": true,
+    "iso": "Dodine",
+    "mw": 287.44,
+    "smiles": "CCCCCCCCCCCCN=C(N)N.CC(=O)O",
+    "pubchem": 17110,
+    "inchikey": "YIKWKLYQRFRGPM-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Emamectin benzoate B1a",
+    "ai": true,
+    "mw": 1008.2,
+    "smiles": "CCC(C)C1C(C=CC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)NC)OC)OC)C)C.C1=CC=C(C=C1)C(=O)O",
+    "pubchem": 53394847,
+    "inchikey": "GCKZANITAMOIAR-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Emamectin benzoate B1b",
+    "ai": true,
+    "mw": 994.2,
+    "smiles": "CC1C=CC=C2COC3C2(C(C=C(C3O)C)C(=O)OC4CC(CC=C(C1OC5CC(C(C(O5)C)OC6CC(C(C(O6)C)NC)OC)OC)C)OC7(C4)C=CC(C(O7)C(C)C)C)O.C1=CC=C(C=C1)C(=O)O",
+    "pubchem": 78122634,
+    "inchikey": "ISGYOHXFFCGHKT-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Endosulfan sulfate",
+    "ai": false,
+    "mw": 422.9,
+    "smiles": "C1C2C(COS(=O)(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl",
+    "pubchem": 13940,
+    "inchikey": "AAPVQEMYVNZIOO-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Epoxiconazole",
+    "ai": true,
+    "iso": "Epoxiconazole",
+    "mw": 329.8,
+    "smiles": "C([C@]1([C@H](O1)C2=C(Cl)C=CC=C2)C3=CC=C(F)C=C3)N4C=NC=N4",
+    "pubchem": 107901,
+    "inchikey": "ZMYFCFLJBGAQRS-IAGOWNOFSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Ethaboxam",
+    "ai": true,
+    "iso": "Ethaboxam",
+    "mw": 320.4,
+    "smiles": "CCC1=C(SC(=N1)NCC)C(=O)NC(C#N)C2=CC=CS2",
+    "pubchem": 11174640,
+    "inchikey": "NQRFDNJEBWAUBL-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Ethametsulfuron methyl",
+    "ai": true,
+    "mw": 410.4,
+    "smiles": "CCOC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)NC",
+    "pubchem": 91756,
+    "inchikey": "ZINJLDJMHCUBIP-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Ethephon",
+    "ai": true,
+    "iso": "Ethephon",
+    "mw": 144.49,
+    "smiles": "C(CCl)P(=O)(O)O",
+    "pubchem": 27982,
+    "inchikey": "UDPGUMQDCGORJQ-UHFFFAOYSA-N",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
+    "chent": "Ethirimol",
+    "ai": true,
+    "iso": "Ethirimol",
+    "mw": 209.29,
+    "smiles": "CCCCC1=C(NC(=NC1=O)NCC)C",
+    "pubchem": 32152,
+    "inchikey": "BBXXLROWFHWFQY-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Ethofumesate",
+    "ai": true,
+    "iso": "Ethofumesate",
+    "mw": 286.35,
+    "smiles": "CCOC1C(C2=C(O1)C=CC(=C2)OS(=O)(=O)C)(C)C",
+    "pubchem": 33360,
+    "inchikey": "IRCMYGHHKLLGHV-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Etofenprox",
+    "ai": true,
+    "iso": "Etofenprox",
+    "mw": 376.5,
+    "smiles": "CCOC1=CC=C(C=C1)C(C)(C)COCC2=CC(=CC=C2)OC3=CC=CC=C3",
+    "pubchem": 71245,
+    "inchikey": "YREQHYQNNWYQCJ-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Etoxazole",
+    "ai": true,
+    "iso": "Etoxazole",
+    "mw": 359.4,
+    "smiles": "CCOC1=C(C=CC(=C1)C(C)(C)C)C2COC(=N2)C3=C(C=CC=C3F)F",
+    "pubchem": 153974,
+    "inchikey": "IXSZQYVWNJNRAL-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides"
+  },
+  {
+    "chent": "Famoxadone",
+    "ai": true,
+    "iso": "Famoxadone",
+    "mw": 374.4,
+    "smiles": "CC1(C(=O)N(C(=O)O1)NC2=CC=CC=C2)C3=CC=C(C=C3)OC4=CC=CC=C4",
+    "pubchem": 213032,
+    "inchikey": "PCCSBWNGDMYFCW-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fenamidone",
+    "ai": true,
+    "iso": "Fenamidone",
+    "mw": 311.4,
+    "smiles": "C[C@@]1(C(=O)N(C(=N1)SC)NC2=CC=CC=C2)C3=CC=CC=C3",
+    "pubchem": 10403199,
+    "inchikey": "LMVPQMGRYSRMIW-KRWDZBQOSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fenarimol",
+    "ai": true,
+    "iso": "Fenarimol",
+    "mw": 331.2,
+    "smiles": "C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)(C3=CN=CN=C3)O)Cl",
+    "pubchem": 43226,
+    "inchikey": "NHOWDZOIZKMVAI-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fenazaquin",
+    "ai": true,
+    "iso": "Fenazaquin",
+    "mw": 306.4,
+    "smiles": "CC(C)(C)C1=CC=C(C=C1)CCOC2=NC=NC3=CC=CC=C32",
+    "pubchem": 86356,
+    "inchikey": "DMYHGDXADUDKCQ-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides, fungicides"
+  },
+  {
+    "chent": "Fenhexamid",
+    "ai": true,
+    "iso": "Fenhexamid",
+    "mw": 302.2,
+    "smiles": "CC1(CCCCC1)C(=O)NC2=C(C(=C(C=C2)O)Cl)Cl",
+    "pubchem": 213031,
+    "inchikey": "VDLGAVXLJYLFDH-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fenoxaprop-P-ethyl",
+    "ai": true,
+    "mw": 361.8,
+    "smiles": "CCOC(=O)[C@@H](C)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl",
+    "pubchem": 91707,
+    "inchikey": "PQKBPHSEKWERTG-LLVKDONJSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Fenoxycarb",
+    "ai": true,
+    "iso": "Fenoxycarb",
+    "mw": 301.34,
+    "smiles": "CCOC(=O)NCCOC1=CC=C(C=C1)OC2=CC=CC=C2",
+    "pubchem": 51605,
+    "inchikey": "HJUFTIJOISQSKQ-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Fenpicoxamid",
+    "ai": true,
+    "iso": "Fenpicoxamid",
+    "mw": 614.6,
+    "smiles": "C[C@H]1[C@@H]([C@H](C(=O)OC[C@@H](C(=O)O1)NC(=O)C2=NC=CC(=C2OCOC(=O)C(C)C)OC)CC3=CC=CC=C3)OC(=O)C(C)C",
+    "pubchem": 51039126,
+    "inchikey": "QGTOTYJSCYHYFK-RBODFLQRSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fenpropidin",
+    "ai": true,
+    "iso": "Fenpropidin",
+    "mw": 273.5,
+    "smiles": "CC(CC1=CC=C(C=C1)C(C)(C)C)CN2CCCCC2",
+    "pubchem": 91694,
+    "inchikey": "MGNFYQILYYYUBS-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fenpropimorph",
+    "ai": true,
+    "iso": "Fenpropimorph",
+    "mw": 303.5,
+    "smiles": "C[C@@H]1CN(C[C@@H](O1)C)CC(C)CC2=CC=C(C=C2)C(C)(C)C",
+    "pubchem": 93365,
+    "inchikey": "RYAUSSKQMZRMAI-ALOPSCKCSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fenpyrazamine",
+    "ai": true,
+    "iso": "Fenpyrazamine",
+    "mw": 331.4,
+    "smiles": "CC1=CC=CC=C1C2=C(N(N(C2=O)C(C)C)C(=O)SCC=C)N",
+    "pubchem": 11493665,
+    "inchikey": "UTOHZQYBSYOOGC-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fenpyroximate",
+    "ai": true,
+    "iso": "Fenpyroximate",
+    "mw": 421.5,
+    "smiles": "CC1=NN(C(=C1/C=N/OCC2=CC=C(C=C2)C(=O)OC(C)(C)C)OC3=CC=CC=C3)C",
+    "pubchem": 9576412,
+    "inchikey": "YYJNOYZRYGDPNH-MFKUBSTISA-N",
+    "bcpc_activity": "acaricides"
+  },
+  {
+    "chent": "Ferric phosphate",
+    "ai": true,
+    "mw": 150.82,
+    "smiles": "[O-]P(=O)([O-])[O-].[Fe+3]",
+    "pubchem": 24861,
+    "inchikey": "WBJZTOZJJYAKHQ-UHFFFAOYSA-K",
+    "bcpc_activity": "molluscicides"
+  },
+  {
+    "chent": "Fipronil",
+    "ai": true,
+    "iso": "Fipronil",
+    "mw": 437.1,
+    "smiles": "C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F",
+    "pubchem": 3352,
+    "inchikey": "ZOCSXAVNDGMNBV-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides, insecticides"
+  },
+  {
+    "chent": "Flazasulfuron",
+    "ai": true,
+    "iso": "Flazasulfuron",
+    "mw": 407.33,
+    "smiles": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC=N2)C(F)(F)F)OC",
+    "pubchem": 93539,
+    "inchikey": "HWATZEJQIXKWQS-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Flonicamid",
+    "ai": true,
+    "iso": "Flonicamid",
+    "mw": 229.16,
+    "smiles": "C1=CN=CC(=C1C(F)(F)F)C(=O)NCC#N",
+    "pubchem": 9834513,
+    "inchikey": "RLQJEEJISHYWON-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Florasulam",
+    "ai": true,
+    "iso": "Florasulam",
+    "mw": 359.29,
+    "smiles": "COC1=NC=C(C2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3F)F)F",
+    "pubchem": 11700495,
+    "inchikey": "QZXATCCPQKOEIH-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Fluazifop-P-butyl",
+    "ai": true,
+    "mw": 383.4,
+    "smiles": "CCCCOC(=O)[C@@H](C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F",
+    "pubchem": 3033674,
+    "inchikey": "VAIZTNZGPYBOGF-CYBMUJFWSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Fluazinam",
+    "ai": true,
+    "iso": "Fluazinam",
+    "mw": 465.09,
+    "smiles": "C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F",
+    "pubchem": 91731,
+    "inchikey": "UZCGKGPEKUCDTF-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fludioxonil",
+    "ai": true,
+    "iso": "Fludioxonil",
+    "mw": 248.18,
+    "smiles": "C1=CC(=C2C(=C1)OC(O2)(F)F)C3=CNC=C3C#N",
+    "pubchem": 86398,
+    "inchikey": "MUJOIMFVNIBMKC-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Flufenacet",
+    "ai": true,
+    "iso": "Flufenacet",
+    "mw": 363.33,
+    "smiles": "CC(C)N(C1=CC=C(C=C1)F)C(=O)COC2=NN=C(S2)C(F)(F)F",
+    "pubchem": 86429,
+    "inchikey": "IANUJLZYFUDJIH-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Flumioxazin",
+    "ai": true,
+    "iso": "Flumioxazin",
+    "mw": 354.3,
+    "smiles": "C#CCN1C(=O)COC2=CC(=C(C=C21)N3C(=O)C4=C(C3=O)CCCC4)F",
+    "pubchem": 92425,
+    "inchikey": "FOUWCSDKDDHKQP-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Fluopicolide",
+    "ai": true,
+    "iso": "Fluopicolide",
+    "mw": 383.6,
+    "smiles": "C1=CC(=C(C(=C1)Cl)C(=O)NCC2=C(C=C(C=N2)C(F)(F)F)Cl)Cl",
+    "pubchem": 11159021,
+    "inchikey": "GBOYJIHYACSLGN-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fluopyram",
+    "ai": true,
+    "iso": "Fluopyram",
+    "mw": 396.71,
+    "smiles": "C1=CC=C(C(=C1)C(=O)NCCC2=C(C=C(C=N2)C(F)(F)F)Cl)C(F)(F)F",
+    "pubchem": 11158353,
+    "inchikey": "KVDJTXBXMWJJEF-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides, nematicides"
+  },
+  {
+    "chent": "Fluoxastrobin",
+    "ai": true,
+    "iso": "Fluoxastrobin",
+    "mw": 458.8,
+    "smiles": "CO/N=C(\\C1=CC=CC=C1OC2=C(C(=NC=N2)OC3=CC=CC=C3Cl)F)/C4=NOCCO4",
+    "pubchem": 11048796,
+    "inchikey": "UFEODZBUAFNAEU-NLRVBDNBSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Flupyradifurone",
+    "ai": true,
+    "iso": "Flupyradifurone",
+    "mw": 288.68,
+    "smiles": "C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F",
+    "pubchem": 16752772,
+    "inchikey": "QOIYTRGFOFZNKF-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Flupyrsulfuron-methyl-sodium",
+    "ai": true,
+    "mw": 487.3,
+    "smiles": "COC1=CC(=NC(=N1)NC(=O)[N-]S(=O)(=O)C2=C(C=CC(=N2)C(F)(F)F)C(=O)OC)OC.[Na+]",
+    "pubchem": 15764724,
+    "inchikey": "JKPSVOHVUGMYGH-UHFFFAOYSA-M",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Fluquinconazole",
+    "ai": true,
+    "iso": "Fluquinconazole",
+    "mw": 376.2,
+    "smiles": "C1=CC2=C(C=C1F)C(=O)N(C(=N2)N3C=NC=N3)C4=C(C=C(C=C4)Cl)Cl",
+    "pubchem": 86417,
+    "inchikey": "IJJVMEJXYNJXOJ-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Flurochloridone",
+    "ai": true,
+    "iso": "Flurochloridone",
+    "mw": 312.11,
+    "smiles": "C1C(C(C(=O)N1C2=CC=CC(=C2)C(F)(F)F)Cl)CCl",
+    "pubchem": 91677,
+    "inchikey": "OQZCSNDVOWYALR-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Fluroxypyr",
+    "ai": true,
+    "iso": "Fluroxypyr",
+    "mw": 255.03,
+    "smiles": "C(C(=O)O)OC1=NC(=C(C(=C1Cl)N)Cl)F",
+    "pubchem": 50465,
+    "inchikey": "MEFQWPUMEMWTJP-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Flusilazole",
+    "ai": true,
+    "iso": "Flusilazole",
+    "mw": 315.39,
+    "smiles": "C[Si](CN1C=NC=N1)(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F",
+    "pubchem": 73675,
+    "inchikey": "FQKUGOMFVDPBIZ-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Flutianil",
+    "ai": true,
+    "iso": "Flutianil",
+    "mw": 426.5,
+    "smiles": "COC1=CC=CC=C1N\\2CCS/C2=C(/C#N)\\SC3=C(C=CC(=C3)C(F)(F)F)F",
+    "pubchem": 44151818,
+    "inchikey": "KGXUEPOHGFWQKF-ZCXUNETKSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Flutolanil",
+    "ai": true,
+    "iso": "Flutolanil",
+    "mw": 323.31,
+    "smiles": "CC(C)OC1=CC=CC(=C1)NC(=O)C2=CC=CC=C2C(F)(F)F",
+    "pubchem": 47898,
+    "inchikey": "PTCGDEVVHUXTMP-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Fluxapyroxad",
+    "ai": true,
+    "iso": "Fluxapyroxad",
+    "mw": 381.3,
+    "smiles": "CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3=CC(=C(C(=C3)F)F)F",
+    "pubchem": 16095400,
+    "inchikey": "SXSGXWCSHSVPGB-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Folpet",
+    "ai": true,
+    "iso": "Folpet",
+    "mw": 296.6,
+    "smiles": "C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl",
+    "pubchem": 8607,
+    "inchikey": "HKIOYBQGHSTUDB-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Foramsulfuron",
+    "ai": true,
+    "iso": "Foramsulfuron",
+    "mw": 452.4,
+    "smiles": "CN(C)C(=O)C1=C(C=C(C=C1)NC=O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "pubchem": 11419598,
+    "inchikey": "PXDNXJSDGQBLKS-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Fosetyl",
+    "ai": true,
+    "iso": "Fosetyl",
+    "mw": 109.04,
+    "smiles": "CCO[P+](=O)O",
+    "pubchem": 6328134,
+    "inchikey": "VUERQRKTYBIULR-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides, plant activators"
+  },
+  {
+    "chent": "Fosetyl-aluminium",
+    "ai": true,
+    "mw": 351.08,
+    "smiles": "CCOP(=O)=O.CCOP(=O)=O.CCOP(=O)=O.[Al+3]",
+    "pubchem": 6328269,
+    "inchikey": "ZKZMJOFIHHZSRW-UHFFFAOYSA-K",
+    "bcpc_activity": "fungicides, plant activators"
+  },
+  {
+    "chent": "Gamma-cyhalothrin",
+    "ai": true,
+    "iso": "Gamma-cyhalothrin",
+    "mw": 449.8,
+    "smiles": "CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\\Cl)C",
+    "pubchem": 6440554,
+    "inchikey": "ZXQYGBMAQZUVMI-GCMPRSNUSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Gibberellic acid",
+    "ai": true,
+    "mw": 346.4,
+    "smiles": "C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@](C4)(C(=C)C5)O)C(=O)O)OC2=O)O",
+    "pubchem": 6466,
+    "inchikey": "IXORZMNAPKEEDV-OBDJNFEBSA-N",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
+    "chent": "Gibberellin A4",
+    "ai": true,
+    "mw": 332.4,
+    "smiles": "C[C@@]12[C@H](CC[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O)O",
+    "pubchem": 92109,
+    "inchikey": "RSQSQJNRHICNNH-NFMPGMCNSA-N"
+  },
+  {
+    "chent": "Gibberellin A7",
+    "ai": true,
+    "mw": 330.4,
+    "smiles": "C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O)O",
+    "pubchem": 92782,
+    "inchikey": "SEEGHKWOBVVBTQ-NFMPGMCNSA-N"
+  },
+  {
+    "chent": "Glufosinate",
+    "ai": true,
+    "iso": "Glufosinate",
+    "mw": 181.13,
+    "smiles": "CP(=O)(CCC(C(=O)O)N)O",
+    "pubchem": 4794,
+    "inchikey": "IAJOBQBIJHVGMQ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Glufosinate-ammonium",
+    "ai": true,
+    "mw": 198.16,
+    "smiles": "CP(=O)(CCC(C(=O)[O-])N)O.[NH4+]",
+    "pubchem": 53597,
+    "inchikey": "ZBMRKNMTMPPMMK-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Glyphosate",
+    "ai": true,
+    "iso": "Glyphosate",
+    "mw": 169.07,
+    "smiles": "C(C(=O)O)NCP(=O)(O)O",
+    "pubchem": 3496,
+    "inchikey": "XDDAORKBJWWYJS-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Halauxifen-methyl",
+    "ai": true,
+    "mw": 345.1,
+    "smiles": "COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2)N)Cl)C(=O)OC)Cl",
+    "pubchem": 16656802,
+    "inchikey": "KDHKOPYYWOHESS-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Halosulfuron-methyl",
+    "ai": true,
+    "mw": 434.81,
+    "smiles": "CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "pubchem": 91763,
+    "inchikey": "FMGZEUWROYGLAY-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Haloxyfop-P-methyl",
+    "ai": true,
+    "mw": 375.72,
+    "smiles": "C[C@H](C(=O)OC)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl",
+    "pubchem": 13363033,
+    "inchikey": "MFSWTRQUCLNFOM-SECBINFHSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Hexaflumuron",
+    "ai": true,
+    "iso": "Hexaflumuron",
+    "mw": 461.1,
+    "smiles": "C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2)Cl)OC(C(F)F)(F)F)Cl)F",
+    "pubchem": 91741,
+    "inchikey": "RGNPBRKPHBKNKX-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Hymexazol",
+    "ai": true,
+    "iso": "Hymexazol",
+    "mw": 99.09,
+    "smiles": "CC1=CC(=O)NO1",
+    "pubchem": 24781,
+    "inchikey": "KGVPNLBXJKTABS-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides, plant growth regulators"
+  },
+  {
+    "chent": "IB-1-1",
+    "ai": false,
+    "mw": 204.23,
+    "smiles": "O=C1NC2C(CN(C)C(\\C)=N\\C#N)=CC12",
+    "pubchem": 165363149,
+    "inchikey": "GPASAKLEYDRUCH-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "IC-0",
+    "ai": false,
+    "mw": 157.55,
+    "smiles": "OC(=O)c1cnc(Cl)cc1",
+    "pubchem": 79222,
+    "inchikey": "UAWMVMPAYRWUFX-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "IM-1-2",
+    "ai": false,
+    "mw": 240.69,
+    "smiles": "Clc1ccc(CN(C)C(\\C)=N\\C(N)=O)cn1",
+    "pubchem": 73325014,
+    "inchikey": "ISBUGOZWWNMPPC-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "IM-1-4",
+    "ai": false,
+    "mw": 156.61,
+    "smiles": "Clc1ccc(CNC)cn1",
+    "pubchem": 11094883,
+    "inchikey": "XALCOJXGWJXWBL-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "IM-1-5",
+    "ai": false,
+    "mw": 197.66,
+    "smiles": "Clc1ccc(CN(C)C(C)=N)cn1",
+    "pubchem": 19967186,
+    "inchikey": "JHZWQGRBAHJYIZ-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Imazalil",
+    "ai": true,
+    "iso": "Imazalil",
+    "mw": 297.2,
+    "smiles": "C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl",
+    "pubchem": 37175,
+    "inchikey": "PZBPKYOVPCNPJY-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Imazamox",
+    "ai": true,
+    "iso": "Imazamox",
+    "mw": 305.33,
+    "smiles": "CC(C)C1(C(=O)NC(=N1)C2=C(C=C(C=N2)COC)C(=O)O)C",
+    "pubchem": 86137,
+    "inchikey": "NUPJIGQFXCQJBK-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Imidacloprid",
+    "ai": true,
+    "iso": "Imidacloprid",
+    "mw": 255.66,
+    "smiles": "C(N1\\C(=N\\N(=O)=O)\\NCC1)C=2C=CC(Cl)=NC2",
+    "pubchem": 86287518,
+    "inchikey": "YWTYJOPNNQFBPC-DLSJENCCNA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Indoxacarb",
+    "ai": true,
+    "iso": "Indoxacarb",
+    "mw": 527.8,
+    "smiles": "COC(=O)[C@]12CC3=C(C1=NN(CO2)C(=O)N(C4=CC=C(C=C4)OC(F)(F)F)C(=O)OC)C=CC(=C3)Cl",
+    "pubchem": 107720,
+    "inchikey": "VBCVPMMZEGZULK-NRFANRHFSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Iodosulfuron-methyl-sodium",
+    "ai": true,
+    "mw": 529.24,
+    "smiles": "CC1=NC(=NC(=N1)OC)NC(=O)[N-]S(=O)(=O)C2=C(C=CC(=C2)I)C(=O)OC.[Na+]",
+    "pubchem": 16760189,
+    "inchikey": "JUJFQMPKBJPSFZ-UHFFFAOYSA-M",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Ioxynil",
+    "ai": true,
+    "iso": "Ioxynil",
+    "mw": 370.91,
+    "smiles": "C1=C(C=C(C(=C1I)O)I)C#N",
+    "pubchem": 15530,
+    "inchikey": "NRXQIUSYPAHGNM-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Iprovalicarb",
+    "ai": true,
+    "iso": "Iprovalicarb",
+    "mw": 320.4,
+    "smiles": "CC1=CC=C(C=C1)C(C)NC(=O)[C@H](C(C)C)NC(=O)OC(C)C",
+    "pubchem": 10958189,
+    "inchikey": "NWUWYYSKZYIQAE-WMCAAGNKSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Isofetamid",
+    "ai": true,
+    "iso": "Isofetamid",
+    "mw": 359.5,
+    "smiles": "CC1=C(SC=C1)C(=O)NC(C)(C)C(=O)C2=C(C=C(C=C2)OC(C)C)C",
+    "pubchem": 71657865,
+    "inchikey": "WMKZDPFZIZQROT-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Isoproturon",
+    "ai": true,
+    "iso": "Isoproturon",
+    "mw": 206.28,
+    "smiles": "CC(C)C1=CC=C(C=C1)NC(=O)N(C)C",
+    "pubchem": 36679,
+    "inchikey": "PUIYMUZLKQOUOZ-UHFFFAOYSA-N",
+    "bcpc_activity": "algicides, herbicides"
+  },
+  {
+    "chent": "Isoproturon-didemethyl",
+    "ai": false,
+    "mw": 178.23,
+    "smiles": "CC(C)C1=CC=C(C=C1)NC(=O)N",
+    "pubchem": 185831,
+    "inchikey": "ABBKOIZWGCVCKE-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Isopyrazam",
+    "ai": true,
+    "iso": "Isopyrazam",
+    "mw": 359.4,
+    "smiles": "CC(C)C1C2CCC1C3=C2C=CC=C3NC(=O)C4=CN(N=C4C(F)F)C",
+    "pubchem": 25271089,
+    "inchikey": "XTDZGXBTXBEZDN-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Isoxaben",
+    "ai": true,
+    "iso": "Isoxaben",
+    "mw": 332.4,
+    "smiles": "CCC(C)(CC)C1=NOC(=C1)NC(=O)C2=C(C=CC=C2OC)OC",
+    "pubchem": 73672,
+    "inchikey": "PMHURSZHKKJGBM-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Isoxaflutole",
+    "ai": true,
+    "iso": "Isoxaflutole",
+    "mw": 359.3,
+    "smiles": "CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C2=C(ON=C2)C3CC3",
+    "pubchem": 84098,
+    "inchikey": "OYIKARCXOQLFHF-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Jasmolin I",
+    "ai": true,
+    "mw": 330.5,
+    "smiles": "CC/C=C\\CC1=C([C@H](CC1=O)OC(=O)[C@@H]2[C@H](C2(C)C)C=C(C)C)C",
+    "pubchem": 12304687,
+    "inchikey": "NZKIRHFOLVYKFT-VUMXUWRFSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Jasmolin II",
+    "ai": true,
+    "mw": 374.5,
+    "smiles": "CC/C=C\\CC1=C([C@H](CC1=O)OC(=O)[C@@H]2[C@H](C2(C)C)/C=C(\\C)/C(=O)OC)C",
+    "pubchem": 12304690,
+    "inchikey": "WKNSDDMJXANVMK-XIGJTORUSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Kaolin",
+    "ai": true,
+    "mw": 258.16,
+    "smiles": "O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O",
+    "pubchem": 56841936,
+    "inchikey": "NLYAJNPCOHFWQQ-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Kresoxim-methyl",
+    "ai": true,
+    "iso": "Kresoxim-methyl",
+    "mw": 313.3,
+    "smiles": "CC1=CC=CC=C1OCC2=CC=CC=C2/C(=N\\OC)/C(=O)OC",
+    "pubchem": 6112114,
+    "inchikey": "ZOTBXTZVPHCKPN-HTXNQAPBSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Laminarin",
+    "ai": true,
+    "mw": 504.4,
+    "smiles": "C(C1C(C(C(C(O1)O)O)OC2C(C(C(C(O2)CO)O)OC3C(C(C(C(O3)CO)O)O)O)O)O)O",
+    "pubchem": 455149,
+    "inchikey": "DBTMGCOVALSLOR-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Lenacil",
+    "ai": true,
+    "iso": "Lenacil",
+    "mw": 234.29,
+    "smiles": "C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O",
+    "pubchem": 16559,
+    "inchikey": "ZTMKADLOSYKWCA-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Linuron",
+    "ai": true,
+    "iso": "Linuron",
+    "mw": 249.09,
+    "smiles": "CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC",
+    "pubchem": 9502,
+    "inchikey": "XKJMBINCVNINCA-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Lufenuron",
+    "ai": true,
+    "iso": "Lufenuron",
+    "mw": 511.1,
+    "smiles": "C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F",
+    "pubchem": 71777,
+    "inchikey": "PWPJGUXAGUPAHP-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "MCPA",
+    "ai": true,
+    "iso": "MCPA",
+    "mw": 200.62,
+    "smiles": "CC1=C(C=CC(=C1)Cl)OCC(=O)O",
+    "pubchem": 7204,
+    "inchikey": "WHKUVVPPKQRRBV-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "MITC",
+    "ai": true,
+    "mw": 73.12,
+    "smiles": "CN=C=S",
+    "pubchem": 11167,
+    "inchikey": "LGDSHSYDSCRFAB-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides, herbicides, insecticides, nematicides"
+  },
+  {
+    "chent": "Malathion",
+    "ai": true,
+    "iso": "Malathion",
+    "mw": 330.4,
+    "smiles": "CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC",
+    "pubchem": 4004,
+    "inchikey": "JXSJBGJIGXNWCI-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides, insecticides"
+  },
+  {
+    "chent": "Maleic hydrazide",
+    "ai": true,
+    "mw": 112.09,
+    "smiles": "C1=CC(=O)NNC1=O",
+    "pubchem": 21954,
+    "inchikey": "BGRDGMRNKXEXQD-UHFFFAOYSA-N",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
+    "chent": "Mandipropamid",
+    "ai": true,
+    "iso": "Mandipropamid",
+    "mw": 411.9,
+    "smiles": "COC1=C(C=CC(=C1)CCNC(=O)C(C2=CC=C(C=C2)Cl)OCC#C)OCC#C",
+    "pubchem": 11292824,
+    "inchikey": "KWLVWJPJKJMCSH-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Maneb",
+    "ai": true,
+    "iso": "Maneb",
+    "mw": 265.3,
+    "smiles": "C(CNC(=S)[S-])NC(=S)[S-].[Mn+2]",
+    "pubchem": 3032581,
+    "inchikey": "YKSNLCVSTHTHJA-UHFFFAOYSA-L",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Mecoprop-P",
+    "ai": true,
+    "iso": "Mecoprop-P",
+    "mw": 214.64,
+    "smiles": "CC1=C(C=CC(=C1)Cl)O[C@H](C)C(=O)O",
+    "pubchem": 185588,
+    "inchikey": "WNTGYJSOUMFZEP-SSDOTTSWSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Mefentrifluconazole",
+    "ai": true,
+    "iso": "Mefentrifluconazole",
+    "mw": 397.8,
+    "smiles": "CC(CN1C=NC=N1)(C2=C(C=C(C=C2)OC3=CC=C(C=C3)Cl)C(F)(F)F)O",
+    "pubchem": 71230671,
+    "inchikey": "JERZEQUMJNCPRJ-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Mepanipyrim",
+    "ai": true,
+    "iso": "Mepanipyrim",
+    "mw": 223.27,
+    "smiles": "CC#CC1=NC(=NC(=C1)C)NC2=CC=CC=C2",
+    "pubchem": 86296,
+    "inchikey": "CIFWZNRJIBNXRE-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Mepiquat chloride",
+    "ai": true,
+    "mw": 149.66,
+    "smiles": "C[N+]1(CCCCC1)C.[Cl-]",
+    "pubchem": 62781,
+    "inchikey": "VHOVSQVSAAQANU-UHFFFAOYSA-M",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
+    "chent": "Mesosulfuron-methyl",
+    "ai": true,
+    "mw": 503.5,
+    "smiles": "COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=C2)CNS(=O)(=O)C)C(=O)OC)OC",
+    "pubchem": 11409499,
+    "inchikey": "NIFKBBMCXCMCAO-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Mesotrione",
+    "ai": true,
+    "iso": "Mesotrione",
+    "mw": 339.32,
+    "smiles": "CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)[N+](=O)[O-]",
+    "pubchem": 175967,
+    "inchikey": "KPUREKXXPHOJQT-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Metalaxyl",
+    "ai": true,
+    "iso": "Metalaxyl",
+    "mw": 279.33,
+    "smiles": "CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC",
+    "pubchem": 42586,
+    "inchikey": "ZQEIXNIJLIKNTD-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Metalaxyl-M",
+    "ai": true,
+    "iso": "Metalaxyl-M",
+    "mw": 279.33,
+    "smiles": "CC1=C(C(=CC=C1)C)N([C@H](C)C(=O)OC)C(=O)COC",
+    "pubchem": 11150163,
+    "inchikey": "ZQEIXNIJLIKNTD-GFCCVEGCSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Metaldehyde",
+    "ai": true,
+    "mw": 176.21,
+    "smiles": "CC1OC(OC(OC(O1)C)C)C",
+    "pubchem": 61021,
+    "inchikey": "GKKDCARASOJPNG-UHFFFAOYSA-N",
+    "bcpc_activity": "molluscicides"
+  },
+  {
+    "chent": "Metamitron",
+    "ai": true,
+    "iso": "Metamitron",
+    "mw": 202.21,
+    "smiles": "CC1=NN=C(C(=O)N1N)C2=CC=CC=C2",
+    "pubchem": 38854,
+    "inchikey": "VHCNQEUWZYOAEV-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Metazachlor",
+    "ai": true,
+    "iso": "Metazachlor",
+    "mw": 277.75,
+    "smiles": "CC1=C(C(=CC=C1)C)N(CN2C=CC=N2)C(=O)CCl",
+    "pubchem": 49384,
+    "inchikey": "STEPQTYSZVCJPV-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Metconazole",
+    "ai": true,
+    "iso": "Metconazole",
+    "mw": 319.8,
+    "smiles": "CC1(CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl)C",
+    "pubchem": 86210,
+    "inchikey": "XWPZUHJBOLQNMN-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Methiocarb",
+    "ai": true,
+    "iso": "Methiocarb",
+    "mw": 225.31,
+    "smiles": "CC1=CC(=CC(=C1SC)C)OC(=O)NC",
+    "pubchem": 16248,
+    "inchikey": "YFBPRJGDJKVWAH-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides, bird repellents, insecticides, molluscicides"
+  },
+  {
+    "chent": "Methomyl",
+    "ai": true,
+    "iso": "Methomyl",
+    "mw": 162.21,
+    "smiles": "CC(=NOC(=O)NC)SC",
+    "pubchem": 4109,
+    "inchikey": "UHXUZOCRWCRNSJ-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Methoxyfenozide",
+    "ai": true,
+    "iso": "Methoxyfenozide",
+    "mw": 368.5,
+    "smiles": "CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C(=CC=C2)OC)C)C",
+    "pubchem": 105010,
+    "inchikey": "QCAWEPFNJXQPAN-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Metobromuron",
+    "ai": true,
+    "iso": "Metobromuron",
+    "mw": 259.1,
+    "smiles": "CN(C(=O)NC1=CC=C(C=C1)Br)OC",
+    "pubchem": 18290,
+    "inchikey": "WLFDQEVORAMCIM-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Metolachlor ESA",
+    "ai": false,
+    "mw": 329.4,
+    "smiles": "CCC1=CC=CC(=C1N(C(C)COC)C(=O)CS(=O)(=O)O)C",
+    "pubchem": 6426849,
+    "inchikey": "CIGKZVUEZXGYSV-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Metolachlor OA",
+    "ai": false,
+    "mw": 279.33,
+    "smiles": "CCC1=CC=CC(=C1N(C(C)COC)C(=O)C(=O)O)C",
+    "pubchem": 15842092,
+    "inchikey": "LNOOSYCKMKZOJB-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Metosulam",
+    "ai": true,
+    "iso": "Metosulam",
+    "mw": 418.3,
+    "smiles": "CC1=C(C(=C(C=C1)Cl)NS(=O)(=O)C2=NN3C(=CC(=NC3=N2)OC)OC)Cl",
+    "pubchem": 86422,
+    "inchikey": "VGHPMIFEKOFHHQ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Metrafenone",
+    "ai": true,
+    "iso": "Metrafenone",
+    "mw": 409.3,
+    "smiles": "CC1=CC(=C(C(=C1C(=O)C2=C(C=CC(=C2C)Br)OC)OC)OC)OC",
+    "pubchem": 6451057,
+    "inchikey": "AMSPWOYQQAWRRM-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Metribuzin",
+    "ai": true,
+    "iso": "Metribuzin",
+    "mw": 214.29,
+    "smiles": "CC(C)(C)C1=NN=C(N(C1=O)N)SC",
+    "pubchem": 30479,
+    "inchikey": "FOXFZRUHNHCZPX-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Metsulfuron-methyl",
+    "ai": true,
+    "mw": 381.37,
+    "smiles": "CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC",
+    "pubchem": 52999,
+    "inchikey": "RSMUVYRMZCOLBH-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Milbemectin",
+    "ai": true,
+    "iso": "Milbemectin",
+    "mw": 528.7,
+    "smiles": "C[C@H]1CC[C@]2(C[C@@H]3C[C@H](O2)C/C=C(/C[C@H](/C=C/C=C/4\\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)\\C)O[C@@H]1C",
+    "pubchem": 9828343,
+    "inchikey": "ZLBGSRMUSVULIE-GSMJGMFJSA-N",
+    "bcpc_activity": "acaricides"
+  },
+  {
+    "chent": "Myclobutanil",
+    "ai": true,
+    "iso": "Myclobutanil",
+    "mw": 288.77,
+    "smiles": "CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl",
+    "pubchem": 6336,
+    "inchikey": "HZJKXKUJVSEEFU-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Napropamide",
+    "ai": true,
+    "iso": "Napropamide",
+    "mw": 271.35,
+    "smiles": "CCN(CC)C(=O)C(C)OC1=CC=CC2=CC=CC=C21",
+    "pubchem": 27189,
+    "inchikey": "WXZVAROIGSFCFJ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Nicosulfuron",
+    "ai": true,
+    "iso": "Nicosulfuron",
+    "mw": 410.4,
+    "smiles": "CN(C)C(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "pubchem": 73281,
+    "inchikey": "RTCOGUMHFFWOJV-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Novaluron",
+    "ai": true,
+    "iso": "Novaluron",
+    "mw": 492.7,
+    "smiles": "C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2)OC(C(OC(F)(F)F)F)(F)F)Cl)F",
+    "pubchem": 93541,
+    "inchikey": "NJPPVKZQTLUDBO-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Orbencarb",
+    "ai": true,
+    "iso": "Orbencarb",
+    "mw": 257.78,
+    "smiles": "CCN(CC)C(=O)SCC1=CC=CC=C1Cl",
+    "pubchem": 36867,
+    "inchikey": "LLLFASISUZUJEQ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Oryzalin",
+    "ai": true,
+    "iso": "Oryzalin",
+    "mw": 346.36,
+    "smiles": "CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)N)[N+](=O)[O-]",
+    "pubchem": 29393,
+    "inchikey": "UNAHYJYOSSSJHH-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Oxadiargyl",
+    "ai": true,
+    "iso": "Oxadiargyl",
+    "mw": 341.2,
+    "smiles": "CC(C)(C)C1=NN(C(=O)O1)C2=CC(=C(C=C2Cl)Cl)OCC#C",
+    "pubchem": 94498,
+    "inchikey": "DVOODWOZJVJKQR-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Oxamyl",
+    "ai": true,
+    "iso": "Oxamyl",
+    "mw": 219.26,
+    "smiles": "CNC(=O)ON=C(C(=O)N(C)C)SC",
+    "pubchem": 31657,
+    "inchikey": "KZAUOCCYDRDERY-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides, insecticides, nematicides"
+  },
+  {
+    "chent": "Oxathiapiprolin",
+    "ai": true,
+    "iso": "Oxathiapiprolin",
+    "mw": 539.5,
+    "smiles": "CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F",
+    "pubchem": 56945145,
+    "inchikey": "IAQLCKZJGNTRDO-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Oxyfluorfen",
+    "ai": true,
+    "iso": "Oxyfluorfen",
+    "mw": 361.7,
+    "smiles": "CCOC1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]",
+    "pubchem": 39327,
+    "inchikey": "OQMBBFQZGJFLBU-UHFFFAOYSA-N",
+    "bcpc_activity": "algicides, herbicides"
+  },
+  {
+    "chent": "Paclobutrazol",
+    "ai": true,
+    "iso": "Paclobutrazol",
+    "mw": 293.79,
+    "smiles": "CC(C)(C)C(C(CC1=CC=C(C=C1)Cl)N2C=NC=N2)O",
+    "pubchem": 616765,
+    "inchikey": "RMOGWMIKYWRTKW-UHFFFAOYSA-N",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
+    "chent": "Pelargonic acid",
+    "ai": true,
+    "mw": 158.24,
+    "smiles": "CCCCCCCCC(=O)O",
+    "pubchem": 8158,
+    "inchikey": "FBUKVWPVBMHYJY-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Penconazole",
+    "ai": true,
+    "iso": "Penconazole",
+    "mw": 284.18,
+    "smiles": "CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl",
+    "pubchem": 91693,
+    "inchikey": "WKBPZYKAUNRMKP-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Pencycuron",
+    "ai": true,
+    "iso": "Pencycuron",
+    "mw": 328.8,
+    "smiles": "C1CCC(C1)N(CC2=CC=C(C=C2)Cl)C(=O)NC3=CC=CC=C3",
+    "pubchem": 91692,
+    "inchikey": "OGYFATSSENRIKG-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Pendimethalin",
+    "ai": true,
+    "iso": "Pendimethalin",
+    "mw": 281.31,
+    "smiles": "CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]",
+    "pubchem": 38479,
+    "inchikey": "CHIFOSRWCNZCFN-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Penflufen",
+    "ai": true,
+    "iso": "Penflufen",
+    "mw": 317.4,
+    "smiles": "CC1=NN(C(=C1C(=O)NC2=CC=CC=C2C(C)CC(C)C)F)C",
+    "pubchem": 11674113,
+    "inchikey": "GOFJDXZZHFNFLV-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Penoxsulam",
+    "ai": true,
+    "iso": "Penoxsulam",
+    "mw": 483.4,
+    "smiles": "COC1=CN=C(N2C1=NC(=N2)NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)OC",
+    "pubchem": 11784975,
+    "inchikey": "SYJGKVOENHZYMQ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Penthiopyrad",
+    "ai": true,
+    "iso": "Penthiopyrad",
+    "mw": 359.4,
+    "smiles": "CC(C)CC(C)C1=C(C=CS1)NC(=O)C2=CN(N=C2C(F)(F)F)C",
+    "pubchem": 11388558,
+    "inchikey": "PFFIDZXUXFLSSR-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Pethoxamid",
+    "ai": true,
+    "iso": "Pethoxamid",
+    "mw": 295.8,
+    "smiles": "CCOCCN(C(=O)CCl)C(=C(C)C)C1=CC=CC=C1",
+    "pubchem": 6450826,
+    "inchikey": "CSWIKHNSBZVWNQ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Phenmedipham",
+    "ai": true,
+    "iso": "Phenmedipham",
+    "mw": 300.31,
+    "smiles": "CC1=CC(=CC=C1)NC(=O)OC2=CC=CC(=C2)NC(=O)OC",
+    "pubchem": 24744,
+    "inchikey": "IDOWTHOLJBTAFI-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Phosphonic acid",
+    "ai": true,
+    "mw": 81.996,
+    "smiles": "OP(=O)O",
+    "pubchem": 407,
+    "inchikey": "ABLZXFCXXLZCGV-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Picloram",
+    "ai": true,
+    "iso": "Picloram",
+    "mw": 241.5,
+    "smiles": "C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N",
+    "pubchem": 15965,
+    "inchikey": "NQQVFXUMIDALNH-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Picolinafen",
+    "ai": true,
+    "iso": "Picolinafen",
+    "mw": 376.3,
+    "smiles": "C1=CC(=CC(=C1)OC2=CC=CC(=N2)C(=O)NC3=CC=C(C=C3)F)C(F)(F)F",
+    "pubchem": 3294375,
+    "inchikey": "CWKFPEBMTGKLKX-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Picoxystrobin",
+    "ai": true,
+    "iso": "Picoxystrobin",
+    "mw": 367.3,
+    "smiles": "CO/C=C(\\C1=CC=CC=C1COC2=CC=CC(=N2)C(F)(F)F)/C(=O)OC",
+    "pubchem": 11285653,
+    "inchikey": "IBSNKSODLGJUMQ-SDNWHVSQSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Pinoxaden",
+    "ai": true,
+    "iso": "Pinoxaden",
+    "mw": 400.5,
+    "smiles": "CCC1=CC(=CC(=C1C2=C(N3CCOCCN3C2=O)OC(=O)C(C)(C)C)CC)C",
+    "pubchem": 210326,
+    "inchikey": "MGOHCFMYLBAPRN-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Piperonyl butoxide",
+    "ai": false,
+    "mw": 338.4,
+    "smiles": "CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2",
+    "pubchem": 5794,
+    "inchikey": "FIPWRIJSWJWJAI-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Pirimicarb",
+    "ai": true,
+    "iso": "Pirimicarb",
+    "mw": 238.29,
+    "smiles": "CC1=C(N=C(N=C1OC(=O)N(C)C)N(C)C)C",
+    "pubchem": 31645,
+    "inchikey": "YFGYUFNIOHWBOB-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Potassium bicarbonate",
+    "ai": true,
+    "mw": 100.115,
+    "smiles": "C(=O)(O)[O-].[K+]",
+    "pubchem": 516893,
+    "inchikey": "TYJJADVDDVDEDZ-UHFFFAOYSA-M"
+  },
+  {
+    "chent": "Prochloraz",
+    "ai": true,
+    "iso": "Prochloraz",
+    "mw": 376.7,
+    "smiles": "CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2",
+    "pubchem": 73665,
+    "inchikey": "TVLSRXXIMLFWEO-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Prohexadione-calcium",
+    "ai": true,
+    "mw": 250.26,
+    "smiles": "CCC(=C1C(=O)CC(CC1=O)C(=O)[O-])[O-].[Ca+2]",
+    "pubchem": 12001831,
+    "inchikey": "SAZAPFZGSHYFGB-UHFFFAOYSA-L",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
+    "chent": "Propamocarb",
+    "ai": true,
+    "iso": "Propamocarb",
+    "mw": 188.27,
+    "smiles": "CCCOC(=O)NCCCN(C)C",
+    "pubchem": 32490,
+    "inchikey": "WZZLDXDUQPOXNW-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Propamocarb hydrochloride",
+    "ai": true,
+    "mw": 224.73,
+    "smiles": "CCCOC(=O)NCCCN(C)C.Cl",
+    "pubchem": 15575641,
+    "inchikey": "MKIMSXGUTQTKJU-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Propiconazole",
+    "ai": true,
+    "iso": "Propiconazole",
+    "mw": 342.2,
+    "smiles": "CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl",
+    "pubchem": 43234,
+    "inchikey": "STJLVHWMYQXCPB-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Propoxycarbazone-sodium",
+    "ai": true,
+    "mw": 420.4,
+    "smiles": "CCCOC1=NN(C(=O)N1C)C(=NS(=O)(=O)C2=CC=CC=C2C(=O)OC)[O-].[Na+]",
+    "pubchem": 177354,
+    "inchikey": "JRQGDDUXDKCWRF-UHFFFAOYSA-M",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Propyzamide",
+    "ai": true,
+    "iso": "Propyzamide",
+    "mw": 256.12,
+    "smiles": "CC(C)(C#C)NC(=O)C1=CC(=CC(=C1)Cl)Cl",
+    "pubchem": 32154,
+    "inchikey": "PHNUZKMIPFFYSO-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Proquinazid",
+    "ai": true,
+    "iso": "Proquinazid",
+    "mw": 372.2,
+    "smiles": "CCCN1C(=O)C2=C(C=CC(=C2)I)N=C1OCCC",
+    "pubchem": 11057771,
+    "inchikey": "FLVBXVXXXMLMOX-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Prosulfocarb",
+    "ai": true,
+    "iso": "Prosulfocarb",
+    "mw": 251.39,
+    "smiles": "CCCN(CCC)C(=O)SCC1=CC=CC=C1",
+    "pubchem": 62020,
+    "inchikey": "NQLVQOSNDJXLKG-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Prosulfuron",
+    "ai": true,
+    "iso": "Prosulfuron",
+    "mw": 419.4,
+    "smiles": "CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2CCC(F)(F)F",
+    "pubchem": 91751,
+    "inchikey": "LTUNNEGNEKBSEH-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Prothioconazole",
+    "ai": true,
+    "iso": "Prothioconazole",
+    "mw": 344.3,
+    "smiles": "C1CC1(C(CC2=CC=CC=C2Cl)(CN3C(=S)N=CN3)O)Cl",
+    "pubchem": 6451142,
+    "inchikey": "MNHVNIJQQRJYDH-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Pyraclostrobin",
+    "ai": true,
+    "iso": "Pyraclostrobin",
+    "mw": 387.8,
+    "smiles": "COC(=O)N(C1=CC=CC=C1COC2=NN(C=C2)C3=CC=C(C=C3)Cl)OC",
+    "pubchem": 6422843,
+    "inchikey": "HZRSNVGNWUDEFX-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Pyraflufen-ethyl",
+    "ai": true,
+    "mw": 413.2,
+    "smiles": "CCOC(=O)COC1=C(C=C(C(=C1)C2=NN(C(=C2Cl)OC(F)F)C)F)Cl",
+    "pubchem": 182951,
+    "inchikey": "APTZNLHMIGJTEW-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Pyrethrin I",
+    "ai": true,
+    "mw": 328.4,
+    "smiles": "CC1=C(C(=O)C[C@@H]1OC(=O)[C@@H]2[C@H](C2(C)C)C=C(C)C)C/C=C\\C=C",
+    "pubchem": 5281045,
+    "inchikey": "ROVGZAWFACYCSP-VUMXUWRFSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Pyrethrin II",
+    "ai": true,
+    "mw": 372.5,
+    "smiles": "CC1=C(C(=O)C[C@@H]1OC(=O)[C@@H]2[C@H](C2(C)C)/C=C(\\C)/C(=O)OC)C/C=C\\C=C",
+    "pubchem": 5281555,
+    "inchikey": "VJFUPGQZSXIULQ-XIGJTORUSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Pyridate",
+    "ai": true,
+    "iso": "Pyridate",
+    "mw": 378.9,
+    "smiles": "CCCCCCCCSC(=O)OC1=CC(=NN=C1C2=CC=CC=C2)Cl",
+    "pubchem": 41463,
+    "inchikey": "JTZCTMAVMHRNTR-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Pyrifenox",
+    "ai": true,
+    "iso": "Pyrifenox",
+    "mw": 295.2,
+    "smiles": "CON=C(CC1=CN=CC=C1)C2=C(C=C(C=C2)Cl)Cl",
+    "pubchem": 55790,
+    "inchikey": "CKPCAYZTYMHQEX-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Pyrimethanil",
+    "ai": true,
+    "iso": "Pyrimethanil",
+    "mw": 199.25,
+    "smiles": "CC1=CC(=NC(=N1)NC2=CC=CC=C2)C",
+    "pubchem": 91650,
+    "inchikey": "ZLIBICFPKPWGIZ-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Pyriofenone",
+    "ai": true,
+    "iso": "Pyriofenone",
+    "mw": 365.8,
+    "smiles": "CC1=CC(=C(C(=C1C(=O)C2=C(C(=CN=C2OC)Cl)C)OC)OC)OC",
+    "pubchem": 23082663,
+    "inchikey": "NMVCBWZLCXANER-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Pyroxsulam",
+    "ai": true,
+    "iso": "Pyroxsulam",
+    "mw": 434.35,
+    "smiles": "COC1=CC(=NC2=NC(=NN12)NS(=O)(=O)C3=C(C=CN=C3OC)C(F)(F)F)OC",
+    "pubchem": 11571555,
+    "inchikey": "GLBLPMUBLHYFCW-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Quinmerac",
+    "ai": true,
+    "iso": "Quinmerac",
+    "mw": 221.64,
+    "smiles": "CC1=CC2=C(C(=C(C=C2)Cl)C(=O)O)N=C1",
+    "pubchem": 91749,
+    "inchikey": "ALZOLUNSQWINIR-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Quinoxyfen",
+    "ai": true,
+    "iso": "Quinoxyfen",
+    "mw": 308.1,
+    "smiles": "C1=CC(=CC=C1OC2=C3C(=CC(=CC3=NC=C2)Cl)Cl)F",
+    "pubchem": 3391107,
+    "inchikey": "WRPIRSINYZBGPK-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Quizalofop-P-ethyl",
+    "ai": true,
+    "mw": 372.8,
+    "smiles": "CCOC(=O)[C@@H](C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl",
+    "pubchem": 1617113,
+    "inchikey": "OSUHJPCHFDQAIT-GFCCVEGCSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "R417888",
+    "ai": false,
+    "mw": 329.5,
+    "smiles": "C(#N)C1=C(C(=C(C(=C1Cl)Cl)S(=O)(=O)O)C(=O)N)Cl",
+    "pubchem": 138402812,
+    "inchikey": "JNMMKKYUIIQPDG-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "R611968",
+    "ai": false,
+    "mw": 265.5,
+    "smiles": "C(#N)C1=C(C(=C(C(=C1Cl)Cl)O)C(=O)N)Cl",
+    "pubchem": 91151095,
+    "inchikey": "IODGSFOOWTXKAE-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Rimsulfuron",
+    "ai": true,
+    "iso": "Rimsulfuron",
+    "mw": 431.4,
+    "smiles": "CCS(=O)(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC",
+    "pubchem": 91779,
+    "inchikey": "MEFOUWRMVYJCQC-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "S-Metolachlor",
+    "ai": true,
+    "iso": "S-Metolachlor",
+    "mw": 283.79,
+    "smiles": "N([C@H](COC)C)(C(CCl)=O)C1=C(CC)C=CC=C1C",
+    "pubchem": 11140605,
+    "inchikey": "WVQBLGZPHOPPFO-LBPRGKRZSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Sedaxane",
+    "ai": true,
+    "iso": "Sedaxane",
+    "mw": 331.4,
+    "smiles": "CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4",
+    "pubchem": 11688533,
+    "inchikey": "XQJQCBDIXRIYRP-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Sodium 2-nitrophenolate",
+    "ai": true,
+    "mw": 161.09,
+    "smiles": "C1=CC=C(C(=C1)[N+](=O)[O-])[O-].[Na+]",
+    "pubchem": 69985,
+    "inchikey": "AXKBOWBNOCUNJL-UHFFFAOYSA-M"
+  },
+  {
+    "chent": "Sodium 4-nitrophenolate",
+    "ai": true,
+    "mw": 161.09,
+    "smiles": "C1=CC(=CC=C1[N+](=O)[O-])[O-].[Na+]",
+    "pubchem": 13214,
+    "inchikey": "CURNJKLCYZZBNJ-UHFFFAOYSA-M"
+  },
+  {
+    "chent": "Sodium 5-nitroguaiacolate",
+    "ai": true,
+    "mw": 191.12,
+    "smiles": "COC1=C(C=C(C=C1)[N+](=O)[O-])[O-].[Na+]",
+    "pubchem": 3017748,
+    "inchikey": "KBRKFTKQRMYINW-UHFFFAOYSA-M"
+  },
+  {
+    "chent": "Spinetoram J",
+    "ai": true,
+    "mw": 748,
+    "smiles": "CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@@H]3[C@H]([C@@H]2CC(=O)O1)CC[C@H]4[C@H]3C[C@@H](C4)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OCC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C",
+    "pubchem": 24795086,
+    "inchikey": "GOENIMGKWNZVDA-RWGFPKGXSA-N"
+  },
+  {
+    "chent": "Spinetoram L",
+    "ai": true,
+    "mw": 760,
+    "smiles": "CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C(=C[C@H]3[C@@H]2CC(=O)O1)C)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OCC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C",
+    "pubchem": 25217966,
+    "inchikey": "KWVYSEWJJXXTEZ-GDMNSMANSA-N"
+  },
+  {
+    "chent": "Spinosyn A",
+    "ai": true,
+    "mw": 732,
+    "smiles": "CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C=C[C@H]3[C@@H]2CC(=O)O1)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C",
+    "pubchem": 443059,
+    "inchikey": "SRJQTHAZUNRMPR-UYQKXTDMSA-N"
+  },
+  {
+    "chent": "Spinosyn B",
+    "ai": false,
+    "mw": 717.9,
+    "smiles": "CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C=C[C@H]3[C@@H]2CC(=O)O1)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)NC",
+    "pubchem": 443060,
+    "inchikey": "VESRDXZDAAOUHS-KXRJSVEISA-N"
+  },
+  {
+    "chent": "Spinosyn D",
+    "ai": true,
+    "mw": 746,
+    "smiles": "CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C(=C[C@H]3[C@@H]2CC(=O)O1)C)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C",
+    "pubchem": 183094,
+    "inchikey": "RDECBWLKMPEKPM-PSCJHHPTSA-N"
+  },
+  {
+    "chent": "Spirodiclofen",
+    "ai": true,
+    "iso": "Spirodiclofen",
+    "mw": 411.3,
+    "smiles": "CCC(C)(C)C(=O)OC1=C(C(=O)OC12CCCCC2)C3=C(C=C(C=C3)Cl)Cl",
+    "pubchem": 177863,
+    "inchikey": "DTDSAWVUFPGDMX-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides, insecticides"
+  },
+  {
+    "chent": "Spirotetramat",
+    "ai": true,
+    "iso": "Spirotetramat",
+    "mw": 373.4,
+    "smiles": "O(C(OCC)=O)C=1[C@@]2(NC(=O)C1C3=C(C)C=CC(C)=C3)CC[C@H](OC)CC2",
+    "pubchem": 9969573,
+    "inchikey": "CLSVJBIHYWPGQY-GGYDESQDSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Spiroxamine",
+    "ai": true,
+    "iso": "Spiroxamine",
+    "mw": 297.5,
+    "smiles": "CCCN(CC)CC1COC2(O1)CCC(CC2)C(C)(C)C",
+    "pubchem": 86160,
+    "inchikey": "PUYXTUJWRLOUCW-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Sulcotrione",
+    "ai": true,
+    "iso": "Sulcotrione",
+    "mw": 328.8,
+    "smiles": "CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl",
+    "pubchem": 91760,
+    "inchikey": "PQTBTIFWAXVEPB-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Sulfosulfuron",
+    "ai": true,
+    "iso": "Sulfosulfuron",
+    "mw": 470.5,
+    "smiles": "CCS(=O)(=O)C1=C(N2C=CC=CC2=N1)S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC",
+    "pubchem": 86426,
+    "inchikey": "RBSXHDIPCIWOMG-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Sulfoxaflor",
+    "ai": true,
+    "iso": "Sulfoxaflor",
+    "mw": 277.27,
+    "smiles": "CC(C1=CN=C(C=C1)C(F)(F)F)S(=NC#N)(=O)C",
+    "pubchem": 16723172,
+    "inchikey": "ZVQOOHYFBIDMTQ-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Sulfur",
+    "ai": true,
+    "mw": 34.08,
+    "smiles": "[S]",
+    "pubchem": 402,
+    "inchikey": "NINIDFKCEFEMDL-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides, fungicides"
+  },
+  {
+    "chent": "Tau-fluvalinate",
+    "ai": true,
+    "iso": "Tau-fluvalinate",
+    "mw": 502.9,
+    "smiles": "CC(C)[C@H](C(=O)OC(C#N)C1=CC(=CC=C1)OC2=CC=CC=C2)NC3=C(C=C(C=C3)C(F)(F)F)Cl",
+    "pubchem": 91768,
+    "inchikey": "INISTDXBRIBGOC-XMMISQBUSA-N",
+    "bcpc_activity": "acaricides, insecticides"
+  },
+  {
+    "chent": "Tebuconazole",
+    "ai": true,
+    "iso": "Tebuconazole",
+    "mw": 307.82,
+    "smiles": "CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O",
+    "pubchem": 86102,
+    "inchikey": "PXMNMQRDXWABCY-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Tebufenozide",
+    "ai": true,
+    "iso": "Tebufenozide",
+    "mw": 352.5,
+    "smiles": "CCC1=CC=C(C=C1)C(=O)NN(C(=O)C2=CC(=CC(=C2)C)C)C(C)(C)C",
+    "pubchem": 91773,
+    "inchikey": "QYPNKSZPJQQLRK-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Tebufenpyrad",
+    "ai": true,
+    "iso": "Tebufenpyrad",
+    "mw": 333.9,
+    "smiles": "CCC1=NN(C(=C1Cl)C(=O)NCC2=CC=C(C=C2)C(C)(C)C)C",
+    "pubchem": 86354,
+    "inchikey": "ZZYSLNWGKKDOML-UHFFFAOYSA-N",
+    "bcpc_activity": "acaricides"
+  },
+  {
+    "chent": "Teflubenzuron",
+    "ai": true,
+    "iso": "Teflubenzuron",
+    "mw": 381.1,
+    "smiles": "C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2F)Cl)F)Cl)F",
+    "pubchem": 91734,
+    "inchikey": "CJDWRQLODFKPEL-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Tefluthrin-(1R,3R)",
+    "ai": true,
+    "mw": 418.7,
+    "smiles": "CC1(C)[C@@H](\\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F",
+    "pubchem": 11350631,
+    "inchikey": "ZFHGXWPMULPQSE-UKSCLKOJSA-N"
+  },
+  {
+    "chent": "Tefluthrin-(1S,3S)",
+    "ai": true,
+    "mw": 418.7,
+    "smiles": "CC1(C)[C@H](\\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F",
+    "pubchem": 11534837,
+    "inchikey": "ZFHGXWPMULPQSE-SZGBIDFHSA-N"
+  },
+  {
+    "chent": "Tembotrione",
+    "ai": true,
+    "iso": "Tembotrione",
+    "mw": 440.8,
+    "smiles": "CS(=O)(=O)C1=C(C(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl)COCC(F)(F)F",
+    "pubchem": 11556911,
+    "inchikey": "IUQAXCIUEPFPSF-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Terbuthylazine",
+    "ai": true,
+    "iso": "Terbuthylazine",
+    "mw": 229.71,
+    "smiles": "CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C",
+    "pubchem": 22206,
+    "inchikey": "FZXISNSWEXTPMF-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Terbuthylazine-desethyl",
+    "ai": false,
+    "mw": 201.66,
+    "smiles": "CC(C)(C)NC1=NC(=NC(=N1)N)Cl",
+    "pubchem": 108201,
+    "inchikey": "LMKQNTMFZLAJDV-UHFFFAOYSA-N"
+  },
+  {
+    "chent": "Tetraconazole",
+    "ai": true,
+    "iso": "Tetraconazole",
+    "mw": 372.14,
+    "smiles": "C1=CC(=C(C=C1Cl)Cl)C(CN2C=NC=N2)COC(C(F)F)(F)F",
+    "pubchem": 80277,
+    "inchikey": "LQDARGUHUSPFNL-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Thiabendazole",
+    "ai": true,
+    "iso": "Thiabendazole",
+    "mw": 201.25,
+    "smiles": "C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3",
+    "pubchem": 5430,
+    "inchikey": "WJCNZQLZVWNLKY-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Thiacloprid",
+    "ai": true,
+    "iso": "Thiacloprid",
+    "mw": 252.72,
+    "smiles": "C(N1\\C(=N\\C#N)\\SCC1)C=2C=CC(Cl)=NC2",
+    "pubchem": 115224,
+    "inchikey": "HOKKPVIRMVDYPB-UVTDQMKNSA-N",
+    "bcpc_activity": "insecticides, molluscicides"
+  },
+  {
+    "chent": "Thiamethoxam",
+    "ai": true,
+    "iso": "Thiamethoxam",
+    "mw": 291.72,
+    "smiles": "CN1COCN(C1=N[N+](=O)[O-])CC2=CN=C(S2)Cl",
+    "pubchem": 107646,
+    "inchikey": "NWWZPOKUUAIXIW-UHFFFAOYSA-N",
+    "bcpc_activity": "insecticides"
+  },
+  {
+    "chent": "Thiencarbazone-methyl",
+    "ai": true,
+    "mw": 390.4,
+    "smiles": "CC1=C(C(=CS1)C(=O)OC)S(=O)(=O)NC(=O)N2C(=O)N(C(=N2)OC)C",
+    "pubchem": 11205153,
+    "inchikey": "XSKZXGDFSCCXQX-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Thifensulfuron-methyl",
+    "ai": true,
+    "mw": 387.4,
+    "smiles": "CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(SC=C2)C(=O)OC",
+    "pubchem": 73674,
+    "inchikey": "AHTPATJNIAFOLR-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Thiocyanate",
+    "ai": true,
+    "mw": 58.08,
+    "smiles": "C(#N)[S-]",
+    "pubchem": 9322,
+    "inchikey": "ZMZDMBWJUHKJPS-UHFFFAOYSA-M"
+  },
+  {
+    "chent": "Thiophanate-methyl",
+    "ai": true,
+    "iso": "Thiophanate-methyl",
+    "mw": 342.4,
+    "smiles": "COC(=O)N=C(NC1=CC=CC=C1NC(=NC(=O)OC)S)S",
+    "pubchem": 3085,
+    "inchikey": "QGHREAKMXXNCOA-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Tolclofos-methyl",
+    "ai": true,
+    "iso": "Tolclofos-methyl",
+    "mw": 301.13,
+    "smiles": "CC1=CC(=C(C(=C1)Cl)OP(=S)(OC)OC)Cl",
+    "pubchem": 91664,
+    "inchikey": "OBZIQQJJIKNWNO-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Tolylfluanid",
+    "ai": true,
+    "iso": "Tolylfluanid",
+    "mw": 347.3,
+    "smiles": "CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C",
+    "pubchem": 12898,
+    "inchikey": "HYVWIQDYBVKITD-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Topramezone",
+    "ai": true,
+    "iso": "Topramezone",
+    "mw": 363.4,
+    "smiles": "CC1=C(C=CC(=C1C2=NOCC2)S(=O)(=O)C)C(=O)C3=CNN(C3=O)C",
+    "pubchem": 11302979,
+    "inchikey": "IYMLUHWAJFXAQP-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Triadimenol",
+    "ai": true,
+    "iso": "Triadimenol",
+    "mw": 295.76,
+    "smiles": "CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)Cl)O",
+    "pubchem": 41368,
+    "inchikey": "BAZVSMNPJJMILC-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Triazoxide",
+    "ai": true,
+    "iso": "Triazoxide",
+    "mw": 247.64,
+    "smiles": "C1=CC2=C(C=C1Cl)[N+](=NC(=N2)N3C=CN=C3)[O-]",
+    "pubchem": 93422,
+    "inchikey": "IQGKIPDJXCAMSM-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Tribasic copper sulfate",
+    "ai": true,
+    "mw": 452.29,
+    "smiles": "[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[O-]S(=O)(=O)[O-].[Cu+2].[Cu+2].[Cu+2].[Cu+2]",
+    "pubchem": 15825719,
+    "inchikey": "LITQZINTSYBKIU-UHFFFAOYSA-F",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Tribenuron-methyl",
+    "ai": true,
+    "mw": 395.4,
+    "smiles": "CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC",
+    "pubchem": 153909,
+    "inchikey": "VLCQZHSMCYCDJL-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Triclopyr",
+    "ai": true,
+    "iso": "Triclopyr",
+    "mw": 256.5,
+    "smiles": "C1=C(C(=NC(=C1Cl)Cl)OCC(=O)O)Cl",
+    "pubchem": 41428,
+    "inchikey": "REEQLXCGVXDJSQ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Triclopyr-butotyl",
+    "ai": true,
+    "mw": 356.6,
+    "smiles": "CCCCOCCOC(=O)COC1=NC(=C(C=C1Cl)Cl)Cl",
+    "pubchem": 47455,
+    "inchikey": "IVDRCZNHVGQBHZ-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Trifloxystrobin",
+    "ai": true,
+    "iso": "Trifloxystrobin",
+    "mw": 408.4,
+    "smiles": "C/C(=N\\OCC1=CC=CC=C1/C(=N\\OC)/C(=O)OC)/C2=CC(=CC=C2)C(F)(F)F",
+    "pubchem": 11664966,
+    "inchikey": "ONCZDRURRATYFI-TVJDWZFNSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Trifloxystrobin acid",
+    "ai": false,
+    "mw": 394.3,
+    "smiles": "C/C(=N\\OCC1=CC=CC=C1/C(=N\\OC)/C(=O)O)/C2=CC(=CC=C2)C(F)(F)F",
+    "pubchem": 22899348,
+    "inchikey": "ISZQNKFXNXQTTF-NACSPRHISA-N"
+  },
+  {
+    "chent": "Triflumizole",
+    "ai": true,
+    "iso": "Triflumizole",
+    "mw": 345.75,
+    "smiles": "CCCOCC(=NC1=C(C=C(C=C1)Cl)C(F)(F)F)N2C=CN=C2",
+    "pubchem": 91699,
+    "inchikey": "HSMVPDGQOIQYSR-KGENOOAVSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Trifluralin",
+    "ai": true,
+    "iso": "Trifluralin",
+    "mw": 335.28,
+    "smiles": "CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]",
+    "pubchem": 5569,
+    "inchikey": "ZSDSQXJSNMTJDA-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Triflusulfuron-methyl",
+    "ai": true,
+    "mw": 492.4,
+    "smiles": "CC1=C(C(=CC=C1)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=NC(=N2)OCC(F)(F)F)N(C)C",
+    "pubchem": 92434,
+    "inchikey": "IMEVJVISCHQJRM-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Trinexapac-ethyl",
+    "ai": true,
+    "mw": 252.26,
+    "smiles": "CCOC(=O)C1CC(=O)C(=C(C2CC2)O)C(=O)C1",
+    "pubchem": 92421,
+    "inchikey": "RVKCCVTVZORVGD-UHFFFAOYSA-N",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
+    "chent": "Triticonazole",
+    "ai": true,
+    "iso": "Triticonazole",
+    "mw": 317.8,
+    "smiles": "CC1(CC/C(=C\\C2=CC=C(C=C2)Cl)/C1(CN3C=NC=N3)O)C",
+    "pubchem": 6537961,
+    "inchikey": "PPDBOQMNKNNODG-NTEUORMPSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Tritosulfuron",
+    "ai": true,
+    "iso": "Tritosulfuron",
+    "mw": 445.3,
+    "smiles": "COC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(F)(F)F)C(F)(F)F",
+    "pubchem": 11657899,
+    "inchikey": "KVEQCVKVIFQSGC-UHFFFAOYSA-N",
+    "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Valifenalate",
+    "ai": true,
+    "iso": "Valifenalate",
+    "mw": 398.9,
+    "smiles": "CC(C)[C@@H](C(=O)NC(CC(=O)OC)C1=CC=C(C=C1)Cl)NC(=O)OC(C)C",
+    "pubchem": 11338509,
+    "inchikey": "DBXFMOWZRXXBRN-LWKPJOBUSA-N",
+    "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Ziram",
+    "ai": true,
+    "iso": "Ziram",
+    "mw": 305.8,
+    "smiles": "CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Zn+2]",
+    "pubchem": 8722,
+    "inchikey": "DUBNHZYBDBBJHD-UHFFFAOYSA-L",
+    "bcpc_activity": "bird repellents, fungicides, mammal repellents"
+  },
+  {
+    "chent": "Zoxamide",
+    "ai": true,
+    "iso": "Zoxamide",
+    "mw": 336.6,
+    "smiles": "CCC(C)(C(=O)CCl)NC(=O)C1=CC(=C(C(=C1)Cl)C)Cl",
+    "pubchem": 122087,
+    "inchikey": "SOUGWDPPRBKJEX-UHFFFAOYSA-N",
+    "bcpc_activity": "fungicides"
+  }
+]

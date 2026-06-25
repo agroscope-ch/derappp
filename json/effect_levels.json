@@ -1,0 +1,46 @@
+[
+  {
+    "level": "EC10",
+    "definition": "Concentration at which 10 percent effect size is expected"
+  },
+  {
+    "level": "EC20",
+    "definition": "Concentration at which 20 percent effect size is expected"
+  },
+  {
+    "level": "EC50",
+    "definition": "Concentration at which 50 percent effect size is expected"
+  },
+  {
+    "level": "ER10",
+    "definition": "Rate at which 10 percent effect size is expected"
+  },
+  {
+    "level": "ER20",
+    "definition": "Rate at which 20 percent effect size is expected"
+  },
+  {
+    "level": "ER50",
+    "definition": "Rate at which 50 percent effect size is expected"
+  },
+  {
+    "level": "LC10",
+    "definition": "Concentration at which 10 percent mortality is expected"
+  },
+  {
+    "level": "LC50",
+    "definition": "Concentration at which 50 percent mortality is expected"
+  },
+  {
+    "level": "LR50",
+    "definition": "Rate at which 50 percent mortality is expected"
+  },
+  {
+    "level": "NOEC",
+    "definition": "No observed effect concentration"
+  },
+  {
+    "level": "NOER",
+    "definition": "No observed effect rate"
+  }
+]

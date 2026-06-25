@@ -1,0 +1,2621 @@
+G3;
+chent 1-Decanol
+gG3;1-Decanol | TRUE | NA | NA | NA
+gG3;Querying BCPC for 1-Decanol ...
+gG3;Common name 1-Decanol is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name 1-Decanol ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCO
+gG3;
+chent 1-Methylcyclopropene
+gG3;1-Methylcyclopropene | TRUE | NA | NA | NA
+gG3;Querying BCPC for 1-Methylcyclopropene ...
+gG3;Querying PubChem for inchikey SHDPRTQPPWIEJG-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC1
+gG3;
+chent 1-Naphthylacetic acid
+gG3;1-Naphthylacetic acid | TRUE | C1=CC=C2C(=C1)C=CC=C2CC(=O)O | PubChem | NA
+gG3;Querying BCPC for 1-Naphthylacetic acid ...
+gG3;Common name 1-Naphthylacetic acid is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles C1=CC=C2C(=C1)C=CC=C2CC(=O)O ...
+gG3;Get chemical information from RDKit using user SMILES
+C1=CC=C2C(=C1)C=CC=C2CC(=O)O
+gG3;
+chent 2-(1-Naphthyl) acetamide
+gG3;2-(1-Naphthyl) acetamide | TRUE | C1=CC=C2C(=C1)C=CC=C2CC(=O)N | PubChem | NA
+gG3;Querying BCPC for 2-(1-Naphthyl) acetamide ...
+gG3;Common name 2-(1-Naphthyl) acetamide is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles C1=CC=C2C(=C1)C=CC=C2CC(=O)N ...
+gG3;Get chemical information from RDKit using user SMILES
+C1=CC=C2C(=C1)C=CC=C2CC(=O)N
+gG3;
+chent 2,4-D
+gG3;2,4-D | TRUE | NA | NA | NA
+gG3;Querying BCPC for 2,4-D ...
+gG3;Querying PubChem for inchikey OVSKIKFHRZPJSS-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C=C1Cl)Cl)OCC(=O)O
+gG3;
+chent 2,4-DB
+gG3;2,4-DB | TRUE | NA | NA | NA
+gG3;Querying BCPC for 2,4-DB ...
+gG3;Querying PubChem for inchikey YIVXMZJTEQBPQO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C=C1Cl)Cl)OCCCC(=O)O
+gG3;
+chent 2,6-Dichlorobenzamide
+gG3;2,6-Dichlorobenzamide | FALSE | NA | NA | NA
+gG3;Querying PubChem for name 2,6-Dichlorobenzamide ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C(=C1)Cl)C(=O)N)Cl
+gG3;
+chent 2-Amino-4,6-dimethoxypyrimidine
+gG3;2-Amino-4,6-dimethoxypyrimidine | FALSE | NA | NA | NA
+gG3;Querying PubChem for name 2-Amino-4,6-dimethoxypyrimidine ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=CC(=NC(=N1)N)OC
+gG3;
+chent 6-Benzyladenine
+gG3;6-Benzyladenine | TRUE | C1=CC=C(C=C1)CNC2=NC=NC3=C2NC=N3 | PubChem | NA
+gG3;Querying BCPC for 6-Benzyladenine ...
+gG3;Common name 6-Benzyladenine is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles C1=CC=C(C=C1)CNC2=NC=NC3=C2NC=N3 ...
+gG3;Get chemical information from RDKit using user SMILES
+C1=CC=C(C=C1)CNC2=NC=NC3=C2NC=N3
+gG3;
+chent Acequinocyl
+gG3;Acequinocyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Acequinocyl ...
+gG3;Querying PubChem for inchikey QDRXWCAVUNHOGA-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCC1=C(C(=O)C2=CC=CC=C2C1=O)OC(=O)C
+gG3;
+chent Acetamiprid
+gG3;Acetamiprid | TRUE | C(N(/C(=N/C#N)/C)C)C=1C=CC(Cl)=NC1 | CAS Common Chemistry | NA
+gG3;Querying BCPC for Acetamiprid ...
+gG3;Querying PubChem for smiles C(N(/C(=N/C#N)/C)C)C=1C=CC(Cl)=NC1 ...
+gG3;InChiKey WCXDHFDTOYPNIE-UHFFFAOYSA-N from PubChem record does not match
+InChiKey WCXDHFDTOYPNIE-RIYZIHGNSA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+C(N(/C(=N/C#N)/C)C)C=1C=CC(Cl)=NC1
+gG3;
+chent Acibenzolar-S-methyl
+gG3;Acibenzolar-S-methyl | TRUE | CSC(=O)C1=C2C(=CC=C1)N=NS2 | PubChem | NA
+gG3;Querying BCPC for Acibenzolar-S-methyl ...
+gG3;Querying PubChem for smiles CSC(=O)C1=C2C(=CC=C1)N=NS2 ...
+gG3;Get chemical information from RDKit using user SMILES
+CSC(=O)C1=C2C(=CC=C1)N=NS2
+gG3;
+chent Aclonifen
+gG3;Aclonifen | TRUE | NA | NA | NA
+gG3;Querying BCPC for Aclonifen ...
+gG3;Querying PubChem for inchikey DDBMQDADIHOWIC-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C(C=C1)OC2=C(C(=C(C=C2)[N+](=O)[O-])N)Cl
+gG3;
+chent Aluminium phosphide
+gG3;Aluminium phosphide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Aluminium phosphide ...
+gG3;Querying PubChem for inchikey PPNXXZIBFHTHDM-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+[Al]#P
+gG3;
+chent Aluminium potassium sulfate
+gG3;Aluminium potassium sulfate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Aluminium potassium sulfate ...
+gG3;Common name Aluminium potassium sulfate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Aluminium potassium sulfate ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[K+]
+gG3;
+chent Ametoctradin
+gG3;Ametoctradin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Ametoctradin ...
+gG3;Querying PubChem for inchikey GGKQIOFASHYUJZ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCC1=C(N2C(=NC=N2)N=C1CC)N
+gG3;
+chent Amidosulfuron
+gG3;Amidosulfuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Amidosulfuron ...
+gG3;Querying PubChem for inchikey CTTHWASMBLQOFR-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN(S(=O)(=O)C)S(=O)(=O)NC(=O)NC1=NC(=CC(=N1)OC)OC
+gG3;
+chent Aminopyralid
+gG3;Aminopyralid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Aminopyralid ...
+gG3;Querying PubChem for inchikey NIXXQNOQHKNPEJ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=C(C(=C(N=C1Cl)C(=O)O)Cl)N
+gG3;
+chent Amisulbrom
+gG3;Amisulbrom | TRUE | NA | NA | NA
+gG3;Querying BCPC for Amisulbrom ...
+gG3;Querying PubChem for inchikey BREATYVWRHIPIY-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C2=C(N1S(=O)(=O)C3=NN(C=N3)S(=O)(=O)N(C)C)C=C(C=C2)F)Br
+gG3;
+chent Amitrole
+gG3;Amitrole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Amitrole ...
+gG3;Querying PubChem for inchikey KLSJWNVTNUYHDU-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=NNC(=N1)N
+gG3;
+chent Atrazine
+gG3;Atrazine | TRUE | NA | NA | NA
+gG3;Querying BCPC for Atrazine ...
+gG3;Querying PubChem for inchikey MXWJVTOOROXGIU-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCNC1=NC(=NC(=N1)Cl)NC(C)C
+gG3;
+chent Atrazine-2-hydroxy
+gG3;Atrazine-2-hydroxy | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Atrazine-2-hydroxy ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCNC1=NC(=O)NC(=N1)NC(C)C
+gG3;
+chent Atrazine-desethyl
+gG3;Atrazine-desethyl | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Atrazine-desethyl ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)NC1=NC(=NC(=N1)N)Cl
+gG3;
+chent Atrazine-desisopropyl
+gG3;Atrazine-desisopropyl | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Atrazine-desisopropyl ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCNC1=NC(=NC(=N1)N)Cl
+gG3;
+chent Avermectin B1a
+gG3;Avermectin B1a | TRUE | CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C | PubChem | NA
+gG3;Querying BCPC for Avermectin B1a ...
+gG3;Common name Avermectin B1a is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+CC[C@H](C)[C@@H]1[C@H](C=C[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+gG3;
+chent Avermectin B1b
+gG3;Avermectin B1b | TRUE | C[C@H]1/C=C/C=C/2\CO[C@H]3[C@@]2([C@@H](C=C([C@H]3O)C)C(=O)O[C@H]4C[C@@H](C/C=C(/[C@H]1O[C@H]5C[C@@H]([C@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O)OC)OC)\C)O[C@]7(C4)C=C[C@@H]([C@H](O7)C(C)C)C)O | PubChem | NA
+gG3;Querying BCPC for Avermectin B1b ...
+gG3;Common name Avermectin B1b is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles C[C@H]1/C=C/C=C/2\CO[C@H]3[C@@]2([C@@H](C=C([C@H]3O)C)C(=O)O[C@H]4C[C@@H](C/C=C(/[C@H]1O[C@H]5C[C@@H]([C@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O)OC)OC)\C)O[C@]7(C4)C=C[C@@H]([C@H](O7)C(C)C)C)O ...
+gG3;Get chemical information from RDKit using user SMILES
+C[C@H]1/C=C/C=C/2\CO[C@H]3[C@@]2([C@@H](C=C([C@H]3O)C)C(=O)O[C@H]4C[C@@H](C/C=C(/[C@H]1O[C@H]5C[C@@H]([C@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O)OC)OC)\C)O[C@]7(C4)C=C[C@@H]([C@H](O7)C(C)C)C)O
+gG3;
+chent Azadirachtin
+gG3;Azadirachtin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Azadirachtin ...
+gG3;Querying PubChem for inchikey FTNJWQUOZFUQQJ-NDAWSKJSSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C/C=C(\C)/C(=O)O[C@H]1C[C@H]([C@]2(CO[C@@H]3[C@@H]2[C@]14CO[C@@]([C@H]4[C@]([C@@H]3O)(C)[C@@]56[C@@H]7C[C@H]([C@@]5(O6)C)[C@]8(C=CO[C@H]8O7)O)(C(=O)OC)O)C(=O)OC)OC(=O)C
+gG3;
+chent Azoxystrobin
+gG3;Azoxystrobin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Azoxystrobin ...
+gG3;Querying PubChem for inchikey WFDXOXNFNRHQEC-GHRIWEEISA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CO/C=C(\C1=CC=CC=C1OC2=NC=NC(=C2)OC3=CC=CC=C3C#N)/C(=O)OC
+gG3;
+chent Beflubutamid
+gG3;Beflubutamid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Beflubutamid ...
+gG3;Querying PubChem for inchikey FFQPZWRNXKPNPX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC(C(=O)NCC1=CC=CC=C1)OC2=CC(=C(C=C2)F)C(F)(F)F
+gG3;
+chent Benalaxyl
+gG3;Benalaxyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Benalaxyl ...
+gG3;Querying PubChem for inchikey CJPQIRJHIZUAQP-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)CC2=CC=CC=C2
+gG3;
+chent Benalaxyl-M
+gG3;Benalaxyl-M | TRUE | NA | NA | NA
+gG3;Querying BCPC for Benalaxyl-M ...
+gG3;Querying PubChem for inchikey CJPQIRJHIZUAQP-MRXNPFEDSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=CC=C1)C)N([C@H](C)C(=O)OC)C(=O)CC2=CC=CC=C2
+gG3;
+chent Bensulfuron-methyl
+gG3;Bensulfuron-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bensulfuron-methyl ...
+gG3;Querying PubChem for inchikey XMQFTWRPUQYINF-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)CC2=CC=CC=C2C(=O)OC)OC
+gG3;
+chent Bentazone
+gG3;Bentazone | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bentazone ...
+gG3;Querying PubChem for inchikey ZOMSMJKLGFBRBS-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)N1C(=O)C2=CC=CC=C2NS1(=O)=O
+gG3;
+chent Benthiavalicarb-isopropyl
+gG3;Benthiavalicarb-isopropyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Benthiavalicarb-isopropyl ...
+gG3;Querying PubChem for inchikey USRKFGIXLGKMKU-ABAIWWIYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[C@H](C1=NC2=C(S1)C=C(C=C2)F)NC(=O)[C@H](C(C)C)NC(=O)OC(C)C
+gG3;
+chent Benzovindiflupyr
+gG3;Benzovindiflupyr | TRUE | NA | NA | NA
+gG3;Querying BCPC for Benzovindiflupyr ...
+gG3;Querying PubChem for inchikey CCCGEKHKTPTUHJ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC3=C2C4CCC3C4=C(Cl)Cl
+gG3;
+chent Bifenazate
+gG3;Bifenazate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bifenazate ...
+gG3;Querying PubChem for inchikey VHLKTXFWDRXILV-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)OC(=O)NNC1=C(C=CC(=C1)C2=CC=CC=C2)OC
+gG3;
+chent Bifenox
+gG3;Bifenox | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bifenox ...
+gG3;Querying PubChem for inchikey SUSRORUBZHMPCO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC(=O)C1=C(C=CC(=C1)OC2=C(C=C(C=C2)Cl)Cl)[N+](=O)[O-]
+gG3;
+chent Bifenthrin-(1R,3R)
+gG3;Bifenthrin-(1R,3R) | FALSE | CC1(C)[C@H](C(=O)OCc2cccc(c3ccccc3)c2C)[C@@H]1\C=C(/Cl)C(F)(F)F | Agroscope | NA
+gG3;Querying PubChem for smiles CC1(C)[C@H](C(=O)OCc2cccc(c3ccccc3)c2C)[C@@H]1\C=C(/Cl)C(F)(F)F ...
+gG3;Get chemical information from RDKit using user SMILES
+CC1(C)[C@H](C(=O)OCc2cccc(c3ccccc3)c2C)[C@@H]1\C=C(/Cl)C(F)(F)F
+gG3;
+chent Bifenthrin-(1S,3S)
+gG3;Bifenthrin-(1S,3S) | FALSE | CC1(C)[C@@H](C(=O)OCc2cccc(c3ccccc3)c2C)[C@H]1\C=C(/Cl)C(F)(F)F | Agroscope | NA
+gG3;Querying PubChem for smiles CC1(C)[C@@H](C(=O)OCc2cccc(c3ccccc3)c2C)[C@H]1\C=C(/Cl)C(F)(F)F ...
+gG3;Get chemical information from RDKit using user SMILES
+CC1(C)[C@@H](C(=O)OCc2cccc(c3ccccc3)c2C)[C@H]1\C=C(/Cl)C(F)(F)F
+gG3;
+chent Bixafen
+gG3;Bixafen | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bixafen ...
+gG3;Querying PubChem for inchikey LDLMOOXUCMHBMZ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN1C=C(C(=N1)C(F)F)C(=O)NC2=C(C=C(C=C2)F)C3=CC(=C(C=C3)Cl)Cl
+gG3;
+chent Boscalid
+gG3;Boscalid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Boscalid ...
+gG3;Querying PubChem for inchikey WYEMLYFITZORAB-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C(C(=C1)C2=CC=C(C=C2)Cl)NC(=O)C3=C(N=CC=C3)Cl
+gG3;
+chent Bromoxynil
+gG3;Bromoxynil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bromoxynil ...
+gG3;Querying PubChem for inchikey UPMXNNIRAGDFEH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=C(C=C(C(=C1Br)O)Br)C#N
+gG3;
+chent Bromoxynil butyrate
+gG3;Bromoxynil butyrate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bromoxynil butyrate ...
+gG3;Querying PubChem for inchikey PGMZYNZXIYOOHJ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br
+gG3;
+chent Bromoxynil heptanoate
+gG3;Bromoxynil heptanoate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bromoxynil heptanoate ...
+gG3;Querying PubChem for inchikey BHZWBQPHPLFZSV-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br
+gG3;
+chent Bromoxynil octanoate
+gG3;Bromoxynil octanoate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bromoxynil octanoate ...
+gG3;Querying PubChem for inchikey DQKWXTIYGWPGOO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCCCCC(=O)OC1=C(C=C(C=C1Br)C#N)Br
+gG3;
+chent Bromuconazole
+gG3;Bromuconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bromuconazole ...
+gG3;Querying PubChem for inchikey HJJVPARKXDDIQD-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1C(COC1(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl)Br
+gG3;
+chent Bupirimate
+gG3;Bupirimate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Bupirimate ...
+gG3;Querying PubChem for inchikey DSKJPMWIHSOYEA-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCC1=C(N=C(N=C1OS(=O)(=O)N(C)C)NCC)C
+gG3;
+chent Buprofezin
+gG3;Buprofezin | TRUE | C(C)(C)N1\C(=N\C(C)(C)C)\SCN(C1=O)C2=CC=CC=C2 | CAS Common Chemistry | BCPC says it is only the Z isomer, while PubChem gives the CAS number of the mixture of the isomers
+
+gG3;Querying BCPC for Buprofezin ...
+gG3;Querying PubChem for smiles C(C)(C)N1\C(=N\C(C)(C)C)\SCN(C1=O)C2=CC=CC=C2 ...
+gG3;InChiKey PRLVTUNWOQKEAI-UHFFFAOYSA-N from PubChem record does not match
+InChiKey PRLVTUNWOQKEAI-VKAVYKQESA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+C(C)(C)N1\C(=N\C(C)(C)C)\SCN(C1=O)C2=CC=CC=C2
+gG3;
+chent Butafenacil
+gG3;Butafenacil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Butafenacil ...
+gG3;Querying PubChem for inchikey JEDYYFXHPAIBGR-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)(C(=O)OCC=C)OC(=O)C1=C(C=CC(=C1)N2C(=O)C=C(N(C2=O)C)C(F)(F)F)Cl
+gG3;
+chent Calcium hydroxide
+gG3;Calcium hydroxide | TRUE | [OH-].[OH-].[Ca+2] | Pubchem | NA
+gG3;Querying BCPC for Calcium hydroxide ...
+gG3;Common name Calcium hydroxide is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles [OH-].[OH-].[Ca+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[OH-].[OH-].[Ca+2]
+gG3;
+chent Calcium pentasulfide
+gG3;Calcium pentasulfide | TRUE | [S-]SSS[S-].[Ca+2] | PubChem | NA
+gG3;Querying BCPC for Calcium pentasulfide ...
+gG3;Common name Calcium pentasulfide is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles [S-]SSS[S-].[Ca+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[S-]SSS[S-].[Ca+2]
+gG3;
+chent Calcium thiosulfate
+gG3;Calcium thiosulfate | TRUE | [O-]S(=O)(=S)[O-].[Ca+2] | PubChem | NA
+gG3;Querying BCPC for Calcium thiosulfate ...
+gG3;Common name Calcium thiosulfate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles [O-]S(=O)(=S)[O-].[Ca+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[O-]S(=O)(=S)[O-].[Ca+2]
+gG3;
+chent Captan
+gG3;Captan | TRUE | NA | NA | NA
+gG3;Querying BCPC for Captan ...
+gG3;Querying PubChem for inchikey LDVVMCZRFWMZSG-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1C=CCC2C1C(=O)N(C2=O)SC(Cl)(Cl)Cl
+gG3;
+chent Carbendazim
+gG3;Carbendazim | TRUE | NA | NA | NA
+gG3;Querying BCPC for Carbendazim ...
+gG3;Querying PubChem for inchikey TWFZGCMQGLPBSX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC(=O)NC1=NC2=CC=CC=C2N1
+gG3;
+chent Carfentrazone-ethyl
+gG3;Carfentrazone-ethyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Carfentrazone-ethyl ...
+gG3;Querying PubChem for inchikey MLKCGVHIFJBRCD-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC(=O)C(CC1=CC(=C(C=C1Cl)F)N2C(=O)N(C(=N2)C)C(F)F)Cl
+gG3;
+chent CGA232449
+gG3;CGA232449 | FALSE | C1=CC=C(C=C1)NC2=NC(=CC(=N2)CO)C3CC3 | enviPath | NA
+gG3;Querying PubChem for smiles C1=CC=C(C=C1)NC2=NC(=CC(=N2)CO)C3CC3 ...
+gG3;Get chemical information from RDKit using user SMILES
+C1=CC=C(C=C1)NC2=NC(=CC(=N2)CO)C3CC3
+gG3;
+chent CGA249287
+gG3;CGA249287 | FALSE | CC1=NC(=NC(=C1)C2CC2)N | enviPath | NA
+gG3;Querying PubChem for smiles CC1=NC(=NC(=C1)C2CC2)N ...
+gG3;Get chemical information from RDKit using user SMILES
+CC1=NC(=NC(=C1)C2CC2)N
+gG3;
+chent Chlorantraniliprole
+gG3;Chlorantraniliprole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Chlorantraniliprole ...
+gG3;Querying PubChem for inchikey PSOVNZZNOMJUBI-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)Cl
+gG3;
+chent Chloridazon
+gG3;Chloridazon | TRUE | NA | NA | NA
+gG3;Querying BCPC for Chloridazon ...
+gG3;Querying PubChem for inchikey WYKYKTKDBLFHCY-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C(C=C1)N2C(=O)C(=C(C=N2)N)Cl
+gG3;
+chent Chlormequat
+gG3;Chlormequat | TRUE | NA | NA | NA
+gG3;Querying BCPC for Chlormequat ...
+gG3;Querying PubChem for inchikey JUZXDNPBRPUIOR-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[N+](C)(C)CCCl
+gG3;
+chent Chlorothalonil
+gG3;Chlorothalonil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Chlorothalonil ...
+gG3;Querying PubChem for inchikey CRQQGFGUEAVUIL-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl
+gG3;
+chent Chlorothalonil-4-hydroxy
+gG3;Chlorothalonil-4-hydroxy | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Chlorothalonil-4-hydroxy ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C(#N)C1=C(C(=C(C(=C1Cl)C#N)Cl)Cl)O
+gG3;
+chent Chlorotoluron
+gG3;Chlorotoluron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Chlorotoluron ...
+gG3;Querying PubChem for inchikey JXCGFZXSOMJFOA-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C=C(C=C1)NC(=O)N(C)C)Cl
+gG3;
+chent Chlorpyrifos
+gG3;Chlorpyrifos | TRUE | NA | NA | NA
+gG3;Querying BCPC for Chlorpyrifos ...
+gG3;Querying PubChem for inchikey SBPBAQFWLVIOKP-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl
+gG3;
+chent Chlorpyriphos-methyl
+gG3;Chlorpyriphos-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Chlorpyriphos-methyl ...
+gG3;Common name Chlorpyriphos-methyl is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Chlorpyriphos-methyl ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COP(=S)(OC)OC1=NC(=C(C=C1Cl)Cl)Cl
+gG3;
+chent Chromafenozide
+gG3;Chromafenozide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Chromafenozide ...
+gG3;Querying PubChem for inchikey HPNSNYBUADCFDR-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C3=C(C=C2)OCCC3)C)C
+gG3;
+chent Cinnamaldehyde
+gG3;Cinnamaldehyde | TRUE | NA | NA | NA
+gG3;Querying BCPC for Cinnamaldehyde ...
+gG3;Common name Cinnamaldehyde is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Cinnamaldehyde ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C(C=C1)/C=C/C=O
+gG3;
+chent Cinerin I
+gG3;Cinerin I | TRUE | NA | NA | NA
+gG3;Querying BCPC for Cinerin I ...
+gG3;Querying PubChem for inchikey FMTFEIJHMMQUJI-DFKXKMKHSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C/C=C\CC1=C([C@H](CC1=O)OC(=O)[C@@H]2[C@H](C2(C)C)C=C(C)C)C
+gG3;
+chent Cinerin II
+gG3;Cinerin II | TRUE | NA | NA | NA
+gG3;Querying BCPC for Cinerin II ...
+gG3;Querying PubChem for inchikey SHCRDCOTRILILT-WOBDGSLYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C/C=C\CC1=C([C@H](CC1=O)OC(=O)[C@@H]2[C@H](C2(C)C)/C=C(\C)/C(=O)OC)C
+gG3;
+chent Clethodim
+gG3;Clethodim | TRUE | NA | NA | NA
+gG3;Querying BCPC for Clethodim ...
+gG3;Querying PubChem for inchikey SILSDTWXNBZOGF-JWGBMQLESA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC(=NOC/C=C/Cl)C1=C(CC(CC1=O)CC(C)SCC)O
+gG3;
+chent Clodinafop-propargyl
+gG3;Clodinafop-propargyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Clodinafop-propargyl ...
+gG3;Querying PubChem for inchikey JBDHZKLJNAIJNC-LLVKDONJSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[C@H](C(=O)OCC#C)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)Cl)F
+gG3;
+chent Clofentezine
+gG3;Clofentezine | TRUE | NA | NA | NA
+gG3;Querying BCPC for Clofentezine ...
+gG3;Querying PubChem for inchikey UXADOQPNKNTIHB-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C(C(=C1)C2=NN=C(N=N2)C3=CC=CC=C3Cl)Cl
+gG3;
+chent Clomazone
+gG3;Clomazone | TRUE | NA | NA | NA
+gG3;Querying BCPC for Clomazone ...
+gG3;Querying PubChem for inchikey KIEDNEWSYUYDSN-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1(CON(C1=O)CC2=CC=CC=C2Cl)C
+gG3;
+chent Clopyralid
+gG3;Clopyralid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Clopyralid ...
+gG3;Querying PubChem for inchikey HUBANNPOLNYSAD-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=NC(=C1Cl)C(=O)O)Cl
+gG3;
+chent Clothianidin
+gG3;Clothianidin | TRUE | CN/C(=N\[N+](=O)[O-])/NCC1=CN=C(S1)Cl | PubChem | NA
+gG3;Querying BCPC for Clothianidin ...
+gG3;Querying PubChem for smiles CN/C(=N\[N+](=O)[O-])/NCC1=CN=C(S1)Cl ...
+gG3;InChiKey PGOOBECODWQEAB-UHFFFAOYSA-N from PubChem record does not match
+InChiKey PGOOBECODWQEAB-PQKPOUEINA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+CN/C(=N\[N+](=O)[O-])/NCC1=CN=C(S1)Cl
+gG3;
+chent Codlemone
+gG3;Codlemone | TRUE | NA | NA | NA
+gG3;Querying BCPC for Codlemone ...
+gG3;Common name Codlemone is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Codlemone ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C/C=C/C=C/CCCCCCCO
+gG3;
+chent Copper
+gG3;Copper | TRUE | NA | NA | NA
+gG3;Querying BCPC for Copper ...
+gG3;Common name Copper is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Copper ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+[Cu]
+gG3;
+chent Copper hydroxide
+gG3;Copper hydroxide | TRUE | [OH-].[OH-].[Cu+2] | PubChem | NA
+gG3;Querying BCPC for Copper hydroxide ...
+gG3;Querying PubChem for smiles [OH-].[OH-].[Cu+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[OH-].[OH-].[Cu+2]
+gG3;
+chent Copper oxychloride
+gG3;Copper oxychloride | TRUE | [OH-].[OH-].[OH-].[Cl-].[Cu+2].[Cu+2] | PubChem | NA
+gG3;Querying BCPC for Copper oxychloride ...
+gG3;Querying PubChem for smiles [OH-].[OH-].[OH-].[Cl-].[Cu+2].[Cu+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[OH-].[OH-].[OH-].[Cl-].[Cu+2].[Cu+2]
+gG3;
+chent Copper sulfate
+gG3;Copper sulfate | TRUE | [O-]S(=O)(=O)[O-].[Cu+2] | PubChem | NA
+gG3;Querying BCPC for Copper sulfate ...
+gG3;Querying PubChem for smiles [O-]S(=O)(=O)[O-].[Cu+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[O-]S(=O)(=O)[O-].[Cu+2]
+gG3;
+chent Cuprous oxide
+gG3;Cuprous oxide | TRUE | [O-2].[Cu+].[Cu+] | PubChem | NA
+gG3;Querying BCPC for Cuprous oxide ...
+gG3;Querying PubChem for smiles [O-2].[Cu+].[Cu+] ...
+gG3;InChiKey KRFJLUBVMFXRPN-UHFFFAOYSA-N from PubChem record does not match
+InChiKey BERDEBHAJNAUOM-UHFFFAOYSA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+[O-2].[Cu+].[Cu+]
+gG3;
+chent Cyantraniliprole
+gG3;Cyantraniliprole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Cyantraniliprole ...
+gG3;Querying PubChem for inchikey DVBUIBGJRQBEDP-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=CC(=C1NC(=O)C2=CC(=NN2C3=C(C=CC=N3)Cl)Br)C(=O)NC)C#N
+gG3;
+chent Cyazofamid
+gG3;Cyazofamid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Cyazofamid ...
+gG3;Querying PubChem for inchikey YXKMMRDKEKCERS-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC=C(C=C1)C2=C(N=C(N2S(=O)(=O)N(C)C)C#N)Cl
+gG3;
+chent Cyflufenamid
+gG3;Cyflufenamid | TRUE | C1CC1CO/N=C(/C2=C(C=CC(=C2F)F)C(F)(F)F)\NC(=O)CC3=CC=CC=C3 | PubChem | NA
+gG3;Querying BCPC for Cyflufenamid ...
+gG3;Querying PubChem for smiles C1CC1CO/N=C(/C2=C(C=CC(=C2F)F)C(F)(F)F)\NC(=O)CC3=CC=CC=C3 ...
+gG3;InChiKey ACMXQHFNODYQAT-UHFFFAOYSA-N from PubChem record does not match
+InChiKey ACMXQHFNODYQAT-TWGOXAJXNA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+C1CC1CO/N=C(/C2=C(C=CC(=C2F)F)C(F)(F)F)\NC(=O)CC3=CC=CC=C3
+gG3;
+chent Cyfluthrin
+gG3;Cyfluthrin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Cyfluthrin ...
+gG3;Querying PubChem for inchikey QQODLKZGRKWIFG-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1(C(C1C(=O)OC(C#N)C2=CC(=C(C=C2)F)OC3=CC=CC=C3)C=C(Cl)Cl)C
+gG3;
+chent Cyfluthrin-(1R,3R,alphaR)
+gG3;Cyfluthrin-(1R,3R,alphaR) | FALSE | O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C ...
+gError in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+In addition: Warning messages:
+1: In self$get_rdkit(template = template) :
+  RDKit mw is 225.255 while mw is 225.25
+2: In self$get_rdkit(template = template) :
+  RDKit mw is 859.063 while mw is 859
+3: In self$get_rdkit(template = template) :
+  RDKit mw is 483.153 while mw is 483.1
+4: In self$get_rdkit(template = template) :
+  RDKit mw is 360.45 while mw is 360.4
+5: In self$get_rdkit(template = template) :
+  RDKit mw is 303.152 while mw is 303.1
+G3;Get chemical information from RDKit using user SMILES
+O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cyfluthrin-(1S,3S,alphaS)
+gG3;Cyfluthrin-(1S,3S,alphaS) | FALSE | O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C ...
+gError in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+G3;Get chemical information from RDKit using user SMILES
+O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cyfluthrin-(1R,3R,alphaS)
+gG3;Cyfluthrin-(1R,3R,alphaS) | FALSE | O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C ...
+gError in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+G3;Get chemical information from RDKit using user SMILES
+O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cyfluthrin-(1S,3S,alphaR)
+gG3;Cyfluthrin-(1S,3S,alphaR) | FALSE | O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C ...
+gError in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+G3;Get chemical information from RDKit using user SMILES
+O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cyfluthrin-(1R,3S,alphaR)
+gG3;Cyfluthrin-(1R,3S,alphaR) | FALSE | O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C ...
+gError in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+G3;Get chemical information from RDKit using user SMILES
+O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cyfluthrin-(1S,3R,alphaS)
+gG3;Cyfluthrin-(1S,3R,alphaS) | FALSE | O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C ...
+gError in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+G3;Get chemical information from RDKit using user SMILES
+O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cyfluthrin-(1R,3S,alphaS)
+gG3;Cyfluthrin-(1R,3S,alphaS) | FALSE | O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C ...
+gError in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+G3;Get chemical information from RDKit using user SMILES
+O=C(O[C@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cyfluthrin-(1S,3R,alphaR)
+gG3;Cyfluthrin-(1S,3R,alphaR) | FALSE | O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C ...
+gError in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+G3;Get chemical information from RDKit using user SMILES
+O=C(O[C@@H](C#N)C=1C=CC(F)C(Oc2ccccc2)C=1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cyhalothrin
+gG3;Cyhalothrin | TRUE | CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C | PubChem | NA
+gG3;Querying BCPC for Cyhalothrin ...
+gG3;Querying PubChem for smiles CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C ...
+gG3;InChiKey ZXQYGBMAQZUVMI-UNOMPAQXSA-N from PubChem record does not match
+InChiKey OOAOVGPMANECPJ-RWEUCVCFSA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C
+gG3;
+chent Cyhalothrin-(1S,3S,alphaR)
+gG3;Cyhalothrin-(1S,3S,alphaR) | FALSE | CC1([C@@H]([C@@H]1C(=O)O[C@@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C | PubChem | NA
+gG3;Querying PubChem for smiles CC1([C@@H]([C@@H]1C(=O)O[C@@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C ...
+gG3;Get chemical information from RDKit using user SMILES
+CC1([C@@H]([C@@H]1C(=O)O[C@@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C
+gG3;
+chent Cymoxanil
+gG3;Cymoxanil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Cymoxanil ...
+gG3;Querying PubChem for inchikey XERJKGMBORTKEO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCNC(=O)NC(=O)C(=NOC)C#N
+gG3;
+chent Cypermethrin
+gG3;Cypermethrin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Cypermethrin ...
+gG3;Querying PubChem for inchikey KAATUXNTWXVJKI-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C
+gG3;
+chent Cypermethrin-(1S,3S,alphaS)
+gG3;Cypermethrin-(1S,3S,alphaS) | FALSE | O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cypermethrin-(1R,3R,alphaR)
+gG3;Cypermethrin-(1R,3R,alphaR) | FALSE | O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cypermethrin-(1R,3R,alphaS)
+gG3;Cypermethrin-(1R,3R,alphaS) | FALSE | O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cypermethrin-(1S,3S,alphaR)
+gG3;Cypermethrin-(1S,3S,alphaR) | FALSE | O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cypermethrin-(1S,3R,alphaS)
+gG3;Cypermethrin-(1S,3R,alphaS) | FALSE | O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cypermethrin-(1R,3S,alphaR)
+gG3;Cypermethrin-(1R,3S,alphaR) | FALSE | O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cypermethrin-(1R,3S,alphaS)
+gG3;Cypermethrin-(1R,3S,alphaS) | FALSE | O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+O=C(O[C@H](C#N)c1cccc(Oc2ccccc2)c1)[C@@H]1[C@@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cypermethrin-(1S,3R,alphaR)
+gG3;Cypermethrin-(1S,3R,alphaR) | FALSE | O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C | Agroscope | NA
+gG3;Querying PubChem for smiles O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+O=C(O[C@@H](C#N)c1cccc(Oc2ccccc2)c1)[C@H]1[C@H](\C=C(\Cl)Cl)C1(C)C
+gG3;
+chent Cyproconazole
+gG3;Cyproconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Cyproconazole ...
+gG3;Querying PubChem for inchikey UFNOUKDBUJZYDE-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C1CC1)C(CN2C=NC=N2)(C3=CC=C(C=C3)Cl)O
+gG3;
+chent Cyprodinil
+gG3;Cyprodinil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Cyprodinil ...
+gG3;Querying PubChem for inchikey HAORKNGNJCEJBX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=NC(=N1)NC2=CC=CC=C2)C3CC3
+gG3;
+chent Dazomet
+gG3;Dazomet | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dazomet ...
+gG3;Querying PubChem for inchikey QAYICIQNSGETAS-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN1CN(C(=S)SC1)C
+gG3;
+chent Daminozide
+gG3;Daminozide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Daminozide ...
+gG3;Querying PubChem for inchikey NOQGZXFMHARMLW-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN(C)NC(=O)CCC(=O)O
+gG3;
+chent Deltamethrin
+gG3;Deltamethrin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Deltamethrin ...
+gG3;Querying PubChem for inchikey OWZREIFADZCYQD-NSHGMRRFSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C
+gG3;
+chent Desmedipham
+gG3;Desmedipham | TRUE | NA | NA | NA
+gG3;Querying BCPC for Desmedipham ...
+gG3;Querying PubChem for inchikey WZJZMXBKUWKXTQ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC(=O)NC1=CC(=CC=C1)OC(=O)NC2=CC=CC=C2
+gG3;
+chent Desmethoxy-linuron
+gG3;Desmethoxy-linuron | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Desmethoxy-linuron ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CNC(=O)NC1=CC(=C(C=C1)Cl)Cl
+gG3;
+chent Dicamba
+gG3;Dicamba | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dicamba ...
+gG3;Querying PubChem for inchikey IWEDIXLBFLAXBO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=C(C=CC(=C1C(=O)O)Cl)Cl
+gG3;
+chent Dichlobenil
+gG3;Dichlobenil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dichlobenil ...
+gG3;Querying PubChem for inchikey YOYAIZYFCNQIRF-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C(=C1)Cl)C#N)Cl
+gG3;
+chent Difenoconazole
+gG3;Difenoconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Difenoconazole ...
+gG3;Querying PubChem for inchikey BQYJATMQXGBDHF-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)OC4=CC=C(C=C4)Cl)Cl
+gG3;
+chent Diflubenzuron
+gG3;Diflubenzuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Diflubenzuron ...
+gG3;Querying PubChem for inchikey QQQYTWIFVNKMRW-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC=C(C=C2)Cl)F
+gG3;
+chent Diflufenican
+gG3;Diflufenican | TRUE | NA | NA | NA
+gG3;Querying BCPC for Diflufenican ...
+gG3;Querying PubChem for inchikey WYEHFWKAOXOVJD-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=CC(=C1)OC2=C(C=CC=N2)C(=O)NC3=C(C=C(C=C3)F)F)C(F)(F)F
+gG3;
+chent Diflufenzopyr
+gG3;Diflufenzopyr | TRUE | NA | NA | NA
+gG3;Querying BCPC for Diflufenzopyr ...
+gG3;Querying PubChem for inchikey IRJQWZWMQCVOLA-DNTJNYDQSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C/C(=N\NC(=O)NC1=CC(=CC(=C1)F)F)/C2=C(C=CC=N2)C(=O)O
+gG3;
+chent Dimethachlor
+gG3;Dimethachlor | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dimethachlor ...
+gG3;Querying PubChem for inchikey SCCDDNKJYDZXMM-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=CC=C1)C)N(CCOC)C(=O)CCl
+gG3;
+chent Dimethenamid-P
+gG3;Dimethenamid-P | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dimethenamid-P ...
+gG3;Querying PubChem for inchikey JLYFCTQDENRSOL-VIFPVBQESA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CSC(=C1N([C@@H](C)COC)C(=O)CCl)C
+gG3;
+chent Dimethoate
+gG3;Dimethoate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dimethoate ...
+gG3;Querying PubChem for inchikey MCWXGJITAZMZEV-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CNC(=O)CSP(=S)(OC)OC
+gG3;
+chent Dimethomorph
+gG3;Dimethomorph | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dimethomorph ...
+gG3;Querying PubChem for inchikey QNBTYORWCCMPQP-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=C(C=C(C=C1)C(=CC(=O)N2CCOCC2)C3=CC=C(C=C3)Cl)OC
+gG3;
+chent Dimoxystrobin
+gG3;Dimoxystrobin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dimoxystrobin ...
+gG3;Querying PubChem for inchikey WXUZAHCNPWONDH-DYTRJAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=C(C=C1)C)OCC2=CC=CC=C2/C(=N\OC)/C(=O)NC
+gG3;
+chent Diquat
+gG3;Diquat | TRUE | NA | NA | NA
+gG3;Querying BCPC for Diquat ...
+gG3;Querying PubChem for inchikey SYJFEGQWDCRVNX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1C[N+]2=CC=CC=C2C3=CC=CC=[N+]31
+gG3;
+chent Disodium phosphonate
+gG3;Disodium phosphonate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Disodium phosphonate ...
+gG3;Common name Disodium phosphonate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Disodium phosphonate ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+[O-]P(=O)=O.[Na+].[Na+]
+gG3;
+chent Dithianon
+gG3;Dithianon | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dithianon ...
+gG3;Querying PubChem for inchikey PYZSVQVRHDXQSL-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C2C(=C1)C(=O)C3=C(C2=O)SC(=C(S3)C#N)C#N
+gG3;
+chent Diuron
+gG3;Diuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Diuron ...
+gG3;Querying PubChem for inchikey XMTQQYYKAHVGBJ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl
+gG3;
+chent Dodemorph
+gG3;Dodemorph | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dodemorph ...
+gG3;Querying PubChem for inchikey JMXKCYUTURMERF-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1CN(CC(O1)C)C2CCCCCCCCCCC2
+gG3;
+chent Dodine
+gG3;Dodine | TRUE | NA | NA | NA
+gG3;Querying BCPC for Dodine ...
+gG3;Querying PubChem for inchikey YIKWKLYQRFRGPM-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCN=C(N)N.CC(=O)O
+gG3;
+chent Emamectin benzoate B1a
+gG3;Emamectin benzoate B1a | TRUE | CCC(C)C1C(C=CC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)NC)OC)OC)C)C.C1=CC=C(C=C1)C(=O)O | PubChem | NA
+gG3;Querying BCPC for Emamectin benzoate B1a ...
+gG3;Common name Emamectin benzoate B1a is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles CCC(C)C1C(C=CC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)NC)OC)OC)C)C.C1=CC=C(C=C1)C(=O)O ...
+gG3;Get chemical information from RDKit using user SMILES
+CCC(C)C1C(C=CC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)NC)OC)OC)C)C.C1=CC=C(C=C1)C(=O)O
+gG3;
+chent Emamectin benzoate B1b
+gG3;Emamectin benzoate B1b | TRUE | CC1C=CC=C2COC3C2(C(C=C(C3O)C)C(=O)OC4CC(CC=C(C1OC5CC(C(C(O5)C)OC6CC(C(C(O6)C)NC)OC)OC)C)OC7(C4)C=CC(C(O7)C(C)C)C)O.C1=CC=C(C=C1)C(=O)O | PubChem | NA
+gG3;Querying BCPC for Emamectin benzoate B1b ...
+gG3;Common name Emamectin benzoate B1b is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles CC1C=CC=C2COC3C2(C(C=C(C3O)C)C(=O)OC4CC(CC=C(C1OC5CC(C(C(O5)C)OC6CC(C(C(O6)C)NC)OC)OC)C)OC7(C4)C=CC(C(O7)C(C)C)C)O.C1=CC=C(C=C1)C(=O)O ...
+gG3;Get chemical information from RDKit using user SMILES
+CC1C=CC=C2COC3C2(C(C=C(C3O)C)C(=O)OC4CC(CC=C(C1OC5CC(C(C(O5)C)OC6CC(C(C(O6)C)NC)OC)OC)C)OC7(C4)C=CC(C(O7)C(C)C)C)O.C1=CC=C(C=C1)C(=O)O
+gG3;
+chent Endosulfan sulfate
+gG3;Endosulfan sulfate | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Endosulfan sulfate ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1C2C(COS(=O)(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl
+gG3;
+chent Epoxiconazole
+gG3;Epoxiconazole | TRUE | C([C@]1([C@H](O1)C2=C(Cl)C=CC=C2)C3=CC=C(F)C=C3)N4C=NC=N4 | CAS Common Chemistry | NA
+gG3;Querying BCPC for Epoxiconazole ...
+gG3;Querying PubChem for smiles C([C@]1([C@H](O1)C2=C(Cl)C=CC=C2)C3=CC=C(F)C=C3)N4C=NC=N4 ...
+gG3;Get chemical information from RDKit using user SMILES
+C([C@]1([C@H](O1)C2=C(Cl)C=CC=C2)C3=CC=C(F)C=C3)N4C=NC=N4
+gG3;
+chent Ethaboxam
+gG3;Ethaboxam | TRUE | NA | NA | NA
+gG3;Querying BCPC for Ethaboxam ...
+gG3;Querying PubChem for inchikey NQRFDNJEBWAUBL-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC1=C(SC(=N1)NCC)C(=O)NC(C#N)C2=CC=CS2
+gG3;
+chent Ethametsulfuron methyl
+gG3;Ethametsulfuron methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Ethametsulfuron methyl ...
+gG3;Common name Ethametsulfuron methyl is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Ethametsulfuron methyl ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC)NC
+gG3;
+chent Ethephon
+gG3;Ethephon | TRUE | C(CCl)P(=O)(O)O | PubChem | NA
+gG3;Querying BCPC for Ethephon ...
+gG3;Querying PubChem for smiles C(CCl)P(=O)(O)O ...
+gG3;Get chemical information from RDKit using user SMILES
+C(CCl)P(=O)(O)O
+gG3;
+chent Ethirimol
+gG3;Ethirimol | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Ethirimol ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCC1=C(N=C(NC1=O)NCC)C
+gG3;
+chent Ethofumesate
+gG3;Ethofumesate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Ethofumesate ...
+gG3;Querying PubChem for inchikey IRCMYGHHKLLGHV-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC1C(C2=C(O1)C=CC(=C2)OS(=O)(=O)C)(C)C
+gG3;
+chent Etofenprox
+gG3;Etofenprox | TRUE | NA | NA | NA
+gG3;Querying BCPC for Etofenprox ...
+gG3;Querying PubChem for inchikey YREQHYQNNWYQCJ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC1=CC=C(C=C1)C(C)(C)COCC2=CC(=CC=C2)OC3=CC=CC=C3
+gG3;
+chent Etoxazole
+gG3;Etoxazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Etoxazole ...
+gG3;Querying PubChem for inchikey IXSZQYVWNJNRAL-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC1=C(C=CC(=C1)C(C)(C)C)C2COC(=N2)C3=C(C=CC=C3F)F
+gG3;
+chent Famoxadone
+gG3;Famoxadone | TRUE | NA | NA | NA
+gG3;Querying BCPC for Famoxadone ...
+gG3;Querying PubChem for inchikey PCCSBWNGDMYFCW-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1(C(=O)N(C(=O)O1)NC2=CC=CC=C2)C3=CC=C(C=C3)OC4=CC=CC=C4
+gG3;
+chent Fenamidone
+gG3;Fenamidone | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenamidone ...
+gG3;Querying PubChem for inchikey LMVPQMGRYSRMIW-KRWDZBQOSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[C@@]1(C(=O)N(C(=N1)SC)NC2=CC=CC=C2)C3=CC=CC=C3
+gG3;
+chent Fenarimol
+gG3;Fenarimol | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenarimol ...
+gG3;Querying PubChem for inchikey NHOWDZOIZKMVAI-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)(C3=CN=CN=C3)O)Cl
+gG3;
+chent Fenazaquin
+gG3;Fenazaquin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenazaquin ...
+gG3;Querying PubChem for inchikey DMYHGDXADUDKCQ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)(C)C1=CC=C(C=C1)CCOC2=NC=NC3=CC=CC=C32
+gG3;
+chent Fenhexamid
+gG3;Fenhexamid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenhexamid ...
+gG3;Querying PubChem for inchikey VDLGAVXLJYLFDH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1(CCCCC1)C(=O)NC2=C(C(=C(C=C2)O)Cl)Cl
+gG3;
+chent Fenoxaprop-P-ethyl
+gG3;Fenoxaprop-P-ethyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenoxaprop-P-ethyl ...
+gG3;Querying PubChem for inchikey PQKBPHSEKWERTG-LLVKDONJSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC(=O)[C@@H](C)OC1=CC=C(C=C1)OC2=NC3=C(O2)C=C(C=C3)Cl
+gG3;
+chent Fenoxycarb
+gG3;Fenoxycarb | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenoxycarb ...
+gG3;Querying PubChem for inchikey HJUFTIJOISQSKQ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC(=O)NCCOC1=CC=C(C=C1)OC2=CC=CC=C2
+gG3;
+chent Fenpicoxamid
+gG3;Fenpicoxamid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenpicoxamid ...
+gG3;Querying PubChem for inchikey QGTOTYJSCYHYFK-RBODFLQRSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[C@H]1[C@@H]([C@H](C(=O)OC[C@@H](C(=O)O1)NC(=O)C2=NC=CC(=C2OCOC(=O)C(C)C)OC)CC3=CC=CC=C3)OC(=O)C(C)C
+gG3;
+chent Fenpropidin
+gG3;Fenpropidin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenpropidin ...
+gG3;Querying PubChem for inchikey MGNFYQILYYYUBS-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(CC1=CC=C(C=C1)C(C)(C)C)CN2CCCCC2
+gG3;
+chent Fenpropimorph
+gG3;Fenpropimorph | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenpropimorph ...
+gG3;Querying PubChem for inchikey RYAUSSKQMZRMAI-ALOPSCKCSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[C@@H]1CN(C[C@@H](O1)C)CC(C)CC2=CC=C(C=C2)C(C)(C)C
+gG3;
+chent Fenpyrazamine
+gG3;Fenpyrazamine | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenpyrazamine ...
+gG3;Querying PubChem for inchikey UTOHZQYBSYOOGC-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC=CC=C1C2=C(N(N(C2=O)C(C)C)C(=O)SCC=C)N
+gG3;
+chent Fenpyroximate
+gG3;Fenpyroximate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fenpyroximate ...
+gG3;Querying PubChem for inchikey YYJNOYZRYGDPNH-MFKUBSTISA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=NN(C(=C1/C=N/OCC2=CC=C(C=C2)C(=O)OC(C)(C)C)OC3=CC=CC=C3)C
+gG3;
+chent Ferric phosphate
+gG3;Ferric phosphate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Ferric phosphate ...
+gG3;Querying PubChem for inchikey WBJZTOZJJYAKHQ-UHFFFAOYSA-K ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+[O-]P(=O)([O-])[O-].[Fe+3]
+gG3;
+chent Fipronil
+gG3;Fipronil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fipronil ...
+gG3;Querying PubChem for inchikey ZOCSXAVNDGMNBV-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=C(C=C(C(=C1Cl)N2C(=C(C(=N2)C#N)S(=O)C(F)(F)F)N)Cl)C(F)(F)F
+gG3;
+chent Flazasulfuron
+gG3;Flazasulfuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Flazasulfuron ...
+gG3;Querying PubChem for inchikey HWATZEJQIXKWQS-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC=N2)C(F)(F)F)OC
+gG3;
+chent Flonicamid
+gG3;Flonicamid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Flonicamid ...
+gG3;Querying PubChem for inchikey RLQJEEJISHYWON-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CN=CC(=C1C(F)(F)F)C(=O)NCC#N
+gG3;
+chent Florasulam
+gG3;Florasulam | TRUE | NA | NA | NA
+gG3;Querying BCPC for Florasulam ...
+gG3;Querying PubChem for inchikey QZXATCCPQKOEIH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=NC=C(C2=NC(=NN21)S(=O)(=O)NC3=C(C=CC=C3F)F)F
+gG3;
+chent Fluazifop-P-butyl
+gG3;Fluazifop-P-butyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fluazifop-P-butyl ...
+gG3;Querying PubChem for inchikey VAIZTNZGPYBOGF-CYBMUJFWSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCOC(=O)[C@@H](C)OC1=CC=C(C=C1)OC2=NC=C(C=C2)C(F)(F)F
+gG3;
+chent Fluazinam
+gG3;Fluazinam | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fluazinam ...
+gG3;Querying PubChem for inchikey UZCGKGPEKUCDTF-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=C(C=NC(=C1Cl)NC2=C(C=C(C(=C2[N+](=O)[O-])Cl)C(F)(F)F)[N+](=O)[O-])C(F)(F)F
+gG3;
+chent Fludioxonil
+gG3;Fludioxonil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fludioxonil ...
+gG3;Querying PubChem for inchikey MUJOIMFVNIBMKC-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C2C(=C1)OC(O2)(F)F)C3=CNC=C3C#N
+gG3;
+chent Flufenacet
+gG3;Flufenacet | TRUE | NA | NA | NA
+gG3;Querying BCPC for Flufenacet ...
+gG3;Querying PubChem for inchikey IANUJLZYFUDJIH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)N(C1=CC=C(C=C1)F)C(=O)COC2=NN=C(S2)C(F)(F)F
+gG3;
+chent Flumioxazin
+gG3;Flumioxazin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Flumioxazin ...
+gG3;Querying PubChem for inchikey FOUWCSDKDDHKQP-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C#CCN1C(=O)COC2=CC(=C(C=C21)N3C(=O)C4=C(C3=O)CCCC4)F
+gG3;
+chent Fluopicolide
+gG3;Fluopicolide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fluopicolide ...
+gG3;Querying PubChem for inchikey GBOYJIHYACSLGN-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C(=C1)Cl)C(=O)NCC2=C(C=C(C=N2)C(F)(F)F)Cl)Cl
+gG3;
+chent Fluopyram
+gG3;Fluopyram | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fluopyram ...
+gG3;Querying PubChem for inchikey KVDJTXBXMWJJEF-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C(C(=C1)C(=O)NCCC2=C(C=C(C=N2)C(F)(F)F)Cl)C(F)(F)F
+gG3;
+chent Fluoxastrobin
+gG3;Fluoxastrobin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fluoxastrobin ...
+gG3;Querying PubChem for inchikey UFEODZBUAFNAEU-NLRVBDNBSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CO/N=C(\C1=CC=CC=C1OC2=C(C(=NC=N2)OC3=CC=CC=C3Cl)F)/C4=NOCCO4
+gG3;
+chent Flupyradifurone
+gG3;Flupyradifurone | TRUE | NA | NA | NA
+gG3;Querying BCPC for Flupyradifurone ...
+gG3;Querying PubChem for inchikey QOIYTRGFOFZNKF-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1C(=CC(=O)O1)N(CC2=CN=C(C=C2)Cl)CC(F)F
+gG3;
+chent Flupyrsulfuron-methyl-sodium
+gG3;Flupyrsulfuron-methyl-sodium | TRUE | NA | NA | NA
+gG3;Querying BCPC for Flupyrsulfuron-methyl-sodium ...
+gG3;Querying PubChem for inchikey JKPSVOHVUGMYGH-UHFFFAOYSA-M ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=CC(=NC(=N1)NC(=O)[N-]S(=O)(=O)C2=C(C=CC(=N2)C(F)(F)F)C(=O)OC)OC.[Na+]
+gG3;
+chent Fluquinconazole
+gG3;Fluquinconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fluquinconazole ...
+gG3;Querying PubChem for inchikey IJJVMEJXYNJXOJ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC2=C(C=C1F)C(=O)N(C(=N2)N3C=NC=N3)C4=C(C=C(C=C4)Cl)Cl
+gG3;
+chent Flurochloridone
+gG3;Flurochloridone | TRUE | NA | NA | NA
+gG3;Querying BCPC for Flurochloridone ...
+gG3;Querying PubChem for inchikey OQZCSNDVOWYALR-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1C(C(C(=O)N1C2=CC=CC(=C2)C(F)(F)F)Cl)CCl
+gG3;
+chent Fluroxypyr
+gG3;Fluroxypyr | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fluroxypyr ...
+gG3;Querying PubChem for inchikey MEFQWPUMEMWTJP-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C(C(=O)O)OC1=NC(=C(C(=C1Cl)N)Cl)F
+gG3;
+chent Flusilazole
+gG3;Flusilazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Flusilazole ...
+gG3;Querying PubChem for inchikey FQKUGOMFVDPBIZ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[Si](CN1C=NC=N1)(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F
+gG3;
+chent Flutianil
+gG3;Flutianil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Flutianil ...
+gG3;Querying PubChem for inchikey KGXUEPOHGFWQKF-ZCXUNETKSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=CC=CC=C1N\2CCS/C2=C(/C#N)\SC3=C(C=CC(=C3)C(F)(F)F)F
+gG3;
+chent Flutolanil
+gG3;Flutolanil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Flutolanil ...
+gG3;Querying PubChem for inchikey PTCGDEVVHUXTMP-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)OC1=CC=CC(=C1)NC(=O)C2=CC=CC=C2C(F)(F)F
+gG3;
+chent Fluxapyroxad
+gG3;Fluxapyroxad | TRUE | NA | NA | NA
+gG3;Querying BCPC for Fluxapyroxad ...
+gG3;Querying PubChem for inchikey SXSGXWCSHSVPGB-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3=CC(=C(C(=C3)F)F)F
+gG3;
+chent Folpet
+gG3;Folpet | TRUE | NA | NA | NA
+gG3;Querying BCPC for Folpet ...
+gG3;Querying PubChem for inchikey HKIOYBQGHSTUDB-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl
+gG3;
+chent Foramsulfuron
+gG3;Foramsulfuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Foramsulfuron ...
+gG3;Querying PubChem for inchikey PXDNXJSDGQBLKS-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN(C)C(=O)C1=C(C=C(C=C1)NC=O)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+gG3;
+chent Fosetyl
+gG3;Fosetyl | TRUE | CCO[P+](=O)O | PubChem | NA
+gG3;Querying BCPC for Fosetyl ...
+gG3;Querying PubChem for smiles CCO[P+](=O)O ...
+gG3;InChiKey ZUNGGJHBMLMRFJ-UHFFFAOYSA-O from PubChem record does not match
+InChiKey VUERQRKTYBIULR-UHFFFAOYSA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+CCO[P+](=O)O
+gG3;
+chent Fosetyl-aluminium
+gG3;Fosetyl-aluminium | TRUE | CCOP(=O)=O.CCOP(=O)=O.CCOP(=O)=O.[Al+3] | PubChem | NA
+gG3;Querying BCPC for Fosetyl-aluminium ...
+gG3;Querying PubChem for smiles CCOP(=O)=O.CCOP(=O)=O.CCOP(=O)=O.[Al+3] ...
+gG3;InChiKey OIPMQULDKWSNGX-UHFFFAOYSA-N from PubChem record does not match
+InChiKey ZKZMJOFIHHZSRW-UHFFFAOYSA-K retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+CCOP(=O)=O.CCOP(=O)=O.CCOP(=O)=O.[Al+3]
+gG3;
+chent Gamma-cyhalothrin
+gG3;Gamma-cyhalothrin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Gamma-cyhalothrin ...
+gG3;Querying PubChem for inchikey ZXQYGBMAQZUVMI-GCMPRSNUSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C
+gG3;
+chent Gibberellic acid
+gG3;Gibberellic acid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Gibberellic acid ...
+gG3;Querying PubChem for inchikey IXORZMNAPKEEDV-OBDJNFEBSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@](C4)(C(=C)C5)O)C(=O)O)OC2=O)O
+gG3;
+chent Gibberellin A4
+gG3;Gibberellin A4 | TRUE | C[C@@]12[C@H](CC[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O)O | PubChem | NA
+gG3;Querying BCPC for Gibberellin A4 ...
+gG3;Common name Gibberellin A4 is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles C[C@@]12[C@H](CC[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O)O ...
+gG3;Get chemical information from RDKit using user SMILES
+C[C@@]12[C@H](CC[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O)O
+gG3;
+chent Gibberellin A7
+gG3;Gibberellin A7 | TRUE | C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O)O | PubChem | NA
+gG3;Querying BCPC for Gibberellin A7 ...
+gG3;Common name Gibberellin A7 is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O)O ...
+gG3;Get chemical information from RDKit using user SMILES
+C[C@@]12[C@H](C=C[C@@]3([C@@H]1[C@@H]([C@]45[C@H]3CC[C@H](C4)C(=C)C5)C(=O)O)OC2=O)O
+gG3;
+chent Glufosinate-ammonium
+gG3;Glufosinate-ammonium | TRUE | NA | NA | NA
+gG3;Querying BCPC for Glufosinate-ammonium ...
+gG3;Querying PubChem for inchikey ZBMRKNMTMPPMMK-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CP(=O)(CCC(C(=O)[O-])N)O.[NH4+]
+gG3;
+chent Glyphosate
+gG3;Glyphosate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Glyphosate ...
+gG3;Querying PubChem for inchikey XDDAORKBJWWYJS-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C(C(=O)O)NCP(=O)(O)O
+gG3;
+chent Halauxifen-methyl
+gG3;Halauxifen-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Halauxifen-methyl ...
+gG3;Querying PubChem for inchikey KDHKOPYYWOHESS-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=C(C=CC(=C1F)C2=NC(=C(C(=C2)N)Cl)C(=O)OC)Cl
+gG3;
+chent Halosulfuron-methyl
+gG3;Halosulfuron-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Halosulfuron-methyl ...
+gG3;Querying PubChem for inchikey FMGZEUWROYGLAY-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN1C(=C(C(=N1)Cl)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+gG3;
+chent Haloxyfop-P-methyl
+gG3;Haloxyfop-P-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Haloxyfop-P-methyl ...
+gG3;Querying PubChem for inchikey MFSWTRQUCLNFOM-SECBINFHSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[C@H](C(=O)OC)OC1=CC=C(C=C1)OC2=C(C=C(C=N2)C(F)(F)F)Cl
+gG3;
+chent Hexaflumuron
+gG3;Hexaflumuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Hexaflumuron ...
+gG3;Querying PubChem for inchikey RGNPBRKPHBKNKX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2)Cl)OC(C(F)F)(F)F)Cl)F
+gG3;
+chent Hymexazol
+gG3;Hymexazol | TRUE | NA | NA | NA
+gG3;Querying BCPC for Hymexazol ...
+gG3;Querying PubChem for inchikey KGVPNLBXJKTABS-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=O)NO1
+gG3;
+chent IB-1-1
+gG3;IB-1-1 | FALSE | O=C1NC2C(CN(C)C(\C)=N\C#N)=CC12 | j.efsa.2016.4610 | NA
+gG3;Querying PubChem for smiles O=C1NC2C(CN(C)C(\C)=N\C#N)=CC12 ...
+gG3;Get chemical information from RDKit using user SMILES
+O=C1NC2C(CN(C)C(\C)=N\C#N)=CC12
+gG3;
+chent IC-0
+gG3;IC-0 | FALSE | OC(=O)c1cnc(Cl)cc1 | j.efsa.2016.4610 | NA
+gG3;Querying PubChem for smiles OC(=O)c1cnc(Cl)cc1 ...
+gG3;Get chemical information from RDKit using user SMILES
+OC(=O)c1cnc(Cl)cc1
+gG3;
+chent IM-1-2
+gG3;IM-1-2 | FALSE | Clc1ccc(CN(C)C(\C)=N\C(N)=O)cn1 | j.efsa.2016.4610 | NA
+gG3;Querying PubChem for smiles Clc1ccc(CN(C)C(\C)=N\C(N)=O)cn1 ...
+gG3;Get chemical information from RDKit using user SMILES
+Clc1ccc(CN(C)C(\C)=N\C(N)=O)cn1
+gG3;
+chent IM-1-4
+gG3;IM-1-4 | FALSE | Clc1ccc(CNC)cn1 | j.efsa.2016.4610 | NA
+gG3;Querying PubChem for smiles Clc1ccc(CNC)cn1 ...
+gG3;Get chemical information from RDKit using user SMILES
+Clc1ccc(CNC)cn1
+gG3;
+chent IM-1-5
+gG3;IM-1-5 | FALSE | Clc1ccc(CN(C)C(C)=N)cn1 | j.efsa.2016.4610 | NA
+gG3;Querying PubChem for smiles Clc1ccc(CN(C)C(C)=N)cn1 ...
+gG3;Get chemical information from RDKit using user SMILES
+Clc1ccc(CN(C)C(C)=N)cn1
+gG3;
+chent Imazalil
+gG3;Imazalil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Imazalil ...
+gG3;Querying PubChem for inchikey PZBPKYOVPCNPJY-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C=CCOC(CN1C=CN=C1)C2=C(C=C(C=C2)Cl)Cl
+gG3;
+chent Imazamox
+gG3;Imazamox | TRUE | NA | NA | NA
+gG3;Querying BCPC for Imazamox ...
+gG3;Querying PubChem for inchikey NUPJIGQFXCQJBK-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)C1(C(=O)NC(=N1)C2=C(C=C(C=N2)COC)C(=O)O)C
+gG3;
+chent Imidacloprid
+gG3;Imidacloprid | TRUE | C(N1\C(=N\N(=O)=O)\NCC1)C=2C=CC(Cl)=NC2 | CAS Common Chemistry | NA
+gG3;Querying BCPC for Imidacloprid ...
+gG3;Querying PubChem for smiles C(N1\C(=N\N(=O)=O)\NCC1)C=2C=CC(Cl)=NC2 ...
+gG3;InChiKey YWTYJOPNNQFBPC-UHFFFAOYSA-N from PubChem record does not match
+InChiKey YWTYJOPNNQFBPC-DLSJENCCNA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+C(N1\C(=N\N(=O)=O)\NCC1)C=2C=CC(Cl)=NC2
+gG3;
+chent Indoxacarb
+gG3;Indoxacarb | TRUE | NA | NA | NA
+gG3;Querying BCPC for Indoxacarb ...
+gG3;Querying PubChem for inchikey VBCVPMMZEGZULK-NRFANRHFSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC(=O)[C@]12CC3=C(C1=NN(CO2)C(=O)N(C4=CC=C(C=C4)OC(F)(F)F)C(=O)OC)C=CC(=C3)Cl
+gG3;
+chent Iodosulfuron-methyl-sodium
+gG3;Iodosulfuron-methyl-sodium | TRUE | NA | NA | NA
+gG3;Querying BCPC for Iodosulfuron-methyl-sodium ...
+gG3;Querying PubChem for inchikey JUJFQMPKBJPSFZ-UHFFFAOYSA-M ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=NC(=NC(=N1)OC)NC(=O)[N-]S(=O)(=O)C2=C(C=CC(=C2)I)C(=O)OC.[Na+]
+gG3;
+chent Ioxynil
+gG3;Ioxynil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Ioxynil ...
+gG3;Querying PubChem for inchikey NRXQIUSYPAHGNM-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=C(C=C(C(=C1I)O)I)C#N
+gG3;
+chent Iprovalicarb
+gG3;Iprovalicarb | TRUE | NA | NA | NA
+gG3;Querying BCPC for Iprovalicarb ...
+gG3;Querying PubChem for inchikey NWUWYYSKZYIQAE-WMCAAGNKSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC=C(C=C1)C(C)NC(=O)[C@H](C(C)C)NC(=O)OC(C)C
+gG3;
+chent Isofetamid
+gG3;Isofetamid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Isofetamid ...
+gG3;Querying PubChem for inchikey WMKZDPFZIZQROT-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(SC=C1)C(=O)NC(C)(C)C(=O)C2=C(C=C(C=C2)OC(C)C)C
+gG3;
+chent Isoproturon
+gG3;Isoproturon | TRUE | NA | NA | NA
+gG3;Querying BCPC for Isoproturon ...
+gG3;Querying PubChem for inchikey PUIYMUZLKQOUOZ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)C1=CC=C(C=C1)NC(=O)N(C)C
+gG3;
+chent Isoproturon-didemethyl
+gG3;Isoproturon-didemethyl | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Isoproturon-didemethyl ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)C1=CC=C(C=C1)NC(=O)N
+gG3;
+chent Isopyrazam
+gG3;Isopyrazam | TRUE | NA | NA | NA
+gG3;Querying BCPC for Isopyrazam ...
+gG3;Querying PubChem for inchikey XTDZGXBTXBEZDN-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)C1C2CCC1C3=C2C=CC=C3NC(=O)C4=CN(N=C4C(F)F)C
+gG3;
+chent Isoxaben
+gG3;Isoxaben | TRUE | NA | NA | NA
+gG3;Querying BCPC for Isoxaben ...
+gG3;Querying PubChem for inchikey PMHURSZHKKJGBM-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC(C)(CC)C1=NOC(=C1)NC(=O)C2=C(C=CC=C2OC)OC
+gG3;
+chent Isoxaflutole
+gG3;Isoxaflutole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Isoxaflutole ...
+gG3;Querying PubChem for inchikey OYIKARCXOQLFHF-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C2=C(ON=C2)C3CC3
+gG3;
+chent Jasmolin I
+gG3;Jasmolin I | TRUE | NA | NA | NA
+gG3;Querying BCPC for Jasmolin I ...
+gG3;Querying PubChem for inchikey NZKIRHFOLVYKFT-VUMXUWRFSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC/C=C\CC1=C([C@H](CC1=O)OC(=O)[C@@H]2[C@H](C2(C)C)C=C(C)C)C
+gG3;
+chent Jasmolin II
+gG3;Jasmolin II | TRUE | NA | NA | NA
+gG3;Querying BCPC for Jasmolin II ...
+gG3;Querying PubChem for inchikey WKNSDDMJXANVMK-XIGJTORUSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC/C=C\CC1=C([C@H](CC1=O)OC(=O)[C@@H]2[C@H](C2(C)C)/C=C(\C)/C(=O)OC)C
+gG3;
+chent Kaolin
+gG3;Kaolin | TRUE | O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O | PubChem | NA
+gG3;Querying BCPC for Kaolin ...
+gG3;Common name Kaolin is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O ...
+gG3;Get chemical information from RDKit using user SMILES
+O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O
+gG3;
+chent Kresoxim-methyl
+gG3;Kresoxim-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Kresoxim-methyl ...
+gG3;Querying PubChem for inchikey ZOTBXTZVPHCKPN-HTXNQAPBSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC=CC=C1OCC2=CC=CC=C2/C(=N\OC)/C(=O)OC
+gG3;
+chent Laminarin
+gG3;Laminarin | TRUE | C(C1C(C(C(C(O1)O)O)OC2C(C(C(C(O2)CO)O)OC3C(C(C(C(O3)CO)O)O)O)O)O)O | PubChem | NA
+gG3;Querying BCPC for Laminarin ...
+gG3;Common name Laminarin is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles C(C1C(C(C(C(O1)O)O)OC2C(C(C(C(O2)CO)O)OC3C(C(C(C(O3)CO)O)O)O)O)O)O ...
+gG3;Get chemical information from RDKit using user SMILES
+C(C1C(C(C(C(O1)O)O)OC2C(C(C(C(O2)CO)O)OC3C(C(C(C(O3)CO)O)O)O)O)O)O
+gG3;
+chent Lenacil
+gG3;Lenacil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Lenacil ...
+gG3;Querying PubChem for inchikey ZTMKADLOSYKWCA-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1CCC(CC1)N2C(=O)C3=C(CCC3)NC2=O
+gG3;
+chent Linuron
+gG3;Linuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Linuron ...
+gG3;Querying PubChem for inchikey XKJMBINCVNINCA-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN(C(=O)NC1=CC(=C(C=C1)Cl)Cl)OC
+gG3;
+chent Lufenuron
+gG3;Lufenuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Lufenuron ...
+gG3;Querying PubChem for inchikey PWPJGUXAGUPAHP-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2Cl)OC(C(C(F)(F)F)F)(F)F)Cl)F
+gG3;
+chent Malathion
+gG3;Malathion | TRUE | NA | NA | NA
+gG3;Querying BCPC for Malathion ...
+gG3;Querying PubChem for inchikey JXSJBGJIGXNWCI-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC
+gG3;
+chent Maleic hydrazide
+gG3;Maleic hydrazide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Maleic hydrazide ...
+gG3;Querying PubChem for inchikey BGRDGMRNKXEXQD-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=O)NNC1=O
+gG3;
+chent Maneb
+gG3;Maneb | TRUE | NA | NA | NA
+gG3;Querying BCPC for Maneb ...
+gG3;Querying PubChem for name Maneb ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C(CNC(=S)[S-])NC(=S)[S-].[Mn+2]
+gG3;
+chent Mandipropamid
+gG3;Mandipropamid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Mandipropamid ...
+gG3;Querying PubChem for inchikey KWLVWJPJKJMCSH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=C(C=CC(=C1)CCNC(=O)C(C2=CC=C(C=C2)Cl)OCC#C)OCC#C
+gG3;
+chent MCPA
+gG3;MCPA | TRUE | NA | NA | NA
+gG3;Querying BCPC for MCPA ...
+gG3;Querying PubChem for inchikey WHKUVVPPKQRRBV-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C=CC(=C1)Cl)OCC(=O)O
+gG3;
+chent Mecoprop-P
+gG3;Mecoprop-P | TRUE | NA | NA | NA
+gG3;Querying BCPC for Mecoprop-P ...
+gG3;Querying PubChem for inchikey WNTGYJSOUMFZEP-SSDOTTSWSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C=CC(=C1)Cl)O[C@H](C)C(=O)O
+gG3;
+chent Mefentrifluconazole
+gG3;Mefentrifluconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Mefentrifluconazole ...
+gG3;Querying PubChem for inchikey JERZEQUMJNCPRJ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(CN1C=NC=N1)(C2=C(C=C(C=C2)OC3=CC=C(C=C3)Cl)C(F)(F)F)O
+gG3;
+chent Mepanipyrim
+gG3;Mepanipyrim | TRUE | NA | NA | NA
+gG3;Querying BCPC for Mepanipyrim ...
+gG3;Querying PubChem for inchikey CIFWZNRJIBNXRE-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC#CC1=NC(=NC(=C1)C)NC2=CC=CC=C2
+gG3;
+chent Mepiquat chloride
+gG3;Mepiquat chloride | TRUE | NA | NA | NA
+gG3;Querying BCPC for Mepiquat chloride ...
+gG3;Querying PubChem for inchikey VHOVSQVSAAQANU-UHFFFAOYSA-M ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[N+]1(CCCCC1)C.[Cl-]
+gG3;
+chent Mesosulfuron-methyl
+gG3;Mesosulfuron-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Mesosulfuron-methyl ...
+gG3;Querying PubChem for inchikey NIFKBBMCXCMCAO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=CC(=NC(=N1)NC(=O)NS(=O)(=O)C2=C(C=CC(=C2)CNS(=O)(=O)C)C(=O)OC)OC
+gG3;
+chent Mesotrione
+gG3;Mesotrione | TRUE | NA | NA | NA
+gG3;Querying BCPC for Mesotrione ...
+gG3;Querying PubChem for inchikey KPUREKXXPHOJQT-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)[N+](=O)[O-]
+gG3;
+chent Metalaxyl
+gG3;Metalaxyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metalaxyl ...
+gG3;Querying PubChem for inchikey ZQEIXNIJLIKNTD-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=CC=C1)C)N(C(C)C(=O)OC)C(=O)COC
+gG3;
+chent Metalaxyl-M
+gG3;Metalaxyl-M | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metalaxyl-M ...
+gG3;Querying PubChem for inchikey ZQEIXNIJLIKNTD-GFCCVEGCSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=CC=C1)C)N([C@H](C)C(=O)OC)C(=O)COC
+gG3;
+chent Metaldehyde
+gG3;Metaldehyde | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metaldehyde ...
+gG3;Querying PubChem for inchikey GKKDCARASOJPNG-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1OC(OC(OC(O1)C)C)C
+gG3;
+chent Metamitron
+gG3;Metamitron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metamitron ...
+gG3;Querying PubChem for inchikey VHCNQEUWZYOAEV-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=NN=C(C(=O)N1N)C2=CC=CC=C2
+gG3;
+chent Metazachlor
+gG3;Metazachlor | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metazachlor ...
+gG3;Querying PubChem for inchikey STEPQTYSZVCJPV-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=CC=C1)C)N(CN2C=CC=N2)C(=O)CCl
+gG3;
+chent Metconazole
+gG3;Metconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metconazole ...
+gG3;Querying PubChem for inchikey XWPZUHJBOLQNMN-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1(CCC(C1(CN2C=NC=N2)O)CC3=CC=C(C=C3)Cl)C
+gG3;
+chent Methiocarb
+gG3;Methiocarb | TRUE | NA | NA | NA
+gG3;Querying BCPC for Methiocarb ...
+gG3;Querying PubChem for inchikey YFBPRJGDJKVWAH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=CC(=C1SC)C)OC(=O)NC
+gG3;
+chent Methomyl
+gG3;Methomyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Methomyl ...
+gG3;Querying PubChem for inchikey UHXUZOCRWCRNSJ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(=NOC(=O)NC)SC
+gG3;
+chent Methoxyfenozide
+gG3;Methoxyfenozide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Methoxyfenozide ...
+gG3;Querying PubChem for inchikey QCAWEPFNJXQPAN-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=CC(=C1)C(=O)N(C(C)(C)C)NC(=O)C2=C(C(=CC=C2)OC)C)C
+gG3;
+chent Metobromuron
+gG3;Metobromuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metobromuron ...
+gG3;Querying PubChem for inchikey WLFDQEVORAMCIM-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN(C(=O)NC1=CC=C(C=C1)Br)OC
+gG3;
+chent Metolachlor ESA
+gG3;Metolachlor ESA | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Metolachlor ESA ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC1=CC=CC(=C1N(C(C)COC)C(=O)CS(=O)(=O)O)C
+gG3;
+chent Metolachlor OA
+gG3;Metolachlor OA | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Metolachlor OA ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC1=CC=CC(=C1N(C(C)COC)C(=O)C(=O)O)C
+gG3;
+chent Metosulam
+gG3;Metosulam | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metosulam ...
+gG3;Querying PubChem for inchikey VGHPMIFEKOFHHQ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=C(C=C1)Cl)NS(=O)(=O)C2=NN3C(=CC(=NC3=N2)OC)OC)Cl
+gG3;
+chent Metrafenone
+gG3;Metrafenone | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metrafenone ...
+gG3;Querying PubChem for inchikey AMSPWOYQQAWRRM-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=C(C(=C1C(=O)C2=C(C=CC(=C2C)Br)OC)OC)OC)OC
+gG3;
+chent Metribuzin
+gG3;Metribuzin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metribuzin ...
+gG3;Querying PubChem for inchikey FOXFZRUHNHCZPX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)(C)C1=NN=C(N(C1=O)N)SC
+gG3;
+chent Metsulfuron-methyl
+gG3;Metsulfuron-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Metsulfuron-methyl ...
+gG3;Querying PubChem for inchikey RSMUVYRMZCOLBH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+gG3;
+chent Milbemectin
+gG3;Milbemectin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Milbemectin ...
+gG3;Querying PubChem for name Milbemectin ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C[C@H]1CC[C@]2(C[C@@H]3C[C@H](O2)C/C=C(/C[C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)\C)O[C@@H]1C
+gG3;
+chent MITC
+gG3;MITC | TRUE | NA | NA | NA
+gG3;Querying BCPC for MITC ...
+gG3;Querying PubChem for inchikey LGDSHSYDSCRFAB-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN=C=S
+gG3;
+chent Myclobutanil
+gG3;Myclobutanil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Myclobutanil ...
+gG3;Querying PubChem for inchikey HZJKXKUJVSEEFU-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCC(CN1C=NC=N1)(C#N)C2=CC=C(C=C2)Cl
+gG3;
+chent Napropamide
+gG3;Napropamide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Napropamide ...
+gG3;Querying PubChem for inchikey WXZVAROIGSFCFJ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCN(CC)C(=O)C(C)OC1=CC=CC2=CC=CC=C21
+gG3;
+chent Nicosulfuron
+gG3;Nicosulfuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Nicosulfuron ...
+gG3;Querying PubChem for inchikey RTCOGUMHFFWOJV-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN(C)C(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+gG3;
+chent Novaluron
+gG3;Novaluron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Novaluron ...
+gG3;Querying PubChem for inchikey NJPPVKZQTLUDBO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C=C2)OC(C(OC(F)(F)F)F)(F)F)Cl)F
+gG3;
+chent Orbencarb
+gG3;Orbencarb | TRUE | NA | NA | NA
+gG3;Querying BCPC for Orbencarb ...
+gG3;Querying PubChem for inchikey LLLFASISUZUJEQ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCN(CC)C(=O)SCC1=CC=CC=C1Cl
+gG3;
+chent Oryzalin
+gG3;Oryzalin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Oryzalin ...
+gG3;Querying PubChem for inchikey UNAHYJYOSSSJHH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])S(=O)(=O)N)[N+](=O)[O-]
+gG3;
+chent Oxadiargyl
+gG3;Oxadiargyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Oxadiargyl ...
+gG3;Querying PubChem for inchikey DVOODWOZJVJKQR-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)(C)C1=NN(C(=O)O1)C2=CC(=C(C=C2Cl)Cl)OCC#C
+gG3;
+chent Oxamyl
+gG3;Oxamyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Oxamyl ...
+gG3;Querying PubChem for inchikey KZAUOCCYDRDERY-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CNC(=O)ON=C(C(=O)N(C)C)SC
+gG3;
+chent Oxathiapiprolin
+gG3;Oxathiapiprolin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Oxathiapiprolin ...
+gG3;Querying PubChem for inchikey IAQLCKZJGNTRDO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=NN1CC(=O)N2CCC(CC2)C3=NC(=CS3)C4=NOC(C4)C5=C(C=CC=C5F)F)C(F)(F)F
+gG3;
+chent Oxyfluorfen
+gG3;Oxyfluorfen | TRUE | NA | NA | NA
+gG3;Querying BCPC for Oxyfluorfen ...
+gG3;Querying PubChem for inchikey OQMBBFQZGJFLBU-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC1=C(C=CC(=C1)OC2=C(C=C(C=C2)C(F)(F)F)Cl)[N+](=O)[O-]
+gG3;
+chent Paclobutrazol
+gG3;Paclobutrazol | TRUE | NA | NA | NA
+gG3;Querying BCPC for Paclobutrazol ...
+gG3;Querying PubChem for inchikey RMOGWMIKYWRTKW-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)(C)C(C(CC1=CC=C(C=C1)Cl)N2C=NC=N2)O
+gG3;
+chent Pelargonic acid
+gG3;Pelargonic acid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pelargonic acid ...
+gG3;Querying PubChem for inchikey FBUKVWPVBMHYJY-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCC(=O)O
+gG3;
+chent Penconazole
+gG3;Penconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Penconazole ...
+gG3;Querying PubChem for inchikey WKBPZYKAUNRMKP-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCC(CN1C=NC=N1)C2=C(C=C(C=C2)Cl)Cl
+gG3;
+chent Pencycuron
+gG3;Pencycuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pencycuron ...
+gG3;Querying PubChem for inchikey OGYFATSSENRIKG-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1CCC(C1)N(CC2=CC=C(C=C2)Cl)C(=O)NC3=CC=CC=C3
+gG3;
+chent Pendimethalin
+gG3;Pendimethalin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pendimethalin ...
+gG3;Querying PubChem for inchikey CHIFOSRWCNZCFN-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC(CC)NC1=C(C=C(C(=C1[N+](=O)[O-])C)C)[N+](=O)[O-]
+gG3;
+chent Penflufen
+gG3;Penflufen | TRUE | NA | NA | NA
+gG3;Querying BCPC for Penflufen ...
+gG3;Querying PubChem for inchikey GOFJDXZZHFNFLV-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=NN(C(=C1C(=O)NC2=CC=CC=C2C(C)CC(C)C)F)C
+gG3;
+chent Penoxsulam
+gG3;Penoxsulam | TRUE | NA | NA | NA
+gG3;Querying BCPC for Penoxsulam ...
+gG3;Querying PubChem for inchikey SYJGKVOENHZYMQ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=CN=C(N2C1=NC(=N2)NS(=O)(=O)C3=C(C=CC=C3OCC(F)F)C(F)(F)F)OC
+gG3;
+chent Penthiopyrad
+gG3;Penthiopyrad | TRUE | NA | NA | NA
+gG3;Querying BCPC for Penthiopyrad ...
+gG3;Querying PubChem for inchikey PFFIDZXUXFLSSR-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)CC(C)C1=C(C=CS1)NC(=O)C2=CN(N=C2C(F)(F)F)C
+gG3;
+chent Pethoxamid
+gG3;Pethoxamid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pethoxamid ...
+gG3;Querying PubChem for inchikey CSWIKHNSBZVWNQ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOCCN(C(=O)CCl)C(=C(C)C)C1=CC=CC=C1
+gG3;
+chent Phenmedipham
+gG3;Phenmedipham | TRUE | NA | NA | NA
+gG3;Querying BCPC for Phenmedipham ...
+gG3;Querying PubChem for inchikey IDOWTHOLJBTAFI-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=CC=C1)NC(=O)OC2=CC=CC(=C2)NC(=O)OC
+gG3;
+chent Phosphonic acid
+gG3;Phosphonic acid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Phosphonic acid ...
+gG3;Common name Phosphonic acid is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Phosphonic acid ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+OP(=O)O
+gG3;
+chent Picloram
+gG3;Picloram | TRUE | NA | NA | NA
+gG3;Querying BCPC for Picloram ...
+gG3;Querying PubChem for inchikey NQQVFXUMIDALNH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N
+gG3;
+chent Picolinafen
+gG3;Picolinafen | TRUE | NA | NA | NA
+gG3;Querying BCPC for Picolinafen ...
+gG3;Querying PubChem for inchikey CWKFPEBMTGKLKX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=CC(=C1)OC2=CC=CC(=N2)C(=O)NC3=CC=C(C=C3)F)C(F)(F)F
+gG3;
+chent Picoxystrobin
+gG3;Picoxystrobin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Picoxystrobin ...
+gG3;Querying PubChem for inchikey IBSNKSODLGJUMQ-SDNWHVSQSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CO/C=C(\C1=CC=CC=C1COC2=CC=CC(=N2)C(F)(F)F)/C(=O)OC
+gG3;
+chent Pinoxaden
+gG3;Pinoxaden | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pinoxaden ...
+gG3;Querying PubChem for inchikey MGOHCFMYLBAPRN-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC1=CC(=CC(=C1C2=C(N3CCOCCN3C2=O)OC(=O)C(C)(C)C)CC)C
+gG3;
+chent Piperonyl butoxide
+gG3;Piperonyl butoxide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Piperonyl butoxide ...
+gG3;Querying PubChem for inchikey FIPWRIJSWJWJAI-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2
+gG3;
+chent Pirimicarb
+gG3;Pirimicarb | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pirimicarb ...
+gG3;Querying PubChem for inchikey YFGYUFNIOHWBOB-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(N=C(N=C1OC(=O)N(C)C)N(C)C)C
+gG3;
+chent Potassium bicarbonate
+gG3;Potassium bicarbonate | TRUE | C(=O)(O)[O-].[K+] | PubChem | NA
+gG3;Querying BCPC for Potassium bicarbonate ...
+gG3;Common name Potassium bicarbonate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles C(=O)(O)[O-].[K+] ...
+gG3;Get chemical information from RDKit using user SMILES
+C(=O)(O)[O-].[K+]
+gG3;
+chent Prochloraz
+gG3;Prochloraz | TRUE | NA | NA | NA
+gG3;Querying BCPC for Prochloraz ...
+gG3;Querying PubChem for inchikey TVLSRXXIMLFWEO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2
+gG3;
+chent Prohexadione-calcium
+gG3;Prohexadione-calcium | TRUE | CCC(=C1C(=O)CC(CC1=O)C(=O)[O-])[O-].[Ca+2] | Pubchem | NA
+gG3;Querying BCPC for Prohexadione-calcium ...
+gG3;Querying PubChem for smiles CCC(=C1C(=O)CC(CC1=O)C(=O)[O-])[O-].[Ca+2] ...
+gG3;InChiKey NLKUPINTOLSSLD-UHFFFAOYSA-L from PubChem record does not match
+InChiKey SAZAPFZGSHYFGB-UHFFFAOYSA-L retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+CCC(=C1C(=O)CC(CC1=O)C(=O)[O-])[O-].[Ca+2]
+gG3;
+chent Propamocarb
+gG3;Propamocarb | TRUE | NA | NA | NA
+gG3;Querying BCPC for Propamocarb ...
+gG3;Querying PubChem for inchikey WZZLDXDUQPOXNW-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCOC(=O)NCCCN(C)C
+gG3;
+chent Propiconazole
+gG3;Propiconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Propiconazole ...
+gG3;Querying PubChem for inchikey STJLVHWMYQXCPB-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl
+gG3;
+chent Propoxycarbazone-sodium
+gG3;Propoxycarbazone-sodium | TRUE | NA | NA | NA
+gG3;Querying BCPC for Propoxycarbazone-sodium ...
+gG3;Querying PubChem for inchikey JRQGDDUXDKCWRF-UHFFFAOYSA-M ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCOC1=NN(C(=O)N1C)C(=NS(=O)(=O)C2=CC=CC=C2C(=O)OC)[O-].[Na+]
+gG3;
+chent Propyzamide
+gG3;Propyzamide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Propyzamide ...
+gG3;Querying PubChem for inchikey PHNUZKMIPFFYSO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)(C#C)NC(=O)C1=CC(=CC(=C1)Cl)Cl
+gG3;
+chent Proquinazid
+gG3;Proquinazid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Proquinazid ...
+gG3;Querying PubChem for inchikey FLVBXVXXXMLMOX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCN1C(=O)C2=C(C=CC(=C2)I)N=C1OCCC
+gG3;
+chent Prosulfocarb
+gG3;Prosulfocarb | TRUE | NA | NA | NA
+gG3;Querying BCPC for Prosulfocarb ...
+gG3;Querying PubChem for inchikey NQLVQOSNDJXLKG-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCN(CCC)C(=O)SCC1=CC=CC=C1
+gG3;
+chent Prosulfuron
+gG3;Prosulfuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Prosulfuron ...
+gG3;Querying PubChem for inchikey LTUNNEGNEKBSEH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=CC=CC=C2CCC(F)(F)F
+gG3;
+chent Prothioconazole
+gG3;Prothioconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Prothioconazole ...
+gG3;Querying PubChem for inchikey MNHVNIJQQRJYDH-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1CC1(C(CC2=CC=CC=C2Cl)(CN3C(=S)N=CN3)O)Cl
+gG3;
+chent Pyraclostrobin
+gG3;Pyraclostrobin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pyraclostrobin ...
+gG3;Querying PubChem for inchikey HZRSNVGNWUDEFX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC(=O)N(C1=CC=CC=C1COC2=NN(C=C2)C3=CC=C(C=C3)Cl)OC
+gG3;
+chent Pyraflufen-ethyl
+gG3;Pyraflufen-ethyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pyraflufen-ethyl ...
+gG3;Querying PubChem for inchikey APTZNLHMIGJTEW-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC(=O)COC1=C(C=C(C(=C1)C2=NN(C(=C2Cl)OC(F)F)C)F)Cl
+gG3;
+chent Pyrethrin I
+gG3;Pyrethrin I | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pyrethrin I ...
+gG3;Querying PubChem for inchikey ROVGZAWFACYCSP-VUMXUWRFSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=O)C[C@@H]1OC(=O)[C@@H]2[C@H](C2(C)C)C=C(C)C)C/C=C\C=C
+gG3;
+chent Pyrethrin II
+gG3;Pyrethrin II | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pyrethrin II ...
+gG3;Querying PubChem for inchikey VJFUPGQZSXIULQ-XIGJTORUSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=O)C[C@@H]1OC(=O)[C@@H]2[C@H](C2(C)C)/C=C(\C)/C(=O)OC)C/C=C\C=C
+gG3;
+chent Pyridate
+gG3;Pyridate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pyridate ...
+gG3;Querying PubChem for inchikey JTZCTMAVMHRNTR-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCSC(=O)OC1=CC(=NN=C1C2=CC=CC=C2)Cl
+gG3;
+chent Pyrifenox
+gG3;Pyrifenox | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pyrifenox ...
+gG3;Querying PubChem for inchikey CKPCAYZTYMHQEX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CON=C(CC1=CN=CC=C1)C2=C(C=C(C=C2)Cl)Cl
+gG3;
+chent Pyrimethanil
+gG3;Pyrimethanil | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pyrimethanil ...
+gG3;Querying PubChem for inchikey ZLIBICFPKPWGIZ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=NC(=N1)NC2=CC=CC=C2)C
+gG3;
+chent Pyriofenone
+gG3;Pyriofenone | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pyriofenone ...
+gG3;Querying PubChem for inchikey NMVCBWZLCXANER-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=C(C(=C1C(=O)C2=C(C(=CN=C2OC)Cl)C)OC)OC)OC
+gG3;
+chent Pyroxsulam
+gG3;Pyroxsulam | TRUE | NA | NA | NA
+gG3;Querying BCPC for Pyroxsulam ...
+gG3;Querying PubChem for inchikey GLBLPMUBLHYFCW-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=CC(=NC2=NC(=NN12)NS(=O)(=O)C3=C(C=CN=C3OC)C(F)(F)F)OC
+gG3;
+chent Quinmerac
+gG3;Quinmerac | TRUE | NA | NA | NA
+gG3;Querying BCPC for Quinmerac ...
+gG3;Querying PubChem for inchikey ALZOLUNSQWINIR-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC2=C(C(=C(C=C2)Cl)C(=O)O)N=C1
+gG3;
+chent Quinoxyfen
+gG3;Quinoxyfen | TRUE | NA | NA | NA
+gG3;Querying BCPC for Quinoxyfen ...
+gG3;Querying PubChem for inchikey WRPIRSINYZBGPK-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=CC=C1OC2=C3C(=CC(=CC3=NC=C2)Cl)Cl)F
+gG3;
+chent Quizalofop-P-ethyl
+gG3;Quizalofop-P-ethyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Quizalofop-P-ethyl ...
+gG3;Querying PubChem for inchikey OSUHJPCHFDQAIT-GFCCVEGCSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC(=O)[C@@H](C)OC1=CC=C(C=C1)OC2=CN=C3C=C(C=CC3=N2)Cl
+gG3;
+chent R417888
+gG3;R417888 | FALSE | NA | NA | NA
+gG3;Querying PubChem for name R417888 ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C(#N)C1=C(C(=C(C(=C1Cl)Cl)S(=O)(=O)O)C(=O)N)Cl
+gG3;
+chent R611968
+gG3;R611968 | FALSE | C(#N)C1=C(C(=C(C(=C1Cl)Cl)O)C(=O)N)Cl | PubChem | NA
+gG3;Querying PubChem for smiles C(#N)C1=C(C(=C(C(=C1Cl)Cl)O)C(=O)N)Cl ...
+gG3;Get chemical information from RDKit using user SMILES
+C(#N)C1=C(C(=C(C(=C1Cl)Cl)O)C(=O)N)Cl
+gG3;
+chent Rimsulfuron
+gG3;Rimsulfuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Rimsulfuron ...
+gG3;Querying PubChem for inchikey MEFOUWRMVYJCQC-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCS(=O)(=O)C1=C(N=CC=C1)S(=O)(=O)NC(=O)NC2=NC(=CC(=N2)OC)OC
+gG3;
+chent Sedaxane
+gG3;Sedaxane | TRUE | NA | NA | NA
+gG3;Querying BCPC for Sedaxane ...
+gG3;Querying PubChem for inchikey XQJQCBDIXRIYRP-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN1C=C(C(=N1)C(F)F)C(=O)NC2=CC=CC=C2C3CC3C4CC4
+gG3;
+chent S-Metolachlor
+gG3;S-Metolachlor | TRUE | N([C@H](COC)C)(C(CCl)=O)C1=C(CC)C=CC=C1C | CAS Common Chemistry | NA
+gG3;Querying BCPC for S-Metolachlor ...
+gG3;Querying PubChem for smiles N([C@H](COC)C)(C(CCl)=O)C1=C(CC)C=CC=C1C ...
+gG3;Get chemical information from RDKit using user SMILES
+N([C@H](COC)C)(C(CCl)=O)C1=C(CC)C=CC=C1C
+gG3;
+chent Sodium 5-nitroguaiacolate
+gG3;Sodium 5-nitroguaiacolate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Sodium 5-nitroguaiacolate ...
+gG3;Common name Sodium 5-nitroguaiacolate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Sodium 5-nitroguaiacolate ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=C(C=C(C=C1)[N+](=O)[O-])[O-].[Na+]
+gG3;
+chent Sodium 4-nitrophenolate
+gG3;Sodium 4-nitrophenolate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Sodium 4-nitrophenolate ...
+gG3;Common name Sodium 4-nitrophenolate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Sodium 4-nitrophenolate ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=CC=C1[N+](=O)[O-])[O-].[Na+]
+gG3;
+chent Sodium 2-nitrophenolate
+gG3;Sodium 2-nitrophenolate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Sodium 2-nitrophenolate ...
+gG3;Common name Sodium 2-nitrophenolate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Sodium 2-nitrophenolate ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C(C(=C1)[N+](=O)[O-])[O-].[Na+]
+gG3;
+chent Spinetoram J
+gG3;Spinetoram J | TRUE | CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@@H]3[C@H]([C@@H]2CC(=O)O1)CC[C@H]4[C@H]3C[C@@H](C4)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OCC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C | PubChem | NA
+gG3;Querying BCPC for Spinetoram J ...
+gG3;Common name Spinetoram J is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@@H]3[C@H]([C@@H]2CC(=O)O1)CC[C@H]4[C@H]3C[C@@H](C4)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OCC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@@H]3[C@H]([C@@H]2CC(=O)O1)CC[C@H]4[C@H]3C[C@@H](C4)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OCC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C
+gG3;
+chent Spinetoram L
+gG3;Spinetoram L | TRUE | CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C(=C[C@H]3[C@@H]2CC(=O)O1)C)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OCC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C | PubChem | NA
+gG3;Querying BCPC for Spinetoram L ...
+gG3;Common name Spinetoram L is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C(=C[C@H]3[C@@H]2CC(=O)O1)C)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OCC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C(=C[C@H]3[C@@H]2CC(=O)O1)C)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OCC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C
+gG3;
+chent Spinosyn A
+gG3;Spinosyn A | TRUE | CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C=C[C@H]3[C@@H]2CC(=O)O1)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C | PubChem | NA
+gG3;Querying BCPC for Spinosyn A ...
+gG3;Common name Spinosyn A is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C=C[C@H]3[C@@H]2CC(=O)O1)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C=C[C@H]3[C@@H]2CC(=O)O1)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C
+gG3;
+chent Spinosyn B
+gG3;Spinosyn B | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Spinosyn B ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C=C[C@H]3[C@@H]2CC(=O)O1)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)NC
+gG3;
+chent Spinosyn D
+gG3;Spinosyn D | TRUE | CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C(=C[C@H]3[C@@H]2CC(=O)O1)C)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C | PubChem | NA
+gG3;Querying BCPC for Spinosyn D ...
+gG3;Common name Spinosyn D is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C(=C[C@H]3[C@@H]2CC(=O)O1)C)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C ...
+gG3;Get chemical information from RDKit using user SMILES
+CC[C@H]1CCC[C@@H]([C@H](C(=O)C2=C[C@H]3[C@@H]4C[C@@H](C[C@H]4C(=C[C@H]3[C@@H]2CC(=O)O1)C)O[C@H]5[C@@H]([C@@H]([C@H]([C@@H](O5)C)OC)OC)OC)C)O[C@H]6CC[C@@H]([C@H](O6)C)N(C)C
+gG3;
+chent Spirodiclofen
+gG3;Spirodiclofen | TRUE | NA | NA | NA
+gG3;Querying BCPC for Spirodiclofen ...
+gG3;Querying PubChem for inchikey DTDSAWVUFPGDMX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC(C)(C)C(=O)OC1=C(C(=O)OC12CCCCC2)C3=C(C=C(C=C3)Cl)Cl
+gG3;
+chent Spirotetramat
+gG3;Spirotetramat | TRUE | O(C(OCC)=O)C=1[C@@]2(NC(=O)C1C3=C(C)C=CC(C)=C3)CC[C@H](OC)CC2 | CAS Common Chemistry | NA
+gG3;Querying BCPC for Spirotetramat ...
+gG3;Querying PubChem for smiles O(C(OCC)=O)C=1[C@@]2(NC(=O)C1C3=C(C)C=CC(C)=C3)CC[C@H](OC)CC2 ...
+gG3;InChiKey CLSVJBIHYWPGQY-UHFFFAOYSA-N from PubChem record does not match
+InChiKey CLSVJBIHYWPGQY-GGYDESQDSA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+O(C(OCC)=O)C=1[C@@]2(NC(=O)C1C3=C(C)C=CC(C)=C3)CC[C@H](OC)CC2
+gG3;
+chent Spiroxamine
+gG3;Spiroxamine | TRUE | NA | NA | NA
+gG3;Querying BCPC for Spiroxamine ...
+gG3;Querying PubChem for inchikey PUYXTUJWRLOUCW-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCN(CC)CC1COC2(O1)CCC(CC2)C(C)(C)C
+gG3;
+chent Sulcotrione
+gG3;Sulcotrione | TRUE | NA | NA | NA
+gG3;Querying BCPC for Sulcotrione ...
+gG3;Querying PubChem for inchikey PQTBTIFWAXVEPB-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl
+gG3;
+chent Sulfosulfuron
+gG3;Sulfosulfuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Sulfosulfuron ...
+gG3;Querying PubChem for inchikey RBSXHDIPCIWOMG-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCS(=O)(=O)C1=C(N2C=CC=CC2=N1)S(=O)(=O)NC(=O)NC3=NC(=CC(=N3)OC)OC
+gG3;
+chent Sulfoxaflor
+gG3;Sulfoxaflor | TRUE | NA | NA | NA
+gG3;Querying BCPC for Sulfoxaflor ...
+gG3;Querying PubChem for inchikey ZVQOOHYFBIDMTQ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C1=CN=C(C=C1)C(F)(F)F)S(=NC#N)(=O)C
+gG3;
+chent Sulfur
+gG3;Sulfur | TRUE | [S] | PubChem | NA
+gG3;Querying BCPC for Sulfur ...
+gG3;Querying PubChem for smiles [S] ...
+gG3;InChiKey RWSOTUBLDIXVET-UHFFFAOYSA-N from PubChem record does not match
+InChiKey NINIDFKCEFEMDL-UHFFFAOYSA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+[S]
+gG3;
+chent Tau-fluvalinate
+gG3;Tau-fluvalinate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Tau-fluvalinate ...
+gG3;Querying PubChem for inchikey INISTDXBRIBGOC-XMMISQBUSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)[C@H](C(=O)OC(C#N)C1=CC(=CC=C1)OC2=CC=CC=C2)NC3=C(C=C(C=C3)C(F)(F)F)Cl
+gG3;
+chent Tebuconazole
+gG3;Tebuconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Tebuconazole ...
+gG3;Querying PubChem for inchikey PXMNMQRDXWABCY-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)(C)C(CCC1=CC=C(C=C1)Cl)(CN2C=NC=N2)O
+gG3;
+chent Tebufenozide
+gG3;Tebufenozide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Tebufenozide ...
+gG3;Querying PubChem for inchikey QYPNKSZPJQQLRK-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC1=CC=C(C=C1)C(=O)NN(C(=O)C2=CC(=CC(=C2)C)C)C(C)(C)C
+gG3;
+chent Tebufenpyrad
+gG3;Tebufenpyrad | TRUE | NA | NA | NA
+gG3;Querying BCPC for Tebufenpyrad ...
+gG3;Querying PubChem for inchikey ZZYSLNWGKKDOML-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC1=NN(C(=C1Cl)C(=O)NCC2=CC=C(C=C2)C(C)(C)C)C
+gG3;
+chent Teflubenzuron
+gG3;Teflubenzuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Teflubenzuron ...
+gG3;Querying PubChem for inchikey CJDWRQLODFKPEL-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C(=C1)F)C(=O)NC(=O)NC2=CC(=C(C(=C2F)Cl)F)Cl)F
+gG3;
+chent Tefluthrin-(1R,3R)
+gG3;Tefluthrin-(1R,3R) | TRUE | CC1(C)[C@@H](\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F | Agroscope | NA
+gG3;Querying BCPC for Tefluthrin-(1R,3R) ...
+gG3;Common name Tefluthrin-(1R,3R) is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles CC1(C)[C@@H](\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F ...
+gG3;Get chemical information from RDKit using user SMILES
+CC1(C)[C@@H](\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F
+gG3;
+chent Tefluthrin-(1S,3S)
+gG3;Tefluthrin-(1S,3S) | TRUE | CC1(C)[C@H](\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F | Agroscope | NA
+gG3;Querying BCPC for Tefluthrin-(1S,3S) ...
+gG3;Common name Tefluthrin-(1S,3S) is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles CC1(C)[C@H](\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F ...
+gG3;Get chemical information from RDKit using user SMILES
+CC1(C)[C@H](\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F
+gG3;
+chent Tembotrione
+gG3;Tembotrione | TRUE | NA | NA | NA
+gG3;Querying BCPC for Tembotrione ...
+gG3;Querying PubChem for inchikey IUQAXCIUEPFPSF-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CS(=O)(=O)C1=C(C(=C(C=C1)C(=O)C2C(=O)CCCC2=O)Cl)COCC(F)(F)F
+gG3;
+chent Terbuthylazine
+gG3;Terbuthylazine | TRUE | NA | NA | NA
+gG3;Querying BCPC for Terbuthylazine ...
+gG3;Querying PubChem for inchikey FZXISNSWEXTPMF-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C
+gG3;
+chent Terbuthylazine-desethyl
+gG3;Terbuthylazine-desethyl | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Terbuthylazine-desethyl ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)(C)NC1=NC(=NC(=N1)N)Cl
+gG3;
+chent Tetraconazole
+gG3;Tetraconazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Tetraconazole ...
+gG3;Querying PubChem for inchikey LQDARGUHUSPFNL-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC(=C(C=C1Cl)Cl)C(CN2C=NC=N2)COC(C(F)F)(F)F
+gG3;
+chent Thiabendazole
+gG3;Thiabendazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Thiabendazole ...
+gG3;Querying PubChem for inchikey WJCNZQLZVWNLKY-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3
+gG3;
+chent Thiacloprid
+gG3;Thiacloprid | TRUE | C(N1\C(=N\C#N)\SCC1)C=2C=CC(Cl)=NC2 | CAS Common Chemistry | NA
+gG3;Querying BCPC for Thiacloprid ...
+gG3;Querying PubChem for smiles C(N1\C(=N\C#N)\SCC1)C=2C=CC(Cl)=NC2 ...
+gG3;InChiKey HOKKPVIRMVDYPB-UHFFFAOYSA-N from PubChem record does not match
+InChiKey HOKKPVIRMVDYPB-UVTDQMKNSA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+C(N1\C(=N\C#N)\SCC1)C=2C=CC(Cl)=NC2
+gG3;
+chent Thiamethoxam
+gG3;Thiamethoxam | TRUE | NA | NA | NA
+gG3;Querying BCPC for Thiamethoxam ...
+gG3;Querying PubChem for inchikey NWWZPOKUUAIXIW-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN1COCN(C1=N[N+](=O)[O-])CC2=CN=C(S2)Cl
+gG3;
+chent Thiencarbazone-methyl
+gG3;Thiencarbazone-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Thiencarbazone-methyl ...
+gG3;Querying PubChem for inchikey XSKZXGDFSCCXQX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=CS1)C(=O)OC)S(=O)(=O)NC(=O)N2C(=O)N(C(=N2)OC)C
+gG3;
+chent Thifensulfuron-methyl
+gG3;Thifensulfuron-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Thifensulfuron-methyl ...
+gG3;Querying PubChem for inchikey AHTPATJNIAFOLR-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=NC(=NC(=N1)OC)NC(=O)NS(=O)(=O)C2=C(SC=C2)C(=O)OC
+gG3;
+chent Thiocyanate
+gG3;Thiocyanate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Thiocyanate ...
+gG3;Common name Thiocyanate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Thiocyanate ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C(#N)[S-]
+gG3;
+chent Thiophanate-methyl
+gG3;Thiophanate-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Thiophanate-methyl ...
+gG3;Querying PubChem for inchikey QGHREAKMXXNCOA-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC(=O)N=C(NC1=CC=CC=C1NC(=NC(=O)OC)S)S
+gG3;
+chent Tolclofos-methyl
+gG3;Tolclofos-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Tolclofos-methyl ...
+gG3;Querying PubChem for inchikey OBZIQQJJIKNWNO-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC(=C(C(=C1)Cl)OP(=S)(OC)OC)Cl
+gG3;
+chent Tolylfluanid
+gG3;Tolylfluanid | TRUE | NA | NA | NA
+gG3;Querying BCPC for Tolylfluanid ...
+gG3;Querying PubChem for inchikey HYVWIQDYBVKITD-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=CC=C(C=C1)N(SC(F)(Cl)Cl)S(=O)(=O)N(C)C
+gG3;
+chent Topramezone
+gG3;Topramezone | TRUE | CC1=C(C=CC(=C1C2=NOCC2)S(=O)(=O)C)C(=O)C3=CNN(C3=O)C | PubChem | NA
+gG3;Querying BCPC for Topramezone ...
+gG3;Querying PubChem for smiles CC1=C(C=CC(=C1C2=NOCC2)S(=O)(=O)C)C(=O)C3=CNN(C3=O)C ...
+gG3;InChiKey BPPVUXSMLBXYGG-UHFFFAOYSA-N from PubChem record does not match
+InChiKey IYMLUHWAJFXAQP-UHFFFAOYSA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+CC1=C(C=CC(=C1C2=NOCC2)S(=O)(=O)C)C(=O)C3=CNN(C3=O)C
+gG3;
+chent Triadimenol
+gG3;Triadimenol | TRUE | NA | NA | NA
+gG3;Querying BCPC for Triadimenol ...
+gG3;Querying PubChem for inchikey BAZVSMNPJJMILC-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)(C)C(C(N1C=NC=N1)OC2=CC=C(C=C2)Cl)O
+gG3;
+chent Triazoxide
+gG3;Triazoxide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Triazoxide ...
+gG3;Querying PubChem for inchikey IQGKIPDJXCAMSM-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=CC2=C(C=C1Cl)[N+](=NC(=N2)N3C=CN=C3)[O-]
+gG3;
+chent Tribasic copper sulfate
+gG3;Tribasic copper sulfate | TRUE | [OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[O-]S(=O)(=O)[O-].[Cu+2].[Cu+2].[Cu+2].[Cu+2] | Pubchem | NA
+gG3;Querying BCPC for Tribasic copper sulfate ...
+gG3;Querying PubChem for smiles [OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[O-]S(=O)(=O)[O-].[Cu+2].[Cu+2].[Cu+2].[Cu+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[O-]S(=O)(=O)[O-].[Cu+2].[Cu+2].[Cu+2].[Cu+2]
+gG3;
+chent Tribenuron-methyl
+gG3;Tribenuron-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Tribenuron-methyl ...
+gG3;Querying PubChem for inchikey VLCQZHSMCYCDJL-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC
+gG3;
+chent Triclopyr
+gG3;Triclopyr | TRUE | NA | NA | NA
+gG3;Querying BCPC for Triclopyr ...
+gG3;Querying PubChem for inchikey REEQLXCGVXDJSQ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C1=C(C(=NC(=C1Cl)Cl)OCC(=O)O)Cl
+gG3;
+chent Triclopyr-butotyl
+gG3;Triclopyr-butotyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Triclopyr-butotyl ...
+gG3;Querying PubChem for inchikey IVDRCZNHVGQBHZ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCOCCOC(=O)COC1=NC(=C(C=C1Cl)Cl)Cl
+gG3;
+chent Trifloxystrobin
+gG3;Trifloxystrobin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Trifloxystrobin ...
+gG3;Querying PubChem for inchikey ONCZDRURRATYFI-TVJDWZFNSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C/C(=N\OCC1=CC=CC=C1/C(=N\OC)/C(=O)OC)/C2=CC(=CC=C2)C(F)(F)F
+gG3;
+chent Trifloxystrobin acid
+gG3;Trifloxystrobin acid | FALSE | NA | NA | NA
+gG3;Querying PubChem for name Trifloxystrobin acid ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C/C(=N\OCC1=CC=CC=C1/C(=N\OC)/C(=O)O)/C2=CC(=CC=C2)C(F)(F)F
+gG3;
+chent Triflumizole
+gG3;Triflumizole | TRUE | CCCOCC(=NC1=C(C=C(C=C1)Cl)C(F)(F)F)N2C=CN=C2 | Pubchem | NA
+gG3;Querying BCPC for Triflumizole ...
+gG3;Querying PubChem for smiles CCCOCC(=NC1=C(C=C(C=C1)Cl)C(F)(F)F)N2C=CN=C2 ...
+gG3;InChiKey HSMVPDGQOIQYSR-UHFFFAOYSA-N from PubChem record does not match
+InChiKey HSMVPDGQOIQYSR-KGENOOAVSA-N retreived from bcpc
+gG3;Get chemical information from RDKit using user SMILES
+CCCOCC(=NC1=C(C=C(C=C1)Cl)C(F)(F)F)N2C=CN=C2
+gG3;
+chent Trifluralin
+gG3;Trifluralin | TRUE | NA | NA | NA
+gG3;Querying BCPC for Trifluralin ...
+gG3;Querying PubChem for inchikey ZSDSQXJSNMTJDA-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-]
+gG3;
+chent Triflusulfuron-methyl
+gG3;Triflusulfuron-methyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Triflusulfuron-methyl ...
+gG3;Querying PubChem for inchikey IMEVJVISCHQJRM-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1=C(C(=CC=C1)C(=O)OC)S(=O)(=O)NC(=O)NC2=NC(=NC(=N2)OCC(F)(F)F)N(C)C
+gG3;
+chent Trinexapac-ethyl
+gG3;Trinexapac-ethyl | TRUE | NA | NA | NA
+gG3;Querying BCPC for Trinexapac-ethyl ...
+gG3;Querying PubChem for inchikey RVKCCVTVZORVGD-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCOC(=O)C1CC(=O)C(=C(C2CC2)O)C(=O)C1
+gG3;
+chent Triticonazole
+gG3;Triticonazole | TRUE | NA | NA | NA
+gG3;Querying BCPC for Triticonazole ...
+gG3;Querying PubChem for inchikey PPDBOQMNKNNODG-NTEUORMPSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC1(CC/C(=C\C2=CC=C(C=C2)Cl)/C1(CN3C=NC=N3)O)C
+gG3;
+chent Tritosulfuron
+gG3;Tritosulfuron | TRUE | NA | NA | NA
+gG3;Querying BCPC for Tritosulfuron ...
+gG3;Querying PubChem for inchikey KVEQCVKVIFQSGC-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COC1=NC(=NC(=N1)NC(=O)NS(=O)(=O)C2=CC=CC=C2C(F)(F)F)C(F)(F)F
+gG3;
+chent Valifenalate
+gG3;Valifenalate | TRUE | NA | NA | NA
+gG3;Querying BCPC for Valifenalate ...
+gG3;Querying PubChem for inchikey DBXFMOWZRXXBRN-LWKPJOBUSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CC(C)[C@@H](C(=O)NC(CC(=O)OC)C1=CC=C(C=C1)Cl)NC(=O)OC(C)C
+gG3;
+chent Ziram
+gG3;Ziram | TRUE | NA | NA | NA
+gG3;Querying BCPC for Ziram ...
+gG3;Querying PubChem for inchikey DUBNHZYBDBBJHD-UHFFFAOYSA-L ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CN(C)C(=S)[S-].CN(C)C(=S)[S-].[Zn+2]
+gG3;
+chent Zoxamide
+gG3;Zoxamide | TRUE | NA | NA | NA
+gG3;Querying BCPC for Zoxamide ...
+gG3;Querying PubChem for inchikey SOUGWDPPRBKJEX-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCC(C)(C(=O)CCl)NC(=O)C1=CC(=C(C(=C1)Cl)C)Cl
+gG3;
+chent Lambda-cyhalothrin-(R)
+gG3;Lambda-cyhalothrin-(R) | TRUE | CC1([C@@H]([C@@H]1C(=O)O[C@@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C | PubChem | NA
+gG3;Querying BCPC for Lambda-cyhalothrin-(R) ...
+gG3;Common name Lambda-cyhalothrin-(R) is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles CC1([C@@H]([C@@H]1C(=O)O[C@@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C ...
+gG3;Get chemical information from RDKit using user SMILES
+CC1([C@@H]([C@@H]1C(=O)O[C@@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)/C=C(/C(F)(F)F)\Cl)C
+gG3;
+chent Ethirimol
+gG3;Ethirimol | TRUE | NA | NA | NA
+gG3;Querying BCPC for Ethirimol ...
+gG3;Querying PubChem for inchikey BBXXLROWFHWFQY-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCC1=C(NC(=NC1=O)NCC)C
+gG3;
+chent Copper(II) chloride
+gG3;Copper(II) chloride | TRUE | Cl[Cu]Cl | PubChem | NA
+gG3;Querying BCPC for Copper(II) chloride ...
+gG3;Common name Copper(II) chloride is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles Cl[Cu]Cl ...
+gG3;Get chemical information from RDKit using user SMILES
+Cl[Cu]Cl
+gG3;
+chent Copper(II) hydroxide
+gG3;Copper(II) hydroxide | TRUE | [OH-].[OH-].[Cu+2] | PubChem | NA
+gG3;Querying BCPC for Copper(II) hydroxide ...
+gG3;Common name Copper(II) hydroxide is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles [OH-].[OH-].[Cu+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[OH-].[OH-].[Cu+2]
+gG3;
+chent Copper(II) nitrate
+gG3;Copper(II) nitrate | TRUE | [N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Cu+2] | PubChem | NA
+gG3;Querying BCPC for Copper(II) nitrate ...
+gG3;Common name Copper(II) nitrate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles [N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Cu+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Cu+2]
+gG3;
+chent Copper(II) sulfate
+gG3;Copper(II) sulfate | TRUE | [O-]S(=O)(=O)[O-].[Cu+2] | PubChem | NA
+gG3;Querying BCPC for Copper(II) sulfate ...
+gG3;Common name Copper(II) sulfate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles [O-]S(=O)(=O)[O-].[Cu+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[O-]S(=O)(=O)[O-].[Cu+2]
+gG3;
+chent Copper(I) oxide
+gG3;Copper(I) oxide | TRUE | [O-2].[Cu+].[Cu+] | PubChem | NA
+gG3;Querying BCPC for Copper(I) oxide ...
+gG3;Common name Copper(I) oxide is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles [O-2].[Cu+].[Cu+] ...
+gG3;Get chemical information from RDKit using user SMILES
+[O-2].[Cu+].[Cu+]
+gG3;
+chent Cu2+
+gG3;Cu2+ | TRUE | [Cu+2] | Agroscope | NA
+gG3;Querying BCPC for Cu2+ ...
+gG3;Common name Cu2+ is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles [Cu+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[Cu+2]
+gG3;
+chent Cupric ion
+gG3;Cupric ion | TRUE | [Cu+2] | Agroscope | NA
+gG3;Querying BCPC for Cupric ion ...
+gG3;Common name Cupric ion is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for smiles [Cu+2] ...
+gG3;Get chemical information from RDKit using user SMILES
+[Cu+2]
+gG3;
+chent Piperonyl butoxide
+gG3;Piperonyl butoxide | FALSE | TRUE | NA | NA | NA
+gG3;Querying PubChem for name Piperonyl butoxide ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2
+gG3;
+chent Aluminium sulfate
+gG3;Aluminium sulfate | TRUE | NA | NA | NA | NA
+gG3;Querying BCPC for Aluminium sulfate ...
+gG3;Common name Aluminium sulfate is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Aluminium sulfate ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[Al+3]
+gG3;
+chent Chlorpyrifos-methyl
+gG3;Chlorpyrifos-methyl | TRUE | NA | NA | NA | NA
+gG3;Querying BCPC for Chlorpyrifos-methyl ...
+gG3;Querying PubChem for inchikey HRBKVYFZANMGRE-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+COP(=S)(OC)OC1=NC(=C(C=C1Cl)Cl)Cl
+gG3;
+chent Glufosinate
+gG3;Glufosinate | TRUE | NA | NA | NA | NA
+gG3;Querying BCPC for Glufosinate ...
+gG3;Querying PubChem for inchikey IAJOBQBIJHVGMQ-UHFFFAOYSA-N ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CP(=O)(CCC(C(=O)O)N)O
+gG3;
+chent Propamocarb hydrochloride
+gG3;Propamocarb hydrochloride | TRUE | NA | NA | NA | NA
+gG3;Querying BCPC for Propamocarb hydrochloride ...
+gG3;Common name Propamocarb hydrochloride is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Propamocarb hydrochloride ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+CCCOC(=O)NCCCN(C)C.Cl
+g

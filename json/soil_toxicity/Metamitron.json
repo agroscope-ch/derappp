@@ -1,0 +1,27 @@
+[
+  {
+    "substance": "Metamitron",
+    "formulation": "Goltix SC 700",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "67_1",
+    "duration": 56,
+    "OM": 10,
+    "effect": "reproduction",
+    "level": "NOER",
+    "sign": "≥",
+    "value": 21000,
+    "unit": "g/ha",
+    "sk": "Metamitron_DAR_08_Vol3_B9_public",
+    "page": "618",
+    "sk_EFSA": "j.efsa.2008.185r",
+    "page_EFSA": "85",
+    "sk_RAR": "Metamitron_DAR_08_Vol3_B9_public",
+    "page_RAR": "618",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "recorded": "pejh",
+    "file": "EU_DAR_dRAR/Metamitron_DAR_2007/Metamitron_DAR_08_Vol3_B9_public.pdf"
+  }
+]

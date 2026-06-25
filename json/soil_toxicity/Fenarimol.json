@@ -1,0 +1,22 @@
+[
+  {
+    "substance": "Fenarimol",
+    "formulation": "fenarimol 120 g/L EC",
+    "reported_species": "Eisenia fetida",
+    "derappp_species": "Eisenia fetida",
+    "group": "Soil fauna",
+    "test_nr": "42_1",
+    "effect": "reproduction",
+    "level": "NOER",
+    "sign": "=",
+    "value": 1890,
+    "unit": "g/ha",
+    "sk": "Fenarimol_RR_2007",
+    "page": "18",
+    "sk_RAR": "Fenarimol_RR_2007",
+    "page_RAR": "18",
+    "selected": true,
+    "recorded": "pejh",
+    "file": "EU_Review_Reports/Fenarimol_RR_2007.pdf"
+  }
+]

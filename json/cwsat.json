@@ -1,0 +1,108 @@
+[
+  {
+    "substance": "Acetamiprid",
+    "cwsat": 4250,
+    "T": 25,
+    "pH": 5,
+    "purity": "≥99%",
+    "sk": "j.efsa.2016.4610_LoEP",
+    "page": 2
+  },
+  {
+    "substance": "Acetamiprid",
+    "cwsat": 2950,
+    "T": 25,
+    "pH": 7,
+    "purity": "≥99%",
+    "sk": "j.efsa.2016.4610_LoEP",
+    "page": 2
+  },
+  {
+    "substance": "Acetamiprid",
+    "cwsat": 3960,
+    "T": 25,
+    "pH": 9,
+    "purity": "≥99%",
+    "sk": "j.efsa.2016.4610_LoEP",
+    "page": 2
+  },
+  {
+    "substance": "Captan",
+    "cwsat": 4.8,
+    "T": 20,
+    "pH": 5,
+    "purity": "99.8%",
+    "sk": "j.efsa.2020.6230_LoEP",
+    "page": 3
+  },
+  {
+    "substance": "Captan",
+    "cwsat": 5.2,
+    "T": 20,
+    "pH": 7,
+    "purity": "99.8%",
+    "sk": "j.efsa.2020.6230_LoEP",
+    "page": 3
+  },
+  {
+    "substance": "Captan",
+    "T": 20,
+    "pH": 9,
+    "purity": "99.8%",
+    "sk": "j.efsa.2020.6230_LoEP",
+    "page": 3,
+    "comment": "Rapid hydrolysis"
+  },
+  {
+    "substance": "Copper oxychloride",
+    "cwsat": 1.19,
+    "T": 20,
+    "pH": 6.55,
+    "sk": "j.efsa.2013.3235_LoEP",
+    "page": 6,
+    "comment": "pH value is midpoint of pH range 6.5-6.6"
+  },
+  {
+    "substance": "Copper oxychloride",
+    "cwsat": 101000,
+    "T": 20,
+    "pH": 3.1,
+    "sk": "j.efsa.2013.3235_LoEP",
+    "page": 6
+  },
+  {
+    "substance": "Copper oxychloride",
+    "cwsat": 0.525,
+    "T": 20,
+    "pH": 10.1,
+    "sk": "j.efsa.2013.3235_LoEP",
+    "page": 6
+  },
+  {
+    "substance": "Cyprodinil",
+    "cwsat": 20,
+    "T": 25,
+    "pH": 5,
+    "sk": "j.efsa.2006.51r",
+    "page": 39,
+    "comment": "HPLC method"
+  },
+  {
+    "substance": "Cyprodinil",
+    "cwsat": 13,
+    "T": 25,
+    "pH": 7,
+    "sk": "j.efsa.2006.51r",
+    "page": 39,
+    "comment": "HPLC method"
+  },
+  {
+    "substance": "Cyprodinil",
+    "cwsat": 15,
+    "T": 25,
+    "pH": 9,
+    "sk": "j.efsa.2006.51r",
+    "page": 39,
+    "comment": "HPLC method"
+  }
+]
