@@ -66,8 +66,15 @@
 <div class="section level2">
 <h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
 </h2>
-<p>You can install the current binary packages provided at R-Universe using:</p>
+<p>The dependencies <code>chents</code> and <code>srppphist</code> as well as version 2.05 of srppp are not on CRAN, so you can install using the sequence</p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"jranke/chents"</span><span class="op">)</span></span>
+<span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"agroscope-ch/srppp"</span><span class="op">)</span></span>
+<span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"agroscope-ch/srppphist"</span><span class="op">)</span></span>
+<span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"agroscope-ch/derappp"</span><span class="op">)</span></span></code></pre></div>
+<p>You can also use <code>remotes::install_github</code> instead of <code><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak::pak</a></code> if you prefer.</p>
+<p>Once the <code>derappp</code> package is built at R-Universe (there is currently a build issue), it will be possible to install it from there using a single command:</p>
+<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html" class="external-link">install.packages</a></span><span class="op">(</span><span class="st">"derappp"</span>,</span>
 <span>  repos <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span></span>
 <span>    <span class="st">"https://agroscope-ch.r-universe.dev"</span>,  <span class="co"># For derappp and srppphist</span></span>
