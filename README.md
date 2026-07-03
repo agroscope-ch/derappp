@@ -30,8 +30,22 @@ in the online documentation.
 
 ## Installation
 
-You can install the current binary packages provided at R-Universe
-using:
+The dependencies `chents` and `srppphist` as well as version 2.05 of
+srppp are not on CRAN, so you can install using the sequence
+
+``` r
+pak::pak("jranke/chents")
+pak::pak("agroscope-ch/srppp")
+pak::pak("agroscope-ch/srppphist")
+pak::pak("agroscope-ch/derappp")
+```
+
+You can also use `remotes::install_github` instead of `pak::pak` if you
+prefer.
+
+Once the `derappp` package is built at R-Universe (there is currently a
+build issue), it will be possible to install it from there using a
+single command:
 
 ``` r
 install.packages("derappp",
