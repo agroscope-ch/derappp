@@ -1,9 +1,5 @@
 # derappp - Data for Environmental Risk Assessment of Plant Protection Products
 
-[![Project Status: Active – The project has reached a stable, usable
-state and is being actively
-developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-
 Makes some public data for environmental risk assessment of plant
 protection products accessible in R. Includes definitions of substances
 in terms of well-defined chemical entities, if applicable. Also includes
@@ -27,23 +23,7 @@ in the online documentation.
 
 ## Installation
 
-The dependencies `chents` and `srppphist` as well as version 2.05 of
-srppp are not on CRAN, so you can install using the sequence
-
-``` r
-
-pak::pak("jranke/chents")
-pak::pak("agroscope-ch/srppp")
-pak::pak("agroscope-ch/srppphist")
-pak::pak("agroscope-ch/derappp")
-```
-
-You can also use `remotes::install_github` instead of
-[`pak::pak`](https://pak.r-lib.org/reference/pak.html) if you prefer.
-
-Once the `derappp` package is built at R-Universe (there is currently a
-build issue), it will be possible to install it from there using a
-single command:
+You can install `derappp` from R-Universe using a the command
 
 ``` r
 
@@ -56,7 +36,8 @@ install.packages("derappp",
 
 This will also install the dependencies
 [`chents`](https://pkgdown.jrwb.de/chents/) and
-[`srppphist`](https://agroscope-ch.github.io/srppphist/).
+[`srppphist`](https://agroscope-ch.github.io/srppphist/) that are not
+published on CRAN.
 
 ## Concept and scope
 
