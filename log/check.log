@@ -1,12 +1,12 @@
-* using log directory ‘/home/f80868656/projects/derappp/derappp.Rcheck’
-* using R version 4.6.1 (2026-06-24)
+* using log directory ‘/home/jranke/git/derappp/derappp.Rcheck’
+* using R version 4.6.0 (2026-04-24)
 * using platform: x86_64-pc-linux-gnu
 * R was compiled by
-    gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
-    GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
-* running under: Ubuntu 24.04.4 LTS
+    x86_64-linux-gnu-gcc (Debian 14.2.0-19) 14.2.0
+    GNU Fortran (Debian 14.2.0-19) 14.2.0
+* running under: Debian GNU/Linux 13 (trixie)
 * using session charset: UTF-8
-* current time: 2026-07-02 12:19:37 UTC
+* current time: 2026-07-04 05:31:03 UTC
 * using options ‘--no-tests --as-cran’
 * checking for file ‘derappp/DESCRIPTION’ ... OK
 * checking extension type ... Package
@@ -21,11 +21,11 @@
 * checking for hidden files and directories ... OK
 * checking for portable file names ... OK
 * checking for sufficient/correct file permissions ... OK
-* checking whether package ‘derappp’ can be installed ... [14s/15s] OK
+* checking whether package ‘derappp’ can be installed ... [17s/17s] OK
 * checking installed package size ... INFO
-  installed size is 10.2Mb
+  installed size is 10.1Mb
   sub-directories of 1Mb or more:
-    data   7.6Mb
+    data   7.5Mb
     doc    2.2Mb
 * checking package directory ... OK
 * checking for future file timestamps ... OK
@@ -48,7 +48,7 @@
 * checking S3 generic/method consistency ... OK
 * checking replacement functions ... OK
 * checking foreign function calls ... OK
-* checking R code for possible problems ... [13s/12s] OK
+* checking R code for possible problems ... OK
 * checking Rd files ... OK
 * checking Rd metadata ... OK
 * checking Rd line widths ... OK
@@ -71,16 +71,10 @@
 * checking package vignettes ... OK
 * checking re-building of vignette outputs ... OK
 * checking PDF version of manual ... OK
-* checking HTML version of manual ... NOTE
-Skipping checking HTML validation: no command 'tidy' found.
-Please obtain a recent version of HTML Tidy by downloading a binary
-release or compiling the source code from <https://www.html-tidy.org/>.
+* checking HTML version of manual ... OK
 * checking for non-standard things in the check directory ... OK
 * checking for detritus in the temp directory ... OK
 * DONE
 
-Status: 1 NOTE
-See
-  ‘/home/f80868656/projects/derappp/derappp.Rcheck/00check.log’
-for details.
+Status: OK
 
