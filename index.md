@@ -23,14 +23,14 @@ in the online documentation.
 
 ## Installation
 
-You can install `derappp` from R-Universe using a the command
+You can install `derappp` from the Agroscope R-Universe using the
+command
 
 ``` r
 
 install.packages("derappp",
   repos = c(
-    "https://agroscope-ch.r-universe.dev",  # For derappp and srppphist
-    "https://jranke.r-universe.dev",        # For chents
+    "https://agroscope-ch.r-universe.dev",
     "https://cran.r-project.org"))
 ```
 
