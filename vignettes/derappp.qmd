@@ -97,8 +97,8 @@ The table of chemical entities in the package is shown below.
 derappp$chents
 ```
 
-In the package, there is also a list of chent objects that can be used to plot any of the structures,
-if the `chents` package is installed, as illustrated in @fig-tebufenozide below.
+In the package, there is also a list of chent objects that can be used to plot
+any of the structures as shown in @fig-tebufenozide below.
 
 ```{r}
 #| label: fig-tebufenozide
@@ -106,9 +106,7 @@ if the `chents` package is installed, as illustrated in @fig-tebufenozide below.
 #| message: FALSE
 #| fig-alt: >
 #|   Chemical structure diagram of tebufenozide
-if (requireNamespace("chents")) {
-	plot(derappp_chents[["Tebufenozide"]])
-}
+plot(derappp_chents[["Tebufenozide"]])
 ```
 
 ## Sources
