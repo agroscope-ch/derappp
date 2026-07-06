@@ -192,16 +192,14 @@ derappp$chents
     # ℹ 348 more rows
 
 In the package, there is also a list of chent objects that can be used
-to plot any of the structures, if the `chents` package is installed, as
-illustrated in [Figure 2](#fig-tebufenozide) below.
+to plot any of the structures as shown in [Figure 2](#fig-tebufenozide)
+below.
 
 Code
 
 ``` r
 
-if (requireNamespace("chents")) {
-    plot(derappp_chents[["Tebufenozide"]])
-}
+plot(derappp_chents[["Tebufenozide"]])
 ```
 
 ![Chemical structure diagram of
