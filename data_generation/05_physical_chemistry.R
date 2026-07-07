@@ -24,6 +24,9 @@ p0 <- tribble(
 # Declare encoding for columns with non-ASCII characters
 Encoding(p0$purity) <- "UTF-8"
 
+# Declare encoding for units attribute
+Encoding(attr(p0$T, "unit")$numerator) <- "UTF-8"
+
 # Water solubility in mg/L
 cwsat <- tribble(
   ~substance, ~sign, ~cwsat, ~T, ~pH, ~purity, ~sk, ~page, ~comment,
@@ -59,6 +62,9 @@ cwsat <- tribble(
 # Declare encoding for columns with non-ASCII characters
 Encoding(cwsat$purity) <- "UTF-8"
 
+# Declare encoding for units attribute
+Encoding(attr(cwsat$T, "unit")$numerator) <- "UTF-8"
+
 # Hydrolysis half-life
 hydrolysis <- tribble(
   ~substance, ~sign, ~DT50, ~unit, ~T, ~pH, ~sk, ~page, ~comment,
@@ -79,8 +85,11 @@ hydrolysis <- tribble(
   rowwise() |> # for mixed units
   mutate(DT50 = set_units(DT50, unit, mode = "standard")) |>
   mutate(DT50 = if_else(is.na(DT50), set_units(NA, "h"), set_units(DT50, "h"))) |>
+  ungroup() |>
   select(-unit)
 
+# Declare encoding for units attribute
+Encoding(attr(hydrolysis$T, "unit")$numerator) <- "UTF-8"
 
 # ------------------------------------------------------------------------------
 # Save results for later inclusion in 'data_generation/99_derappp.R'
