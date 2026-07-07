@@ -21,6 +21,9 @@ p0 <- tribble(
   mutate(p0 = set_units(p0, "Pa", mode = "standard")) |>
   mutate(T = set_units(T, "°C", mode = "standard"))
 
+# Declare encoding for columns with non-ASCII characters
+Encoding(p0$purity) <- "UTF-8"
+
 # Water solubility in mg/L
 cwsat <- tribble(
   ~substance, ~sign, ~cwsat, ~T, ~pH, ~purity, ~sk, ~page, ~comment,
@@ -52,6 +55,9 @@ cwsat <- tribble(
   ) |>
   mutate(cwsat = set_units(cwsat, "mg/L", mode = "standard")) |>
   mutate(T = set_units(T, "°C", mode = "standard"))
+
+# Declare encoding for columns with non-ASCII characters
+Encoding(cwsat$purity) <- "UTF-8"
 
 # Hydrolysis half-life
 hydrolysis <- tribble(
