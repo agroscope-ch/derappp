@@ -86,28 +86,28 @@ library(units)
 #> udunits database from /usr/share/xml/udunits/udunits2.xml
 derappp$p0[1:2, ]
 #> # A tibble: 2 × 8
-#>   substance   sign           p0    T purity            sk           page comment
-#>   <chr>       <lgl>        [Pa] [°C] <chr>             <chr>       <int> <chr>  
-#> 1 Acetamiprid NA    0.000000173   50 <e2><89><a5>99.9% j.efsa.201…     2 NA     
-#> 2 Captan      NA    0.0000042     20 99.8%             j.efsa.202…     3 NA     
+#>   substance   sign           p0   T purity            sk            page comment
+#>   <chr>       <lgl>        [Pa] [°] <chr>             <chr>        <int> <chr>  
+#> 1 Acetamiprid NA    0.000000173  50 <e2><89><a5>99.9% j.efsa.2016…     2 NA     
+#> 2 Captan      NA    0.0000042    20 99.8%             j.efsa.2020…     3 NA     
 derappp$p0[1, ] |>
   left_join(derappp$sources, by = "sk") |>
   select(substance, p0, T, reference)
 #> # A tibble: 1 × 4
-#>   substance            p0    T reference                                        
-#>   <chr>              [Pa] [°C] <chr>                                            
-#> 1 Acetamiprid 0.000000173   50 "EFSA. _Appendix to: Peer review of the pesticid…
+#>   substance            p0   T reference                                         
+#>   <chr>              [Pa] [°] <chr>                                             
+#> 1 Acetamiprid 0.000000173  50 "EFSA. _Appendix to: Peer review of the pesticide…
 
 derappp$cwsat[1:3, ] |>
   left_join(derappp$sources, by = "sk") |>
   select(substance, cwsat, T, pH, reference) |>
   mutate(cwsat = set_units(cwsat, "g/L", mode = "standard"))
 #> # A tibble: 3 × 5
-#>   substance   cwsat    T    pH reference                                        
-#>   <chr>       [g/L] [°C] <dbl> <chr>                                            
-#> 1 Acetamiprid  4.25   25     5 "EFSA. _Appendix to: Peer review of the pesticid…
-#> 2 Acetamiprid  2.95   25     7 "EFSA. _Appendix to: Peer review of the pesticid…
-#> 3 Acetamiprid  3.96   25     9 "EFSA. _Appendix to: Peer review of the pesticid…
+#>   substance   cwsat   T    pH reference                                         
+#>   <chr>       [g/L] [°] <dbl> <chr>                                             
+#> 1 Acetamiprid  4.25  25     5 "EFSA. _Appendix to: Peer review of the pesticide…
+#> 2 Acetamiprid  2.95  25     7 "EFSA. _Appendix to: Peer review of the pesticide…
+#> 3 Acetamiprid  3.96  25     9 "EFSA. _Appendix to: Peer review of the pesticide…
 
 # Join names used in the Swiss register
 derappp$chents |>
