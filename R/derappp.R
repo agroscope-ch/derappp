@@ -10,8 +10,10 @@
 #' derappp$chents
 #'
 #' # Some vapor pressures and water solubilities
+#' # We need to convert to °C if we do not want Kelvin
 #' library(units)
-#' derappp$p0[1:2, ]
+#' derappp$p0[1:2, ] |>
+#'   mutate(T = set_units(T, "°C"))
 #' derappp$p0[1, ] |>
 #'   left_join(derappp$sources, by = "sk") |>
 #'   select(substance, p0, T, reference)
@@ -19,7 +21,8 @@
 #' derappp$cwsat[1:3, ] |>
 #'   left_join(derappp$sources, by = "sk") |>
 #'   select(substance, cwsat, T, pH, reference) |>
-#'   mutate(cwsat = set_units(cwsat, "g/L", mode = "standard"))
+#'   mutate(cwsat = set_units(cwsat, "g/L")) |>
+#'   mutate(T = set_units(T, "°C"))
 #'
 #' # Join names used in the Swiss register
 #' derappp$chents |>
@@ -28,9 +31,10 @@
 #'   left_join(srppphist::srppp_active_substances, by = c(key = "pk")) |>
 #'   select(chent, iso, smiles, substance_de)
 #'
-#' # Show some soil sorption data with units
+#' # Show some soil sorption data with units, use percent for readability
 #' derappp$soil_sorption |>
 #'   filter(substance %in% c("Acetamiprid", "Captan", "Copper", "Cyprodinil")) |>
+#'   mutate(f_oc = set_units(f_oc, "%")) |>
 #'   select(substance, soil_pH, f_oc, Koc, Kfoc, n, sk, selected, reason) |>
 #'   print(n = Inf)
 #'
