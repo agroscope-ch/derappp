@@ -2,7 +2,7 @@
   {
     "substance": "Captan",
     "DT50": 18.4,
-    "T": 25,
+    "T": 298.15,
     "pH": 5,
     "sk": "j.efsa.2020.6230_LoEP",
     "page": 48,
@@ -11,7 +11,7 @@
   {
     "substance": "Captan",
     "DT50": 11.7,
-    "T": 25,
+    "T": 298.15,
     "pH": 5,
     "sk": "j.efsa.2020.6230_LoEP",
     "page": 48,
@@ -20,7 +20,7 @@
   {
     "substance": "Captan",
     "DT50": 4.8,
-    "T": 25,
+    "T": 298.15,
     "pH": 7,
     "sk": "j.efsa.2020.6230_LoEP",
     "page": 48,
@@ -29,7 +29,7 @@
   {
     "substance": "Captan",
     "DT50": 4.6,
-    "T": 25,
+    "T": 298.15,
     "pH": 7,
     "sk": "j.efsa.2020.6230_LoEP",
     "page": 48,
@@ -38,7 +38,7 @@
   {
     "substance": "Captan",
     "DT50": 0.13,
-    "T": 25,
+    "T": 298.15,
     "pH": 9,
     "sk": "j.efsa.2020.6230_LoEP",
     "page": 48,
@@ -47,7 +47,7 @@
   {
     "substance": "Captan",
     "DT50": 0.135,
-    "T": 25,
+    "T": 298.15,
     "pH": 9,
     "sk": "j.efsa.2020.6230_LoEP",
     "page": 48,

@@ -851,7 +851,7 @@
     "sk": "j.efsa.2015.4206",
     "page": "37",
     "reason": "EFSA LoEP",
-    "note": "No DT50 required for PEC soil in 2015 EFSA conclusion, see p44, worst-case lab DT50 is from study at 10 deg C",
+    "note": "No DT50 required for PEC soil in 2015 EFSA conclusion, see p44, worst-case lab DT50 is from study at 10°C",
     "recorded": "luel",
     "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"

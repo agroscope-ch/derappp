@@ -2,7 +2,7 @@
   {
     "substance": "Acetamiprid",
     "p0": 1.73e-07,
-    "T": 50,
+    "T": 323.15,
     "purity": "≥99.9%",
     "sk": "j.efsa.2016.4610_LoEP",
     "page": 2
@@ -10,7 +10,7 @@
   {
     "substance": "Captan",
     "p0": 4.2e-06,
-    "T": 20,
+    "T": 293.15,
     "purity": "99.8%",
     "sk": "j.efsa.2020.6230_LoEP",
     "page": 3
@@ -18,7 +18,7 @@
   {
     "substance": "Captan",
     "p0": 0.000201,
-    "T": 50,
+    "T": 323.15,
     "purity": "98.95%",
     "sk": "j.efsa.2020.6230_LoEP",
     "page": 3
@@ -26,7 +26,7 @@
   {
     "substance": "Copper oxychloride",
     "p0": 0,
-    "T": 20,
+    "T": 293.15,
     "sk": "j.efsa.2013.3235_LoEP",
     "page": 6,
     "comment": "Expected to be negligible"
@@ -34,7 +34,7 @@
   {
     "substance": "Cyprodinil",
     "p0": 0.00049,
-    "T": 25,
+    "T": 298.15,
     "sk": "j.efsa.2006.51r",
     "page": 39,
     "comment": "Midpoint of the range given for crystal modification A"

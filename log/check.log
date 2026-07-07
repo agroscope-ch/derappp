@@ -6,7 +6,7 @@
     GNU Fortran (Debian 14.2.0-19) 14.2.0
 * running under: Debian GNU/Linux 13 (trixie)
 * using session charset: UTF-8
-* current time: 2026-07-04 05:31:03 UTC
+* current time: 2026-07-07 19:44:10 UTC
 * using options ‘--no-tests --as-cran’
 * checking for file ‘derappp/DESCRIPTION’ ... OK
 * checking extension type ... Package
@@ -21,7 +21,7 @@
 * checking for hidden files and directories ... OK
 * checking for portable file names ... OK
 * checking for sufficient/correct file permissions ... OK
-* checking whether package ‘derappp’ can be installed ... [17s/17s] OK
+* checking whether package ‘derappp’ can be installed ... [13s/13s] OK
 * checking installed package size ... INFO
   installed size is 10.1Mb
   sub-directories of 1Mb or more:
@@ -48,7 +48,7 @@
 * checking S3 generic/method consistency ... OK
 * checking replacement functions ... OK
 * checking foreign function calls ... OK
-* checking R code for possible problems ... OK
+* checking R code for possible problems ... [10s/10s] OK
 * checking Rd files ... OK
 * checking Rd metadata ... OK
 * checking Rd line widths ... OK

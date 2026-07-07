@@ -3,7 +3,6 @@
 .RData
 .Ruserdata
 .Rprofile
-Configuration_at_Agroscope.md
 *.rda
 *.Rcheck
 *.tar.gz
