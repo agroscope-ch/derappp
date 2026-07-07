@@ -1,7 +1,8 @@
 # Finally the central data object is created
 
 library(here)
-library(dm)
+library(dplyr, warn.conflicts = FALSE)
+library(dm, warn.conflicts = FALSE)
 library(derappp)
 library(jsonlite)
 
@@ -25,8 +26,26 @@ for (table in derappp_tables) {
   load(here(paste0("data_generation/cache/", table, ".rda")))
 }
 
+derappp_table_list <- mget(derappp_tables)
+
+# Escape non-ASCII characters in character columns (with help of Google Gemini)
+escape_non_ascii <- function(x) {
+  if (is.character(x)) {
+    # "byte" to "ascii" with sub="byte" converts non-ASCII to <xx> or <U+xxxx> format
+    return(iconv(x, to = "ASCII", sub = "byte"))
+  }
+  return(x) # Leave numeric, logical, etc., untouched
+}
+
+escape_df <- function(df) {
+  df[] <- lapply(df, escape_non_ascii)
+  return(df)
+}
+
+derappp_table_list_ascii <- lapply(derappp_table_list, escape_df)
+
 derappp <-
-  mget(derappp_tables) |>
+  derappp_table_list_ascii |>
   as_dm() |>
   dm_add_pk(chents, chent) |>
   dm_add_uk(chents, smiles) |>
@@ -122,5 +141,6 @@ for (table_name in tables_to_split)  {
 # Clean up workspace
 rm(list = derappp_tables)
 rm(table, substance, table_name, tables_to_split, json_subdirectory)
-rm(derappp, derappp_tables)
+rm(derappp, derappp_tables, derappp_table_list, derappp_table_list_ascii)
+rm(escape_non_ascii, escape_df)
 
