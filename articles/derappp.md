@@ -285,13 +285,13 @@ derappp$p0
 ```
 
     # A tibble: 5 × 8
-      substance          sign           p0   T purity            sk     page comment
-      <chr>              <lgl>        [Pa] [°] <chr>             <chr> <int> <chr>
-    1 Acetamiprid        NA    0.000000173  50 <e2><89><a5>99.9% j.ef…     2 <NA>
-    2 Captan             NA    0.0000042    20 99.8%             j.ef…     3 <NA>
-    3 Captan             NA    0.000201     50 98.95%            j.ef…     3 <NA>
-    4 Copper oxychloride NA    0            20 <NA>              j.ef…     6 Expect…
-    5 Cyprodinil         NA    0.00049      25 <NA>              j.ef…    39 Midpoi…
+      substance          sign           p0    T purity           sk     page comment
+      <chr>              <lgl>        [Pa]  [K] <chr>            <chr> <int> <chr>
+    1 Acetamiprid        NA    0.000000173 323. <e2><89><a5>99.… j.ef…     2 <NA>
+    2 Captan             NA    0.0000042   293. 99.8%            j.ef…     3 <NA>
+    3 Captan             NA    0.000201    323. 98.95%           j.ef…     3 <NA>
+    4 Copper oxychloride NA    0           293. <NA>             j.ef…     6 Expect…
+    5 Cyprodinil         NA    0.00049     298. <NA>             j.ef…    39 Midpoi…
 
 ### Water solubility `cwsat`
 
@@ -303,20 +303,20 @@ derappp$cwsat
 ```
 
     # A tibble: 12 × 9
-       substance          sign       cwsat   T    pH purity      sk     page comment
-       <chr>              <lgl>     [mg/L] [°] <dbl> <chr>       <chr> <int> <chr>
-     1 Acetamiprid        NA      4250      25  5    <e2><89><a… j.ef…     2 <NA>
-     2 Acetamiprid        NA      2950      25  7    <e2><89><a… j.ef…     2 <NA>
-     3 Acetamiprid        NA      3960      25  9    <e2><89><a… j.ef…     2 <NA>
-     4 Captan             NA         4.8    20  5    99.8%       j.ef…     3 <NA>
-     5 Captan             NA         5.2    20  7    99.8%       j.ef…     3 <NA>
-     6 Captan             NA        NA      20  9    99.8%       j.ef…     3 Rapid …
-     7 Copper oxychloride NA         1.19   20  6.55 <NA>        j.ef…     6 pH val…
-     8 Copper oxychloride NA    101000      20  3.1  <NA>        j.ef…     6 <NA>
-     9 Copper oxychloride NA         0.525  20 10.1  <NA>        j.ef…     6 <NA>
-    10 Cyprodinil         NA        20      25  5    <NA>        j.ef…    39 HPLC m…
-    11 Cyprodinil         NA        13      25  7    <NA>        j.ef…    39 HPLC m…
-    12 Cyprodinil         NA        15      25  9    <NA>        j.ef…    39 HPLC m…
+       substance          sign       cwsat    T    pH purity     sk     page comment
+       <chr>              <lgl>     [mg/L]  [K] <dbl> <chr>      <chr> <int> <chr>
+     1 Acetamiprid        NA      4250     298.  5    <e2><89><… j.ef…     2 <NA>
+     2 Acetamiprid        NA      2950     298.  7    <e2><89><… j.ef…     2 <NA>
+     3 Acetamiprid        NA      3960     298.  9    <e2><89><… j.ef…     2 <NA>
+     4 Captan             NA         4.8   293.  5    99.8%      j.ef…     3 <NA>
+     5 Captan             NA         5.2   293.  7    99.8%      j.ef…     3 <NA>
+     6 Captan             NA        NA     293.  9    99.8%      j.ef…     3 Rapid …
+     7 Copper oxychloride NA         1.19  293.  6.55 <NA>       j.ef…     6 pH val…
+     8 Copper oxychloride NA    101000     293.  3.1  <NA>       j.ef…     6 <NA>
+     9 Copper oxychloride NA         0.525 293. 10.1  <NA>       j.ef…     6 <NA>
+    10 Cyprodinil         NA        20     298.  5    <NA>       j.ef…    39 HPLC m…
+    11 Cyprodinil         NA        13     298.  7    <NA>       j.ef…    39 HPLC m…
+    12 Cyprodinil         NA        15     298.  9    <NA>       j.ef…    39 HPLC m…
 
 ### Soil sorption
 
