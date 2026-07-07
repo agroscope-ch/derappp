@@ -19,7 +19,7 @@ p0 <- tribble(
   "Midpoint of the range given for crystal modification A"
   ) |>
   mutate(p0 = set_units(p0, "Pa", mode = "standard")) |>
-  mutate(T = set_units(T, "°C", mode = "standard"))
+  mutate(T = set_units(T, "\u00b0C", mode = "standard"))
 
 # Declare encoding for columns with non-ASCII characters
 Encoding(p0$purity) <- "UTF-8"
@@ -54,7 +54,7 @@ cwsat <- tribble(
   "j.efsa.2006.51r", 39L, "HPLC method",
   ) |>
   mutate(cwsat = set_units(cwsat, "mg/L", mode = "standard")) |>
-  mutate(T = set_units(T, "°C", mode = "standard"))
+  mutate(T = set_units(T, "\u00b0C", mode = "standard"))
 
 # Declare encoding for columns with non-ASCII characters
 Encoding(cwsat$purity) <- "UTF-8"
@@ -75,7 +75,7 @@ hydrolysis <- tribble(
   "Captan", NA, 8.1, "min", 25, 9,
   "j.efsa.2020.6230_LoEP", 48L, "[14C-ring] label",
   ) |>
-  mutate(T = set_units(T, "°C", mode = "standard")) |>
+  mutate(T = set_units(T, "\u00b0C", mode = "standard")) |>
   rowwise() |> # for mixed units
   mutate(DT50 = set_units(DT50, unit, mode = "standard")) |>
   mutate(DT50 = if_else(is.na(DT50), set_units(NA, "h"), set_units(DT50, "h"))) |>
