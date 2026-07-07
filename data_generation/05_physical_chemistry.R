@@ -19,13 +19,10 @@ p0 <- tribble(
   "Midpoint of the range given for crystal modification A"
   ) |>
   mutate(p0 = set_units(p0, "Pa", mode = "standard")) |>
-  mutate(T = set_units(T, "\u00b0C", mode = "standard"))
+  mutate(T = set_units(T, degree))
 
 # Declare encoding for columns with non-ASCII characters
 Encoding(p0$purity) <- "UTF-8"
-
-# Declare encoding for units attribute
-Encoding(attr(p0$T, "unit")$numerator) <- "UTF-8"
 
 # Water solubility in mg/L
 cwsat <- tribble(
@@ -57,13 +54,10 @@ cwsat <- tribble(
   "j.efsa.2006.51r", 39L, "HPLC method",
   ) |>
   mutate(cwsat = set_units(cwsat, "mg/L", mode = "standard")) |>
-  mutate(T = set_units(T, "\u00b0C", mode = "standard"))
+  mutate(T = set_units(T, degree))
 
 # Declare encoding for columns with non-ASCII characters
 Encoding(cwsat$purity) <- "UTF-8"
-
-# Declare encoding for units attribute
-Encoding(attr(cwsat$T, "unit")$numerator) <- "UTF-8"
 
 # Hydrolysis half-life
 hydrolysis <- tribble(
@@ -81,15 +75,12 @@ hydrolysis <- tribble(
   "Captan", NA, 8.1, "min", 25, 9,
   "j.efsa.2020.6230_LoEP", 48L, "[14C-ring] label",
   ) |>
-  mutate(T = set_units(T, "\u00b0C", mode = "standard")) |>
+  mutate(T = set_units(T, degree)) |>
   rowwise() |> # for mixed units
   mutate(DT50 = set_units(DT50, unit, mode = "standard")) |>
   mutate(DT50 = if_else(is.na(DT50), set_units(NA, "h"), set_units(DT50, "h"))) |>
   ungroup() |>
   select(-unit)
-
-# Declare encoding for units attribute
-Encoding(attr(hydrolysis$T, "unit")$numerator) <- "UTF-8"
 
 # ------------------------------------------------------------------------------
 # Save results for later inclusion in 'data_generation/99_derappp.R'
