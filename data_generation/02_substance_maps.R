@@ -3,6 +3,8 @@
 # 'data_generation':
 #
 # 'substance_keys'  Table of keys to other databases
+# 
+# It has to be run after running 01_sources.R_
 
 # ------------------------------------------------------------------------------
 # Append substance mappings to further data sources. Edit these scripts if

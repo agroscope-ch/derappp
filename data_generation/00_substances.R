@@ -38,8 +38,8 @@
 # ------------------------------------------------------------------------------
 # Load packages
 library(here)
+library(dplyr, warn.conflicts = FALSE)
 library(dm)
-library(dplyr)
 library(tibble)
 library(yaml)
 library(purrr)

@@ -13,9 +13,7 @@
 # After running this script, you need to run 02_substance_maps.R to add the mappings
 # to other data sources to 'substance_keys'
 
-# Load cached substance data
-load(here('data_generation/cache/substances.rda'))
-
+library(here)
 library(RefManageR)
 # install.packages("OpenFoodTox", repos = c("https://agroscope-ch.r-universe.dev", "https://cran.r-project.org"))
 library(OpenFoodTox)
@@ -23,6 +21,10 @@ library(lubridate, warn.conflicts = FALSE)
 library(dplyr, warn.conflicts = FALSE)
 library(yaml)
 library(withr) # with_options()
+
+# Load cached substance data
+load(here('data_generation/cache/substances.rda'))
+
 
 # The environment variable _derappp_sources_ should point to a directory
 # containing the source files
@@ -300,8 +302,8 @@ derappp_bib_rar_sssd_rr <- c(
     author = "Anonymous",
     type = "Review report",
     title = "Combined Draft Renewal Assessment Report prepared according to
-    Regulation (EC) N° 1107/200 and Proposal for Harmonised Classification and
-    Labelling (CLH Report) according to Regulation (EC) N° 1272/2008
+    Regulation (EC) No 1107/200 and Proposal for Harmonised Classification and
+    Labelling (CLH Report) according to Regulation (EC) No 1272/2008
     CHLOROTOLURON List of End Points",
     date = "2021-07-29",
     file = "EU_DAR_dRAR/Chlorotoluron_RAR_2021/Chlorotoluron_dRAR_23-LoEP_2021-07-29.pdf"
@@ -323,7 +325,7 @@ derappp_bib_rar_sssd_rr <- c(
     author = "Anonymous",
     type = "Review report",
     title = "Renewal Assessment Report prepared according to the Commission
-    Regulation (EU) N° 1107/2009 Diflufenican List of Endpoints",
+    Regulation (EU) No 1107/2009 Diflufenican List of Endpoints",
     date = "2018-07-19",
     file = "EU_DAR_dRAR/Diflufenican_RAR_2018/Diflufenican_RAR_12_List_of_endpoints_2018-07-19.pdf"
   ),
