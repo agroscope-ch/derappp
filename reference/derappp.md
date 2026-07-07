@@ -86,10 +86,10 @@ library(units)
 #> udunits database from /usr/share/xml/udunits/udunits2.xml
 derappp$p0[1:2, ]
 #> # A tibble: 2 × 8
-#>   substance   sign           p0    T purity sk                     page comment
-#>   <chr>       <lgl>        [Pa] [°C] <chr>  <chr>                 <int> <chr>  
-#> 1 Acetamiprid NA    0.000000173   50 ≥99.9% j.efsa.2016.4610_LoEP     2 NA     
-#> 2 Captan      NA    0.0000042     20 99.8%  j.efsa.2020.6230_LoEP     3 NA     
+#>   substance   sign           p0    T purity            sk           page comment
+#>   <chr>       <lgl>        [Pa] [°C] <chr>             <chr>       <int> <chr>  
+#> 1 Acetamiprid NA    0.000000173   50 <e2><89><a5>99.9% j.efsa.201…     2 NA     
+#> 2 Captan      NA    0.0000042     20 99.8%             j.efsa.202…     3 NA     
 derappp$p0[1, ] |>
   left_join(derappp$sources, by = "sk") |>
   select(substance, p0, T, reference)
