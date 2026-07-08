@@ -3,7 +3,6 @@
 .RData
 .Ruserdata
 .Rprofile
-*.rda
 *.Rcheck
 *.tar.gz
 docs
