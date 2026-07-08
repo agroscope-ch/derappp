@@ -2619,3 +2619,10 @@ chent Propamocarb hydrochloride
 gG3;Get chemical information from RDKit using PubChem SMILES
 CCCOC(=O)NCCCN(C)C.Cl
 g
+chent 1-Naphthylacetic acid sodium salt
+1-Naphthylacetic acid sodium salt | TRUE | NA | C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+] | PubChem | NA
+Querying BCPC for 1-Naphthylacetic acid sodium salt ...
+Common name 1-Naphthylacetic acid sodium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+] ...
+Get chemical information from RDKit using user SMILES
+C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+]

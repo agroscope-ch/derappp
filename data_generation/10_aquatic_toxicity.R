@@ -59,7 +59,8 @@ check_and_add <- function(filename) {
   new <- new_raw_with_RAR |>
 
     # Ascertain some column types
-    mutate(across(c(page, page_RAR, test_nr), as.character)) |>
+    mutate(across(c(page, sk_RAR, page_RAR, test_nr, test_system_details, life_stage),
+                  as.character)) |>
     mutate(across(c(selected), as.logical)) |>
 
     # Filter out unneeded items
@@ -258,6 +259,7 @@ aquatic_toxicity <- tibble(
 
 #debug(check_and_add)
 #undebug(check_and_add)
+check_and_add("1-naphthylacetic_acid_aquatic_toxicity.xlsx")
 check_and_add("abamectin_aquatic_toxicity.xlsx")
 check_and_add("acetamiprid_aquatic_toxicity.xlsx")
 check_and_add("ametoctradin_aquatic_toxicity.xlsx")

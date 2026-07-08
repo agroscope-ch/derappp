@@ -25,6 +25,14 @@
     "inchikey": "PRPINYUDVPFIRX-UHFFFAOYSA-N"
   },
   {
+    "chent": "1-Naphthylacetic acid sodium salt",
+    "ai": true,
+    "mw": 208.19,
+    "smiles": "C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+]",
+    "pubchem": 23694671,
+    "inchikey": "CJUUXVFWKYRHAR-UHFFFAOYSA-M"
+  },
+  {
     "chent": "2,4-D",
     "ai": true,
     "iso": "2,4-D",

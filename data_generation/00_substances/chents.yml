@@ -6,6 +6,9 @@
 - 1-Naphthylacetic acid:
     smiles: C1=CC=C2C(=C1)C=CC=C2CC(=O)O
     source: PubChem
+- 1-Naphthylacetic acid sodium salt:
+    smiles: C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+]
+    source: PubChem
 - 2-(1-Naphthyl) acetamide:
     smiles: C1=CC=C2C(=C1)C=CC=C2CC(=O)N
     source: PubChem

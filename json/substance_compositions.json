@@ -18,6 +18,12 @@
     "max": 1
   },
   {
+    "substance": "1-Naphthylacetic acid sodium salt",
+    "chent": "1-Naphthylacetic acid sodium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
     "substance": "2,4-D",
     "chent": "2,4-D",
     "min": 1,

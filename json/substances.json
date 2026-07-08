@@ -15,6 +15,11 @@
     "type": "chent"
   },
   {
+    "substance": "1-Naphthylacetic acid sodium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
     "substance": "2,4-D",
     "n_chents": 1,
     "type": "chent"
