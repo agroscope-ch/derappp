@@ -66,30 +66,32 @@ substance_keyssubstancesubstance_keys:substance->substances:substance
 
 # The list of chemical entities ("chents")
 derappp$chents
-#> # A tibble: 358 × 8
+#> # A tibble: 359 × 8
 #>    chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
 #>    <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>        
-#>  1 1-Decanol             TRUE  NA    158.  CCCCC…    8174 MWKFXSU… NA           
-#>  2 1-Methylcyclopropene  TRUE  NA     54.1 CC1=C…  151080 SHDPRTQ… plant growth…
-#>  3 1-Naphthylacetic acid TRUE  NA    186.  C1=CC…    6862 PRPINYU… NA           
-#>  4 2,4-D                 TRUE  2,4-D 221.  C1=CC…    1486 OVSKIKF… herbicides   
-#>  5 2,4-DB                TRUE  2,4-… 249.  C1=CC…    1489 YIVXMZJ… herbicides   
-#>  6 2,6-Dichlorobenzamide FALSE NA    190.  C1=CC…   16183 JHSPCUH… NA           
-#>  7 2-(1-Naphthyl) aceta… TRUE  NA    185.  C1=CC…    6861 XFNJVKM… NA           
-#>  8 2-Amino-4,6-dimethox… FALSE NA    155.  COC1=…  118946 LVFRCHI… NA           
-#>  9 6-Benzyladenine       TRUE  NA    225.  C1=CC…   62389 NWBJYWH… NA           
-#> 10 Acequinocyl           TRUE  Aceq… 384.  CCCCC…   93315 QDRXWCA… acaricides   
-#> # ℹ 348 more rows
+#>  1 1-Decanol             TRUE  NA    158.  CCCCC…  8.17e3 MWKFXSU… NA           
+#>  2 1-Methylcyclopropene  TRUE  NA     54.1 CC1=C…  1.51e5 SHDPRTQ… plant growth…
+#>  3 1-Naphthylacetic acid TRUE  NA    186.  C1=CC…  6.86e3 PRPINYU… NA           
+#>  4 1-Naphthylacetic aci… TRUE  NA    208.  C1=CC…  2.37e7 CJUUXVF… NA           
+#>  5 2,4-D                 TRUE  2,4-D 221.  C1=CC…  1.49e3 OVSKIKF… herbicides   
+#>  6 2,4-DB                TRUE  2,4-… 249.  C1=CC…  1.49e3 YIVXMZJ… herbicides   
+#>  7 2,6-Dichlorobenzamide FALSE NA    190.  C1=CC…  1.62e4 JHSPCUH… NA           
+#>  8 2-(1-Naphthyl) aceta… TRUE  NA    185.  C1=CC…  6.86e3 XFNJVKM… NA           
+#>  9 2-Amino-4,6-dimethox… FALSE NA    155.  COC1=…  1.19e5 LVFRCHI… NA           
+#> 10 6-Benzyladenine       TRUE  NA    225.  C1=CC…  6.24e4 NWBJYWH… NA           
+#> # ℹ 349 more rows
 
 # Some vapor pressures and water solubilities
+# We need to convert to °C if we do not want Kelvin
 library(units)
 #> udunits database from /usr/share/xml/udunits/udunits2.xml
-derappp$p0[1:2, ]
+derappp$p0[1:2, ] |>
+  mutate(T = set_units(T, "°C"))
 #> # A tibble: 2 × 8
 #>   substance   sign           p0    T purity            sk           page comment
-#>   <chr>       <lgl>        [Pa]  [K] <chr>             <chr>       <int> <chr>  
-#> 1 Acetamiprid NA    0.000000173 323. <e2><89><a5>99.9% j.efsa.201…     2 NA     
-#> 2 Captan      NA    0.0000042   293. 99.8%             j.efsa.202…     3 NA     
+#>   <chr>       <lgl>        [Pa] [°C] <chr>             <chr>       <int> <chr>  
+#> 1 Acetamiprid NA    0.000000173   50 <e2><89><a5>99.9% j.efsa.201…     2 NA     
+#> 2 Captan      NA    0.0000042     20 99.8%             j.efsa.202…     3 NA     
 derappp$p0[1, ] |>
   left_join(derappp$sources, by = "sk") |>
   select(substance, p0, T, reference)
@@ -101,13 +103,14 @@ derappp$p0[1, ] |>
 derappp$cwsat[1:3, ] |>
   left_join(derappp$sources, by = "sk") |>
   select(substance, cwsat, T, pH, reference) |>
-  mutate(cwsat = set_units(cwsat, "g/L", mode = "standard"))
+  mutate(cwsat = set_units(cwsat, "g/L")) |>
+  mutate(T = set_units(T, "°C"))
 #> # A tibble: 3 × 5
 #>   substance   cwsat    T    pH reference                                        
-#>   <chr>       [g/L]  [K] <dbl> <chr>                                            
-#> 1 Acetamiprid  4.25 298.     5 "EFSA. _Appendix to: Peer review of the pesticid…
-#> 2 Acetamiprid  2.95 298.     7 "EFSA. _Appendix to: Peer review of the pesticid…
-#> 3 Acetamiprid  3.96 298.     9 "EFSA. _Appendix to: Peer review of the pesticid…
+#>   <chr>       [g/L] [°C] <dbl> <chr>                                            
+#> 1 Acetamiprid  4.25   25     5 "EFSA. _Appendix to: Peer review of the pesticid…
+#> 2 Acetamiprid  2.95   25     7 "EFSA. _Appendix to: Peer review of the pesticid…
+#> 3 Acetamiprid  3.96   25     9 "EFSA. _Appendix to: Peer review of the pesticid…
 
 # Join names used in the Swiss register
 derappp$chents |>
@@ -130,24 +133,25 @@ derappp$chents |>
 #> 10 6-Benzyladenine          NA    C1=CC=C(C=C1)CNC2=NC=NC3=C2NC=N3 6-benzyladen…
 #> # ℹ 367 more rows
 
-# Show some soil sorption data with units
+# Show some soil sorption data with units, use percent for readability
 derappp$soil_sorption |>
   filter(substance %in% c("Acetamiprid", "Captan", "Copper", "Cyprodinil")) |>
+  mutate(f_oc = set_units(f_oc, "%")) |>
   select(substance, soil_pH, f_oc, Koc, Kfoc, n, sk, selected, reason) |>
   print(n = Inf)
 #> # A tibble: 10 × 9
-#>    substance   soil_pH    f_oc    Koc   Kfoc      n sk           selected reason
-#>    <chr>         <dbl>     [1] [L/kg] [L/kg]  <dbl> <chr>        <lgl>    <chr> 
-#>  1 Acetamiprid     5.7  0.0043   NA    138.   0.842 j.efsa.2016… NA       EFSA …
-#>  2 Acetamiprid     7.6  0.0104   NA    130.   0.825 j.efsa.2016… NA       EFSA …
-#>  3 Acetamiprid     7.1  0.0157   NA     71.1  0.893 j.efsa.2016… NA       EFSA …
-#>  4 Acetamiprid     7.7  0.0139   NA    122.   0.835 j.efsa.2016… NA       EFSA …
-#>  5 Acetamiprid     7.1  0.0439   NA     71.4  0.907 j.efsa.2016… NA       EFSA …
-#>  6 Captan         NA   NA        76.8   NA   NA     j.efsa.2020… NA       EFSA …
-#>  7 Cyprodinil      5.6 NA        NA   2098.   0.816 j.efsa.2025… NA       EFSA …
-#>  8 Cyprodinil      6.7 NA        NA   1794.   0.787 j.efsa.2025… NA       EFSA …
-#>  9 Cyprodinil      7.3 NA        NA   1593    0.833 j.efsa.2025… NA       EFSA …
-#> 10 Cyprodinil      7   NA        NA   1678.   0.874 j.efsa.2025… NA       EFSA …
+#>    substance   soil_pH  f_oc    Koc   Kfoc      n sk             selected reason
+#>    <chr>         <dbl>   [%] [L/kg] [L/kg]  <dbl> <chr>          <lgl>    <chr> 
+#>  1 Acetamiprid     5.7  0.43   NA    138.   0.842 j.efsa.2016.4… NA       EFSA …
+#>  2 Acetamiprid     7.6  1.04   NA    130.   0.825 j.efsa.2016.4… NA       EFSA …
+#>  3 Acetamiprid     7.1  1.57   NA     71.1  0.893 j.efsa.2016.4… NA       EFSA …
+#>  4 Acetamiprid     7.7  1.39   NA    122.   0.835 j.efsa.2016.4… NA       EFSA …
+#>  5 Acetamiprid     7.1  4.39   NA     71.4  0.907 j.efsa.2016.4… NA       EFSA …
+#>  6 Captan         NA   NA      76.8   NA   NA     j.efsa.2020.6… NA       EFSA …
+#>  7 Cyprodinil      5.6 NA      NA   2098.   0.816 j.efsa.2025.9… NA       EFSA …
+#>  8 Cyprodinil      6.7 NA      NA   1794.   0.787 j.efsa.2025.9… NA       EFSA …
+#>  9 Cyprodinil      7.3 NA      NA   1593    0.833 j.efsa.2025.9… NA       EFSA …
+#> 10 Cyprodinil      7   NA      NA   1678.   0.874 j.efsa.2025.9… NA       EFSA …
 
 # Show some soil degradation data with units
 derappp$soil_degradation |>
@@ -172,14 +176,14 @@ derappp$soil_degradation |>
 head(derappp$aquatic_toxicity) |>
   select(substance, formulation, derappp_species, duration, effect, level, sign, value)
 #> # A tibble: 6 × 8
-#>   substance formulation        derappp_species duration effect level sign  value
-#>   <chr>     <chr>              <chr>                [d] <chr>  <chr> <chr> [mg/…
-#> 1 Abamectin Abamectin (purity… Pimephales pro…        4 NA     LC50  =     14.7 
-#> 2 Abamectin Abamectin (purity… Oncorhynchus m…        4 NA     LC50  =      7   
-#> 3 Abamectin Abamectin 1.8% EC  Oncorhynchus m…        4 NA     LC50  =      2.5 
-#> 4 Abamectin NA                 Danio rerio            4 NA     LC50  =     49   
-#> 5 Abamectin NA                 Oncorhynchus m…       72 NA     NOEC  =      0.52
-#> 6 Abamectin Abamectin (purity… Daphnia magna          2 NA     EC50  =      0.56
+#>   substance        formulation derappp_species duration effect level sign  value
+#>   <chr>            <chr>       <chr>                [d] <chr>  <chr> <chr> [mg/…
+#> 1 1-Naphthylaceti… NA          Cyprinus carpio        4 morta… EC50  >      56  
+#> 2 1-Naphthylaceti… NA          Cyprinus carpio        4 morta… EC50  <     100  
+#> 3 1-Naphthylaceti… NA          Cyprinus carpio        4 morta… EC50  >      91.7
+#> 4 1-Naphthylaceti… NA          Oncorhynchus m…        4 morta… EC50  =      75  
+#> 5 1-Naphthylaceti… Spollonant… Oncorhynchus m…        4 morta… EC50  =      37  
+#> 6 1-Naphthylaceti… NA          Oncorhynchus m…       28 growth NOEC  =      10  
 
 # Species groupings and taxonomic IDs
 derappp$species

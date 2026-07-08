@@ -56,20 +56,20 @@ Code
 derappp$substances
 ```
 
-    # A tibble: 390 × 3
-       substance                       n_chents type
-       <chr>                              <int> <fct>
-     1 1-Decanol                              1 chent
-     2 1-Methylcyclopropene                   1 chent
-     3 1-Naphthylacetic acid                  1 chent
-     4 2,4-D                                  1 chent
-     5 2,4-DB                                 1 chent
-     6 2,6-Dichlorobenzamide                  1 chent
-     7 2-(1-Naphthyl) acetamide               1 chent
-     8 2-Amino-4,6-dimethoxypyrimidine        1 chent
-     9 3AEY                                   0 undefined
-    10 6-Benzyladenine                        1 chent
-    # ℹ 380 more rows
+    # A tibble: 391 × 3
+       substance                         n_chents type
+       <chr>                                <int> <fct>
+     1 1-Decanol                                1 chent
+     2 1-Methylcyclopropene                     1 chent
+     3 1-Naphthylacetic acid                    1 chent
+     4 1-Naphthylacetic acid sodium salt        1 chent
+     5 2,4-D                                    1 chent
+     6 2,4-DB                                   1 chent
+     7 2,6-Dichlorobenzamide                    1 chent
+     8 2-(1-Naphthyl) acetamide                 1 chent
+     9 2-Amino-4,6-dimethoxypyrimidine          1 chent
+    10 3AEY                                     0 undefined
+    # ℹ 381 more rows
 
 ### Pure substances with defined chemical structure (chemical entities)
 
@@ -86,20 +86,20 @@ Code
 derappp$substance_compositions |> filter(min == 1)
 ```
 
-    # A tibble: 358 × 6
-       substance                       chent                   min   max doi    page
-       <chr>                           <chr>                 <dbl> <dbl> <chr> <int>
-     1 1-Decanol                       1-Decanol                 1     1 <NA>     NA
-     2 1-Methylcyclopropene            1-Methylcyclopropene      1     1 <NA>     NA
-     3 1-Naphthylacetic acid           1-Naphthylacetic acid     1     1 <NA>     NA
-     4 2,4-D                           2,4-D                     1     1 <NA>     NA
-     5 2,4-DB                          2,4-DB                    1     1 <NA>     NA
-     6 2,6-Dichlorobenzamide           2,6-Dichlorobenzamide     1     1 <NA>     NA
-     7 2-(1-Naphthyl) acetamide        2-(1-Naphthyl) aceta…     1     1 <NA>     NA
-     8 2-Amino-4,6-dimethoxypyrimidine 2-Amino-4,6-dimethox…     1     1 <NA>     NA
-     9 6-Benzyladenine                 6-Benzyladenine           1     1 <NA>     NA
-    10 Acequinocyl                     Acequinocyl               1     1 <NA>     NA
-    # ℹ 348 more rows
+    # A tibble: 359 × 6
+       substance                         chent                 min   max doi    page
+       <chr>                             <chr>               <dbl> <dbl> <chr> <int>
+     1 1-Decanol                         1-Decanol               1     1 <NA>     NA
+     2 1-Methylcyclopropene              1-Methylcycloprope…     1     1 <NA>     NA
+     3 1-Naphthylacetic acid             1-Naphthylacetic a…     1     1 <NA>     NA
+     4 1-Naphthylacetic acid sodium salt 1-Naphthylacetic a…     1     1 <NA>     NA
+     5 2,4-D                             2,4-D                   1     1 <NA>     NA
+     6 2,4-DB                            2,4-DB                  1     1 <NA>     NA
+     7 2,6-Dichlorobenzamide             2,6-Dichlorobenzam…     1     1 <NA>     NA
+     8 2-(1-Naphthyl) acetamide          2-(1-Naphthyl) ace…     1     1 <NA>     NA
+     9 2-Amino-4,6-dimethoxypyrimidine   2-Amino-4,6-dimeth…     1     1 <NA>     NA
+    10 6-Benzyladenine                   6-Benzyladenine         1     1 <NA>     NA
+    # ℹ 349 more rows
 
 ### Mixtures of chemical entities
 
@@ -176,20 +176,20 @@ Code
 derappp$chents
 ```
 
-    # A tibble: 358 × 8
+    # A tibble: 359 × 8
        chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
        <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>
-     1 1-Decanol             TRUE  <NA>  158.  CCCCC…    8174 MWKFXSU… <NA>
-     2 1-Methylcyclopropene  TRUE  <NA>   54.1 CC1=C…  151080 SHDPRTQ… plant growth…
-     3 1-Naphthylacetic acid TRUE  <NA>  186.  C1=CC…    6862 PRPINYU… <NA>
-     4 2,4-D                 TRUE  2,4-D 221.  C1=CC…    1486 OVSKIKF… herbicides
-     5 2,4-DB                TRUE  2,4-… 249.  C1=CC…    1489 YIVXMZJ… herbicides
-     6 2,6-Dichlorobenzamide FALSE <NA>  190.  C1=CC…   16183 JHSPCUH… <NA>
-     7 2-(1-Naphthyl) aceta… TRUE  <NA>  185.  C1=CC…    6861 XFNJVKM… <NA>
-     8 2-Amino-4,6-dimethox… FALSE <NA>  155.  COC1=…  118946 LVFRCHI… <NA>
-     9 6-Benzyladenine       TRUE  <NA>  225.  C1=CC…   62389 NWBJYWH… <NA>
-    10 Acequinocyl           TRUE  Aceq… 384.  CCCCC…   93315 QDRXWCA… acaricides
-    # ℹ 348 more rows
+     1 1-Decanol             TRUE  <NA>  158.  CCCCC…  8.17e3 MWKFXSU… <NA>
+     2 1-Methylcyclopropene  TRUE  <NA>   54.1 CC1=C…  1.51e5 SHDPRTQ… plant growth…
+     3 1-Naphthylacetic acid TRUE  <NA>  186.  C1=CC…  6.86e3 PRPINYU… <NA>
+     4 1-Naphthylacetic aci… TRUE  <NA>  208.  C1=CC…  2.37e7 CJUUXVF… <NA>
+     5 2,4-D                 TRUE  2,4-D 221.  C1=CC…  1.49e3 OVSKIKF… herbicides
+     6 2,4-DB                TRUE  2,4-… 249.  C1=CC…  1.49e3 YIVXMZJ… herbicides
+     7 2,6-Dichlorobenzamide FALSE <NA>  190.  C1=CC…  1.62e4 JHSPCUH… <NA>
+     8 2-(1-Naphthyl) aceta… TRUE  <NA>  185.  C1=CC…  6.86e3 XFNJVKM… <NA>
+     9 2-Amino-4,6-dimethox… FALSE <NA>  155.  COC1=…  1.19e5 LVFRCHI… <NA>
+    10 6-Benzyladenine       TRUE  <NA>  225.  C1=CC…  6.24e4 NWBJYWH… <NA>
+    # ℹ 349 more rows
 
 In the package, there is also a list of chent objects that can be used
 to plot any of the structures as shown in [Figure 2](#fig-tebufenozide)
@@ -387,20 +387,20 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 977 × 7
-       substance derappp_species                 duration effect sign    value sk
-       <chr>     <chr>                                [d] <chr>  <chr>  [mg/L] <chr>
-     1 Abamectin Pimephales promelas                    4 <NA>   =     1.47e+1 j.ef…
-     2 Abamectin Oncorhynchus mykiss (species i…        4 <NA>   =     7   e+0 j.ef…
-     3 Abamectin Oncorhynchus mykiss (species i…        4 <NA>   =     2.5 e+0 j.ef…
-     4 Abamectin Danio rerio                            4 <NA>   =     4.9 e+1 j.ef…
-     5 Abamectin Oncorhynchus mykiss (species i…       72 <NA>   =     5.2 e-1 j.ef…
-     6 Abamectin Daphnia magna                          2 <NA>   =     5.6 e-1 j.ef…
-     7 Abamectin Daphnia longispina                     2 <NA>   =     3.5 e-1 j.ef…
-     8 Abamectin Daphnia pulex                          2 <NA>   =     9.6 e-2 j.ef…
-     9 Abamectin Simocephalus (genus in Protost…        2 <NA>   =     3   e-1 j.ef…
-    10 Abamectin Brachionus calyciflorus                1 <NA>   =     3.78e+3 j.ef…
-    # ℹ 967 more rows
+    # A tibble: 1,000 × 7
+       substance                   derappp_species duration effect sign  value sk
+       <chr>                       <chr>                [d] <chr>  <chr> [mg/… <chr>
+     1 1-Naphthylacetic acid       Cyprinus carpio        4 morta… >      56   j.ef…
+     2 1-Naphthylacetic acid       Cyprinus carpio        4 morta… <     100   j.ef…
+     3 1-Naphthylacetic acid sodi… Cyprinus carpio        4 morta… >      91.7 j.ef…
+     4 1-Naphthylacetic acid       Oncorhynchus m…        4 morta… =      75   j.ef…
+     5 1-Naphthylacetic acid       Oncorhynchus m…        4 morta… =      37   j.ef…
+     6 1-Naphthylacetic acid       Oncorhynchus m…       28 growth =      10   j.ef…
+     7 1-Naphthylacetic acid       Daphnia magna          2 morta… >      56   j.ef…
+     8 1-Naphthylacetic acid       Daphnia magna          2 morta… <     100   j.ef…
+     9 1-Naphthylacetic acid sodi… Daphnia magna          4 morta… >      91.7 j.ef…
+    10 1-Naphthylacetic acid       Daphnia magna         21 repro… =      22   j.ef…
+    # ℹ 990 more rows
 
 ### Soil toxicity
 
