@@ -101,7 +101,7 @@ derappp_chents$Captan$pubchem$MolecularFormula
 # items
 print(derappp_chents, n = 2)
 #> <derappp_chents>
-#> A list of  359 <chent> objects
+#> A list of  360 <chent> objects
 #> Showing the first  2  entries:
 #> 
 #> <pai> without ISO common name

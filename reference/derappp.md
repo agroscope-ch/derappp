@@ -66,7 +66,7 @@ substance_keyssubstancesubstance_keys:substance->substances:substance
 
 # The list of chemical entities ("chents")
 derappp$chents
-#> # A tibble: 359 × 8
+#> # A tibble: 360 × 8
 #>    chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
 #>    <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>        
 #>  1 1-Decanol             TRUE  NA    158.  CCCCC…  8.17e3 MWKFXSU… NA           
@@ -74,12 +74,12 @@ derappp$chents
 #>  3 1-Naphthylacetic acid TRUE  NA    186.  C1=CC…  6.86e3 PRPINYU… NA           
 #>  4 1-Naphthylacetic aci… TRUE  NA    208.  C1=CC…  2.37e7 CJUUXVF… NA           
 #>  5 2,4-D                 TRUE  2,4-D 221.  C1=CC…  1.49e3 OVSKIKF… herbicides   
-#>  6 2,4-DB                TRUE  2,4-… 249.  C1=CC…  1.49e3 YIVXMZJ… herbicides   
-#>  7 2,6-Dichlorobenzamide FALSE NA    190.  C1=CC…  1.62e4 JHSPCUH… NA           
-#>  8 2-(1-Naphthyl) aceta… TRUE  NA    185.  C1=CC…  6.86e3 XFNJVKM… NA           
-#>  9 2-Amino-4,6-dimethox… FALSE NA    155.  COC1=…  1.19e5 LVFRCHI… NA           
-#> 10 6-Benzyladenine       TRUE  NA    225.  C1=CC…  6.24e4 NWBJYWH… NA           
-#> # ℹ 349 more rows
+#>  6 2,4-D-dimethylammoni… TRUE  NA    266.  CNC.C…  1.62e4 IUQJDHJ… NA           
+#>  7 2,4-DB                TRUE  2,4-… 249.  C1=CC…  1.49e3 YIVXMZJ… herbicides   
+#>  8 2,6-Dichlorobenzamide FALSE NA    190.  C1=CC…  1.62e4 JHSPCUH… NA           
+#>  9 2-(1-Naphthyl) aceta… TRUE  NA    185.  C1=CC…  6.86e3 XFNJVKM… NA           
+#> 10 2-Amino-4,6-dimethox… FALSE NA    155.  COC1=…  1.19e5 LVFRCHI… NA           
+#> # ℹ 350 more rows
 
 # Some vapor pressures and water solubilities
 # We need to convert to °C if we do not want Kelvin
@@ -187,7 +187,7 @@ head(derappp$aquatic_toxicity) |>
 
 # Species groupings and taxonomic IDs
 derappp$species
-#> # A tibble: 199 × 7
+#> # A tibble: 200 × 7
 #>    species      group derappp_species ott_id is_synonym flags salt_water_species
 #>    <chr>        <chr> <chr>            <int> <lgl>      <chr> <lgl>             
 #>  1 Acipenser t… Fish  Acipenser tran… 3.79e5 FALSE      ""    FALSE             
@@ -200,5 +200,5 @@ derappp$species
 #>  8 Anabaena va… Aqua… Trichormus var… 5.24e5 TRUE       "inc… FALSE             
 #>  9 Ankistrodes… Aqua… Ankistrodesmus… 7.28e5 FALSE      ""    FALSE             
 #> 10 Aphanizomen… Aqua… Aphanizomenon … 8.94e5 FALSE      "sib… FALSE             
-#> # ℹ 189 more rows
+#> # ℹ 190 more rows
 ```
