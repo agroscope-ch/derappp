@@ -22,6 +22,11 @@
   {
     "substance": "2,4-D",
     "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2014.3812"
+  },
+  {
+    "substance": "2,4-D",
+    "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2016.4500"
   },
   {

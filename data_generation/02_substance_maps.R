@@ -3,7 +3,7 @@
 # 'data_generation':
 #
 # 'substance_keys'  Table of keys to other databases
-# 
+#
 # It has to be run after running 01_sources.R_
 
 # ------------------------------------------------------------------------------

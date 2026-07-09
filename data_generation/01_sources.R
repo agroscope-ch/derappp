@@ -68,12 +68,18 @@ oft_latest_efsa_conclusions_partial <- oft$efsa_outputs |>
   select(Substance, OutputID, Published = latest, Title, DOI, URL)
 
 # We include some older EFSA conclusions for the following reasons:
+
 # Captan 2009: Contains endpoints based on nominal concentrations that are
 # considered relevant for surface water assessments based on PECini
 # Only use the row with Substance == "Captan", as we already keep entries for
 # two Captan products that also point to the DOI from 2009.
+
+# 2,4-D 2014: The 2016 EFSA conclusion linked to 2,4-D is actually on 2,4-DB
 oft_latest_efsa_conclusions_manual <- oft$efsa_outputs |>
-  filter(Substance == "Captan" & DOI == "doi:10.2903/j.efsa.2009.296r") |>
+  filter(
+    (Substance == "Captan" & DOI == "doi:10.2903/j.efsa.2009.296r") |
+    (Substance == "2,4-D" & DOI == "doi:10.2903/j.efsa.2014.3812")
+  ) |>
   select(Substance, OutputID, Published, Title, DOI, URL)
 
 oft_latest_efsa_conclusions <- rbind(
@@ -101,7 +107,9 @@ latest_efsa_conclusions <- bind_rows(latest_efsa_conclusions,
     DOI = "doi:10.2903/j.efsa.2006.57r",
     URL = "http://dx.doi.org/10.2903/j.efsa.2006.57r"))
 
-# Add rows for some EFSA conclusions not yet included in OpenFoodTox, the latest version is from 2023
+# Add rows for some EFSA conclusions not yet included in OpenFoodTox, the
+# latest version integrated here is from 2023 (we did not analyse the update from 2026 yet)
+
 source(here("data_generation/01_sources/efsa_conclusions_after_openfoodtox.R"))
 
 efsa_map_auto <- substances |>
@@ -120,13 +128,13 @@ efsa_map_auto <- substances |>
 # a ratio) can be mapped to our definition which is based on the ISO definition.
 efsa_map <- efsa_map_auto |>
   mutate(DOI = recode_values(substance,
-  "Flurochloridone" ~ "doi:10.2903/j.efsa.2010.1869", # ISO definition has been updated
-  "Triclopyr-butotyl" ~ "doi:10.2903/j.efsa.2024.8177", # 2024 conclusion not in OpenFoodTox
   "Copper oxychloride" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
   "Copper(II) chloride" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
   "Copper(II) hydroxide" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
   "Copper(II) nitrate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
   "Copper(II) sulfate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
+  "Flurochloridone" ~ "doi:10.2903/j.efsa.2010.1869", # ISO definition has been updated
+  "Triclopyr-butotyl" ~ "doi:10.2903/j.efsa.2024.8177", # 2024 conclusion not in OpenFoodTox
   default = DOI)
 )
 
