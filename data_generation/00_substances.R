@@ -47,6 +47,10 @@ library(tidyr)
 if (packageVersion("chents") < "0.4.0") {
     stop("Please install the current version of the 'chents' package")
 }
+
+# We need a dev version of webchem from later November 2025 or later in order
+# to find derivatives like 2,4-D-dimethylammonium with bcpc_query
+#install.packages("webchem", repos = c("https://ropensci.r-universe.dev", "https://cloud.r-project.org"))
 library(chents)
 
 # Load the YAML file

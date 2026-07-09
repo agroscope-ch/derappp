@@ -1386,6 +1386,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Primephales promelas",
+    "group": "Fish",
+    "derappp_species": "Pimephales promelas",
+    "ott_id": 564459,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Procambarus acutus acutus",
     "group": "Aquatic invertebrates",
     "derappp_species": "Procambarus acutus acutus",

@@ -25,6 +25,11 @@
     "type": "chent"
   },
   {
+    "substance": "2,4-D-dimethylammonium",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
     "substance": "2,4-DB",
     "n_chents": 1,
     "type": "chent"

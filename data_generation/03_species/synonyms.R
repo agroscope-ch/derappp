@@ -70,5 +70,6 @@ species_synonyms <- tribble(~synonym, ~species,
   "Chironomus riparius (species in domain Eukaryota)","Chironomus riparius",
   "Catostomus commersoni","Catostomus commersonii",
   "Ostracoda sp.", "Ostracoda",
+  "Primephales promelas", "Pimephales promelas",
   )
 

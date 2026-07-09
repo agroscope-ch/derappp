@@ -4,7 +4,7 @@
 # matches with tnrs_match_names(), manual inspection and correction is needed.
 # Currently, this is not checked after adding new species.
 
-# Some libraries are loaded due to .Rprofile in the project directory
+library(here)
 library(rotl) # To access the Open Tree of Life taxonomic name resolution service (TNRS)
 
 # We can load the result of this script from the last run if desired

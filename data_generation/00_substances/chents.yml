@@ -13,6 +13,7 @@
     smiles: C1=CC=C2C(=C1)C=CC=C2CC(=O)N
     source: PubChem
 - 2,4-D
+- 2,4-D-dimethylammonium
 - 2,4-DB
 - 2,6-Dichlorobenzamide:
     TP: True

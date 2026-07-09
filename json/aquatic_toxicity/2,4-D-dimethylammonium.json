@@ -1,0 +1,24 @@
+[
+  {
+    "substance": "2,4-D-dimethylammonium",
+    "derappp_species": "Daphnia magna",
+    "group": "Aquatic invertebrates",
+    "test_nr": "5",
+    "test_system": "semi-static",
+    "duration": 21,
+    "effect": "reproduction",
+    "level": "NOEC",
+    "sign": "=",
+    "value": 46.2,
+    "measured": "nom",
+    "sk": "j.efsa.2014.3812",
+    "page": "65",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "note": "Also reported as 38.4 mg 2,4-D/L",
+    "reported_species": "Daphnia magna",
+    "recorded": "mamr",
+    "checked": "rajo",
+    "file": "2,4-D_aquatic_toxicity.xlsx"
+  }
+]

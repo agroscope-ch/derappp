@@ -2626,3 +2626,35 @@ Common name 1-Naphthylacetic acid sodium salt is not known at the BCPC compendiu
 Querying PubChem for smiles C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+] ...
 Get chemical information from RDKit using user SMILES
 C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+]
+
+chent 2,4-D dimethylammonium salt
+2,4-D dimethylammonium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for 2,4-D dimethylammonium salt ...
+Common name 2,4-D dimethylammonium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name 2,4-D dimethylammonium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CNC.C1=CC(=C(C=C1Cl)Cl)OCC(=O)O
+
+chent 2,4-D-dimethylammonium
+2,4-D-dimethylammonium | TRUE | NA | NA | NA | NA
+Querying BCPC for 2,4-D-dimethylammonium ...
+Common name 2,4-D-dimethylammonium is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name 2,4-D-dimethylammonium ...
+Get chemical information from RDKit using PubChem SMILES
+CNC.C1=CC(=C(C=C1Cl)Cl)OCC(=O)O
+
+chent Sodium 1-naphthaleneacetate
+Sodium 1-naphthaleneacetate | TRUE | NA | NA | NA | NA
+Querying BCPC for Sodium 1-naphthaleneacetate ...
+Common name Sodium 1-naphthaleneacetate is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Sodium 1-naphthaleneacetate ...
+Get chemical information from RDKit using PubChem SMILES
+C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+]
+
+chent 1-Naphthylacetic acid sodium salt
+1-Naphthylacetic acid sodium salt | TRUE | NA | C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+] | PubChem | NA
+Querying BCPC for 1-Naphthylacetic acid sodium salt ...
+Common name 1-Naphthylacetic acid sodium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+] ...
+Get chemical information from RDKit using user SMILES
+C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+]

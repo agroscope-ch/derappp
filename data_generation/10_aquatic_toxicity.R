@@ -260,6 +260,7 @@ aquatic_toxicity <- tibble(
 #debug(check_and_add)
 #undebug(check_and_add)
 check_and_add("1-naphthylacetic_acid_aquatic_toxicity.xlsx")
+check_and_add("2,4-D_aquatic_toxicity.xlsx")
 check_and_add("abamectin_aquatic_toxicity.xlsx")
 check_and_add("acetamiprid_aquatic_toxicity.xlsx")
 check_and_add("ametoctradin_aquatic_toxicity.xlsx")

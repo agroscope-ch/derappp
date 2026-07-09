@@ -43,6 +43,14 @@
     "bcpc_activity": "herbicides"
   },
   {
+    "chent": "2,4-D-dimethylammonium",
+    "ai": true,
+    "mw": 266.12,
+    "smiles": "CNC.C1=CC(=C(C=C1Cl)Cl)OCC(=O)O",
+    "pubchem": 16180,
+    "inchikey": "IUQJDHJVPLLKFL-UHFFFAOYSA-N"
+  },
+  {
     "chent": "2,4-DB",
     "ai": true,
     "iso": "2,4-DB",
