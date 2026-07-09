@@ -7,11 +7,14 @@ library(tidyr)
 library(tibble)
 
 # Load cached data for checking
-load(here('data_generation/cache/substances.rda'))
-load(here('data_generation/cache/sources.rda'))
-load(here('data_generation/cache/species.rda'))
-load(here('data_generation/cache/effects.rda'))
-load(here('data_generation/cache/effect_levels.rda'))
+# Load cached data for checking
+table_names <- c("substances", "sources",
+  "species", "effects", "effect_levels")
+for (table_name in table_names) {
+  assign(table_name,
+    readRDS(
+      here("data_generation/cache/", paste0(table_name, ".rds"))))
+}
 
 # The environment variable _derappp_input_ should point to a directory
 # containing the files to be read in
@@ -155,10 +158,11 @@ soil_toxicity <- tibble(
 #undebug(compare_with_git)
 check_and_add("NABO_SQ_macroorganism_toxicity.xlsx")
 
-save(soil_toxicity,
-  file = here('data_generation/cache/soil_toxicity.rda'))
+saveRDS(soil_toxicity, compress = FALSE,
+  file = here('data_generation/cache/soil_toxicity.rds'))
 
 # Clean up
+rm(table_names, table_name)
 rm(
   derappp_input,
   directory,

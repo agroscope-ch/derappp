@@ -287,12 +287,15 @@ substances <- substance_compositions  |>
 # ------------------------------------------------------------------------------
 # Save results for use in other scripts in 'data_generation'
 chents$mw <- round(chents$mw, 3)
-save("chents", file = here("data_generation/cache/",
-  "chents.rda"))
-save("substance_compositions", file = here("data_generation/cache/",
-  "substance_compositions.rda"))
-save("substances", file = here("data_generation/cache/",
-  "substances.rda"))
+saveRDS(chents, compress = FALSE,
+  file = here("data_generation/cache/",
+    "chents.rds"))
+saveRDS(substance_compositions, compress = FALSE,
+  file = here("data_generation/cache/",
+    "substance_compositions.rds"))
+saveRDS(substances, compress = FALSE,
+  file = here("data_generation/cache/",
+    "substances.rds"))
 
 # ------------------------------------------------------------------------------
 # Clean up

@@ -21,14 +21,15 @@ Useful links:
 Authors:
 \itemize{
   \item Johannes Ranke \email{johannes.ranke@agroscope.admin.ch} (\href{https://orcid.org/0000-0003-4371-6538}{ORCID}) (acronym: rajo)
-  \item Elisabeth Lutz \email{elisabeth.lutz@agroscope.admin.ch} (acronym: luel, aquatic toxicity data)
-  \item Marcel Mathis \email{marcel.mathis@agroscope.admin.ch} (acronym: mamr, aquatic toxicity data)
+  \item Elisabeth Lutz \email{elisabeth.lutz@agroscope.admin.ch} (acronym: luel, data generation scripts, aquatic toxicity data)
+  \item Marcel Mathis \email{marcel.mathis@agroscope.admin.ch} (acronym: mamr, data generation scrips, aquatic toxicity data)
 }
 
 Other contributors:
 \itemize{
   \item Laurent Boualit (acronym: bolr, aquatic toxicity data) [contributor]
-  \item Jhoniel Perdigon Ferreira (acronym: pejh, soil toxicity data, review of aquatic toxicity data) [contributor]
+  \item Jhoniel Perdigon Ferreira (acronym: pejh, data generation scripts, soil toxicity data, review of aquatic toxicity data) [contributor]
+  \item Kasteel Romualdus \email{romualdus.kasteel@agroscope.admin.ch} (Reviewed the initial version before publication) [reviewer]
   \item Daniel Baumgartner (SMILES codes for pyrethroid stereoisomers) [contributor]
   \item Fabian Balk (\href{https://orcid.org/0000-0001-7764-7214}{ORCID}) (acronym: bafa, review of soil toxicity data) [reviewer]
   \item European Food Safety Authority (EFSA conclusions, bibliographic information in OpenFoodTox, Renewal Assessment Reports) [data contributor]

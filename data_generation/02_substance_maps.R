@@ -12,18 +12,18 @@
 
 # ------------------------------------------------------------------------------
 # Load data generated in previous runs
-load(here('data_generation/cache/substance_keys.rda'))
-load(here('data_generation/cache/substances.rda'))
-load(here('data_generation/cache/chents.rda'))
+substance_keys <- readRDS(here('data_generation/cache/substance_keys.rds'))
+substances <- readRDS(here('data_generation/cache/substances.rds'))
+chents <- readRDS(here('data_generation/cache/chents.rds'))
 
 source(here('data_generation/02_substance_maps/srppp.R'))
 source(here('data_generation/02_substance_maps/NABO_SQ.R'))
 
 # ------------------------------------------------------------------------------
 # Save the table of keys to other data sources
-save("substance_keys", file = here("data_generation/cache/",
-  "substance_keys.rda"))
+saveRDS("substance_keys", compress = FALSE,
+  file = here("data_generation/cache/",
+    "substance_keys.rds"))
 
 # Clean up
 rm(chents, substances, substance_keys)
-

@@ -8,13 +8,13 @@ library(tidyr)
 library(tibble)
 
 # Load cached data for checking
-load(here("data_generation/cache/chents.rda"))
-load(here("data_generation/cache/substances.rda"))
-load(here("data_generation/cache/sources.rda"))
-load(here("data_generation/cache/species.rda"))
-load(here("data_generation/cache/effects.rda"))
-load(here("data_generation/cache/effect_levels.rda"))
-load(here("data_generation/cache/life_stages.rda"))
+table_names <- c("chents", "substances", "sources",
+  "species", "effects", "effect_levels", "life_stages")
+for (table_name in table_names) {
+  assign(table_name,
+    readRDS(
+      here("data_generation/cache/", paste0(table_name, ".rds"))))
+}
 
 # The environment variable _derappp_input_ should point to a directory
 # containing the files to be read in
@@ -304,12 +304,13 @@ check_and_add("spinosad_aquatic_toxicity.xlsx")
 
 
 
-save(aquatic_toxicity,
-  file = here('data_generation/cache/aquatic_toxicity.rda'))
-save(aquatic_test_systems,
-     file = here('data_generation/cache/aquatic_test_systems.rda'))
+saveRDS(aquatic_toxicity, compress = FALSE,
+  file = here('data_generation/cache/aquatic_toxicity.rds'))
+saveRDS(aquatic_test_systems, compress = FALSE,
+     file = here('data_generation/cache/aquatic_test_systems.rds'))
 
 # Clean up
+rm(table_name, table_names)
 rm(
   derappp_input,
   directory,

@@ -5,8 +5,8 @@ library(readxl)
 library(units)
 
 # Load substances and already integrated data for checking
-load(here('data_generation/cache/substances.rda'))
-load(here('data_generation/cache/sources.rda'))
+substances <- readRDS(here('data_generation/cache/substances.rds'))
+sources <- readRDS(here('data_generation/cache/sources.rds'))
 
 # The environment variable _derappp_input_ should point to a directory
 # containing the files to be read in
@@ -115,8 +115,9 @@ check_and_add("captan_soil_sorption.xlsx")
 check_and_add("copper_oxychloride_soil_sorption.xlsx")
 check_and_add("cyprodinil_soil_sorption.xlsx")
 
-save("soil_sorption", file = here("data_generation/cache/",
-  "soil_sorption.rda"))
+saveRDS(soil_sorption, compress = FALSE,
+  file = here("data_generation/cache/",
+    "soil_sorption.rds"))
 
 # Clean up
 rm(

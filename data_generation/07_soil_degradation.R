@@ -5,8 +5,8 @@ library(readxl)
 library(units)
 
 # Load substances and already integrated data for checking
-load(here('data_generation/cache/substances.rda'))
-load(here('data_generation/cache/sources.rda'))
+substances <- readRDS(here('data_generation/cache/substances.rds'))
+sources <- readRDS(here('data_generation/cache/sources.rds'))
 
 # The environment variable _derappp_input_ should point to a directory
 # containing the files to be read in
@@ -103,13 +103,13 @@ soil_degradation <- tibble(
   file      = character(0)
 )
 
-
 #debug(check_and_add)
 check_and_add("soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx")
 check_and_add("soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx")
 
-save("soil_degradation", file = here("data_generation/cache/",
-                                  "soil_degradation.rda"))
+saveRDS(soil_degradation, compress = FALSE,
+  file = here("data_generation/cache/",
+    "soil_degradation.rds"))
 
 # Clean up
 rm(

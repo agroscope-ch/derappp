@@ -89,7 +89,8 @@ hydrolysis <- tribble(
 # Save results for later inclusion in 'data_generation/99_derappp.R'
 tables <- c("p0", "cwsat", "hydrolysis")
 for (table in tables) {
-  save(list = table, file = here("data_generation/cache/", paste0(table, ".rda")))
+  saveRDS(get(table), compress = FALSE,
+    file = here("data_generation/cache/", paste0(table, ".rds")))
 }
 
 # ------------------------------------------------------------------------------

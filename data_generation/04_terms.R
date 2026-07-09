@@ -51,11 +51,11 @@ life_stages <- tribble( ~ life_stage, ~ definition,
   "juvenile", NA,
   "full life cycle", NA)
 
-save(effects,
-  file = here('data_generation/cache/effects.rda'))
-save(effect_levels,
-  file = here('data_generation/cache/effect_levels.rda'))
-save(life_stages,
-  file = here('data_generation/cache/life_stages.rda'))
+saveRDS(effects, compress = FALSE,
+  file = here('data_generation/cache/effects.rds'))
+saveRDS(effect_levels, compress = FALSE,
+  file = here('data_generation/cache/effect_levels.rds'))
+saveRDS(life_stages, compress = FALSE,
+  file = here('data_generation/cache/life_stages.rds'))
 
 rm(effects, effect_levels, life_stages)

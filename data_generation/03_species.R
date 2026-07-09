@@ -8,10 +8,10 @@ library(here)
 library(rotl) # To access the Open Tree of Life taxonomic name resolution service (TNRS)
 
 # We can load the result of this script from the last run if desired
-#load(here('data_generation/cache/species.rda'))
+#species <- readRDS(here('data_generation/cache/species.rds'))
 
 # The following lines can be used for adding entries based on aquatic tox data
-#load(here('data_generation/cache/aquatic_toxicity.rda'))
+#aquatic_toxicity <- readRDS(here('data_generation/cache/aquatic_toxicity.rds'))
 #aquatic_species <- unique(aquatic_toxicity$derappp_species)
 #new_species <- setdiff(aquatic_species, species$species)
 
@@ -185,7 +185,9 @@ species <- species |>
 # ---------------------------------------------------------------------------- #
 # Save species table to cache ####
 # ---------------------------------------------------------------------------- #
-save(species, file = here('data_generation/cache/species.rda'))
+saveRDS(species, compress = FALSE,
+  file = here("data_generation/cache",
+    "species.rds"))
 
 rm(
   species_in,

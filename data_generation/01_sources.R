@@ -23,17 +23,20 @@ library(yaml)
 library(withr) # with_options()
 
 # Load cached substance data
-load(here('data_generation/cache/substances.rda'))
+substances <- readRDS(here('data_generation/cache/substances.rds'))
 
-
-# The environment variable _derappp_sources_ should point to a directory
-# containing the source files
+# If the environment variable _derappp_sources_ points to a directory
+# containing the source files, we can add file names and determine
+# the presence of separate listings of endpoints (LoEP)
+derappp_source_dir <- FALSE
 derappp_sources <- Sys.getenv("_derappp_sources_")
 if (derappp_sources == "") {
-  stop("You need to set the environment variable '_derapp_sources_'")
+  warning("You did not set the environment variable '_derapp_sources_'")
 } else {
-  if (!dir.exists(derappp_sources)) {
-     stop("The directory ", derappp_sources, " does not exist")
+  if (dir.exists(derappp_sources)) {
+    derappp_source_dir <- TRUE
+  } else {
+    stop("The directory ", derappp_sources, " does not exist")
   }
 }
 
@@ -218,12 +221,15 @@ efsa_conclusions_used <- latest_efsa_conclusions |>
   select(OutputID, Published, Title, DOI, URL) |>
   distinct()
 
+# If we have a source dir, include file locations, otherwise
+# create BibEntries with file = NA
 purrr::pwalk(efsa_conclusions_used,
   function(OutputID, Published, Title, DOI, URL) {
     doi_suffix <- gsub("doi:10.2903/", "", DOI)
     rel_path <- file.path("10.2903", paste0(doi_suffix, ".pdf"))
     full_path <- file.path(derappp_sources, rel_path)
-    if (file.exists(full_path)) {
+    if (file.exists(full_path) | !derappp_source_dir) {
+      if (!derappp_source_dir) rel_path <- NA
       bib <- BibEntry(bibtype = "Report", key = doi_suffix,
         author = "EFSA", type = "EFSA conclusion",
         institution = "European Food Safety Authority",
@@ -256,7 +262,7 @@ purrr::pwalk(efsa_conclusions_used,
         derappp_bib_efsa <<- c(derappp_bib_efsa, loep_bib)
       }
     } else {
-      message("Missing EFSA conclusion: ", gsub("doi:", "https://dx.doi.org/", DOI))
+      message("Missing EFSA conclusion in source directory: ", gsub("doi:", "https://dx.doi.org/", DOI))
     }
   })
 
@@ -446,10 +452,12 @@ source_table_list <- with_options(list(width = 80L),
 sources <- dplyr::bind_rows(source_table_list)
 
 # Save results for use in other scripts in 'data_generation'
-save("substance_keys", file = here("data_generation/cache/",
-  "substance_keys.rda"))
-save("sources", file = here("data_generation/cache/",
-  "sources.rda"))
+saveRDS(substance_keys, compress = FALSE,
+  file = here("data_generation/cache/",
+    "substance_keys.rds"))
+saveRDS(sources, compress = FALSE,
+  file = here("data_generation/cache/",
+    "sources.rds"))
 
 # Clean up
 rm(

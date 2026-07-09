@@ -22,8 +22,8 @@ derappp_tables <- c("chents",
 
 # ------------------------------------------------------------------------------
 # Load data generated in previous script in 'data_generation'
-for (table in derappp_tables) {
-  load(here(paste0("data_generation/cache/", table, ".rda")))
+for (table_name in derappp_tables) {
+  assign(table_name, readRDS(here(paste0("data_generation/cache/", table_name, ".rds"))))
 }
 
 derappp_table_list <- mget(derappp_tables)
@@ -140,7 +140,7 @@ for (table_name in tables_to_split)  {
 
 # Clean up workspace
 rm(list = derappp_tables)
-rm(table, substance, table_name, tables_to_split, json_subdirectory)
+rm(table_name, substance, tables_to_split, json_subdirectory)
 rm(derappp, derappp_tables, derappp_table_list, derappp_table_list_ascii)
 rm(escape_non_ascii, escape_df)
 
