@@ -3,16 +3,20 @@
 ## Authors
 
 - **Elisabeth Lutz**. Author.  
-  luel,aquatic toxicity data
+  luel,data generation scripts, aquatic toxicity data
 
 - **Marcel Mathis**. Author.  
-  mamr,aquatic toxicity data
+  mamr,data generation scrips, aquatic toxicity data
 
 - **Laurent Boualit**. Contributor.  
   bolr,aquatic toxicity data
 
 - **Jhoniel Perdigon Ferreira**. Contributor.  
-  pejh,soil toxicity data, review of aquatic toxicity data
+  pejh,data generation scripts, soil toxicity data, review of aquatic
+  toxicity data
+
+- **Kasteel Romualdus**. Reviewer.  
+  Reviewed the initial version before publication
 
 - **Daniel Baumgartner**. Contributor.  
   SMILES codes for pyrethroid stereoisomers
