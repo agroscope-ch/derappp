@@ -44,7 +44,11 @@ check_and_add <- function(filename) {
   input_file <- file.path(derappp_input, directory, filename)
   git_file <- here("data_generation", directory, filename)
 
-  copy_to_git <- derappp:::compare_with_git(input_file, git_file)
+  copy_to_git <- if (file.exists(git_file)) {
+    derappp:::compare_with_git(input_file, git_file)
+  } else {
+    TRUE
+  }
 
   new_raw <- read_xlsx(input_file)
 
@@ -219,7 +223,7 @@ check_and_add <- function(filename) {
   # If the above checks are all ok, copy the input file to version control
   if (copy_to_git) {
     message("Copying to ", git_file)
-    file.copy(input_file, git_file)
+    file.copy(input_file, git_file, overwrite = TRUE)
   }
 
   aquatic_toxicity <<- aquatic_toxicity
@@ -261,6 +265,7 @@ aquatic_toxicity <- tibble(
 #undebug(check_and_add)
 check_and_add("1-naphthylacetic_acid_aquatic_toxicity.xlsx")
 check_and_add("2,4-D_aquatic_toxicity.xlsx")
+check_and_add("6-benzyladenine_aquatic_toxicity.xlsx")
 check_and_add("abamectin_aquatic_toxicity.xlsx")
 check_and_add("acetamiprid_aquatic_toxicity.xlsx")
 check_and_add("ametoctradin_aquatic_toxicity.xlsx")
