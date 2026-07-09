@@ -387,7 +387,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 1,025 × 7
+    # A tibble: 1,037 × 7
        substance                   derappp_species duration effect sign  value sk
        <chr>                       <chr>                [d] <chr>  <chr> [mg/… <chr>
      1 1-Naphthylacetic acid       Cyprinus carpio        4 morta… >      56   j.ef…
@@ -400,7 +400,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
      8 1-Naphthylacetic acid       Daphnia magna          2 morta… <     100   j.ef…
      9 1-Naphthylacetic acid sodi… Daphnia magna          4 morta… >      91.7 j.ef…
     10 1-Naphthylacetic acid       Daphnia magna         21 repro… =      22   j.ef…
-    # ℹ 1,015 more rows
+    # ℹ 1,027 more rows
 
 ### Soil toxicity
 
