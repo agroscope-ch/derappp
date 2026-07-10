@@ -471,7 +471,7 @@ rm(
   efsa_conclusions_used,
   efsa_map,
   efsa_map_auto)
-rm(derappp_sources,
+rm(derappp_sources, derappp_source_dir,
   derappp_bibentry,
   derappp_bib_ini, derappp_bib_efsa, derappp_bib_rar_sssd_rr,
   derappp_bib_soil_fauna_toxicity,

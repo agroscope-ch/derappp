@@ -22,30 +22,13 @@ derappp_tables <- c("chents",
 
 # ------------------------------------------------------------------------------
 # Load data generated in previous script in 'data_generation'
+derappp_table_list <- list()
 for (table_name in derappp_tables) {
-  assign(table_name, readRDS(here(paste0("data_generation/cache/", table_name, ".rds"))))
+  derappp_table_list[[table_name]] <- readRDS(here(paste0("data_generation/cache/", table_name, ".rds")))
 }
-
-derappp_table_list <- mget(derappp_tables)
-
-# Escape non-ASCII characters in character columns (with help of Google Gemini)
-escape_non_ascii <- function(x) {
-  if (is.character(x)) {
-    # "byte" to "ascii" with sub="byte" converts non-ASCII to <xx> or <U+xxxx> format
-    return(iconv(x, to = "ASCII", sub = "byte"))
-  }
-  return(x) # Leave numeric, logical, etc., untouched
-}
-
-escape_df <- function(df) {
-  df[] <- lapply(df, escape_non_ascii)
-  return(df)
-}
-
-derappp_table_list_ascii <- lapply(derappp_table_list, escape_df)
 
 derappp <-
-  derappp_table_list_ascii |>
+  derappp_table_list |>
   as_dm() |>
   dm_add_pk(chents, chent) |>
   dm_add_uk(chents, smiles) |>
@@ -118,7 +101,7 @@ for (json_subdirectory in tables_to_split) {
 
 # Export the tables that can be dumped in a single file
 for (table_name in setdiff(derappp_tables, tables_to_split))  {
-  table <- get(table_name)
+  table <- derappp_table_list[[table_name]]
   write_json(table,
     path = here("json", paste0(table_name, ".json")),
     digits = I(8), # significant digits
@@ -128,7 +111,7 @@ for (table_name in setdiff(derappp_tables, tables_to_split))  {
 
 # Export the tables that need to be split into multiple files
 for (table_name in tables_to_split)  {
-  table <- get(table_name)
+  table <- derappp_table_list[[table_name]]
   for (substance in unique(table$substance)) {
     write_json(filter(table, substance == !!substance),
       path = here("json", table_name, paste0(substance, ".json")),
@@ -139,8 +122,6 @@ for (table_name in tables_to_split)  {
 }
 
 # Clean up workspace
-rm(list = derappp_tables)
-rm(table_name, substance, tables_to_split, json_subdirectory)
-rm(derappp, derappp_tables, derappp_table_list, derappp_table_list_ascii)
-rm(escape_non_ascii, escape_df)
+rm(table_name, table, substance, tables_to_split, json_subdirectory)
+rm(derappp, derappp_tables, derappp_table_list)
 

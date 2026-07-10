@@ -21,7 +21,7 @@ source(here('data_generation/02_substance_maps/NABO_SQ.R'))
 
 # ------------------------------------------------------------------------------
 # Save the table of keys to other data sources
-saveRDS("substance_keys", compress = FALSE,
+saveRDS(substance_keys, compress = FALSE,
   file = here("data_generation/cache/",
     "substance_keys.rds"))
 
