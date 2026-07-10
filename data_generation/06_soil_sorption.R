@@ -77,7 +77,7 @@ check_and_add <- function(filename) {
   # If the above checks are all ok, copy the input file to version control
   if (copy_to_git) {
     message("Copying to ", git_file)
-    file.copy(input_file, git_file)
+    file.copy(input_file, git_file, overwrite = TRUE)
   }
 
   soil_sorption <<- soil_sorption
