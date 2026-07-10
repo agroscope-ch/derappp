@@ -34,17 +34,20 @@ Authors:
   ([ORCID](https://orcid.org/0000-0003-4371-6538)) (acronym: rajo)
 
 - Elisabeth Lutz <elisabeth.lutz@agroscope.admin.ch> (acronym: luel,
-  aquatic toxicity data)
+  data generation scripts, aquatic toxicity data)
 
-- Marcel Mathis <marcel.mathis@agroscope.admin.ch> (acronym: mamr,
-  aquatic toxicity data)
+- Marcel Mathis <marcel.mathis@agroscope.admin.ch> (acronym: mamr, data
+  generation scrips, aquatic toxicity data)
 
 Other contributors:
 
 - Laurent Boualit (acronym: bolr, aquatic toxicity data) \[contributor\]
 
-- Jhoniel Perdigon Ferreira (acronym: pejh, soil toxicity data, review
-  of aquatic toxicity data) \[contributor\]
+- Jhoniel Perdigon Ferreira (acronym: pejh, data generation scripts,
+  soil toxicity data, review of aquatic toxicity data) \[contributor\]
+
+- Kasteel Romualdus <romualdus.kasteel@agroscope.admin.ch> (Reviewed the
+  initial version before publication) \[reviewer\]
 
 - Daniel Baumgartner (SMILES codes for pyrethroid stereoisomers)
   \[contributor\]
