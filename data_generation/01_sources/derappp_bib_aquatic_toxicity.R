@@ -1,7 +1,18 @@
 derappp_bib_aquatic_toxicity <- c(
   BibEntry(
+    key = 'amisulbrom_12_vol3_b9_ecotox_february_2012_public',
+    title = 'Amisulbrom DAR Volume 3 Annex B.9 public',
+    series = 'Amisulbrom DAR 2012',
+    bibtype = 'Report',
+    institution = 'European Commission',
+    author = 'Anonymous',
+    type = 'Draft Assessment Report (DAR)',
+    year = '2012',
+    file = 'EU_DAR_dRAR/amisulbrom_12_vol3_b9_ecotox_february_2012_public'
+  ),
+  BibEntry(
     key = 'Captan_DAR_07_Vol_3_B9_public',
-    title = 'Captan DAR 07 Vol 3 B9_public',
+    title = 'Captan DAR Volme 3 Annex B.9_public',
     series = 'Captan DAR 2005',
     bibtype = 'Report',
     institution = 'European Commission',
@@ -12,7 +23,7 @@ derappp_bib_aquatic_toxicity <- c(
   ),
   BibEntry(
     key = 'Tebuconazole_DAR_12_Vol3_B9_part2_public',
-    title = 'Tebuconazole DAR 12 Vol3 B9 part2 public',
+    title = 'Tebuconazole DAR Volume 3 Annex B.9 part2 public',
     series = 'Tebuconazole DAR 2007',
     bibtype = 'Report',
     institution = 'European Commission',

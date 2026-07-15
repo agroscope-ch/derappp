@@ -3775,14 +3775,20 @@
     "file": "EU_DAR_dRAR/Zoxamide_RAR_2016/Zoxamide_RAR_11_Volume_3CA_B-9_2016-08-05.pdf"
   },
   {
+    "sk": "amisulbrom_12_vol3_b9_ecotox_february_2012_public:1",
+    "reference": "Anonymous. _Amisulbrom DAR Volume 3 Annex B.9 public_. Draft\nAssessment Report (DAR). European Commission, 2012.",
+    "year": "2012",
+    "file": "EU_DAR_dRAR/amisulbrom_12_vol3_b9_ecotox_february_2012_public"
+  },
+  {
     "sk": "Captan_DAR_07_Vol_3_B9_public",
-    "reference": "Anonymous. _Captan DAR 07 Vol 3 B9_public_. Draft Assessment Report\n(DAR). European Commission, 2005.",
+    "reference": "Anonymous. _Captan DAR Volme 3 Annex B.9_public_. Draft Assessment\nReport (DAR). European Commission, 2005.",
     "year": "2005",
     "file": "EU_DAR_dRAR/Captan_DAR_2005/Captan_DAR_07_Vol 3_B9_public"
   },
   {
     "sk": "Tebuconazole_DAR_12_Vol3_B9_part2_public",
-    "reference": "Anonymous. _Tebuconazole DAR 12 Vol3 B9 part2 public_. Draft\nAssessment Report (DAR). European Commission, 2007.",
+    "reference": "Anonymous. _Tebuconazole DAR Volume 3 Annex B.9 part2 public_.\nDraft Assessment Report (DAR). European Commission, 2007.",
     "year": "2007",
     "file": "EU_DAR_dRAR/Tebuconazole_DAR_2007/Tebuconazole_DAR_12_Vol3_B9_part2_public.pdf"
   }
