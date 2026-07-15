@@ -219,7 +219,7 @@ Code
 derappp$sources
 ```
 
-    # A tibble: 565 × 5
+    # A tibble: 566 × 5
        sk                        reference                         year  url   file
        <chr>                     <chr>                             <chr> <chr> <chr>
      1 derappp                   "E. Lutz, M. Mathis, and J. Rank… 2026  http… <NA>
@@ -232,7 +232,7 @@ derappp$sources
      8 PPDB_Agroscope_2024-07-01 "University of Hertfordshire, ed… 2024  <NA>  <NA>
      9 PIERIS_2024-06-05         "Agroscope, ed. _Pesticides and … 2024  <NA>  <NA>
     10 ranke2026openfoodtox      "J. Ranke. _OpenFoodTox: EFSA Op… 2026  http… <NA>
-    # ℹ 555 more rows
+    # ℹ 556 more rows
 
 Any of the sources can be referenced in any vignette in this package.
 For example, we can refer to the derapp package ([Lutz et al.
@@ -387,7 +387,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 1,037 × 7
+    # A tibble: 1,053 × 7
        substance                   derappp_species duration effect sign  value sk
        <chr>                       <chr>                [d] <chr>  <chr> [mg/… <chr>
      1 1-Naphthylacetic acid       Cyprinus carpio        4 morta… >      56   j.ef…
@@ -400,7 +400,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
      8 1-Naphthylacetic acid       Daphnia magna          2 morta… <     100   j.ef…
      9 1-Naphthylacetic acid sodi… Daphnia magna          4 morta… >      91.7 j.ef…
     10 1-Naphthylacetic acid       Daphnia magna         21 repro… =      22   j.ef…
-    # ℹ 1,027 more rows
+    # ℹ 1,043 more rows
 
 ### Soil toxicity
 
