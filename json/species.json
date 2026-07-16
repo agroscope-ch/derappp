@@ -432,6 +432,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Crassostrea gigas",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Magallana gigas",
+    "ott_id": 987409,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Crassostrea virginica",
     "group": "Aquatic invertebrates",
     "derappp_species": "Crassostrea virginica",
