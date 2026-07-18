@@ -180,7 +180,7 @@
     "OM": 5,
     "effect": "reproduction",
     "level": "EC10",
-    "sign": "≥",
+    "sign": ">",
     "value": 500,
     "unit": "mg/kg",
     "sk": "Fludioxonil_RAR_30_Volume_3CP_A8240D_B-9_2018-02-21",
