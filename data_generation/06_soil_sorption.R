@@ -3,6 +3,7 @@
 library(here)
 library(readxl)
 library(units)
+library(dplyr)
 
 # Load substances and already integrated data for checking
 substances <- readRDS(here('data_generation/cache/substances.rds'))
@@ -29,9 +30,10 @@ check_and_add <- function(filename) {
   copy_to_git <- derappp:::compare_with_git(input_file, git_file)
 
   new <- read_xlsx(input_file) |>
-    mutate(across(c(page), as.character)) |>
-    mutate(across(c(selected), as.logical)) |>
-    mutate(across(c(soil_pH, f_clay, f_sand, f_silt, f_om, f_oc, Kd, Koc, Kf, Kfoc, n), as.numeric)) |>
+    mutate(across(c(page, mean_type), as.character)) |>
+    mutate(across(c(selected, mean), as.logical)) |>
+    mutate(across(c(soil_pH, f_clay, f_sand, f_silt, f_om, f_oc, Kd, Koc, Kf,
+                    Kfoc, one_over_n, n), as.numeric)) |>
     filter(selected) |> # keep only relevant entries because others were not fully sanitized
     rowwise() |>  # set_units is not vectorised
     mutate(across(f_clay:f_oc, ~ set_units(.x))) |>
@@ -40,7 +42,7 @@ check_and_add <- function(filename) {
     select(substance,
       soil_type, soil_name, soil_pH, pH_medium,
       f_clay, f_sand, f_silt, f_om, f_oc,
-      Kd, Koc, Kf, Kfoc, n,
+      Kd, Koc, Kf, Kfoc, one_over_n, mean, mean_type, n,
       sk, page, reason, note, recorded, checked, file) |>
     ungroup()
 
@@ -98,6 +100,9 @@ soil_sorption <- tibble(
   Koc = set_units(numeric(0), "L/kg", mode = "standard"),
   Kf = set_units(numeric(0), "L/kg", mode = "standard"),
   Kfoc = set_units(numeric(0), "L/kg", mode = "standard"),
+  one_over_n = numeric(0),
+  mean = logical(0),
+  mean_type = character(0),
   n = numeric(0),
   sk = character(0),
   page = character(0),
@@ -114,6 +119,7 @@ check_and_add("acetamiprid_soil_sorption.xlsx")
 check_and_add("captan_soil_sorption.xlsx")
 check_and_add("copper_oxychloride_soil_sorption.xlsx")
 check_and_add("cyprodinil_soil_sorption.xlsx")
+check_and_add("EFSA_means_soil_sorption.xlsx")
 
 saveRDS(soil_sorption, compress = FALSE,
   file = here("data_generation/cache/",

@@ -2658,3 +2658,24 @@ Common name 1-Naphthylacetic acid sodium salt is not known at the BCPC compendiu
 Querying PubChem for smiles C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+] ...
 Get chemical information from RDKit using user SMILES
 C1=CC=C2C(=C1)C=CC=C2CC(=O)[O-].[Na+]
+G3;
+chent Fluroxypyr-meptyl
+gG3;Fluroxypyr-meptyl | TRUE | NA | NA | NA | NA
+gG3;Querying BCPC for Fluroxypyr-meptyl ...
+gG3;Common name Fluroxypyr-meptyl is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Fluroxypyr-meptyl ...
+gG3;RDKit is not available
+gG3;
+chent MCPB
+gG3;MCPB | TRUE | NA | NA | NA | NA
+gG3;Querying BCPC for MCPB ...
+gG3;Querying PubChem for inchikey LLWADFLAOKUBDR-UHFFFAOYSA-N ...
+gG3;RDKit is not available
+gG3;
+chent MCPB-sodium
+gG3;MCPB-sodium | TRUE | NA | NA | NA | NA
+gG3;Querying BCPC for MCPB-sodium ...
+gG3;Common name MCPB-sodium is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name MCPB-sodium ...
+gG3;RDKit is not available
+g
