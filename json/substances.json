@@ -940,6 +940,11 @@
     "type": "chent"
   },
   {
+    "substance": "Fluroxypyr-meptyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
     "substance": "Flusilazole",
     "n_chents": 1,
     "type": "chent"
@@ -1191,6 +1196,16 @@
   },
   {
     "substance": "MCPA",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "MCPB",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "MCPB-sodium",
     "n_chents": 1,
     "type": "chent"
   },

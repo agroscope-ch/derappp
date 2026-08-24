@@ -364,6 +364,16 @@ derappp_bib_rar_sssd_rr <- c(
     file = "EU_Review_Reports/Flusilazole_RR_2007.pdf"
   ),
   BibEntry(
+    key = "MCPB_RR_2005",
+    bibtype = "Report",
+    institution = "European Commission",
+    author = "Anonymous",
+    type = "Review report",
+    title = "Review report for the active substance MCPB",
+    date = "2005-04-15",
+    file = "EU_Review_Reports/MCPB_RR_2005.pdf"
+  ),
+  BibEntry(
     key = "Prosulfocarb_RR_2007",
     bibtype = "Report",
     institution = "European Commission",
@@ -480,4 +490,5 @@ rm(derappp_sources, derappp_source_dir,
   derappp_bib,
   substances, substance_keys, sources
 )
+
 

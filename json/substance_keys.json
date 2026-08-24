@@ -720,6 +720,11 @@
     "key": "doi:10.2903/j.efsa.2011.2091"
   },
   {
+    "substance": "Fluroxypyr-meptyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2011.2091"
+  },
+  {
     "substance": "Flutianil",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2014.3805"
@@ -2400,6 +2405,16 @@
     "key": "7AD9E7AE-A54C-43F8-B11A-3F195330CC04"
   },
   {
+    "substance": "Fluroxypyr-meptyl",
+    "db": "srppp",
+    "key": "1409"
+  },
+  {
+    "substance": "Fluroxypyr-meptyl",
+    "db": "srppp",
+    "key": "BE5B3348-34B8-41E7-B1A3-53FFD92891D3"
+  },
+  {
     "substance": "Flusilazole",
     "db": "srppp",
     "key": "188"
@@ -2613,6 +2628,16 @@
     "substance": "MCPA",
     "db": "srppp",
     "key": "E3F7BA6E-7A42-4E07-83F3-8EE6C995E992"
+  },
+  {
+    "substance": "MCPB",
+    "db": "srppp",
+    "key": "1067"
+  },
+  {
+    "substance": "MCPB",
+    "db": "srppp",
+    "key": "B58976CD-95F8-4981-A7B6-4ACE89E101A6"
   },
   {
     "substance": "Maltodextrin",
@@ -3683,6 +3708,11 @@
     "substance": "Zoxamide",
     "db": "srppp",
     "key": "905CE62C-691D-415C-8FAE-2A273246CDC5"
+  },
+  {
+    "substance": "Metaldehyde",
+    "db": "srppp",
+    "key": "1034"
   },
   {
     "substance": "2,6-Dichlorobenzamide",

@@ -9,21 +9,25 @@ export(wlt)
 import(RefManageR)
 import(chents)
 import(dm)
-importFrom(dplyr,case_when)
-importFrom(dplyr,everything)
-importFrom(dplyr,filter)
-importFrom(dplyr,if_else)
-importFrom(dplyr,left_join)
-importFrom(dplyr,mutate)
-importFrom(dplyr,n)
-importFrom(dplyr,pull)
-importFrom(dplyr,recode_values)
-importFrom(dplyr,row_number)
-importFrom(dplyr,select)
-importFrom(dplyr,slice)
-importFrom(dplyr,slice_min)
-importFrom(rlang,":=")
-importFrom(rlang,.data)
+importFrom(dplyr,
+  case_when,
+  everything,
+  filter,
+  if_else,
+  left_join,
+  mutate,
+  n,
+  pull,
+  recode_values,
+  row_number,
+  select,
+  slice,
+  slice_min
+)
+importFrom(rlang,
+  ":=",
+  .data
+)
 importFrom(tidyr,pivot_wider)
 importFrom(units,set_units)
 importFrom(utils,browseURL)
