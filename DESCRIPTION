@@ -1,8 +1,8 @@
 Package: derappp
 Type: Package
 Title: Data for Environmental Risk Assessment of Plant Protection Products
-Version: 0.9.2
-Date: 2026-07-09
+Version: 0.9.3
+Date: 2026-08-24
 Authors@R: c(
   person("Elisabeth", "Lutz", role = "aut",
     email = "elisabeth.lutz@agroscope.admin.ch",
@@ -71,4 +71,4 @@ VignetteBuilder: quarto
 Encoding: UTF-8
 Language: en-GB
 Config/testthat/edition: 3
-Config/roxygen2/version: 8.0.0
+Config/roxygen2/version: 8.1.0

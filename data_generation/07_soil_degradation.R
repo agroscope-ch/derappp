@@ -61,7 +61,7 @@ check_and_add <- function(filename) {
   soil_degradation <- bind_rows(soil_degradation, new)
 
   # Check for duplicates
-  dup_columns <- c("substance", "DT50", "sk")
+  dup_columns <- c("substance", "type", "DT50", "sk")
   dup_index <- soil_degradation |>
     select(any_of(dup_columns)) |>
     duplicated()
