@@ -54,13 +54,13 @@ Source:
 [`DESCRIPTION`](https://github.com/agroscope-ch/derappp/blob/main/DESCRIPTION)
 
 Lutz E, Mathis M, Ranke J (2026). *derappp: Data for Environmental Risk
-Assessment of Plant Protection Products*. R package version 0.9.2,
+Assessment of Plant Protection Products*. R package version 0.9.3,
 <https://agroscope-ch.github.io/derappp/>.
 
     @Manual{,
       title = {derappp: Data for Environmental Risk Assessment of Plant Protection Products},
       author = {Elisabeth Lutz and Marcel Mathis and Johannes Ranke},
       year = {2026},
-      note = {R package version 0.9.2},
+      note = {R package version 0.9.3},
       url = {https://agroscope-ch.github.io/derappp/},
     }

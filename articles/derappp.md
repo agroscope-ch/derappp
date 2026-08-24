@@ -56,7 +56,7 @@ Code
 derappp$substances
 ```
 
-    # A tibble: 392 × 3
+    # A tibble: 395 × 3
        substance                         n_chents type
        <chr>                                <int> <fct>
      1 1-Decanol                                1 chent
@@ -69,7 +69,7 @@ derappp$substances
      8 2,6-Dichlorobenzamide                    1 chent
      9 2-(1-Naphthyl) acetamide                 1 chent
     10 2-Amino-4,6-dimethoxypyrimidine          1 chent
-    # ℹ 382 more rows
+    # ℹ 385 more rows
 
 ### Pure substances with defined chemical structure (chemical entities)
 
@@ -86,7 +86,7 @@ Code
 derappp$substance_compositions |> filter(min == 1)
 ```
 
-    # A tibble: 360 × 6
+    # A tibble: 363 × 6
        substance                         chent                 min   max doi    page
        <chr>                             <chr>               <dbl> <dbl> <chr> <int>
      1 1-Decanol                         1-Decanol               1     1 <NA>     NA
@@ -99,7 +99,7 @@ derappp$substance_compositions |> filter(min == 1)
      8 2,6-Dichlorobenzamide             2,6-Dichlorobenzam…     1     1 <NA>     NA
      9 2-(1-Naphthyl) acetamide          2-(1-Naphthyl) ace…     1     1 <NA>     NA
     10 2-Amino-4,6-dimethoxypyrimidine   2-Amino-4,6-dimeth…     1     1 <NA>     NA
-    # ℹ 350 more rows
+    # ℹ 353 more rows
 
 ### Mixtures of chemical entities
 
@@ -176,7 +176,7 @@ Code
 derappp$chents
 ```
 
-    # A tibble: 360 × 8
+    # A tibble: 363 × 8
        chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
        <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>
      1 1-Decanol             TRUE  <NA>  158.  CCCCC…  8.17e3 MWKFXSU… <NA>
@@ -189,7 +189,7 @@ derappp$chents
      8 2,6-Dichlorobenzamide FALSE <NA>  190.  C1=CC…  1.62e4 JHSPCUH… <NA>
      9 2-(1-Naphthyl) aceta… TRUE  <NA>  185.  C1=CC…  6.86e3 XFNJVKM… <NA>
     10 2-Amino-4,6-dimethox… FALSE <NA>  155.  COC1=…  1.19e5 LVFRCHI… <NA>
-    # ℹ 350 more rows
+    # ℹ 353 more rows
 
 In the package, there is also a list of chent objects that can be used
 to plot any of the structures as shown in [Figure 2](#fig-tebufenozide)
@@ -219,7 +219,7 @@ Code
 derappp$sources
 ```
 
-    # A tibble: 569 × 5
+    # A tibble: 570 × 5
        sk                        reference                         year  url   file
        <chr>                     <chr>                             <chr> <chr> <chr>
      1 derappp                   "E. Lutz, M. Mathis, and J. Rank… 2026  http… <NA>
@@ -232,7 +232,7 @@ derappp$sources
      8 PPDB_Agroscope_2024-07-01 "University of Hertfordshire, ed… 2024  <NA>  <NA>
      9 PIERIS_2024-06-05         "Agroscope, ed. _Pesticides and … 2024  <NA>  <NA>
     10 ranke2026openfoodtox      "J. Ranke. _OpenFoodTox: EFSA Op… 2026  http… <NA>
-    # ℹ 559 more rows
+    # ℹ 560 more rows
 
 Any of the sources can be referenced in any vignette in this package.
 For example, we can refer to the derapp package ([Lutz et al.
@@ -328,21 +328,20 @@ print(derappp$soil_sorption[c("substance", "soil_type", "soil_pH",
   "Kd", "Koc", "Kf", "Kfoc", "n", "sk")])
 ```
 
-    # A tibble: 12 × 9
-       substance          soil_type  soil_pH    Kd     Koc    Kf   Kfoc      n sk
-       <chr>              <chr>        <dbl> [L/k…  [L/kg] [L/k… [L/kg]  <dbl> <chr>
-     1 Acetamiprid        Sand           5.7    NA    NA    0.6   138.   0.842 j.ef…
-     2 Acetamiprid        Loamy sand     7.6    NA    NA    1.35  130.   0.825 j.ef…
-     3 Acetamiprid        Sandy loam     7.1    NA    NA    1.12   71.1  0.893 j.ef…
-     4 Acetamiprid        Silt loam      7.7    NA    NA    1.69  122.   0.835 j.ef…
-     5 Acetamiprid        Silt loam      7.1    NA    NA    3.13   71.4  0.907 j.ef…
-     6 Captan             <NA>          NA      NA    76.8 NA      NA   NA     j.ef…
-     7 Copper oxychloride <NA>           4.5    NA 19510.  NA      NA   NA     j.ef…
-     8 Copper oxychloride <NA>           6      NA 33918.  NA      NA   NA     j.ef…
-     9 Cyprodinil         <NA>           5.6    NA    NA   16.9  2098.   0.816 j.ef…
-    10 Cyprodinil         <NA>           6.7    NA    NA   14.4  1794.   0.787 j.ef…
-    11 Cyprodinil         <NA>           7.3    NA    NA   32    1593    0.833 j.ef…
-    12 Cyprodinil         <NA>           7      NA    NA   25    1678.   0.874 j.ef…
+    # A tibble: 21 × 9
+       substance          soil_type  soil_pH     Kd     Koc    Kf   Kfoc     n sk
+       <chr>              <chr>        <dbl> [L/kg]  [L/kg] [L/k… [L/kg] <dbl> <chr>
+     1 Acetamiprid        Sand           5.7     NA    NA    0.6   138.     NA j.ef…
+     2 Acetamiprid        Loamy sand     7.6     NA    NA    1.35  130.     NA j.ef…
+     3 Acetamiprid        Sandy loam     7.1     NA    NA    1.12   71.1    NA j.ef…
+     4 Acetamiprid        Silt loam      7.7     NA    NA    1.69  122.     NA j.ef…
+     5 Acetamiprid        Silt loam      7.1     NA    NA    3.13   71.4    NA j.ef…
+     6 Captan             <NA>          NA       NA    76.8 NA      NA       6 j.ef…
+     7 Copper oxychloride <NA>           4.5     NA 19510.  NA      NA      NA j.ef…
+     8 Copper oxychloride <NA>           6       NA 33918.  NA      NA      NA j.ef…
+     9 Cyprodinil         <NA>           5.6     NA    NA   16.9  2098.     NA j.ef…
+    10 Cyprodinil         <NA>           6.7     NA    NA   14.4  1794.     NA j.ef…
+    # ℹ 11 more rows
 
 ### Soil degradation
 
@@ -362,7 +361,7 @@ print(derappp$soil_degradation[c("substance", "DT50", "kinetics",
   "alpha", "beta", "k1", "k2", "g", "tb", "sk")])
 ```
 
-    # A tibble: 71 × 10
+    # A tibble: 89 × 10
        substance       DT50 kinetics alpha  beta      k1       k2   g  tb sk
        <chr>            [d] <chr>      [1] [1/d]   [1/d]    [1/d] [1] [d] <chr>
      1 Amisulbrom      12.6 SFO      NA     NA   NA      NA        NA  NA j.efsa.20…
@@ -375,7 +374,7 @@ print(derappp$soil_degradation[c("substance", "DT50", "kinetics",
      8 Carbendazim     78   SFO      NA     NA   NA      NA        NA  NA j.efsa.20…
      9 Chloridazon     78.5 SFO      NA     NA   NA      NA        NA  NA j.efsa.20…
     10 Chlorotoluron  107.  SFO      NA     NA   NA      NA        NA  NA Chlorotol…
-    # ℹ 61 more rows
+    # ℹ 79 more rows
 
 ### Aquatic toxicity
 
