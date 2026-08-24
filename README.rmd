@@ -39,6 +39,14 @@ This will also install the dependencies
 [`srppphist`](https://agroscope-ch.github.io/srppphist/) that
 are not published on CRAN.
 
+In case you wonder how to install a version <= 1.0.11 of the `DiagrammeR`
+package (we list this as "Suggests:" in the DESCRIPTION), with the 
+`pak` installed it is as easy as
+
+```r
+pak::pak("rich-iannone/DiagrammeR@v1.0.11")
+```
+
 ## Concept and scope
 
 Please have a look a the
