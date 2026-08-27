@@ -5,6 +5,5 @@
 #' @import dm
 #' @importFrom dplyr everything filter left_join row_number select slice
 #' @importFrom utils browseURL
-#' @importFrom dm dm
 ## usethis namespace: end
 NULL
