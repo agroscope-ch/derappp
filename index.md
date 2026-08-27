@@ -53,3 +53,12 @@ pak::pak("rich-iannone/DiagrammeR@v1.0.11")
 Please have a look a the
 [concept](https://agroscope-ch.github.io/derappp/articles/concept.html)
 for details.
+
+## Contribute
+
+The easiest way to contribute data is to probably to prepare excel
+sheets derived from those that can be found e.g. under
+`data_generation/06_soil_sorption/` or
+`data_generation/10_aquatic_toxicity/` and to upload them by navigating
+to the directory on github, and use the button `Add file` and then
+select `Upload files`.
