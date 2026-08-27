@@ -2,7 +2,7 @@ Package: derappp
 Type: Package
 Title: Data for Environmental Risk Assessment of Plant Protection Products
 Version: 0.9.3
-Date: 2026-08-24
+Date: 2026-08-27
 Authors@R: c(
   person("Elisabeth", "Lutz", role = "aut",
     email = "elisabeth.lutz@agroscope.admin.ch",
@@ -48,9 +48,9 @@ Description: Makes some public data for environmental risk assessment of plant
   registration purposes may be restricted by regulatory data protection, also
   known as data exclusivity rules, as detailed for example in article 59 of
   Regulation (EC) No 1107/2009.
-Depends: R (>= 4.1.0), dm
+Depends: R (>= 4.1.0)
 Imports: dplyr, tidyr, units, rlang, chents (>= 0.4.1), RefManageR,
-    srppphist (>= 2.0.1)
+    srppphist (>= 2.0.1), dm
 Suggests:
     devtools, knitr, rmarkdown, DiagrammeR (<= 1.0.11), DiagrammeRsvg,
     roxygen2 (>= 7.3.3.9000), quarto,

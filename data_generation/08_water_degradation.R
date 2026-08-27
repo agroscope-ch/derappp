@@ -3,6 +3,7 @@
 library(here)
 library(readxl)
 library(units)
+library(dplyr, warn.conflicts = FALSE)
 
 # Load substances and already integrated data for checking
 load(here('data_generation/cache/substances.rda'))

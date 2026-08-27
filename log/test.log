@@ -1,10 +1,13 @@
 ℹ Testing derappp
+Registered S3 method overwritten by 'hoardr':
+  method           from
+  print.cache_info httr
 ✔ | F W  S  OK | Context
-✔ |          2 | derappp
+✔ |          2 | derappp [1.9s]
 ✔ |         11 | translate
 ✔ |         13 | wlt
 
 ══ Results ═════════════════════════════════════════════════════════════════════
-Duration: 2.0 s
+Duration: 3.2 s
 
 [ FAIL 0 | WARN 0 | SKIP 0 | PASS 26 ]
