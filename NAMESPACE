@@ -9,7 +9,6 @@ export(wlt)
 import(RefManageR)
 import(chents)
 import(dm)
-importFrom(dm,dm)
 importFrom(dplyr,
   case_when,
   everything,
