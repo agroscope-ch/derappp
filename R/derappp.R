@@ -3,8 +3,9 @@
 #' @docType data
 #' @format A number of tables collected in a [dm::dm] object
 #' @examples
-#' library(derappp) # This also loads the dm package
-#' dm_draw(derappp)
+#' library(derappp)
+#' library(dplyr, warn.conflicts = FALSE)
+#' dm::dm_draw(derappp)
 #'
 #' # The list of chemical entities ("chents")
 #' derappp$chents

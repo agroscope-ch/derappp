@@ -3,7 +3,7 @@
 library(here)
 library(readxl)
 library(units)
-library(dplyr)
+library(dplyr, warn.conflicts = FALSE)
 
 # Load substances and already integrated data for checking
 substances <- readRDS(here('data_generation/cache/substances.rds'))

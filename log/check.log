@@ -6,7 +6,7 @@
     GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
 * running under: Ubuntu 24.04.4 LTS
 * using session charset: UTF-8
-* current time: 2026-08-24 08:46:14 UTC
+* current time: 2026-08-27 08:21:14 UTC
 * using options ‘--no-tests --as-cran’
 * checking for file ‘derappp/DESCRIPTION’ ... OK
 * checking extension type ... Package
@@ -21,7 +21,7 @@
 * checking for hidden files and directories ... OK
 * checking for portable file names ... OK
 * checking for sufficient/correct file permissions ... OK
-* checking whether package ‘derappp’ can be installed ... [17s/17s] OK
+* checking whether package ‘derappp’ can be installed ... [14s/15s] OK
 * checking installed package size ... INFO
   installed size is 10.3Mb
   sub-directories of 1Mb or more:
@@ -48,7 +48,7 @@
 * checking S3 generic/method consistency ... OK
 * checking replacement functions ... OK
 * checking foreign function calls ... OK
-* checking R code for possible problems ... [13s/12s] OK
+* checking R code for possible problems ... [12s/11s] OK
 * checking Rd files ... OK
 * checking Rd metadata ... OK
 * checking Rd line widths ... OK
@@ -69,7 +69,7 @@
 * checking tests ... SKIPPED
 * checking for unstated dependencies in vignettes ... OK
 * checking package vignettes ... OK
-* checking re-building of vignette outputs ... [10s/10s] OK
+* checking re-building of vignette outputs ... OK
 * checking PDF version of manual ... OK
 * checking HTML version of manual ... NOTE
 Skipping checking HTML validation: no command 'tidy' found.
