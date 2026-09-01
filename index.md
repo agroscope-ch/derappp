@@ -56,9 +56,9 @@ for details.
 
 ## Contribute
 
-The easiest way to contribute data is to probably to prepare excel
-sheets derived from those that can be found e.g. under
-`data_generation/06_soil_sorption/` or
+The easiest way to contribute data, in case you would like to do so, is
+probably to prepare excel sheets derived from those that can be found
+e.g. under `data_generation/06_soil_sorption/` or
 `data_generation/10_aquatic_toxicity/` and to upload them by navigating
 to the directory on github, and use the button `Add file` and then
 select `Upload files`.
