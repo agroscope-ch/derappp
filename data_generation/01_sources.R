@@ -280,6 +280,17 @@ derappp_bib_rar_sssd_rr <- c(
     file = "Boscalid_RAR_2017/boscalid_RAR_22_LoEP_2018-11-09.pdf"
   ),
   BibEntry(
+    key = "Chlorpyrifos-methyl_RAR_32_LoEP_2017-07-03",
+    bibtype = "Report",
+    institution = "European Food Safety Authority",
+    author = "Anonymous",
+    type = "Renewal Assessment Report",
+    title = "Draft Renewal Assessment Report under Regulation (EC) 1107/2009 - Boscalid List of Endpoints",
+    date = "2017-07-03",
+    url = "https://www.efsa.europa.eu/en/consultations/call/190125",
+    file = "Chlorpyrifos-methyl_RAR_2017/Chlorpyrifos-methyl_RAR_32_LoEP_2017-07-03.pdf"
+  ),
+  BibEntry(
     key = "Fluopyram_Bayer_SSSD_2021_MCA_Sec_7",
     bibtype = "Report",
     institution = "European Food Safety Authority",

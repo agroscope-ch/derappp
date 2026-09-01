@@ -128,5 +128,6 @@ species_in <- tribble(~species, ~group,
   "Cloeon sp.", "Aquatic invertebrates",
   "Asellus aquaticus", "Aquatic invertebrates",
   "Crassostrea gigas", "Aquatic invertebrates",
+  "Carassius auratus", "Fish",
 
   )

@@ -189,6 +189,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Carassius auratus",
+    "group": "Fish",
+    "derappp_species": "Carassius auratus",
+    "ott_id": 1005907,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Catostomus commersoni",
     "group": "Fish",
     "derappp_species": "Catostomus commersonii",
