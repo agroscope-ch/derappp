@@ -19,9 +19,9 @@ read.dcf("DESCRIPTION")[, "Description"] |> cat()
 
 ## Documentation
 
-A good point to start is the vignette 
+A good point to start is the vignette
 ["Get Started"](https://agroscope-ch.github.io/derappp/articles/derappp.html)
-in the online documentation. 
+in the online documentation.
 
 ## Installation
 
@@ -40,7 +40,7 @@ This will also install the dependencies
 are not published on CRAN.
 
 In case you wonder how to install a version <= 1.0.11 of the `DiagrammeR`
-package (we list this as "Suggests:" in the DESCRIPTION), with the 
+package (we list this as "Suggests:" in the DESCRIPTION), with the
 `pak` installed it is as easy as
 
 ```r
@@ -55,9 +55,10 @@ for details.
 
 ## Contribute
 
-The easiest way to contribute data is to probably to prepare excel sheets
-derived from those that can be found e.g. under
-`data_generation/06_soil_sorption/` or `data_generation/10_aquatic_toxicity/`
-and to upload them by navigating to the directory on github, and use the button
+The easiest way to contribute data, in case you would like to do so, is
+probably to prepare excel sheets derived from those that can be found e.g.
+under `data_generation/06_soil_sorption/` or
+`data_generation/10_aquatic_toxicity/` and to upload them by navigating to the
+directory on github, and use the button
 `Add file` and then select `Upload files`.
 
