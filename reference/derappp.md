@@ -67,7 +67,7 @@ substance_keyssubstancesubstance_keys:substance->substances:substance
 
 # The list of chemical entities ("chents")
 derappp$chents
-#> # A tibble: 363 × 8
+#> # A tibble: 364 × 8
 #>    chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
 #>    <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>        
 #>  1 1-Decanol             TRUE  NA    158.  CCCCC…  8.17e3 MWKFXSU… NA           
@@ -80,7 +80,7 @@ derappp$chents
 #>  8 2,6-Dichlorobenzamide FALSE NA    190.  C1=CC…  1.62e4 JHSPCUH… NA           
 #>  9 2-(1-Naphthyl) aceta… TRUE  NA    185.  C1=CC…  6.86e3 XFNJVKM… NA           
 #> 10 2-Amino-4,6-dimethox… FALSE NA    155.  COC1=…  1.19e5 LVFRCHI… NA           
-#> # ℹ 353 more rows
+#> # ℹ 354 more rows
 
 # Some vapor pressures and water solubilities
 # We need to convert to °C if we do not want Kelvin

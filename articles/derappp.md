@@ -56,7 +56,7 @@ Code
 derappp$substances
 ```
 
-    # A tibble: 395 × 3
+    # A tibble: 396 × 3
        substance                         n_chents type
        <chr>                                <int> <fct>
      1 1-Decanol                                1 chent
@@ -69,7 +69,7 @@ derappp$substances
      8 2,6-Dichlorobenzamide                    1 chent
      9 2-(1-Naphthyl) acetamide                 1 chent
     10 2-Amino-4,6-dimethoxypyrimidine          1 chent
-    # ℹ 385 more rows
+    # ℹ 386 more rows
 
 ### Pure substances with defined chemical structure (chemical entities)
 
@@ -86,7 +86,7 @@ Code
 derappp$substance_compositions |> filter(min == 1)
 ```
 
-    # A tibble: 363 × 6
+    # A tibble: 364 × 6
        substance                         chent                 min   max doi    page
        <chr>                             <chr>               <dbl> <dbl> <chr> <int>
      1 1-Decanol                         1-Decanol               1     1 <NA>     NA
@@ -99,7 +99,7 @@ derappp$substance_compositions |> filter(min == 1)
      8 2,6-Dichlorobenzamide             2,6-Dichlorobenzam…     1     1 <NA>     NA
      9 2-(1-Naphthyl) acetamide          2-(1-Naphthyl) ace…     1     1 <NA>     NA
     10 2-Amino-4,6-dimethoxypyrimidine   2-Amino-4,6-dimeth…     1     1 <NA>     NA
-    # ℹ 353 more rows
+    # ℹ 354 more rows
 
 ### Mixtures of chemical entities
 
@@ -176,7 +176,7 @@ Code
 derappp$chents
 ```
 
-    # A tibble: 363 × 8
+    # A tibble: 364 × 8
        chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
        <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>
      1 1-Decanol             TRUE  <NA>  158.  CCCCC…  8.17e3 MWKFXSU… <NA>
@@ -189,7 +189,7 @@ derappp$chents
      8 2,6-Dichlorobenzamide FALSE <NA>  190.  C1=CC…  1.62e4 JHSPCUH… <NA>
      9 2-(1-Naphthyl) aceta… TRUE  <NA>  185.  C1=CC…  6.86e3 XFNJVKM… <NA>
     10 2-Amino-4,6-dimethox… FALSE <NA>  155.  COC1=…  1.19e5 LVFRCHI… <NA>
-    # ℹ 353 more rows
+    # ℹ 354 more rows
 
 In the package, there is also a list of chent objects that can be used
 to plot any of the structures as shown in [Figure 2](#fig-tebufenozide)
@@ -219,7 +219,7 @@ Code
 derappp$sources
 ```
 
-    # A tibble: 570 × 5
+    # A tibble: 572 × 5
        sk                        reference                         year  url   file
        <chr>                     <chr>                             <chr> <chr> <chr>
      1 derappp                   "E. Lutz, M. Mathis, and J. Rank… 2026  http… <NA>
@@ -232,7 +232,7 @@ derappp$sources
      8 PPDB_Agroscope_2024-07-01 "University of Hertfordshire, ed… 2024  <NA>  <NA>
      9 PIERIS_2024-06-05         "Agroscope, ed. _Pesticides and … 2024  <NA>  <NA>
     10 ranke2026openfoodtox      "J. Ranke. _OpenFoodTox: EFSA Op… 2026  http… <NA>
-    # ℹ 560 more rows
+    # ℹ 562 more rows
 
 Any of the sources can be referenced in any vignette in this package.
 For example, we can refer to the derapp package ([Lutz et al.
@@ -386,7 +386,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 1,262 × 7
+    # A tibble: 1,286 × 7
        substance             derappp_species       duration effect sign  value sk
        <chr>                 <chr>                      [d] <chr>  <chr> [mg/… <chr>
      1 1-Naphthylacetic acid Cyprinus carpio              4 morta… >        56 j.ef…
@@ -399,7 +399,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
      8 1-Naphthylacetic acid Daphnia magna                2 morta… <       100 j.ef…
      9 1-Naphthylacetic acid Daphnia magna                4 morta… >        82 j.ef…
     10 1-Naphthylacetic acid Daphnia magna               21 repro… =        22 j.ef…
-    # ℹ 1,252 more rows
+    # ℹ 1,276 more rows
 
 ### Soil toxicity
 
