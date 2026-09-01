@@ -138,6 +138,7 @@ efsa_map <- efsa_map_auto |>
   "Copper(II) sulfate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
   "Flurochloridone" ~ "doi:10.2903/j.efsa.2010.1869", # ISO definition has been updated
   "Triclopyr-butotyl" ~ "doi:10.2903/j.efsa.2024.8177", # 2024 conclusion not in OpenFoodTox
+  "Azadirachtin" ~ "doi:10.2903/j.efsa.2018.5234", # Substance is called Azadirachtin A in OpenFoodTox
   default = DOI)
 )
 
@@ -490,5 +491,4 @@ rm(derappp_sources, derappp_source_dir,
   derappp_bib,
   substances, substance_keys, sources
 )
-
 

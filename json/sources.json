@@ -1,7 +1,7 @@
 [
   {
     "sk": "derappp",
-    "reference": "E. Lutz, M. Mathis, and J. Ranke. _derappp: Data for Environmental\nRisk Assessment of Plant Protection Products_. R package version 0.9.2.\n2026. <https://agroscope-ch.github.io/derappp/>.",
+    "reference": "E. Lutz, M. Mathis, and J. Ranke. _derappp: Data for Environmental\nRisk Assessment of Plant Protection Products_. R package version 0.9.3.\n2026. <https://agroscope-ch.github.io/derappp/>.",
     "year": "2026",
     "url": "https://agroscope-ch.github.io/derappp/"
   },
@@ -818,6 +818,20 @@
     "year": "2015",
     "url": "http://dx.doi.org/10.2903/j.efsa.2015.4207",
     "file": "10.2903/j.efsa.2015.4207.pdf"
+  },
+  {
+    "sk": "j.efsa.2018.5234",
+    "reference": "EFSA. _Peer review of the pesticide risk assessment of the active\nsubstance azadirachtin (Margosa extract)_. EFSA conclusion. European\nFood Safety Authority, Sep. 14, 2018. DOI:\ndoi:10.2903/j.efsa.2018.5234.\n<http://dx.doi.org/10.2903/j.efsa.2018.5234>.",
+    "year": "2018",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2018.5234",
+    "file": "10.2903/j.efsa.2018.5234.pdf"
+  },
+  {
+    "sk": "j.efsa.2018.5234_LoEP",
+    "reference": "EFSA. _Appendix to: Peer review of the pesticide risk assessment of\nthe active substance azadirachtin (Margosa extract)_. EFSA conclusion.\nEuropean Food Safety Authority, Sep. 14, 2018. DOI:\ndoi:10.2903/j.efsa.2018.5234.\n<https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5234#support-information-section>.",
+    "year": "2018",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5234#support-information-section",
+    "file": "10.2903/j.efsa.2018.5234_LoEP.pdf"
   },
   {
     "sk": "j.efsa.2010.1542",

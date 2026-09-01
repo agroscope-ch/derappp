@@ -52,6 +52,7 @@
     smiles: C[C@H]1/C=C/C=C/2\CO[C@H]3[C@@]2([C@@H](C=C([C@H]3O)C)C(=O)O[C@H]4C[C@@H](C/C=C(/[C@H]1O[C@H]5C[C@@H]([C@H]([C@@H](O5)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O)OC)OC)\C)O[C@]7(C4)C=C[C@@H]([C@H](O7)C(C)C)C)O
     source: PubChem
 - Azadirachtin
+- Azadirachtin B
 - Azoxystrobin
 - Beflubutamid
 - Benalaxyl

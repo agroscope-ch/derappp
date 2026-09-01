@@ -2678,4 +2678,12 @@ chent MCPB-sodium
 gG3;Common name MCPB-sodium is not known at the BCPC compendium, trying PubChem
 gG3;Querying PubChem for name MCPB-sodium ...
 gG3;RDKit is not available
+gG3;
+chent Azadirachtin B
+gG3;Azadirachtin B | TRUE | NA | NA | NA | NA
+gG3;Querying BCPC for Azadirachtin B ...
+gG3;Common name Azadirachtin B is not known at the BCPC compendium, trying PubChem
+gG3;Querying PubChem for name Azadirachtin B ...
+gG3;Get chemical information from RDKit using PubChem SMILES
+C/C=C(\C)/C(=O)O[C@@H]1C[C@@H]([C@]23CO[C@@H]([C@H]2[C@]([C@@H]([C@H]4[C@H]3[C@@]1(CO4)C(=O)OC)O)(C)[C@@]56[C@@H]7C[C@H]([C@@]5(O6)C)[C@]8(C=CO[C@H]8O7)O)C(=O)OC)O
 g

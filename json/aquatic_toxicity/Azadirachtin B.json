@@ -1,0 +1,22 @@
+[
+  {
+    "substance": "Azadirachtin B",
+    "derappp_species": "Chironomus riparius (species in domain Eukaryota)",
+    "group": "Aquatic invertebrates",
+    "test_nr": "20",
+    "test_system": "other",
+    "duration": 4,
+    "level": "EC50",
+    "sign": "=",
+    "value": 0.391,
+    "measured": "nom",
+    "sk": "j.efsa.2018.5234_LoEP",
+    "page": "50",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "reported_species": "Chironomus riparius",
+    "recorded": "mamr",
+    "checked": "rajo",
+    "file": "azadirachtin_aquatic_toxicity.xlsx"
+  }
+]
