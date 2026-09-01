@@ -139,6 +139,7 @@ efsa_map <- efsa_map_auto |>
   "Flurochloridone" ~ "doi:10.2903/j.efsa.2010.1869", # ISO definition has been updated
   "Triclopyr-butotyl" ~ "doi:10.2903/j.efsa.2024.8177", # 2024 conclusion not in OpenFoodTox
   "Azadirachtin" ~ "doi:10.2903/j.efsa.2018.5234", # Substance is called Azadirachtin A in OpenFoodTox
+  "Emamectin benzoate" ~ "doi:10.2903/j.efsa.2012.2955", # Substance is called Emamectin in OpenFoodTox
   default = DOI)
 )
 

@@ -1,0 +1,23 @@
+[
+  {
+    "substance": "Emamectin benzoate B1a",
+    "derappp_species": "Pimephales promelas",
+    "group": "Fish",
+    "test_nr": "2",
+    "test_system": "flow-through",
+    "duration": 32,
+    "effect": "growth",
+    "level": "NOEC",
+    "sign": "=",
+    "value": 12,
+    "measured": "mm",
+    "sk": "j.efsa.2012.2955",
+    "page": "64",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "reported_species": "Pimephales promelas",
+    "recorded": "mamr",
+    "checked": "rajo",
+    "file": "emamectin_benzoate_aquatic_toxicity.xlsx"
+  }
+]
