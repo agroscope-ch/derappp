@@ -71,5 +71,6 @@ species_synonyms <- tribble(~synonym, ~species,
   "Catostomus commersoni","Catostomus commersonii",
   "Ostracoda sp.", "Ostracoda",
   "Primephales promelas", "Pimephales promelas",
+  "Hyella azteca", "Hyalella azteca",
   )
 

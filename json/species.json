@@ -891,6 +891,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Hyella azteca",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Hyalella azteca",
+    "ott_id": 648347,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Hypoaspis aculeifer",
     "group": "Soil fauna",
     "derappp_species": "Gaeolaelaps aculeifer",
