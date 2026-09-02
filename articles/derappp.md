@@ -56,20 +56,20 @@ Code
 derappp$substances
 ```
 
-    # A tibble: 396 × 3
-       substance                         n_chents type
-       <chr>                                <int> <fct>
-     1 1-Decanol                                1 chent
-     2 1-Methylcyclopropene                     1 chent
-     3 1-Naphthylacetic acid                    1 chent
-     4 1-Naphthylacetic acid sodium salt        1 chent
-     5 2,4-D                                    1 chent
-     6 2,4-D-dimethylammonium                   1 chent
-     7 2,4-DB                                   1 chent
-     8 2,6-Dichlorobenzamide                    1 chent
-     9 2-(1-Naphthyl) acetamide                 1 chent
-    10 2-Amino-4,6-dimethoxypyrimidine          1 chent
-    # ℹ 386 more rows
+    # A tibble: 409 × 3
+       substance                                                   n_chents type
+       <chr>                                                          <int> <fct>
+     1 (10Z)-Heptadec-10-enoic acid, potassium salt                       1 chent
+     2 (11Z)-Eicos-11-enoic acid, potassium salt                          1 chent
+     3 (9Z)-Hexadec-9-enoic acid, potassium salt                          1 chent
+     4 (9Z)-Octadec-9-enoic acid, potassium salt                          1 chent
+     5 (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt                1 chent
+     6 (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt        1 chent
+     7 1-Decanol                                                          1 chent
+     8 1-Methylcyclopropene                                               1 chent
+     9 1-Naphthylacetic acid                                              1 chent
+    10 1-Naphthylacetic acid sodium salt                                  1 chent
+    # ℹ 399 more rows
 
 ### Pure substances with defined chemical structure (chemical entities)
 
@@ -86,20 +86,20 @@ Code
 derappp$substance_compositions |> filter(min == 1)
 ```
 
-    # A tibble: 364 × 6
-       substance                         chent                 min   max doi    page
-       <chr>                             <chr>               <dbl> <dbl> <chr> <int>
-     1 1-Decanol                         1-Decanol               1     1 <NA>     NA
-     2 1-Methylcyclopropene              1-Methylcycloprope…     1     1 <NA>     NA
-     3 1-Naphthylacetic acid             1-Naphthylacetic a…     1     1 <NA>     NA
-     4 1-Naphthylacetic acid sodium salt 1-Naphthylacetic a…     1     1 <NA>     NA
-     5 2,4-D                             2,4-D                   1     1 <NA>     NA
-     6 2,4-D-dimethylammonium            2,4-D-dimethylammo…     1     1 <NA>     NA
-     7 2,4-DB                            2,4-DB                  1     1 <NA>     NA
-     8 2,6-Dichlorobenzamide             2,6-Dichlorobenzam…     1     1 <NA>     NA
-     9 2-(1-Naphthyl) acetamide          2-(1-Naphthyl) ace…     1     1 <NA>     NA
-    10 2-Amino-4,6-dimethoxypyrimidine   2-Amino-4,6-dimeth…     1     1 <NA>     NA
-    # ℹ 354 more rows
+    # A tibble: 378 × 6
+       substance                                       chent   min   max doi    page
+       <chr>                                           <chr> <dbl> <dbl> <chr> <int>
+     1 (10Z)-Heptadec-10-enoic acid, potassium salt    (10Z…     1     1 <NA>     NA
+     2 (11Z)-Eicos-11-enoic acid, potassium salt       (11Z…     1     1 <NA>     NA
+     3 (9Z)-Hexadec-9-enoic acid, potassium salt       (9Z)…     1     1 <NA>     NA
+     4 (9Z)-Octadec-9-enoic acid, potassium salt       (9Z)…     1     1 <NA>     NA
+     5 (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium… (9Z,…     1     1 <NA>     NA
+     6 (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, p… (9Z,…     1     1 <NA>     NA
+     7 1-Decanol                                       1-De…     1     1 <NA>     NA
+     8 1-Methylcyclopropene                            1-Me…     1     1 <NA>     NA
+     9 1-Naphthylacetic acid                           1-Na…     1     1 <NA>     NA
+    10 1-Naphthylacetic acid sodium salt               1-Na…     1     1 <NA>     NA
+    # ℹ 368 more rows
 
 ### Mixtures of chemical entities
 
@@ -114,7 +114,7 @@ Code
 derappp$substance_compositions |> filter(min < 1)
 ```
 
-    # A tibble: 34 × 6
+    # A tibble: 48 × 6
        substance        chent                       min   max doi               page
        <chr>            <chr>                     <dbl> <dbl> <chr>            <int>
      1 Abamectin        Avermectin B1a              0.8 1     10.2903/j.efsa.…     2
@@ -127,7 +127,7 @@ derappp$substance_compositions |> filter(min < 1)
      8 Bifenthrin       Bifenthrin-(1S,3S)          0   1     10.2903/j.efsa.…    11
      9 Bordeaux mixture Copper(II) sulfate          0   1     10.2903/j.efsa.…     7
     10 Bordeaux mixture Calcium hydroxide           0   1     10.2903/j.efsa.…     7
-    # ℹ 24 more rows
+    # ℹ 38 more rows
 
 ### Substances without specified composition
 
@@ -142,28 +142,26 @@ Code
 derappp$substance_compositions |> filter(is.na(min))
 ```
 
-    # A tibble: 19 × 6
-       substance                                       chent   min   max doi    page
-       <chr>                                           <chr> <dbl> <dbl> <chr> <int>
-     1 3AEY                                            <NA>     NA    NA <NA>     NA
-     2 Aqueous Extract of sweet Lupinus albus          <NA>     NA    NA <NA>     NA
-     3 Aureobasidium pullulans                         <NA>     NA    NA <NA>     NA
-     4 Cydia pomonella granulovirus                    <NA>     NA    NA <NA>     NA
-     5 Ethoxylated triglyceride 10 OE                  <NA>     NA    NA <NA>     NA
-     6 Fatty acids                                     <NA>     NA    NA <NA>     NA
-     7 Fatty acids, C7-18 and C18-unsatd., potassium … <NA>     NA    NA <NA>     NA
-     8 Horsetail extract                               <NA>     NA    NA <NA>     NA
-     9 Maltodextrin                                    <NA>     NA    NA <NA>     NA
-    10 Mancozeb                                        <NA>     NA    NA <NA>     NA
-    11 Meptyldinocap                                   <NA>     NA    NA <NA>     NA
-    12 Metiram                                         <NA>     NA    NA <NA>     NA
-    13 Mineral oil                                     <NA>     NA    NA <NA>     NA
-    14 Orange oil                                      <NA>     NA    NA <NA>     NA
-    15 Paraffin oil                                    <NA>     NA    NA <NA>     NA
-    16 Soy lecithin                                    <NA>     NA    NA <NA>     NA
-    17 Tea tree oil                                    <NA>     NA    NA <NA>     NA
-    18 Terpenoid Blend QRD 460                         <NA>     NA    NA <NA>     NA
-    19 Zineb                                           <NA>     NA    NA <NA>     NA
+    # A tibble: 17 × 6
+       substance                              chent   min   max doi    page
+       <chr>                                  <chr> <dbl> <dbl> <chr> <int>
+     1 3AEY                                   <NA>     NA    NA <NA>     NA
+     2 Aqueous Extract of sweet Lupinus albus <NA>     NA    NA <NA>     NA
+     3 Aureobasidium pullulans                <NA>     NA    NA <NA>     NA
+     4 Cydia pomonella granulovirus           <NA>     NA    NA <NA>     NA
+     5 Ethoxylated triglyceride 10 OE         <NA>     NA    NA <NA>     NA
+     6 Horsetail extract                      <NA>     NA    NA <NA>     NA
+     7 Maltodextrin                           <NA>     NA    NA <NA>     NA
+     8 Mancozeb                               <NA>     NA    NA <NA>     NA
+     9 Meptyldinocap                          <NA>     NA    NA <NA>     NA
+    10 Metiram                                <NA>     NA    NA <NA>     NA
+    11 Mineral oil                            <NA>     NA    NA <NA>     NA
+    12 Orange oil                             <NA>     NA    NA <NA>     NA
+    13 Paraffin oil                           <NA>     NA    NA <NA>     NA
+    14 Soy lecithin                           <NA>     NA    NA <NA>     NA
+    15 Tea tree oil                           <NA>     NA    NA <NA>     NA
+    16 Terpenoid Blend QRD 460                <NA>     NA    NA <NA>     NA
+    17 Zineb                                  <NA>     NA    NA <NA>     NA
 
 ## Chemical entities
 
@@ -176,20 +174,20 @@ Code
 derappp$chents
 ```
 
-    # A tibble: 364 × 8
+    # A tibble: 378 × 8
        chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
        <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>
-     1 1-Decanol             TRUE  <NA>  158.  CCCCC…  8.17e3 MWKFXSU… <NA>
-     2 1-Methylcyclopropene  TRUE  <NA>   54.1 CC1=C…  1.51e5 SHDPRTQ… plant growth…
-     3 1-Naphthylacetic acid TRUE  <NA>  186.  C1=CC…  6.86e3 PRPINYU… <NA>
-     4 1-Naphthylacetic aci… TRUE  <NA>  208.  C1=CC…  2.37e7 CJUUXVF… <NA>
-     5 2,4-D                 TRUE  2,4-D 221.  C1=CC…  1.49e3 OVSKIKF… herbicides
-     6 2,4-D-dimethylammoni… TRUE  <NA>  266.  CNC.C…  1.62e4 IUQJDHJ… <NA>
-     7 2,4-DB                TRUE  2,4-… 249.  C1=CC…  1.49e3 YIVXMZJ… herbicides
-     8 2,6-Dichlorobenzamide FALSE <NA>  190.  C1=CC…  1.62e4 JHSPCUH… <NA>
-     9 2-(1-Naphthyl) aceta… TRUE  <NA>  185.  C1=CC…  6.86e3 XFNJVKM… <NA>
-    10 2-Amino-4,6-dimethox… FALSE <NA>  155.  COC1=…  1.19e5 LVFRCHI… <NA>
-    # ℹ 354 more rows
+     1 (10Z)-Heptadec-10-en… TRUE  <NA>  308.  "CCCC… NA      <NA>     <NA>
+     2 (11Z)-Eicos-11-enoic… TRUE  <NA>  350.  "CCCC… NA      <NA>     <NA>
+     3 (9Z)-Hexadec-9-enoic… TRUE  <NA>  294.  "CCCC… NA      <NA>     <NA>
+     4 (9Z)-Octadec-9-enoic… TRUE  <NA>  322.  "CCCC…  2.08e7 MLICVSD… <NA>
+     5 (9Z,12Z)-Octadeca-9,… TRUE  <NA>  320.  "CCCC… NA      <NA>     <NA>
+     6 (9Z,12Z,15Z)-Octadec… TRUE  <NA>  318.  "CC/C… NA      <NA>     <NA>
+     7 1-Decanol             TRUE  <NA>  158.  "CCCC…  8.17e3 MWKFXSU… <NA>
+     8 1-Methylcyclopropene  TRUE  <NA>   54.1 "CC1=…  1.51e5 SHDPRTQ… plant growth…
+     9 1-Naphthylacetic acid TRUE  <NA>  186.  "C1=C…  6.86e3 PRPINYU… <NA>
+    10 1-Naphthylacetic aci… TRUE  <NA>  208.  "C1=C…  2.37e7 CJUUXVF… <NA>
+    # ℹ 368 more rows
 
 In the package, there is also a list of chent objects that can be used
 to plot any of the structures as shown in [Figure 2](#fig-tebufenozide)
@@ -219,7 +217,7 @@ Code
 derappp$sources
 ```
 
-    # A tibble: 574 × 5
+    # A tibble: 580 × 5
        sk                        reference                         year  url   file
        <chr>                     <chr>                             <chr> <chr> <chr>
      1 derappp                   "E. Lutz, M. Mathis, and J. Rank… 2026  http… <NA>
@@ -232,7 +230,7 @@ derappp$sources
      8 PPDB_Agroscope_2024-07-01 "University of Hertfordshire, ed… 2024  <NA>  <NA>
      9 PIERIS_2024-06-05         "Agroscope, ed. _Pesticides and … 2024  <NA>  <NA>
     10 ranke2026openfoodtox      "J. Ranke. _OpenFoodTox: EFSA Op… 2026  http… <NA>
-    # ℹ 564 more rows
+    # ℹ 570 more rows
 
 Any of the sources can be referenced in any vignette in this package.
 For example, we can refer to the derapp package ([Lutz et al.
@@ -386,7 +384,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 1,398 × 7
+    # A tibble: 1,475 × 7
        substance             derappp_species       duration effect sign  value sk
        <chr>                 <chr>                      [d] <chr>  <chr> [mg/… <chr>
      1 1-Naphthylacetic acid Cyprinus carpio              4 morta… >        56 j.ef…
@@ -399,7 +397,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
      8 1-Naphthylacetic acid Daphnia magna                2 morta… <       100 j.ef…
      9 1-Naphthylacetic acid Daphnia magna                4 morta… >        82 j.ef…
     10 1-Naphthylacetic acid Daphnia magna               21 repro… =        22 j.ef…
-    # ℹ 1,388 more rows
+    # ℹ 1,465 more rows
 
 ### Soil toxicity
 

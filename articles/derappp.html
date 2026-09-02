@@ -85,8 +85,8 @@
 <code class="sourceCode R"><span><span class="fu"><a href="https://dm.cynkra.com/reference/dm_draw.html" class="external-link">dm_draw</a></span><span class="op">(</span><span class="va">derappp</span><span class="op">)</span></span></code></pre></div>
 </details><div id="fig-derappp" class="cell-output-display quarto-float quarto-figure quarto-figure-center">
 <figure class="quarto-float quarto-float-fig"><div aria-describedby="fig-derappp-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<div class="grViz html-widget html-fill-item" id="htmlwidget-755fc959a2dd5ab2e17c" style="width:672px;height:768px;"></div>
-<script type="application/json" data-for="htmlwidget-755fc959a2dd5ab2e17c">{"x":{"diagram":"#data_model\ndigraph {\ngraph [rankdir=LR tooltip=\"Data Model\" ]\n\nnode [margin=0 fontcolor = \"#444444\" ]\n\nedge [color = \"#555555\", arrowsize = 1, ]\n\npack=true\npackmode= \"node\"\n\n  \"aquatic_test_systems\" [id = \"aquatic_test_systems\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#739099AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#ADD8E6FF\" BORDER=\"0\"><FONT COLOR=\"#000000\">aquatic_test_systems<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#EEF7FAFF\" PORT=\"test_system\"><U>test_system<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"aquatic_toxicity\" [id = \"aquatic_toxicity\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">aquatic_toxicity<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"test_system\">test_system<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"life_stage\">life_stage<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"effect\">effect<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"level\">level<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"reported_species\">reported_species<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"chents\" [id = \"chents\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#AA00AAAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#FF00FFFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">chents<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#FFCCFFFF\" PORT=\"chent\"><U>chent<\/U><\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#FFCCFFFF\" PORT=\"smiles\"><I>smiles<\/I><\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#FFCCFFFF\" PORT=\"pubchem\"><I>pubchem<\/I><\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#FFCCFFFF\" PORT=\"inchikey\"><I>inchikey<\/I><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"cwsat\" [id = \"cwsat\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">cwsat<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"effect_levels\" [id = \"effect_levels\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#609E60AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#90EE90FF\" BORDER=\"0\"><FONT COLOR=\"#000000\">effect_levels<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E8FBE8FF\" PORT=\"level\"><U>level<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"effects\" [id = \"effects\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#609E60AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#90EE90FF\" BORDER=\"0\"><FONT COLOR=\"#000000\">effects<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E8FBE8FF\" PORT=\"effect\"><U>effect<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"hydrolysis\" [id = \"hydrolysis\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">hydrolysis<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"life_stages\" [id = \"life_stages\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#739099AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#ADD8E6FF\" BORDER=\"0\"><FONT COLOR=\"#000000\">life_stages<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#EEF7FAFF\" PORT=\"life_stage\"><U>life_stage<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"p0\" [id = \"p0\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">p0<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"soil_degradation\" [id = \"soil_degradation\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">soil_degradation<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"soil_sorption\" [id = \"soil_sorption\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">soil_sorption<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"soil_toxicity\" [id = \"soil_toxicity\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">soil_toxicity<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"reported_species\">reported_species<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"effect\">effect<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"level\">level<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"sources\" [id = \"sources\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#AA5D00AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#FF8C00FF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">sources<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#FFE8CCFF\" PORT=\"sk\"><U>sk<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"species\" [id = \"species\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#004200AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#006400FF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">species<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCE0CCFF\" PORT=\"species\"><U>species<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"substance_compositions\" [id = \"substance_compositions\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#62008CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#9400D3FF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">substance_compositions<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E9CCF6FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E9CCF6FF\" PORT=\"chent\">chent<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"substance_keys\" [id = \"substance_keys\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#62008CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#9400D3FF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">substance_keys<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E9CCF6FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"substances\" [id = \"substances\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#62008CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#9400D3FF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">substances<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E9CCF6FF\" PORT=\"substance\"><U>substance<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n\"substance_compositions\":\"chent\"->\"chents\":\"chent\" [id=\"substance_compositions_1\"]\n\"substance_compositions\":\"substance\"->\"substances\":\"substance\" [id=\"substance_compositions_2\"]\n\"substance_keys\":\"substance\"->\"substances\":\"substance\" [id=\"substance_keys_1\"]\n\"p0\":\"substance\"->\"substances\":\"substance\" [id=\"p0_1\"]\n\"cwsat\":\"substance\"->\"substances\":\"substance\" [id=\"cwsat_1\"]\n\"hydrolysis\":\"substance\"->\"substances\":\"substance\" [id=\"hydrolysis_1\"]\n\"soil_sorption\":\"substance\"->\"substances\":\"substance\" [id=\"soil_sorption_1\"]\n\"soil_degradation\":\"substance\"->\"substances\":\"substance\" [id=\"soil_degradation_1\"]\n\"aquatic_toxicity\":\"substance\"->\"substances\":\"substance\" [id=\"aquatic_toxicity_1\"]\n\"soil_toxicity\":\"substance\"->\"substances\":\"substance\" [id=\"soil_toxicity_1\"]\n\"p0\":\"sk\"->\"sources\":\"sk\" [id=\"p0_2\"]\n\"cwsat\":\"sk\"->\"sources\":\"sk\" [id=\"cwsat_2\"]\n\"hydrolysis\":\"sk\"->\"sources\":\"sk\" [id=\"hydrolysis_2\"]\n\"soil_sorption\":\"sk\"->\"sources\":\"sk\" [id=\"soil_sorption_2\"]\n\"soil_degradation\":\"sk\"->\"sources\":\"sk\" [id=\"soil_degradation_2\"]\n\"aquatic_toxicity\":\"sk\"->\"sources\":\"sk\" [id=\"aquatic_toxicity_2\"]\n\"soil_toxicity\":\"sk\"->\"sources\":\"sk\" [id=\"soil_toxicity_2\"]\n\"aquatic_toxicity\":\"reported_species\"->\"species\":\"species\" [id=\"aquatic_toxicity_3\"]\n\"soil_toxicity\":\"reported_species\"->\"species\":\"species\" [id=\"soil_toxicity_3\"]\n\"aquatic_toxicity\":\"effect\"->\"effects\":\"effect\" [id=\"aquatic_toxicity_4\"]\n\"soil_toxicity\":\"effect\"->\"effects\":\"effect\" [id=\"soil_toxicity_4\"]\n\"aquatic_toxicity\":\"level\"->\"effect_levels\":\"level\" [id=\"aquatic_toxicity_5\"]\n\"soil_toxicity\":\"level\"->\"effect_levels\":\"level\" [id=\"soil_toxicity_5\"]\n\"aquatic_toxicity\":\"life_stage\"->\"life_stages\":\"life_stage\" [id=\"aquatic_toxicity_6\"]\n\"aquatic_toxicity\":\"test_system\"->\"aquatic_test_systems\":\"test_system\" [id=\"aquatic_toxicity_7\"]\n}","config":{"engine":null,"options":null}},"evals":[],"jsHooks":[]}</script>
+<div class="grViz html-widget html-fill-item" id="htmlwidget-998325d9dc55e3b568cf" style="width:672px;height:768px;"></div>
+<script type="application/json" data-for="htmlwidget-998325d9dc55e3b568cf">{"x":{"diagram":"#data_model\ndigraph {\ngraph [rankdir=LR tooltip=\"Data Model\" ]\n\nnode [margin=0 fontcolor = \"#444444\" ]\n\nedge [color = \"#555555\", arrowsize = 1, ]\n\npack=true\npackmode= \"node\"\n\n  \"aquatic_test_systems\" [id = \"aquatic_test_systems\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#739099AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#ADD8E6FF\" BORDER=\"0\"><FONT COLOR=\"#000000\">aquatic_test_systems<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#EEF7FAFF\" PORT=\"test_system\"><U>test_system<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"aquatic_toxicity\" [id = \"aquatic_toxicity\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">aquatic_toxicity<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"test_system\">test_system<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"life_stage\">life_stage<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"effect\">effect<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"level\">level<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"reported_species\">reported_species<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"chents\" [id = \"chents\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#AA00AAAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#FF00FFFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">chents<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#FFCCFFFF\" PORT=\"chent\"><U>chent<\/U><\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#FFCCFFFF\" PORT=\"smiles\"><I>smiles<\/I><\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#FFCCFFFF\" PORT=\"pubchem\"><I>pubchem<\/I><\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#FFCCFFFF\" PORT=\"inchikey\"><I>inchikey<\/I><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"cwsat\" [id = \"cwsat\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">cwsat<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"effect_levels\" [id = \"effect_levels\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#609E60AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#90EE90FF\" BORDER=\"0\"><FONT COLOR=\"#000000\">effect_levels<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E8FBE8FF\" PORT=\"level\"><U>level<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"effects\" [id = \"effects\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#609E60AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#90EE90FF\" BORDER=\"0\"><FONT COLOR=\"#000000\">effects<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E8FBE8FF\" PORT=\"effect\"><U>effect<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"hydrolysis\" [id = \"hydrolysis\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">hydrolysis<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"life_stages\" [id = \"life_stages\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#739099AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#ADD8E6FF\" BORDER=\"0\"><FONT COLOR=\"#000000\">life_stages<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#EEF7FAFF\" PORT=\"life_stage\"><U>life_stage<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"p0\" [id = \"p0\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">p0<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"soil_degradation\" [id = \"soil_degradation\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">soil_degradation<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"soil_sorption\" [id = \"soil_sorption\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">soil_sorption<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"soil_toxicity\" [id = \"soil_toxicity\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#00005CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#00008BFF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">soil_toxicity<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"reported_species\">reported_species<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"effect\">effect<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"level\">level<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCCCE7FF\" PORT=\"sk\">sk<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"sources\" [id = \"sources\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#AA5D00AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#FF8C00FF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">sources<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#FFE8CCFF\" PORT=\"sk\"><U>sk<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"species\" [id = \"species\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#004200AA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#006400FF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">species<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#CCE0CCFF\" PORT=\"species\"><U>species<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"substance_compositions\" [id = \"substance_compositions\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#62008CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#9400D3FF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">substance_compositions<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E9CCF6FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E9CCF6FF\" PORT=\"chent\">chent<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"substance_keys\" [id = \"substance_keys\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#62008CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#9400D3FF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">substance_keys<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E9CCF6FF\" PORT=\"substance\">substance<\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n  \"substances\" [id = \"substances\", label = <<TABLE ALIGN=\"LEFT\" BORDER=\"1\" CELLBORDER=\"0\" CELLSPACING=\"0\" COLOR=\"#62008CAA\">\n    <TR>\n      <TD COLSPAN=\"1\" BGCOLOR=\"#9400D3FF\" BORDER=\"0\"><FONT COLOR=\"#FFFFFF\">substances<\/FONT>\n<\/TD>\n    <\/TR>\n    <TR>\n      <TD ALIGN=\"LEFT\" BGCOLOR=\"#E9CCF6FF\" PORT=\"substance\"><U>substance<\/U><\/TD>\n    <\/TR>\n  <\/TABLE>>, shape = \"plaintext\"] \n\n\"substance_compositions\":\"chent\"->\"chents\":\"chent\" [id=\"substance_compositions_1\"]\n\"substance_compositions\":\"substance\"->\"substances\":\"substance\" [id=\"substance_compositions_2\"]\n\"substance_keys\":\"substance\"->\"substances\":\"substance\" [id=\"substance_keys_1\"]\n\"p0\":\"substance\"->\"substances\":\"substance\" [id=\"p0_1\"]\n\"cwsat\":\"substance\"->\"substances\":\"substance\" [id=\"cwsat_1\"]\n\"hydrolysis\":\"substance\"->\"substances\":\"substance\" [id=\"hydrolysis_1\"]\n\"soil_sorption\":\"substance\"->\"substances\":\"substance\" [id=\"soil_sorption_1\"]\n\"soil_degradation\":\"substance\"->\"substances\":\"substance\" [id=\"soil_degradation_1\"]\n\"aquatic_toxicity\":\"substance\"->\"substances\":\"substance\" [id=\"aquatic_toxicity_1\"]\n\"soil_toxicity\":\"substance\"->\"substances\":\"substance\" [id=\"soil_toxicity_1\"]\n\"p0\":\"sk\"->\"sources\":\"sk\" [id=\"p0_2\"]\n\"cwsat\":\"sk\"->\"sources\":\"sk\" [id=\"cwsat_2\"]\n\"hydrolysis\":\"sk\"->\"sources\":\"sk\" [id=\"hydrolysis_2\"]\n\"soil_sorption\":\"sk\"->\"sources\":\"sk\" [id=\"soil_sorption_2\"]\n\"soil_degradation\":\"sk\"->\"sources\":\"sk\" [id=\"soil_degradation_2\"]\n\"aquatic_toxicity\":\"sk\"->\"sources\":\"sk\" [id=\"aquatic_toxicity_2\"]\n\"soil_toxicity\":\"sk\"->\"sources\":\"sk\" [id=\"soil_toxicity_2\"]\n\"aquatic_toxicity\":\"reported_species\"->\"species\":\"species\" [id=\"aquatic_toxicity_3\"]\n\"soil_toxicity\":\"reported_species\"->\"species\":\"species\" [id=\"soil_toxicity_3\"]\n\"aquatic_toxicity\":\"effect\"->\"effects\":\"effect\" [id=\"aquatic_toxicity_4\"]\n\"soil_toxicity\":\"effect\"->\"effects\":\"effect\" [id=\"soil_toxicity_4\"]\n\"aquatic_toxicity\":\"level\"->\"effect_levels\":\"level\" [id=\"aquatic_toxicity_5\"]\n\"soil_toxicity\":\"level\"->\"effect_levels\":\"level\" [id=\"soil_toxicity_5\"]\n\"aquatic_toxicity\":\"life_stage\"->\"life_stages\":\"life_stage\" [id=\"aquatic_toxicity_6\"]\n\"aquatic_toxicity\":\"test_system\"->\"aquatic_test_systems\":\"test_system\" [id=\"aquatic_toxicity_7\"]\n}","config":{"engine":null,"options":null}},"evals":[],"jsHooks":[]}</script>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-derappp-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure 1: Diagram showing the relation between the different tables in the data object. Unique keys are underlined, foreign key relationships are displayed as curved arrows between the tables.
@@ -102,20 +102,20 @@ Figure 1: Diagram showing the relation between the different tables in the data
 <details class="code-fold"><summary>Code</summary><div class="sourceCode cell-code" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="va">derappp</span><span class="op">$</span><span class="va">substances</span></span></code></pre></div>
 </details><div class="cell-output cell-output-stdout">
-<pre><code># A tibble: 396 × 3
-   substance                         n_chents type
-   &lt;chr&gt;                                &lt;int&gt; &lt;fct&gt;
- 1 1-Decanol                                1 chent
- 2 1-Methylcyclopropene                     1 chent
- 3 1-Naphthylacetic acid                    1 chent
- 4 1-Naphthylacetic acid sodium salt        1 chent
- 5 2,4-D                                    1 chent
- 6 2,4-D-dimethylammonium                   1 chent
- 7 2,4-DB                                   1 chent
- 8 2,6-Dichlorobenzamide                    1 chent
- 9 2-(1-Naphthyl) acetamide                 1 chent
-10 2-Amino-4,6-dimethoxypyrimidine          1 chent
-# ℹ 386 more rows</code></pre>
+<pre><code># A tibble: 409 × 3
+   substance                                                   n_chents type
+   &lt;chr&gt;                                                          &lt;int&gt; &lt;fct&gt;
+ 1 (10Z)-Heptadec-10-enoic acid, potassium salt                       1 chent
+ 2 (11Z)-Eicos-11-enoic acid, potassium salt                          1 chent
+ 3 (9Z)-Hexadec-9-enoic acid, potassium salt                          1 chent
+ 4 (9Z)-Octadec-9-enoic acid, potassium salt                          1 chent
+ 5 (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt                1 chent
+ 6 (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt        1 chent
+ 7 1-Decanol                                                          1 chent
+ 8 1-Methylcyclopropene                                               1 chent
+ 9 1-Naphthylacetic acid                                              1 chent
+10 1-Naphthylacetic acid sodium salt                                  1 chent
+# ℹ 399 more rows</code></pre>
 </div>
 </div>
 <section class="level3"><h3 id="pure-substances-with-defined-chemical-structure-chemical-entities">Pure substances with defined chemical structure (chemical entities)<a class="anchor" aria-label="anchor" href="#pure-substances-with-defined-chemical-structure-chemical-entities"></a>
@@ -125,20 +125,20 @@ Figure 1: Diagram showing the relation between the different tables in the data
 <details class="code-fold"><summary>Code</summary><div class="sourceCode cell-code" id="cb5"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="va">derappp</span><span class="op">$</span><span class="va">substance_compositions</span> <span class="op">|&gt;</span> <span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="va">min</span> <span class="op">==</span> <span class="fl">1</span><span class="op">)</span></span></code></pre></div>
 </details><div class="cell-output cell-output-stdout">
-<pre><code># A tibble: 364 × 6
-   substance                         chent                 min   max doi    page
-   &lt;chr&gt;                             &lt;chr&gt;               &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt; &lt;int&gt;
- 1 1-Decanol                         1-Decanol               1     1 &lt;NA&gt;     NA
- 2 1-Methylcyclopropene              1-Methylcycloprope…     1     1 &lt;NA&gt;     NA
- 3 1-Naphthylacetic acid             1-Naphthylacetic a…     1     1 &lt;NA&gt;     NA
- 4 1-Naphthylacetic acid sodium salt 1-Naphthylacetic a…     1     1 &lt;NA&gt;     NA
- 5 2,4-D                             2,4-D                   1     1 &lt;NA&gt;     NA
- 6 2,4-D-dimethylammonium            2,4-D-dimethylammo…     1     1 &lt;NA&gt;     NA
- 7 2,4-DB                            2,4-DB                  1     1 &lt;NA&gt;     NA
- 8 2,6-Dichlorobenzamide             2,6-Dichlorobenzam…     1     1 &lt;NA&gt;     NA
- 9 2-(1-Naphthyl) acetamide          2-(1-Naphthyl) ace…     1     1 &lt;NA&gt;     NA
-10 2-Amino-4,6-dimethoxypyrimidine   2-Amino-4,6-dimeth…     1     1 &lt;NA&gt;     NA
-# ℹ 354 more rows</code></pre>
+<pre><code># A tibble: 378 × 6
+   substance                                       chent   min   max doi    page
+   &lt;chr&gt;                                           &lt;chr&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt; &lt;int&gt;
+ 1 (10Z)-Heptadec-10-enoic acid, potassium salt    (10Z…     1     1 &lt;NA&gt;     NA
+ 2 (11Z)-Eicos-11-enoic acid, potassium salt       (11Z…     1     1 &lt;NA&gt;     NA
+ 3 (9Z)-Hexadec-9-enoic acid, potassium salt       (9Z)…     1     1 &lt;NA&gt;     NA
+ 4 (9Z)-Octadec-9-enoic acid, potassium salt       (9Z)…     1     1 &lt;NA&gt;     NA
+ 5 (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium… (9Z,…     1     1 &lt;NA&gt;     NA
+ 6 (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, p… (9Z,…     1     1 &lt;NA&gt;     NA
+ 7 1-Decanol                                       1-De…     1     1 &lt;NA&gt;     NA
+ 8 1-Methylcyclopropene                            1-Me…     1     1 &lt;NA&gt;     NA
+ 9 1-Naphthylacetic acid                           1-Na…     1     1 &lt;NA&gt;     NA
+10 1-Naphthylacetic acid sodium salt               1-Na…     1     1 &lt;NA&gt;     NA
+# ℹ 368 more rows</code></pre>
 </div>
 </div>
 </section><section class="level3"><h3 id="mixtures-of-chemical-entities">Mixtures of chemical entities<a class="anchor" aria-label="anchor" href="#mixtures-of-chemical-entities"></a>
@@ -148,7 +148,7 @@ Figure 1: Diagram showing the relation between the different tables in the data
 <details class="code-fold"><summary>Code</summary><div class="sourceCode cell-code" id="cb7"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="va">derappp</span><span class="op">$</span><span class="va">substance_compositions</span> <span class="op">|&gt;</span> <span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="va">min</span> <span class="op">&lt;</span> <span class="fl">1</span><span class="op">)</span></span></code></pre></div>
 </details><div class="cell-output cell-output-stdout">
-<pre><code># A tibble: 34 × 6
+<pre><code># A tibble: 48 × 6
    substance        chent                       min   max doi               page
    &lt;chr&gt;            &lt;chr&gt;                     &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt;            &lt;int&gt;
  1 Abamectin        Avermectin B1a              0.8 1     10.2903/j.efsa.…     2
@@ -161,7 +161,7 @@ Figure 1: Diagram showing the relation between the different tables in the data
  8 Bifenthrin       Bifenthrin-(1S,3S)          0   1     10.2903/j.efsa.…    11
  9 Bordeaux mixture Copper(II) sulfate          0   1     10.2903/j.efsa.…     7
 10 Bordeaux mixture Calcium hydroxide           0   1     10.2903/j.efsa.…     7
-# ℹ 24 more rows</code></pre>
+# ℹ 38 more rows</code></pre>
 </div>
 </div>
 </section><section class="level3"><h3 id="substances-without-specified-composition">Substances without specified composition<a class="anchor" aria-label="anchor" href="#substances-without-specified-composition"></a>
@@ -171,28 +171,26 @@ Figure 1: Diagram showing the relation between the different tables in the data
 <details class="code-fold"><summary>Code</summary><div class="sourceCode cell-code" id="cb9"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="va">derappp</span><span class="op">$</span><span class="va">substance_compositions</span> <span class="op">|&gt;</span> <span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/NA.html" class="external-link">is.na</a></span><span class="op">(</span><span class="va">min</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
 </details><div class="cell-output cell-output-stdout">
-<pre><code># A tibble: 19 × 6
-   substance                                       chent   min   max doi    page
-   &lt;chr&gt;                                           &lt;chr&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt; &lt;int&gt;
- 1 3AEY                                            &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
- 2 Aqueous Extract of sweet Lupinus albus          &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
- 3 Aureobasidium pullulans                         &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
- 4 Cydia pomonella granulovirus                    &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
- 5 Ethoxylated triglyceride 10 OE                  &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
- 6 Fatty acids                                     &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
- 7 Fatty acids, C7-18 and C18-unsatd., potassium … &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
- 8 Horsetail extract                               &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
- 9 Maltodextrin                                    &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
-10 Mancozeb                                        &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
-11 Meptyldinocap                                   &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
-12 Metiram                                         &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
-13 Mineral oil                                     &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
-14 Orange oil                                      &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
-15 Paraffin oil                                    &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
-16 Soy lecithin                                    &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
-17 Tea tree oil                                    &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
-18 Terpenoid Blend QRD 460                         &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
-19 Zineb                                           &lt;NA&gt;     NA    NA &lt;NA&gt;     NA</code></pre>
+<pre><code># A tibble: 17 × 6
+   substance                              chent   min   max doi    page
+   &lt;chr&gt;                                  &lt;chr&gt; &lt;dbl&gt; &lt;dbl&gt; &lt;chr&gt; &lt;int&gt;
+ 1 3AEY                                   &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+ 2 Aqueous Extract of sweet Lupinus albus &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+ 3 Aureobasidium pullulans                &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+ 4 Cydia pomonella granulovirus           &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+ 5 Ethoxylated triglyceride 10 OE         &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+ 6 Horsetail extract                      &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+ 7 Maltodextrin                           &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+ 8 Mancozeb                               &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+ 9 Meptyldinocap                          &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+10 Metiram                                &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+11 Mineral oil                            &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+12 Orange oil                             &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+13 Paraffin oil                           &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+14 Soy lecithin                           &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+15 Tea tree oil                           &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+16 Terpenoid Blend QRD 460                &lt;NA&gt;     NA    NA &lt;NA&gt;     NA
+17 Zineb                                  &lt;NA&gt;     NA    NA &lt;NA&gt;     NA</code></pre>
 </div>
 </div>
 </section></section><section class="level2"><h2 id="chemical-entities">Chemical entities<a class="anchor" aria-label="anchor" href="#chemical-entities"></a>
@@ -202,20 +200,20 @@ Figure 1: Diagram showing the relation between the different tables in the data
 <details class="code-fold"><summary>Code</summary><div class="sourceCode cell-code" id="cb11"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="va">derappp</span><span class="op">$</span><span class="va">chents</span></span></code></pre></div>
 </details><div class="cell-output cell-output-stdout">
-<pre><code># A tibble: 364 × 8
+<pre><code># A tibble: 378 × 8
    chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
    &lt;chr&gt;                 &lt;lgl&gt; &lt;chr&gt; &lt;dbl&gt; &lt;chr&gt;    &lt;int&gt; &lt;chr&gt;    &lt;chr&gt;
- 1 1-Decanol             TRUE  &lt;NA&gt;  158.  CCCCC…  8.17e3 MWKFXSU… &lt;NA&gt;
- 2 1-Methylcyclopropene  TRUE  &lt;NA&gt;   54.1 CC1=C…  1.51e5 SHDPRTQ… plant growth…
- 3 1-Naphthylacetic acid TRUE  &lt;NA&gt;  186.  C1=CC…  6.86e3 PRPINYU… &lt;NA&gt;
- 4 1-Naphthylacetic aci… TRUE  &lt;NA&gt;  208.  C1=CC…  2.37e7 CJUUXVF… &lt;NA&gt;
- 5 2,4-D                 TRUE  2,4-D 221.  C1=CC…  1.49e3 OVSKIKF… herbicides
- 6 2,4-D-dimethylammoni… TRUE  &lt;NA&gt;  266.  CNC.C…  1.62e4 IUQJDHJ… &lt;NA&gt;
- 7 2,4-DB                TRUE  2,4-… 249.  C1=CC…  1.49e3 YIVXMZJ… herbicides
- 8 2,6-Dichlorobenzamide FALSE &lt;NA&gt;  190.  C1=CC…  1.62e4 JHSPCUH… &lt;NA&gt;
- 9 2-(1-Naphthyl) aceta… TRUE  &lt;NA&gt;  185.  C1=CC…  6.86e3 XFNJVKM… &lt;NA&gt;
-10 2-Amino-4,6-dimethox… FALSE &lt;NA&gt;  155.  COC1=…  1.19e5 LVFRCHI… &lt;NA&gt;
-# ℹ 354 more rows</code></pre>
+ 1 (10Z)-Heptadec-10-en… TRUE  &lt;NA&gt;  308.  "CCCC… NA      &lt;NA&gt;     &lt;NA&gt;
+ 2 (11Z)-Eicos-11-enoic… TRUE  &lt;NA&gt;  350.  "CCCC… NA      &lt;NA&gt;     &lt;NA&gt;
+ 3 (9Z)-Hexadec-9-enoic… TRUE  &lt;NA&gt;  294.  "CCCC… NA      &lt;NA&gt;     &lt;NA&gt;
+ 4 (9Z)-Octadec-9-enoic… TRUE  &lt;NA&gt;  322.  "CCCC…  2.08e7 MLICVSD… &lt;NA&gt;
+ 5 (9Z,12Z)-Octadeca-9,… TRUE  &lt;NA&gt;  320.  "CCCC… NA      &lt;NA&gt;     &lt;NA&gt;
+ 6 (9Z,12Z,15Z)-Octadec… TRUE  &lt;NA&gt;  318.  "CC/C… NA      &lt;NA&gt;     &lt;NA&gt;
+ 7 1-Decanol             TRUE  &lt;NA&gt;  158.  "CCCC…  8.17e3 MWKFXSU… &lt;NA&gt;
+ 8 1-Methylcyclopropene  TRUE  &lt;NA&gt;   54.1 "CC1=…  1.51e5 SHDPRTQ… plant growth…
+ 9 1-Naphthylacetic acid TRUE  &lt;NA&gt;  186.  "C1=C…  6.86e3 PRPINYU… &lt;NA&gt;
+10 1-Naphthylacetic aci… TRUE  &lt;NA&gt;  208.  "C1=C…  2.37e7 CJUUXVF… &lt;NA&gt;
+# ℹ 368 more rows</code></pre>
 </div>
 </div>
 <p>In the package, there is also a list of chent objects that can be used to plot any of the structures as shown in <a href="#fig-tebufenozide" class="quarto-xref">Figure 2</a> below.</p>
@@ -240,7 +238,7 @@ Figure 2: Chemical structure of tebufenozide, plotted using the chents package
 <details class="code-fold"><summary>Code</summary><div class="sourceCode cell-code" id="cb14"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="va">derappp</span><span class="op">$</span><span class="va">sources</span></span></code></pre></div>
 </details><div class="cell-output cell-output-stdout">
-<pre><code># A tibble: 574 × 5
+<pre><code># A tibble: 580 × 5
    sk                        reference                         year  url   file
    &lt;chr&gt;                     &lt;chr&gt;                             &lt;chr&gt; &lt;chr&gt; &lt;chr&gt;
  1 derappp                   "E. Lutz, M. Mathis, and J. Rank… 2026  http… &lt;NA&gt;
@@ -253,7 +251,7 @@ Figure 2: Chemical structure of tebufenozide, plotted using the chents package
  8 PPDB_Agroscope_2024-07-01 "University of Hertfordshire, ed… 2024  &lt;NA&gt;  &lt;NA&gt;
  9 PIERIS_2024-06-05         "Agroscope, ed. _Pesticides and … 2024  &lt;NA&gt;  &lt;NA&gt;
 10 ranke2026openfoodtox      "J. Ranke. _OpenFoodTox: EFSA Op… 2026  http… &lt;NA&gt;
-# ℹ 564 more rows</code></pre>
+# ℹ 570 more rows</code></pre>
 </div>
 </div>
 <p>Any of the sources can be referenced in any vignette in this package. For example, we can refer to the derapp package <span class="citation" data-cites="derappp">(<a href="#ref-derappp" role="doc-biblioref">Lutz et al. 2026</a>)</span>, to the website of the British Crop Protection Council for the ISO names <span class="citation" data-cites="BCPC_Compendium">(<a href="#ref-BCPC_Compendium" role="doc-biblioref">British Crop Protection Council 2024</a>)</span>, or to any of the EFSA conclusions, e.g. the one for cyprodinil <span class="citation" data-cites="j.efsa.2006.51r">(<a href="#ref-j.efsa.2006.51r" role="doc-biblioref">EFSA 2006</a>)</span>, or the Listing of Endpoints for acetamiprid <span class="citation" data-cites="j.efsa.2016.4610_LoEP">(<a href="#ref-j.efsa.2016.4610_LoEP" role="doc-biblioref">EFSA 2016</a>)</span>.</p>
@@ -378,7 +376,7 @@ Figure 2: Chemical structure of tebufenozide, plotted using the chents package
 <code class="sourceCode R"><span><span class="va">derappp</span><span class="op">$</span><span class="va">aquatic_toxicity</span><span class="op">[</span><span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"substance"</span>, <span class="st">"derappp_species"</span>, <span class="st">"duration"</span>, <span class="st">"effect"</span>,</span>
 <span>  <span class="st">"sign"</span>, <span class="st">"value"</span>, <span class="st">"sk"</span><span class="op">)</span><span class="op">]</span></span></code></pre></div>
 </details><div class="cell-output cell-output-stdout">
-<pre><code># A tibble: 1,398 × 7
+<pre><code># A tibble: 1,475 × 7
    substance             derappp_species       duration effect sign  value sk
    &lt;chr&gt;                 &lt;chr&gt;                      [d] &lt;chr&gt;  &lt;chr&gt; [mg/… &lt;chr&gt;
  1 1-Naphthylacetic acid Cyprinus carpio              4 morta… &gt;        56 j.ef…
@@ -391,7 +389,7 @@ Figure 2: Chemical structure of tebufenozide, plotted using the chents package
  8 1-Naphthylacetic acid Daphnia magna                2 morta… &lt;       100 j.ef…
  9 1-Naphthylacetic acid Daphnia magna                4 morta… &gt;        82 j.ef…
 10 1-Naphthylacetic acid Daphnia magna               21 repro… =        22 j.ef…
-# ℹ 1,388 more rows</code></pre>
+# ℹ 1,465 more rows</code></pre>
 </div>
 </div>
 </section><section class="level3"><h3 id="soil-toxicity">Soil toxicity<a class="anchor" aria-label="anchor" href="#soil-toxicity"></a>

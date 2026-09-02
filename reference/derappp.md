@@ -67,20 +67,20 @@ substance_keyssubstancesubstance_keys:substance->substances:substance
 
 # The list of chemical entities ("chents")
 derappp$chents
-#> # A tibble: 364 × 8
+#> # A tibble: 378 × 8
 #>    chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
 #>    <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>        
-#>  1 1-Decanol             TRUE  NA    158.  CCCCC…  8.17e3 MWKFXSU… NA           
-#>  2 1-Methylcyclopropene  TRUE  NA     54.1 CC1=C…  1.51e5 SHDPRTQ… plant growth…
-#>  3 1-Naphthylacetic acid TRUE  NA    186.  C1=CC…  6.86e3 PRPINYU… NA           
-#>  4 1-Naphthylacetic aci… TRUE  NA    208.  C1=CC…  2.37e7 CJUUXVF… NA           
-#>  5 2,4-D                 TRUE  2,4-D 221.  C1=CC…  1.49e3 OVSKIKF… herbicides   
-#>  6 2,4-D-dimethylammoni… TRUE  NA    266.  CNC.C…  1.62e4 IUQJDHJ… NA           
-#>  7 2,4-DB                TRUE  2,4-… 249.  C1=CC…  1.49e3 YIVXMZJ… herbicides   
-#>  8 2,6-Dichlorobenzamide FALSE NA    190.  C1=CC…  1.62e4 JHSPCUH… NA           
-#>  9 2-(1-Naphthyl) aceta… TRUE  NA    185.  C1=CC…  6.86e3 XFNJVKM… NA           
-#> 10 2-Amino-4,6-dimethox… FALSE NA    155.  COC1=…  1.19e5 LVFRCHI… NA           
-#> # ℹ 354 more rows
+#>  1 (10Z)-Heptadec-10-en… TRUE  NA    308.  "CCCC… NA      NA       NA           
+#>  2 (11Z)-Eicos-11-enoic… TRUE  NA    350.  "CCCC… NA      NA       NA           
+#>  3 (9Z)-Hexadec-9-enoic… TRUE  NA    294.  "CCCC… NA      NA       NA           
+#>  4 (9Z)-Octadec-9-enoic… TRUE  NA    322.  "CCCC…  2.08e7 MLICVSD… NA           
+#>  5 (9Z,12Z)-Octadeca-9,… TRUE  NA    320.  "CCCC… NA      NA       NA           
+#>  6 (9Z,12Z,15Z)-Octadec… TRUE  NA    318.  "CC/C… NA      NA       NA           
+#>  7 1-Decanol             TRUE  NA    158.  "CCCC…  8.17e3 MWKFXSU… NA           
+#>  8 1-Methylcyclopropene  TRUE  NA     54.1 "CC1=…  1.51e5 SHDPRTQ… plant growth…
+#>  9 1-Naphthylacetic acid TRUE  NA    186.  "C1=C…  6.86e3 PRPINYU… NA           
+#> 10 1-Naphthylacetic aci… TRUE  NA    208.  "C1=C…  2.37e7 CJUUXVF… NA           
+#> # ℹ 368 more rows
 
 # Some vapor pressures and water solubilities
 # We need to convert to °C if we do not want Kelvin
