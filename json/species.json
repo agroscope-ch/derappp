@@ -1611,6 +1611,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Scenedesmus subspicata",
+    "group": "Aquatic algae",
+    "derappp_species": "Desmodesmus subspicatus",
+    "ott_id": 727399,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Scenedesmus subspicatus",
     "group": "Aquatic algae",
     "derappp_species": "Desmodesmus subspicatus",

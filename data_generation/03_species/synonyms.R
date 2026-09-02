@@ -72,5 +72,6 @@ species_synonyms <- tribble(~synonym, ~species,
   "Ostracoda sp.", "Ostracoda",
   "Primephales promelas", "Pimephales promelas",
   "Hyella azteca", "Hyalella azteca",
+  "Scenedesmus subspicata", "Scenedesmus subspicatus",
   )
 
