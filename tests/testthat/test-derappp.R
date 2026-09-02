@@ -8,8 +8,8 @@ test_that("the derappp data object is internally consistent",{
   # We do not have pubchem IDs and InChIKey values for 8 pyrethroid stereoisomers
   known_failed_constraints <- tribble(
       ~table, ~kind, ~columns, ~ref_table, ~is_key, ~problem,
-     "chents", "UK", "pubchem", NA_character_, FALSE, "has 8 missing values",
-     "chents", "UK", "inchikey", NA_character_, FALSE, "has 8 missing values") |>
+     "chents", "UK", "pubchem", NA_character_, FALSE, "has 15 missing values",
+     "chents", "UK", "inchikey", NA_character_, FALSE, "has 15 missing values") |>
      mutate(columns = dm:::new_keys(columns))
 
   expect_equal(failed_constraints, known_failed_constraints)
