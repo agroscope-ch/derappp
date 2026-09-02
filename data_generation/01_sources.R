@@ -140,6 +140,7 @@ efsa_map <- efsa_map_auto |>
   "Triclopyr-butotyl" ~ "doi:10.2903/j.efsa.2024.8177", # 2024 conclusion not in OpenFoodTox
   "Azadirachtin" ~ "doi:10.2903/j.efsa.2018.5234", # Substance is called Azadirachtin A in OpenFoodTox
   "Emamectin benzoate" ~ "doi:10.2903/j.efsa.2012.2955", # Substance is called Emamectin in OpenFoodTox
+  "Fatty acids, C7-18 and C18-unsatd., potassium salts" ~ "doi:10.2903/j.efsa.2013.3023",
   default = DOI)
 )
 
