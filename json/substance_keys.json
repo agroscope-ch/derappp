@@ -570,7 +570,7 @@
     "key": "doi:10.2903/j.efsa.2015.4194"
   },
   {
-    "substance": "Fatty acids, C7-18 and C18-unsatd., potassium salts",
+    "substance": "Fatty acids C10-C20, potassium salts",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2013.3023"
   },
@@ -763,6 +763,11 @@
     "substance": "Folpet",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2009.297r"
+  },
+  {
+    "substance": "Folpet",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.8139"
   },
   {
     "substance": "Folpet",
@@ -3555,7 +3560,7 @@
     "key": "1458"
   },
   {
-    "substance": "Fatty acids, C7-18 and C18-unsatd., potassium salts",
+    "substance": "Fatty acids C10-C20, potassium salts",
     "db": "srppp",
     "key": "C9775705-3E09-4EA1-86F5-A514C7F8412B"
   },

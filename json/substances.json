@@ -1,5 +1,35 @@
 [
   {
+    "substance": "(10Z)-Heptadec-10-enoic acid, potassium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "(11Z)-Eicos-11-enoic acid, potassium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "(9Z)-Hexadec-9-enoic acid, potassium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "(9Z)-Octadec-9-enoic acid, potassium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "(9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "(9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
     "substance": "1-Decanol",
     "n_chents": 1,
     "type": "chent"
@@ -620,6 +650,11 @@
     "type": "chent"
   },
   {
+    "substance": "Decanoic acid, potassium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
     "substance": "Deltamethrin",
     "n_chents": 1,
     "type": "chent"
@@ -710,12 +745,22 @@
     "type": "chent"
   },
   {
+    "substance": "Dodecanoic acid, potassium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
     "substance": "Dodemorph",
     "n_chents": 1,
     "type": "chent"
   },
   {
     "substance": "Dodine",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Eicosanoic acid, potassium salt",
     "n_chents": 1,
     "type": "chent"
   },
@@ -790,14 +835,9 @@
     "type": "chent"
   },
   {
-    "substance": "Fatty acids",
-    "n_chents": 0,
-    "type": "undefined"
-  },
-  {
-    "substance": "Fatty acids, C7-18 and C18-unsatd., potassium salts",
-    "n_chents": 0,
-    "type": "undefined"
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "n_chents": 14,
+    "type": "mixture"
   },
   {
     "substance": "Fenamidone",
@@ -1041,6 +1081,16 @@
   },
   {
     "substance": "Haloxyfop-P-methyl",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Heptadecanoic acid, potassium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Hexadecanoic acid, potassium salt",
     "n_chents": 1,
     "type": "chent"
   },
@@ -1400,6 +1450,11 @@
     "type": "chent"
   },
   {
+    "substance": "Octadecanoic acid, potassium salt",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
     "substance": "Orange oil",
     "n_chents": 0,
     "type": "undefined"
@@ -1471,6 +1526,11 @@
   },
   {
     "substance": "Penoxsulam",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Pentadecanoic acid, potassium salt",
     "n_chents": 1,
     "type": "chent"
   },
@@ -1831,6 +1891,11 @@
   },
   {
     "substance": "Tetraconazole",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Tetradecanoic acid, potassium salt",
     "n_chents": 1,
     "type": "chent"
   },

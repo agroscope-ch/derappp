@@ -15,7 +15,8 @@
 
 library(here)
 library(RefManageR)
-# install.packages("OpenFoodTox", repos = c("https://agroscope-ch.r-universe.dev", "https://cran.r-project.org"))
+# install.packages("OpenFoodTox",
+#   repos = c("https://agroscope-ch.r-universe.dev", "https://cran.r-project.org"))
 library(OpenFoodTox)
 library(lubridate, warn.conflicts = FALSE)
 library(dplyr, warn.conflicts = FALSE)
@@ -76,6 +77,9 @@ oft_latest_efsa_conclusions_partial <- oft$efsa_outputs |>
 # considered relevant for surface water assessments based on PECini
 # Only use the row with Substance == "Captan", as we already keep entries for
 # two Captan products that also point to the DOI from 2009.
+
+# Folpet 2009: Contains endpoints based on nominal concentrations that are
+# considered relevant for surface water assessments based on PECini
 
 # 2,4-D 2014: The 2016 EFSA conclusion linked to 2,4-D is actually on 2,4-DB
 oft_latest_efsa_conclusions_manual <- oft$efsa_outputs |>
@@ -140,7 +144,7 @@ efsa_map <- efsa_map_auto |>
   "Triclopyr-butotyl" ~ "doi:10.2903/j.efsa.2024.8177", # 2024 conclusion not in OpenFoodTox
   "Azadirachtin" ~ "doi:10.2903/j.efsa.2018.5234", # Substance is called Azadirachtin A in OpenFoodTox
   "Emamectin benzoate" ~ "doi:10.2903/j.efsa.2012.2955", # Substance is called Emamectin in OpenFoodTox
-  "Fatty acids, C7-18 and C18-unsatd., potassium salts" ~ "doi:10.2903/j.efsa.2013.3023",
+  "Fatty acids C10-C20, potassium salts" ~ "doi:10.2903/j.efsa.2013.3023",
   default = DOI)
 )
 
@@ -270,6 +274,28 @@ purrr::pwalk(efsa_conclusions_used,
   })
 
 derappp_bib_rar_sssd_rr <- c(
+  BibEntry(
+    key = "Fatty_acids_potassium_salts_RAR_01_Volume_1_2022-12-21",
+    bibtype = "Report",
+    institution = "European Food Safety Authority",
+    author = "Anonymous",
+    type = "Renewal Assessment Report",
+    title = "Combined Renewal Assessment Report prepared according to Regulation (EC) N° 1107/2009 and Proposal for Harmonised Classification and Labelling (CLH Report) according to Regulation (EC) N° 1272/2008 - Fatty Acids Potassium Salts Volume 1",
+    date = "2022-12-21",
+    url = "https://connect.efsa.europa.eu/RM/s/consultations/publicconsultation2/a0l09000006qyzn/pc0419",
+    file = "Fatty_acids_potassium_salts_RAR_2023/Fatty acids potassium salts_RAR_01_Volume_1_2022-12-21",
+  ),
+  BibEntry(
+    key = "Fatty_acids_potassium_salts_RAR_33_LoEP_2022-12-21",
+    bibtype = "Report",
+    institution = "European Food Safety Authority",
+    author = "Anonymous",
+    type = "Renewal Assessment Report",
+    title = "Combined Renewal Assessment Report prepared according to Regulation (EC) N° 1107/2009 and Proposal for Harmonised Classification and Labelling (CLH Report) according to Regulation (EC) N° 1272/2008 - Fatty Acids Potassium Salts List of Endpoints",
+    date = "2023-03-02",
+    url = "https://connect.efsa.europa.eu/RM/s/consultations/publicconsultation2/a0l09000006qyzn/pc0419",
+    file = "Fatty_acids_potassium_salts_RAR_2023/Fatty acids potassium salts_RAR_33_LoEP_1_2023-03-02",
+  ),
   BibEntry(
     key = "Boscalid_RAR_2018_LoEP",
     bibtype = "Report",

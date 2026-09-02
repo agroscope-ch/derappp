@@ -18,6 +18,14 @@ latest_efsa_conclusions[latest_efsa_conclusions$Substance == "Ethephon",
     "Peer review of the pesticide risk assessment of the active substance ethephon",
     "doi:10.2903/j.efsa.2023.7742", "http://dx.doi.org/10.2903/j.efsa.2023.7742")
 
+# Folpet 2023, append instead of overwriting, as we want to keep the old entry
+latest_efsa_conclusions <- bind_rows(latest_efsa_conclusions,
+  tibble(
+    Substance = "Folpet", OutputID = NA, Published = as.Date("2023-08-18"),
+    Title = "Peer review of the pesticide risk assessment of the active substance folpet",
+    DOI = "doi:10.2903/j.efsa.2023.8139", URL = "http://dx.doi.org/10.2903/j.efsa.2023.8193")
+  )
+
 # S-Metolachlor 2023
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
   tibble(Substance = "S-Metolachlor", OutputID = NA, Published = as.Date("2023-02-28"),

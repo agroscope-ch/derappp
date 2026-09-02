@@ -1,5 +1,41 @@
 [
   {
+    "substance": "(10Z)-Heptadec-10-enoic acid, potassium salt",
+    "chent": "(10Z)-Heptadec-10-enoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "(11Z)-Eicos-11-enoic acid, potassium salt",
+    "chent": "(11Z)-Eicos-11-enoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "(9Z)-Hexadec-9-enoic acid, potassium salt",
+    "chent": "(9Z)-Hexadec-9-enoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "(9Z)-Octadec-9-enoic acid, potassium salt",
+    "chent": "(9Z)-Octadec-9-enoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "(9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt",
+    "chent": "(9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "(9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt",
+    "chent": "(9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
     "substance": "1-Decanol",
     "chent": "1-Decanol",
     "min": 1,
@@ -696,6 +732,12 @@
     "max": 1
   },
   {
+    "substance": "Decanoic acid, potassium salt",
+    "chent": "Decanoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
     "substance": "Deltamethrin",
     "chent": "Deltamethrin",
     "min": 1,
@@ -804,6 +846,12 @@
     "max": 1
   },
   {
+    "substance": "Dodecanoic acid, potassium salt",
+    "chent": "Dodecanoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
     "substance": "Dodemorph",
     "chent": "Dodemorph",
     "min": 1,
@@ -812,6 +860,12 @@
   {
     "substance": "Dodine",
     "chent": "Dodine",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "Eicosanoic acid, potassium salt",
+    "chent": "Eicosanoic acid, potassium salt",
     "min": 1,
     "max": 1
   },
@@ -1172,6 +1226,18 @@
   {
     "substance": "Haloxyfop-P-methyl",
     "chent": "Haloxyfop-P-methyl",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "Heptadecanoic acid, potassium salt",
+    "chent": "Heptadecanoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "Hexadecanoic acid, potassium salt",
+    "chent": "Hexadecanoic acid, potassium salt",
     "min": 1,
     "max": 1
   },
@@ -1554,6 +1620,12 @@
     "max": 1
   },
   {
+    "substance": "Octadecanoic acid, potassium salt",
+    "chent": "Octadecanoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
     "substance": "Orbencarb",
     "chent": "Orbencarb",
     "min": 1,
@@ -1628,6 +1700,12 @@
   {
     "substance": "Penoxsulam",
     "chent": "Penoxsulam",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "Pentadecanoic acid, potassium salt",
+    "chent": "Pentadecanoic acid, potassium salt",
     "min": 1,
     "max": 1
   },
@@ -2022,6 +2100,12 @@
     "max": 1
   },
   {
+    "substance": "Tetradecanoic acid, potassium salt",
+    "chent": "Tetradecanoic acid, potassium salt",
+    "min": 1,
+    "max": 1
+  },
+  {
     "substance": "Thiabendazole",
     "chent": "Thiabendazole",
     "min": 1,
@@ -2280,6 +2364,104 @@
     "page": 21
   },
   {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "Decanoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "Dodecanoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "Tetradecanoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "Pentadecanoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "Hexadecanoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "(9Z)-Hexadec-9-enoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "Heptadecanoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "(10Z)-Heptadec-10-enoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "Octadecanoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "(9Z)-Octadec-9-enoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "(9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "(9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "Eicosanoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
+    "substance": "Fatty acids C10-C20, potassium salts",
+    "chent": "(11Z)-Eicos-11-enoic acid, potassium salt",
+    "min": 0,
+    "max": 1,
+    "page": 16
+  },
+  {
     "substance": "Gibberellins",
     "chent": "Gibberellin A4",
     "min": 0,
@@ -2469,12 +2651,6 @@
   },
   {
     "substance": "Ethoxylated triglyceride 10 OE"
-  },
-  {
-    "substance": "Fatty acids"
-  },
-  {
-    "substance": "Fatty acids, C7-18 and C18-unsatd., potassium salts"
   },
   {
     "substance": "Horsetail extract"

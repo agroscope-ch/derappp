@@ -56,6 +56,52 @@ Emamectin benzoate:
     Emamectin benzoate B1b:
       min: 0.0
       max: 0.1
+Fatty acids C10-C20, potassium salts:
+  sk: Fatty_acids_potassium_salts_RAR_01_Volume_1_2022-12-21
+  page: 16
+  chents:
+    Decanoic acid, potassium salt:
+      min: 0
+      max: 1
+    Dodecanoic acid, potassium salt:
+      min: 0
+      max: 1
+    Tetradecanoic acid, potassium salt:
+      min: 0
+      max: 1
+    Pentadecanoic acid, potassium salt:
+      min: 0
+      max: 1
+    Hexadecanoic acid, potassium salt:
+      min: 0
+      max: 1
+    (9Z)-Hexadec-9-enoic acid, potassium salt:
+      min: 0
+      max: 1
+    Heptadecanoic acid, potassium salt:
+      min: 0
+      max: 1
+    (10Z)-Heptadec-10-enoic acid, potassium salt:
+      min: 0
+      max: 1
+    Octadecanoic acid, potassium salt:
+      min: 0
+      max: 1
+    (9Z)-Octadec-9-enoic acid, potassium salt:
+      min: 0
+      max: 1
+    (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt:
+      min: 0
+      max: 1
+    (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt:
+      min: 0
+      max: 1
+    Eicosanoic acid, potassium salt:
+      min: 0
+      max: 1
+    (11Z)-Eicos-11-enoic acid, potassium salt:
+      min: 0
+      max: 1
 Gibberellins:
   doi: 10.2903/j.efsa.2024.9066
   page: 6

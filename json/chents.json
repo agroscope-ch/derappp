@@ -1,5 +1,43 @@
 [
   {
+    "chent": "(10Z)-Heptadec-10-enoic acid, potassium salt",
+    "ai": true,
+    "mw": 307.539,
+    "smiles": "CCCCCC/C=C\\CCCCCCCCC(=O)O.[K+]"
+  },
+  {
+    "chent": "(11Z)-Eicos-11-enoic acid, potassium salt",
+    "ai": true,
+    "mw": 349.62,
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCCCC(=O)O.[K+]"
+  },
+  {
+    "chent": "(9Z)-Hexadec-9-enoic acid, potassium salt",
+    "ai": true,
+    "mw": 293.512,
+    "smiles": "CCCCCC/C=C\\CCCCCCCC(=O)O.[K+]"
+  },
+  {
+    "chent": "(9Z)-Octadec-9-enoic acid, potassium salt",
+    "ai": true,
+    "mw": 321.6,
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)O.[K+]",
+    "pubchem": 20838026,
+    "inchikey": "MLICVSDCCDDWMD-KVVVOXFISA-N"
+  },
+  {
+    "chent": "(9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt",
+    "ai": true,
+    "mw": 319.55,
+    "smiles": "CCCCC/C=C\\C/C=C\\CCCCCCCC(=O)O.[K+]"
+  },
+  {
+    "chent": "(9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt",
+    "ai": true,
+    "mw": 317.534,
+    "smiles": "CC/C=C\\C/C=C\\C/C=C\\CCCCCCCC(=O)O.[K+]"
+  },
+  {
     "chent": "1-Decanol",
     "ai": true,
     "mw": 158.28,
@@ -1030,6 +1068,14 @@
     "bcpc_activity": "fungicides, herbicides, nematicides"
   },
   {
+    "chent": "Decanoic acid, potassium salt",
+    "ai": true,
+    "mw": 210.35,
+    "smiles": "CCCCCCCCCC(=O)[O-].[K+]",
+    "pubchem": 23688501,
+    "inchikey": "QDIGBJJRWUZARS-UHFFFAOYSA-M"
+  },
+  {
     "chent": "Deltamethrin",
     "ai": true,
     "iso": "Deltamethrin",
@@ -1206,6 +1252,14 @@
     "bcpc_activity": "algicides, herbicides"
   },
   {
+    "chent": "Dodecanoic acid, potassium salt",
+    "ai": true,
+    "mw": 238.41,
+    "smiles": "CCCCCCCCCCCC(=O)[O-].[K+]",
+    "pubchem": 23675775,
+    "inchikey": "HIDKSOTTZRMUML-UHFFFAOYSA-M"
+  },
+  {
     "chent": "Dodemorph",
     "ai": true,
     "iso": "Dodemorph",
@@ -1224,6 +1278,12 @@
     "pubchem": 17110,
     "inchikey": "YIKWKLYQRFRGPM-UHFFFAOYSA-N",
     "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Eicosanoic acid, potassium salt",
+    "ai": true,
+    "mw": 351.636,
+    "smiles": "CCCCCCCCCCCCCCCCCCCC(=O)O.[K+]"
   },
   {
     "chent": "Emamectin benzoate B1a",
@@ -1800,6 +1860,22 @@
     "pubchem": 13363033,
     "inchikey": "MFSWTRQUCLNFOM-SECBINFHSA-N",
     "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Heptadecanoic acid, potassium salt",
+    "ai": true,
+    "mw": 308.5,
+    "smiles": "CCCCCCCCCCCCCCCCC(=O)[O-].[K+]",
+    "pubchem": 23668524,
+    "inchikey": "PLNPAJUNRPFSDU-UHFFFAOYSA-M"
+  },
+  {
+    "chent": "Hexadecanoic acid, potassium salt",
+    "ai": true,
+    "mw": 294.51,
+    "smiles": "CCCCCCCCCCCCCCCC(=O)[O-].[K+]",
+    "pubchem": 23676743,
+    "inchikey": "MQOCIYICOGDBSG-UHFFFAOYSA-M"
   },
   {
     "chent": "Hexaflumuron",
@@ -2401,6 +2477,14 @@
     "bcpc_activity": "insecticides"
   },
   {
+    "chent": "Octadecanoic acid, potassium salt",
+    "ai": true,
+    "mw": 322.6,
+    "smiles": "CCCCCCCCCCCCCCCCCC(=O)[O-].[K+]",
+    "pubchem": 23673840,
+    "inchikey": "ANBFRLKBEIFNQU-UHFFFAOYSA-M"
+  },
+  {
     "chent": "Orbencarb",
     "ai": true,
     "iso": "Orbencarb",
@@ -2528,6 +2612,12 @@
     "pubchem": 11784975,
     "inchikey": "SYJGKVOENHZYMQ-UHFFFAOYSA-N",
     "bcpc_activity": "herbicides"
+  },
+  {
+    "chent": "Pentadecanoic acid, potassium salt",
+    "ai": true,
+    "mw": 281.501,
+    "smiles": "CCCCCCCCCCCCCCC(=O)O.[K+]"
   },
   {
     "chent": "Penthiopyrad",
@@ -3137,6 +3227,14 @@
     "pubchem": 80277,
     "inchikey": "LQDARGUHUSPFNL-UHFFFAOYSA-N",
     "bcpc_activity": "fungicides"
+  },
+  {
+    "chent": "Tetradecanoic acid, potassium salt",
+    "ai": true,
+    "mw": 267.47,
+    "smiles": "CCCCCCCCCCCCCC(=O)O.[K+]",
+    "pubchem": 57480152,
+    "inchikey": "PYJBVGYZXWPIKK-UHFFFAOYSA-N"
   },
   {
     "chent": "Thiabendazole",

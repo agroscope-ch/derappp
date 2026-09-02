@@ -1,6 +1,7 @@
 ---
-# The listed chemical entities are pesticide active ingredients, unless they
-# contain TP: True or stereoisomer: True or synergist: True
+# The listed chemical entities are pesticide active ingredients or components
+# of pesticide active ingredients, unless they contain TP: True or
+# stereoisomer: True or synergist: True
 - 1-Decanol
 - 1-Methylcyclopropene
 - 1-Naphthylacetic acid:
@@ -233,6 +234,7 @@
 - Cyprodinil
 - Dazomet
 - Daminozide
+- Decanoic acid, potassium salt
 - Deltamethrin
 - Desmedipham
 - Desmethoxy-linuron:
@@ -252,8 +254,15 @@
 - Disodium phosphonate
 - Dithianon
 - Diuron
+- Dodecanoic acid, potassium salt
 - Dodemorph
 - Dodine
+- Eicosanoic acid, potassium salt:
+    smiles: CCCCCCCCCCCCCCCCCCCC(=O)O.[K+]
+    source: Agroscope
+- (11Z)-Eicos-11-enoic acid, potassium salt:
+    smiles: CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+]
+    source: Agroscope
 - Emamectin benzoate B1a:
     smiles: CCC(C)C1C(C=CC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)NC)OC)OC)C)C.C1=CC=C(C=C1)C(=O)O
     source: PubChem
@@ -331,6 +340,14 @@
 - Halauxifen-methyl
 - Halosulfuron-methyl
 - Haloxyfop-P-methyl
+- Hexadecanoic acid, potassium salt
+- (9Z)-Hexadec-9-enoic acid, potassium salt:
+    smiles: CCCCCC/C=C\CCCCCCCC(=O)O.[K+]
+    source: Agroscope
+- Heptadecanoic acid, potassium salt
+- (10Z)-Heptadec-10-enoic acid, potassium salt:
+    smiles: CCCCCC/C=C\CCCCCCCCC(=O)O.[K+]
+    source: Agroscope
 - Hexaflumuron
 - Hymexazol
 - IB-1-1:
@@ -418,6 +435,16 @@
 - Napropamide
 - Nicosulfuron
 - Novaluron
+- Octadecanoic acid, potassium salt
+- (9Z)-Octadec-9-enoic acid, potassium salt:
+    smiles: CCCCCCCC/C=C\CCCCCCCC(=O)O.[K+]
+    source: Agroscope
+- (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt:
+    smiles: CCCCC/C=C\C/C=C\CCCCCCCC(=O)O.[K+]
+    source: Agroscope
+- (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt:
+    smiles: CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+]
+    source: Agroscope
 - Orbencarb
 - Oryzalin
 - Oxadiargyl
@@ -432,6 +459,9 @@
 - Penflufen
 - Penoxsulam
 - Penthiopyrad
+- Pentadecanoic acid, potassium salt:
+    smiles: CCCCCCCCCCCCCCC(=O)O.[K+]
+    source: Agroscope
 - Pethoxamid
 - Phenmedipham
 - Phosphonic acid
@@ -525,6 +555,9 @@
 - Terbuthylazine-desethyl:
     TP: True
 - Tetraconazole
+- Tetradecanoic acid, potassium salt:
+    smiles: CCCCCCCCCCCCCC(=O)O.[K+]
+    source: Agroscope
 - Thiabendazole
 - Thiacloprid:
     smiles: C(N1\C(=N\C#N)\SCC1)C=2C=CC(Cl)=NC2

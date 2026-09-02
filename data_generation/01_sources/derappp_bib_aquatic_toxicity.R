@@ -23,7 +23,7 @@ derappp_bib_aquatic_toxicity <- c(
   ),
   BibEntry(
     key = 'Captan_DAR_07_Vol_3_B9_public',
-    title = 'Captan DAR Volume 3 Annex B.9_public',
+    title = 'Captan DAR Volume 3 Annex B.9 public',
     series = 'Captan DAR 2005',
     bibtype = 'Report',
     institution = 'European Commission',
@@ -31,6 +31,17 @@ derappp_bib_aquatic_toxicity <- c(
     type = 'Draft Assessment Report (DAR)',
     year = '2005',
     file = 'EU_DAR_dRAR/Captan_DAR_2005/Captan_DAR_07_Vol 3_B9_public',
+  ),
+  BibEntry(
+    key = 'Folpet_DAR_07_Vol_3_B9_public',
+    title = 'Folpet DAR Volume 3 Annex B.9 public',
+    series = 'Folpet DAR 2005',
+    bibtype = 'Report',
+    institution = 'European Commission',
+    author = 'Anonymous',
+    type = 'Draft Assessment Report (DAR)',
+    year = '2005',
+    file = 'EU_DAR_dRAR/Folpet_DAR_2005/Folpet_DAR_07_Vol_3_B9_public',
   ),
   BibEntry(
     key = 'Tebuconazole_DAR_12_Vol3_B9_part2_public',

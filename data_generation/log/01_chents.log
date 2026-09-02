@@ -2687,3 +2687,722 @@ chent Azadirachtin B
 gG3;Get chemical information from RDKit using PubChem SMILES
 C/C=C(\C)/C(=O)O[C@@H]1C[C@@H]([C@]23CO[C@@H]([C@H]2[C@]([C@@H]([C@H]4[C@H]3[C@@]1(CO4)C(=O)OC)O)(C)[C@@]56[C@@H]7C[C@H]([C@@]5(O6)C)[C@]8(C=CO[C@H]8O7)O)C(=O)OC)O
 g
+chent Capric acid, potassium salt
+Capric acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Capric acid, potassium salt ...
+Common name Capric acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Capric acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCC(=O)[O-].[K+]
+
+chent Arachidic acid, potassium salt
+Arachidic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Arachidic acid, potassium salt ...
+Querying for Arachidic acid, potassium salt as name did not give results at PubChem
+Error in self$get_rdkit(template = template) : 
+  RDKit would need a SMILES code
+
+chent Arachidic acid, potassium salt
+Arachidic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Arachidic acid, potassium salt ...
+Querying for Arachidic acid, potassium salt as name did not give results at PubChem
+Error in self$get_rdkit(template = template) : 
+  RDKit would need a SMILES code
+
+chent Arachidic acid, potassium salt
+Arachidic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCCCCCCCC(=O)O.[K+]
+
+chent Gondoic acid, potassium salt
+Gondoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Gondoic acid, potassium salt ...
+Common name Gondoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Gondoic acid, potassium salt ...
+Querying for Gondoic acid, potassium salt as name did not give results at PubChem
+Error in self$get_rdkit(template = template) : 
+  RDKit would need a SMILES code
+
+chent Arachidic acid, potassium salt
+Arachidic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCCCCCCCC(=O)O.[K+]
+
+chent Gondoic acid, potassium salt
+Gondoic acid, potassium salt | TRUE | NA | CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Gondoic acid, potassium salt ...
+Common name Gondoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Gondoic acid, potassium salt ...
+Common name Gondoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+]
+
+chent Heptadecanoic acid, potassium salt
+Heptadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Heptadecanoic acid, potassium salt ...
+Common name Heptadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Heptadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent Lauric acid, potassium salt
+Lauric acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Lauric acid, potassium salt ...
+Common name Lauric acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Lauric acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCC(=O)[O-].[K+]
+
+chent Linoleic acid, potassium salt
+Linoleic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Linoleic acid, potassium salt ...
+Common name Linoleic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Linoleic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)[O-].[K+]
+
+chent Linolenic acid, potassium salt
+Linolenic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Linolenic acid, potassium salt ...
+Common name Linolenic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Linolenic acid, potassium salt ...
+Querying for Linolenic acid, potassium salt as name did not give results at PubChem
+Error in self$get_rdkit(template = template) : 
+  RDKit would need a SMILES code
+
+chent Arachidic acid, potassium salt
+Arachidic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCCCCCCCC(=O)O.[K+]
+
+chent Gondoic acid, potassium salt
+Gondoic acid, potassium salt | TRUE | NA | CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Gondoic acid, potassium salt ...
+Common name Gondoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Gondoic acid, potassium salt ...
+Common name Gondoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+]
+
+chent Heptadecanoic acid, potassium salt
+Heptadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Heptadecanoic acid, potassium salt ...
+Common name Heptadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Heptadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent Lauric acid, potassium salt
+Lauric acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Lauric acid, potassium salt ...
+Common name Lauric acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Lauric acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCC(=O)[O-].[K+]
+
+chent Linoleic acid, potassium salt
+Linoleic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Linoleic acid, potassium salt ...
+Common name Linoleic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Linoleic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)[O-].[K+]
+
+chent Linolenic acid, potassium salt
+Linolenic acid, potassium salt | TRUE | NA | CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Linolenic acid, potassium salt ...
+Common name Linolenic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Linolenic acid, potassium salt ...
+Common name Linolenic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+]
+
+chent Margaric acid, potassium salt
+Margaric acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Margaric acid, potassium salt ...
+Common name Margaric acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Margaric acid, potassium salt ...
+Querying for Margaric acid, potassium salt as name did not give results at PubChem
+Error in self$get_rdkit(template = template) : 
+  RDKit would need a SMILES code
+
+chent Arachidic acid, potassium salt
+Arachidic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCCCCCCCC(=O)O.[K+]
+
+chent Decanoic acid, potassium salt
+Decanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Decanoic acid, potassium salt ...
+Common name Decanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Decanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCC(=O)[O-].[K+]
+
+chent Dodecanoic acid, potassium salt
+Dodecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Dodecanoic acid, potassium salt ...
+Common name Dodecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Dodecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCC(=O)[O-].[K+]
+
+chent Gondoic acid, potassium salt
+Gondoic acid, potassium salt | TRUE | NA | CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Gondoic acid, potassium salt ...
+Common name Gondoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+In addition: Warning message:
+In self$get_rdkit(template = template) :
+  RDKit mw is 210.358 while mw is 210.35
+Querying BCPC for Gondoic acid, potassium salt ...
+Common name Gondoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+]
+
+chent Hexadecanoic acid, potassium salt
+Hexadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Hexadecanoic acid, potassium salt ...
+Common name Hexadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Hexadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (9Z)-Hexadec-9-enoic acid, potassium salt
+(9Z)-Hexadec-9-enoic acid, potassium salt | TRUE | NA | CCCCCC/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z)-Hexadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Hexadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCC/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (9Z)-Hexadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Hexadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCC/C=C\CCCCCCCC(=O)O.[K+]
+
+chent Heptadecanoic acid, potassium salt
+Heptadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Heptadecanoic acid, potassium salt ...
+Common name Heptadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Heptadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (10Z)-Heptadec-10-enoic acid, potassium salt
+(10Z)-Heptadec-10-enoic acid, potassium salt | TRUE | NA | CCCCCC/C=C\CCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (10Z)-Heptadec-10-enoic acid, potassium salt ...
+Common name (10Z)-Heptadec-10-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCC/C=C\CCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (10Z)-Heptadec-10-enoic acid, potassium salt ...
+Common name (10Z)-Heptadec-10-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCC/C=C\CCCCCCCCC(=O)O.[K+]
+
+chent Octadecanoic acid, potassium salt
+Octadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Octadecanoic acid, potassium salt ...
+Common name Octadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Octadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (9Z)-Octadec-9-enoic acid, potassium salt
+(9Z)-Octadec-9-enoic acid, potassium salt | TRUE | NA | CCCCCCCC/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z)-Octadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Octadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCC/C=C\CCCCCCCC(=O)O.[K+] ...
+Get chemical information from RDKit using user SMILES
+CCCCCCCC/C=C\CCCCCCCC(=O)O.[K+]
+
+chent (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt
+(9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt | TRUE | NA | CCCCC/C=C\C/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt ...
+Common name (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCC/C=C\C/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt ...
+Common name (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)O.[K+]
+
+chent (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt
+(9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt | TRUE | NA | CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt ...
+Common name (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt ...
+Common name (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+]
+
+chent Pentadecanoic acid, potassium salt
+Pentadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Pentadecanoic acid, potassium salt ...
+Common name Pentadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Pentadecanoic acid, potassium salt ...
+Querying for Pentadecanoic acid, potassium salt as name did not give results at PubChem
+Error in self$get_rdkit(template = template) : 
+  RDKit would need a SMILES code
+
+chent Arachidic acid, potassium salt
+Arachidic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Arachidic acid, potassium salt ...
+Common name Arachidic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCCCCCCCC(=O)O.[K+]
+
+chent Decanoic acid, potassium salt
+Decanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Decanoic acid, potassium salt ...
+Common name Decanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Decanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCC(=O)[O-].[K+]
+
+chent Dodecanoic acid, potassium salt
+Dodecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Dodecanoic acid, potassium salt ...
+Common name Dodecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Dodecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCC(=O)[O-].[K+]
+
+chent Eicosanoic acid, potassium salt
+Eicosanoic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Eicosanoic acid, potassium salt ...
+Common name Eicosanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+In addition: Warning message:
+In self$get_rdkit(template = template) :
+  RDKit mw is 210.358 while mw is 210.35
+Querying BCPC for Eicosanoic acid, potassium salt ...
+Common name Eicosanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCCCCCCCC(=O)O.[K+]
+
+chent (11Z)-Eicos-11-enoic acid, potassium salt
+(11Z)-Eicos-11-enoic acid, potassium salt | TRUE | NA | CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (11Z)-Eicos-11-enoic acid, potassium salt ...
+Common name (11Z)-Eicos-11-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (11Z)-Eicos-11-enoic acid, potassium salt ...
+Common name (11Z)-Eicos-11-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+]
+
+chent Gondoic acid, potassium salt
+Gondoic acid, potassium salt | TRUE | NA | CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Gondoic acid, potassium salt ...
+Common name Gondoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Gondoic acid, potassium salt ...
+Common name Gondoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+]
+
+chent Hexadecanoic acid, potassium salt
+Hexadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Hexadecanoic acid, potassium salt ...
+Common name Hexadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Hexadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (9Z)-Hexadec-9-enoic acid, potassium salt
+(9Z)-Hexadec-9-enoic acid, potassium salt | TRUE | NA | CCCCCC/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z)-Hexadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Hexadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCC/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (9Z)-Hexadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Hexadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCC/C=C\CCCCCCCC(=O)O.[K+]
+
+chent Heptadecanoic acid, potassium salt
+Heptadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Heptadecanoic acid, potassium salt ...
+Common name Heptadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Heptadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (10Z)-Heptadec-10-enoic acid, potassium salt
+(10Z)-Heptadec-10-enoic acid, potassium salt | TRUE | NA | CCCCCC/C=C\CCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (10Z)-Heptadec-10-enoic acid, potassium salt ...
+Common name (10Z)-Heptadec-10-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCC/C=C\CCCCCCCCC(=O)O.[K+] ...
+Connection with R.nvim was lost
+
+chent Decanoic acid, potassium salt
+Decanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Decanoic acid, potassium salt ...
+Common name Decanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Decanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCC(=O)[O-].[K+]
+
+chent Dodecanoic acid, potassium salt
+Dodecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Dodecanoic acid, potassium salt ...
+Common name Dodecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Dodecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCC(=O)[O-].[K+]
+
+chent Eicosanoic acid, potassium salt
+Eicosanoic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Eicosanoic acid, potassium salt ...
+Common name Eicosanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+In addition: Warning message:
+In self$get_rdkit(template = template) :
+  RDKit mw is 210.358 while mw is 210.35
+Querying BCPC for Eicosanoic acid, potassium salt ...
+Common name Eicosanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCCCCCCCC(=O)O.[K+]
+
+chent (11Z)-Eicos-11-enoic acid, potassium salt
+(11Z)-Eicos-11-enoic acid, potassium salt | TRUE | NA | CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (11Z)-Eicos-11-enoic acid, potassium salt ...
+Common name (11Z)-Eicos-11-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (11Z)-Eicos-11-enoic acid, potassium salt ...
+Common name (11Z)-Eicos-11-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+]
+
+chent Hexadecanoic acid, potassium salt
+Hexadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Hexadecanoic acid, potassium salt ...
+Common name Hexadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Hexadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (9Z)-Hexadec-9-enoic acid, potassium salt
+(9Z)-Hexadec-9-enoic acid, potassium salt | TRUE | NA | CCCCCC/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z)-Hexadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Hexadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCC/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (9Z)-Hexadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Hexadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCC/C=C\CCCCCCCC(=O)O.[K+]
+
+chent Heptadecanoic acid, potassium salt
+Heptadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Heptadecanoic acid, potassium salt ...
+Common name Heptadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Heptadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (10Z)-Heptadec-10-enoic acid, potassium salt
+(10Z)-Heptadec-10-enoic acid, potassium salt | TRUE | NA | CCCCCC/C=C\CCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (10Z)-Heptadec-10-enoic acid, potassium salt ...
+Common name (10Z)-Heptadec-10-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCC/C=C\CCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (10Z)-Heptadec-10-enoic acid, potassium salt ...
+Common name (10Z)-Heptadec-10-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCC/C=C\CCCCCCCCC(=O)O.[K+]
+
+chent Octadecanoic acid, potassium salt
+Octadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Octadecanoic acid, potassium salt ...
+Common name Octadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Octadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (9Z)-Octadec-9-enoic acid, potassium salt
+(9Z)-Octadec-9-enoic acid, potassium salt | TRUE | NA | CCCCCCCC/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z)-Octadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Octadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCC/C=C\CCCCCCCC(=O)O.[K+] ...
+Get chemical information from RDKit using user SMILES
+CCCCCCCC/C=C\CCCCCCCC(=O)O.[K+]
+
+chent (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt
+(9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt | TRUE | NA | CCCCC/C=C\C/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt ...
+Common name (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCC/C=C\C/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt ...
+Common name (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)O.[K+]
+
+chent (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt
+(9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt | TRUE | NA | CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt ...
+Common name (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt ...
+Common name (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+]
+
+chent Pentadecanoic acid, potassium salt
+Pentadecanoic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Pentadecanoic acid, potassium salt ...
+Common name Pentadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Pentadecanoic acid, potassium salt ...
+Common name Pentadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCCC(=O)O.[K+]
+
+chent Tetradecanoic acid, potassium salt
+Tetradecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Tetradecanoic acid, potassium salt ...
+Common name Tetradecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Tetradecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent Decanoic acid, potassium salt
+Decanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Decanoic acid, potassium salt ...
+Common name Decanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Decanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCC(=O)[O-].[K+]
+
+chent Dodecanoic acid, potassium salt
+Dodecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Dodecanoic acid, potassium salt ...
+Common name Dodecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Dodecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCC(=O)[O-].[K+]
+
+chent Eicosanoic acid, potassium salt
+Eicosanoic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Eicosanoic acid, potassium salt ...
+Common name Eicosanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] ...
+
+Warning message:
+In self$get_rdkit(template = template) :
+  RDKit mw is 210.358 while mw is 210.35
+
+
+chent Decanoic acid, potassium salt
+Decanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Decanoic acid, potassium salt ...
+Common name Decanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Decanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCC(=O)[O-].[K+]
+
+chent Dodecanoic acid, potassium salt
+Dodecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Dodecanoic acid, potassium salt ...
+Common name Dodecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Dodecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCC(=O)[O-].[K+]
+
+chent Eicosanoic acid, potassium salt
+Eicosanoic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Eicosanoic acid, potassium salt ...
+Common name Eicosanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+In addition: Warning message:
+In self$get_rdkit(template = template) :
+  RDKit mw is 210.358 while mw is 210.35
+Querying BCPC for Eicosanoic acid, potassium salt ...
+Common name Eicosanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCCCCCCCC(=O)O.[K+]
+
+chent (11Z)-Eicos-11-enoic acid, potassium salt
+(11Z)-Eicos-11-enoic acid, potassium salt | TRUE | NA | CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (11Z)-Eicos-11-enoic acid, potassium salt ...
+Common name (11Z)-Eicos-11-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (11Z)-Eicos-11-enoic acid, potassium salt ...
+Common name (11Z)-Eicos-11-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCC/C=C\CCCCCCCCCC(=O)O.[K+]
+
+chent Hexadecanoic acid, potassium salt
+Hexadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Hexadecanoic acid, potassium salt ...
+Common name Hexadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Hexadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (9Z)-Hexadec-9-enoic acid, potassium salt
+(9Z)-Hexadec-9-enoic acid, potassium salt | TRUE | NA | CCCCCC/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z)-Hexadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Hexadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCC/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (9Z)-Hexadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Hexadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCC/C=C\CCCCCCCC(=O)O.[K+]
+
+chent Heptadecanoic acid, potassium salt
+Heptadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Heptadecanoic acid, potassium salt ...
+Common name Heptadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Heptadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (10Z)-Heptadec-10-enoic acid, potassium salt
+(10Z)-Heptadec-10-enoic acid, potassium salt | TRUE | NA | CCCCCC/C=C\CCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (10Z)-Heptadec-10-enoic acid, potassium salt ...
+Common name (10Z)-Heptadec-10-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCC/C=C\CCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (10Z)-Heptadec-10-enoic acid, potassium salt ...
+Common name (10Z)-Heptadec-10-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCC/C=C\CCCCCCCCC(=O)O.[K+]
+
+chent Octadecanoic acid, potassium salt
+Octadecanoic acid, potassium salt | TRUE | NA | NA | NA | NA
+Querying BCPC for Octadecanoic acid, potassium salt ...
+Common name Octadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Octadecanoic acid, potassium salt ...
+Get chemical information from RDKit using PubChem SMILES
+CCCCCCCCCCCCCCCCCC(=O)[O-].[K+]
+
+chent (9Z)-Octadec-9-enoic acid, potassium salt
+(9Z)-Octadec-9-enoic acid, potassium salt | TRUE | NA | CCCCCCCC/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z)-Octadec-9-enoic acid, potassium salt ...
+Common name (9Z)-Octadec-9-enoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCC/C=C\CCCCCCCC(=O)O.[K+] ...
+Get chemical information from RDKit using user SMILES
+CCCCCCCC/C=C\CCCCCCCC(=O)O.[K+]
+
+chent (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt
+(9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt | TRUE | NA | CCCCC/C=C\C/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt ...
+Common name (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCC/C=C\C/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt ...
+Common name (9Z,12Z)-Octadeca-9,12-dienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)O.[K+]
+
+chent (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt
+(9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt | TRUE | NA | CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt ...
+Common name (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt ...
+Common name (9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O.[K+]
+
+chent Pentadecanoic acid, potassium salt
+Pentadecanoic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Pentadecanoic acid, potassium salt ...
+Common name Pentadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCCC(=O)O.[K+] ...
+Error in self$smiles["PubChem"] <- self$pubchem$SMILES : 
+  replacement has length zero
+Querying BCPC for Pentadecanoic acid, potassium salt ...
+Common name Pentadecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCCC(=O)O.[K+]
+
+chent Tetradecanoic acid, potassium salt
+Tetradecanoic acid, potassium salt | TRUE | NA | CCCCCCCCCCCCCC(=O)O.[K+] | Agroscope | NA
+Querying BCPC for Tetradecanoic acid, potassium salt ...
+Common name Tetradecanoic acid, potassium salt is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCCCCCCCCC(=O)O.[K+] ...
+Get chemical information from RDKit using user SMILES
+CCCCCCCCCCCCCC(=O)O.[K+]
