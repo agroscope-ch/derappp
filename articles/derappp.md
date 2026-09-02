@@ -252,7 +252,7 @@ Code
 derappp$species
 ```
 
-    # A tibble: 203 × 7
+    # A tibble: 204 × 7
        species      group derappp_species ott_id is_synonym flags salt_water_species
        <chr>        <chr> <chr>            <int> <lgl>      <chr> <lgl>
      1 Acipenser t… Fish  Acipenser tran… 3.79e5 FALSE      ""    FALSE
@@ -265,7 +265,7 @@ derappp$species
      8 Anabaena va… Aqua… Trichormus var… 5.24e5 TRUE       "inc… FALSE
      9 Ankistrodes… Aqua… Ankistrodesmus… 7.28e5 FALSE      ""    FALSE
     10 Aphanizomen… Aqua… Aphanizomenon … 8.94e5 FALSE      "sib… FALSE
-    # ℹ 193 more rows
+    # ℹ 194 more rows
 
 ## Endpoint tables
 
@@ -384,7 +384,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 1,475 × 7
+    # A tibble: 1,504 × 7
        substance             derappp_species       duration effect sign  value sk
        <chr>                 <chr>                      [d] <chr>  <chr> [mg/… <chr>
      1 1-Naphthylacetic acid Cyprinus carpio              4 morta… >        56 j.ef…
@@ -397,7 +397,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
      8 1-Naphthylacetic acid Daphnia magna                2 morta… <       100 j.ef…
      9 1-Naphthylacetic acid Daphnia magna                4 morta… >        82 j.ef…
     10 1-Naphthylacetic acid Daphnia magna               21 repro… =        22 j.ef…
-    # ℹ 1,465 more rows
+    # ℹ 1,494 more rows
 
 ### Soil toxicity
 
