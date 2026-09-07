@@ -25,7 +25,8 @@ compare_with_git <- function(input_file, git_file) {
           message("Remember to check the diff in the JSON representation after running 99_derappp.R")
           copy_to_git <- TRUE
         } else {
-          stop("Please check the input file for unintended changes")
+          copy_to_git <- FALSE
+          message("Please check the input file and rerun")
         }
       } else {
         stop(
