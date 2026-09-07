@@ -1,6 +1,6 @@
 ---
 title: The derappp data object
-subtitle: Revision 2 July 2026
+subtitle: Revision 7 September 2026
 author: Johannes Ranke
 bibliography: ../inst/REFERENCES.bib
 format:
@@ -162,9 +162,9 @@ A table of worst‑case soil degradation values, most of them as used for PECsoi
 calculations in EFSA Conclusions. Actual half‑life values are reported in the
 column DT50 when the Simple First‑Order (SFO) kinetic model provided the best
 fit to the degradation data. When other kinetic models were used (FOMC, DFOP,
-HS), the corresponding model parameters are recorded, and a pseudo‑DT50 value
-is calculated for comparison purposes (DT90/3.32 for FOMC, and ln(2)/k₂ for
-DFOP and HS).
+HS), the corresponding model parameters are recorded, and a substitute
+half-life value is calculated for comparison purposes (DT90/3.32 for FOMC, and
+ln(2)/k$_2$ for DFOP and HS).
 
 ```{r}
 print(derappp$soil_degradation[c("substance", "DT50", "kinetics",

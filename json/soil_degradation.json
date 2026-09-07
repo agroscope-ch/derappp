@@ -8,7 +8,7 @@
     "page": "42",
     "reason": "EFSA LoEP",
     "recorded": "roan",
-    "checked": "luel",
+    "checked": "luel, rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -20,7 +20,7 @@
     "page": "40",
     "reason": "EFSA LoEP",
     "recorded": "roan",
-    "checked": "luel",
+    "checked": "luel, rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -32,13 +32,13 @@
     "page": "43",
     "reason": "EFSA LoEP",
     "recorded": "roan",
-    "checked": "luel",
+    "checked": "luel, rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
     "substance": "Bixafen",
     "type": "EFSA PECsoil",
-    "DT50": 3013.6834,
+    "DT50": 3014,
     "kinetics": "HS",
     "k1": 0.0081,
     "k2": 0.00023,
@@ -46,9 +46,9 @@
     "sk": "j.efsa.2012.2917",
     "page": "42",
     "reason": "EFSA LoEP",
-    "note": "DT50 1235 recorded on page 42 for PEC soil calculation is not a half life, as in pseudo DT50 calculated from LN(2)/k2!!",
+    "note": "DT50 1235 recorded on page 42 for PEC soil calculation is not a substitute half-life, so we backcalculated one from ln(2)/k2",
     "recorded": "roan/luel",
-    "checked": "luel",
+    "checked": "luel, rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -61,21 +61,22 @@
     "reason": "EFSA LoEP",
     "note": "replaced 314.5 DT50 from 2002 dRAR with 227.4 from 2018 RAR",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
     "substance": "Bupirimate",
     "type": "EFSA PECsoil",
-    "DT50": 119.277,
+    "DT50": 119.3,
     "kinetics": "FOMC",
     "alpha": 1.12227,
     "beta": 58.3988,
     "sk": "j.efsa.2010.1786",
     "page": "39",
     "reason": "EFSA LoEP",
-    "note": "calculated from DT90 396 [d]/3.32",
+    "note": "Substitute half-life calculated from DT90 396 [d]/3.32",
     "recorded": "roan",
-    "checked": "luel",
+    "checked": "luel, rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -147,6 +148,7 @@
     "page": "39",
     "reason": "EFSA LoEP",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -248,15 +250,16 @@
   {
     "substance": "Fenpropimorph",
     "type": "EFSA PECsoil",
-    "DT50": 1350.602,
+    "DT50": 1351,
     "kinetics": "FOMC",
     "alpha": 0.3733,
     "beta": 9.4143,
     "sk": "j.efsa.2008.144r",
     "page": "62",
     "reason": "EFSA LoEP",
-    "note": "DT50 50.6 recorded for PEC soil calculation is not a half life, as in pseudo DT50 calculated from DT90!",
+    "note": "DT50 50.6 recorded for PEC soil calculation is not a half life substitute, so we calculated one from the FOMC DT90 divided by 3.32",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -274,7 +277,7 @@
   {
     "substance": "Fludioxonil",
     "type": "EFSA PECsoil",
-    "DT50": 1848.3925,
+    "DT50": 1848,
     "kinetics": "HS",
     "k1": 0.01,
     "k2": 0.000375,
@@ -282,9 +285,9 @@
     "sk": "j.efsa.2024.9047",
     "page": "39",
     "reason": "EFSA LoEP",
-    "note": "DT50 calculated from ln(2)/k2",
+    "note": "Substitute half-life calculated from ln(2)/k2",
     "recorded": "luel",
-    "checked": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -314,7 +317,7 @@
   {
     "substance": "Fluopyram",
     "type": "EFSA PECsoil",
-    "DT50": 495.105,
+    "DT50": 495.1,
     "kinetics": "DFOP",
     "k1": 0.034099827,
     "k2": 0.0013915684,
@@ -323,7 +326,7 @@
     "page": "39",
     "reason": "EFSA LoEP",
     "note": "k1 and k2 calculated from  1.DT50 = 20.327 days; 2.DT50 = 495.105 days",
-    "recorded": "roan/luel",
+    "recorded": "roan, luel",
     "checked": "luel",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
@@ -342,20 +345,21 @@
   {
     "substance": "Flurochloridone",
     "type": "EFSA PECsoil",
-    "DT50": 154.96,
+    "DT50": 155,
     "kinetics": "FOMC",
     "alpha": 1.13,
     "beta": 77.1,
     "sk": "j.efsa.2010.1869",
     "page": "36",
     "reason": "EFSA LoEP",
-    "note": "calculated from DT90 515/3.32 on page 34",
+    "note": "Substitute half-life calculated from DT90 515 on page 34 divided by 3.32",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
     "substance": "Flusilazole",
-    "type": "worst case field DT50",
+    "type": "Maximum non-normalised field DT50",
     "DT50": 240,
     "kinetics": "NA",
     "sk": "Flusilazole_RR_2007",
@@ -369,15 +373,16 @@
   {
     "substance": "Fluxapyroxad",
     "type": "EFSA PECsoil",
-    "DT50": 301.20482,
+    "DT50": 284400,
     "kinetics": "FOMC",
     "alpha": 0.2059,
     "beta": 13.1342,
     "sk": "j.efsa.2012.2522",
     "page": "49",
     "reason": "EFSA LoEP",
-    "note": "370 DT50 on page 49 is not a pseudo DT50 calculated from DT90 >1000/3.32",
+    "note": "370 d DT50 on page 49 is not a substitute half-life but the time for reaching 50% the first time for the FOMC fit to the Wilson, UK field study. We calculated a substitute half-life from the FOMC parameters as DT90/3.32",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -493,7 +498,7 @@
   {
     "substance": "Pencycuron",
     "type": "EFSA PECsoil",
-    "DT50": 64.9,
+    "DT50": 138.6,
     "kinetics": "DFOP",
     "k1": 0.0377,
     "k2": 0.005,
@@ -501,7 +506,8 @@
     "sk": "j.efsa.2010.1828",
     "page": "31",
     "reason": "EFSA LoEP",
-    "recorded": "roan/luel",
+    "note": "Substitute half-life calculated from ln(2)/k2",
+    "recorded": "roan, luel, rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -532,15 +538,16 @@
   {
     "substance": "Picoxystrobin",
     "type": "EFSA PECsoil",
-    "DT50": 127.86145,
+    "DT50": 127.9,
     "kinetics": "FOMC",
     "alpha": 0.832,
     "beta": 28.479,
     "sk": "j.efsa.2016.4515",
     "page": "53",
     "reason": "EFSA LoEP",
-    "note": "DT50 37 recorded on page 39 for PEC soil calculation is not a half life",
+    "note": "DT50 37 recorded on page 39 for PEC soil calculation is not a substitute half life, so we give a substitute half-life from the worst-case field DT90 (FOMC) divided by 3.32 (p. 30)",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -553,7 +560,7 @@
     "sk": "j.efsa.2011.2323",
     "page": "53",
     "reason": "EFSA LoEP",
-    "note": "Pseudo-SFO (backcalculated from FOMC DT90 7544.7 days/3.32)",
+    "note": "Substitute half-life (backcalculated from FOMC DT90 7544.7 days/3.32)",
     "recorded": "roan/luel",
     "checked": "luel",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
@@ -569,7 +576,7 @@
     "sk": "j.efsa.2017.4887_LoEP",
     "page": "32",
     "reason": "EFSA LoEP",
-    "note": "Pseudo-SFO (ln(2)/k2)",
+    "note": "Substitute half-life (ln(2)/k2)",
     "recorded": "roan/luel",
     "checked": "luel",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
@@ -622,6 +629,7 @@
     "page": "69",
     "reason": "EFSA LoEP",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
   },
   {
@@ -632,7 +640,6 @@
     "sk": "j.efsa.2023.7852",
     "page": "44",
     "reason": "EFSA LoEP",
-    "note": "Maximum non-normalised field DT50",
     "recorded": "roan",
     "checked": "luel",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
@@ -669,7 +676,6 @@
     "sk": "j.efsa.2009.192r",
     "page": "20",
     "reason": "EFSA LoEP",
-    "note": "Maximum non-normalised field DT50",
     "recorded": "roan",
     "checked": "luel",
     "file": "soil_degradation_EFSA_PEC_soil_roan_luel_first_ai.xlsx"
@@ -713,23 +719,26 @@
   },
   {
     "substance": "Spirotetramat",
-    "type": "EFSA PECsoil",
+    "type": "Maximum non-normalised field DT50",
     "DT50": 1,
     "kinetics": "SFO",
     "sk": "j.efsa.2013.3243",
     "page": "47",
     "reason": "EFSA LoEP",
+    "note": "Worst-case non-normalised lab DT50 of 0,33 days (p. 42) used in the EFSA conclusion. Worst-case non-normalised field DT50 is 1 day (SFO, p. 47)",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
     "substance": "Sulfur",
     "type": "EFSA PECsoil",
     "sk": "j.efsa.2023.7805_LoEP",
-    "page": "39",
+    "page": "31",
     "reason": "EFSA LoEP",
-    "note": "no degradation for PEC soil assumed for EFSA PECsoil calculations; default value 1000 d used for PEC sw calculations; wrong DOI in LoEP PDF",
+    "note": "No degradation for PEC soil assumed for EFSA PECsoil calculations (plateau concentration \"not needed\"); default value 1000 d used for PEC sw calculations (p. 39); wrong DOI in LoEP PDF",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -740,8 +749,9 @@
     "sk": "j.efsa.2023.8139_LoEP",
     "page": "57",
     "reason": "EFSA LoEP",
-    "note": "normalized max DT50 is 34.145 DFOP (k1=0.6515, k2=0.0203, g=0.2409, p44); Due to short application intervals (≤10d) lab DT50 20.6 d SFO was used as worst case for PECsoil calculations",
+    "note": "Normalized max substitute DT50 is 34.1 d from DFOP k2 (k1=0.6515, k2=0.0203, g=0.2409, p44); Due to short application intervals (≤10d) lab DT50 20.6 d SFO was used as worst case for PECsoil calculations",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -753,18 +763,19 @@
     "page": "57",
     "reason": "EFSA LoEP",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
     "substance": "Cymoxanil",
     "type": "EFSA PECsoil",
-    "DT50": 7.3,
-    "kinetics": "SFO",
-    "sk": "j.efsa.2008.167r",
-    "page": "70",
+    "DT50": 19.9,
+    "kinetics": "FOMC",
+    "sk": "j.efsa.2026.10150_LoEP",
+    "page": "68",
     "reason": "EFSA LoEP",
-    "note": "7.3 is recalculated from normalized FOMC DT90/3.32  p64",
-    "recorded": "luel",
+    "note": "\"worst case un-normalised laboratory DT90/3.3\"",
+    "recorded": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -773,9 +784,10 @@
     "DT50": 0.1,
     "kinetics": "SFO",
     "sk": "j.efsa.2018.5307",
-    "page": "44",
+    "page": "40",
     "reason": "EFSA LoEP",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -784,8 +796,9 @@
     "sk": "j.efsa.2018.5152",
     "page": "59",
     "reason": "EFSA LoEP",
-    "note": "No degradation is expected.",
+    "note": "\"No degradation is expected.\"",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -797,6 +810,7 @@
     "page": "78",
     "reason": "EFSA LoEP",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -808,6 +822,7 @@
     "page": "34",
     "reason": "EFSA LoEP",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -819,6 +834,7 @@
     "page": "56",
     "reason": "EFSA LoEP",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -829,7 +845,9 @@
     "sk": "j.efsa.2018.5151",
     "page": "41",
     "reason": "EFSA LoEP",
+    "note": "\"Worst-case from laboratory soil trials, geometric mean of two values (different label positions)\"",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -840,12 +858,14 @@
     "sk": "j.efsa.2018.5150",
     "page": "40",
     "reason": "EFSA LoEP",
+    "note": "\"Worst-case from laboratory soil trials, referenced to pF2 and\r\n20°C. Geometric mean of two values\"",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
     "substance": "Isoproturon",
-    "type": "Worst case lab DT50",
+    "type": "Maximum non-normalised lab DT50",
     "DT50": 29.6,
     "kinetics": "SFO",
     "sk": "j.efsa.2015.4206",
@@ -859,7 +879,7 @@
   {
     "substance": "Metrafenone",
     "type": "EFSA PECsoil",
-    "DT50": 533.19014,
+    "DT50": 533.2,
     "kinetics": "DFOP",
     "k1": 0.206,
     "k2": 0.0013,
@@ -867,7 +887,9 @@
     "sk": "j.efsa.2023.8012",
     "page": "33",
     "reason": "EFSA LoEP",
+    "note": "Substitute half-life calculated from DFOP k2",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -879,8 +901,9 @@
     "sk": "j.efsa.2023.8032",
     "page": "56",
     "reason": "EFSA LoEP",
-    "note": "No pseudo DT50 calculated, as DT90 and DT50 are both >1000d",
+    "note": "The substitute DT50 calculated from the FOMC parameters (also given for the loamy sand, USA, on p. 40) is 265900 days, which appears unrealistic in the context of the field dissipation data, although e.g. for the Z-isomer in the sandy loam, UK, a substitue DT50 of   29300 days is obtained in the lab. It is unclear why no worst-case non-normalised field results were used.",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -891,7 +914,9 @@
     "sk": "j.efsa.2006.78r",
     "page": "60",
     "reason": "EFSA LoEP",
+    "note": "\"worst case first order laboratory value, undertaken at 40-50% MWHC and a temperature of 20 °C\"",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -912,9 +937,10 @@
     "DT50": 43,
     "kinetics": "SFO",
     "sk": "j.efsa.2014.3913",
-    "page": "56",
+    "page": "48",
     "reason": "EFSA LoEP",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -947,8 +973,9 @@
     "sk": "j.efsa.2015.3973",
     "page": "34",
     "reason": "EFSA LoEP",
-    "note": "no degradation considered",
+    "note": "\"No degradation considered.\"",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -959,8 +986,9 @@
     "sk": "j.efsa.2024.8177_LoEP",
     "page": "57",
     "reason": "EFSA LoEP",
-    "note": "listed as correct value to be used in future calculations (53.1 d was used in Conclusion)",
+    "note": "Listed as correct value to be used in future calculations (53.1 d was used in Conclusion)",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -995,7 +1023,9 @@
     "sk": "j.efsa.2024.8177_LoEP",
     "page": "57",
     "reason": "EFSA LoEP",
+    "note": "\"default value from lab studies\"",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -1053,8 +1083,9 @@
     "sk": "j.efsa.2011.2091",
     "page": "44",
     "reason": "EFSA LoEP",
-    "note": "Longest laboratory corrected only for temperature using Q10 = 2.58",
+    "note": "\"Longest laboratory corrected only for temperature using Q10 = 2.58\"",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
@@ -1065,32 +1096,59 @@
     "sk": "j.efsa.2011.2091",
     "page": "44",
     "reason": "EFSA LoEP",
-    "note": "Longest normalised laboratory value",
+    "note": "\"Longest normalised laboratory value\"",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
     "substance": "MCPB",
-    "type": "physchem",
-    "DT50": 6.8,
+    "type": "Maximum non-normalised lab DT50",
+    "DT50": 11.4,
     "kinetics": "SFO",
     "sk": "MCPB_RR_2005",
     "page": "7",
     "reason": "Rewiev Report LoEP",
-    "note": "20 °C, aerobic (from 2 to 11.4 days; n = 11)",
     "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
-    "substance": "MCPB-sodium",
-    "type": "physchem",
+    "substance": "MCPB",
+    "type": "Mean non-normalised lab DT50",
     "DT50": 6.8,
     "kinetics": "SFO",
     "sk": "MCPB_RR_2005",
     "page": "7",
     "reason": "Rewiev Report LoEP",
-    "note": "20 °C, aerobic (from 2 to 11.4 days; n = 11)",
+    "note": "Not clear if arithmetic or geometric mean",
     "recorded": "luel",
+    "checked": "rajo",
+    "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
+  },
+  {
+    "substance": "Propyzamide",
+    "type": "EFSA PECsoil",
+    "DT50": 195.2,
+    "kinetics": "SFO",
+    "sk": "j.efsa.2016.4554_LoEP",
+    "page": "37",
+    "reason": "EFSA LoEP",
+    "recorded": "luel",
+    "checked": "rajo",
+    "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
+  },
+  {
+    "substance": "Chlorantraniliprole",
+    "type": "EFSA PECsoil",
+    "DT50": 1378,
+    "kinetics": "SFO",
+    "sk": "j.efsa.2013.3143",
+    "page": "56",
+    "reason": "EFSA LoEP",
+    "note": "Maximum normalised worst case lab DT50 (Marietta sandy loam) used for PECsoil calculations by EFSA",
+    "recorded": "luel",
+    "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   }
 ]
