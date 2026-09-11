@@ -60,8 +60,7 @@ srppp_map_manual <- tribble(
   "Pyrethrins", "323",
   "Soy lecithin", "988",
   "Sulfur", "338",
-  "Zoxamide", "1404",
-  "Metaldehyde", "Metaldehyd")
+  "Zoxamide", "1404")
 
 # Map for substances that have the same name in the old and the new XML versions
 srppp_map_v1_v2 <- srppp_substances_merged[c("pk_v1", "pk_v2")] |>
