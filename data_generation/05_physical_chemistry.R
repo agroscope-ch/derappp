@@ -76,6 +76,9 @@ hydrolysis <- tribble(
   "j.efsa.2020.6230_LoEP", 48L, "[14C-trichloromethyl] label",
   "Captan", NA, 8.1, "min", 25, 9,
   "j.efsa.2020.6230_LoEP", 48L, "[14C-ring] label",
+  "Folpet", NA, 2.9, "h", 25, 5, "j.efsa.2023.8139_LoEP", 50, "",
+  "Folpet", NA, 1.3, "h", 25, 7, "j.efsa.2023.8139_LoEP", 50, "",
+  "Folpet", NA, 59, "s", 25, 9, "j.efsa.2023.8139_LoEP", 50, ""
   ) |>
   mutate(T = set_units(T, "°C")) |>
   mutate(T = set_units(T, "K")) |>
