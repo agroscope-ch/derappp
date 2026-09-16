@@ -73,5 +73,11 @@ species_synonyms <- tribble(~synonym, ~species,
   "Primephales promelas", "Pimephales promelas",
   "Hyella azteca", "Hyalella azteca",
   "Scenedesmus subspicata", "Scenedesmus subspicatus",
+  "Neohelice granulate","Neohelice granulata",
+  "Rana pipiens","Lithobates pipiens",
+  "C. pulchellum","Coenagrion pulchellum",
+  "Ankistrodesmus bibrianus","Selenastrum bibraianum",
+  "Ankistrodesmus bibraianus","Selenastrum bibraianum",
+  "Leuciscus idus melanotus", "Leuciscus idus",
   )
 
