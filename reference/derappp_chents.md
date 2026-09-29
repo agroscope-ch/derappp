@@ -13,16 +13,14 @@ print(x, n = 3, ...)
 
 ## Format
 
-A list of
-[chents::chent](https://pkgdown.jrwb.de/chents/reference/chent.html)
+A list of [chents::chent](https://rdrr.io/pkg/chents/man/chent.html)
 objects, with class `derappp_chents`
 
 ## Arguments
 
 - x:
 
-  A list of
-  [chents::chent](https://pkgdown.jrwb.de/chents/reference/chent.html)
+  A list of [chents::chent](https://rdrr.io/pkg/chents/man/chent.html)
   objects, with class `derappp_chents`
 
 - n:
