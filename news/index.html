@@ -39,7 +39,8 @@
 
     <div class="section level2">
 <h2 class="pkg-version" data-toc-text="0.9.3" id="version-093">version 0.9.3<a class="anchor" aria-label="anchor" href="#version-093"></a></h2>
-<ul><li>Import from <code>dm</code> instead of depending on it (issue <a href="https://github.com/agroscope-ch/derappp/issues/4" class="external-link">#4</a>) to avoid noise when loading <code>derappp</code>
+<ul><li>Improve the return value of the <code>wlt</code> function for the case of no data in derappp. The list component <code>wlt</code> is now length 1 instead of length 0, and the <code>type</code> component is NA.</li>
+<li>Import from <code>dm</code> instead of depending on it (issue <a href="https://github.com/agroscope-ch/derappp/issues/4" class="external-link">#4</a>) to avoid noise when loading <code>derappp</code>
 </li>
 <li>Some chemical entities were added</li>
 <li>Add some aggregated soil sorption and degradation endpoints prepared by <a href="https://github.com/Lutzeli" class="external-link">@Lutzeli</a></li>

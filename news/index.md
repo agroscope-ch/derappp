@@ -2,6 +2,9 @@
 
 ## version 0.9.3
 
+- Improve the return value of the `wlt` function for the case of no data
+  in derappp. The list component `wlt` is now length 1 instead of length
+  0, and the `type` component is NA.
 - Import from `dm` instead of depending on it (issue
   [\#4](https://github.com/agroscope-ch/derappp/issues/4)) to avoid
   noise when loading `derappp`
