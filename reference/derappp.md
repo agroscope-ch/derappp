@@ -67,7 +67,7 @@ substance_keyssubstancesubstance_keys:substance->substances:substance
 
 # The list of chemical entities ("chents")
 derappp$chents
-#> # A tibble: 378 × 8
+#> # A tibble: 380 × 8
 #>    chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
 #>    <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>        
 #>  1 (10Z)-Heptadec-10-en… TRUE  NA    308.  "CCCC… NA      NA       NA           
@@ -80,7 +80,7 @@ derappp$chents
 #>  8 1-Methylcyclopropene  TRUE  NA     54.1 "CC1=…  1.51e5 SHDPRTQ… plant growth…
 #>  9 1-Naphthylacetic acid TRUE  NA    186.  "C1=C…  6.86e3 PRPINYU… NA           
 #> 10 1-Naphthylacetic aci… TRUE  NA    208.  "C1=C…  2.37e7 CJUUXVF… NA           
-#> # ℹ 368 more rows
+#> # ℹ 370 more rows
 
 # Some vapor pressures and water solubilities
 # We need to convert to °C if we do not want Kelvin
@@ -188,7 +188,7 @@ head(derappp$aquatic_toxicity) |>
 
 # Species groupings and taxonomic IDs
 derappp$species
-#> # A tibble: 204 × 7
+#> # A tibble: 225 × 7
 #>    species      group derappp_species ott_id is_synonym flags salt_water_species
 #>    <chr>        <chr> <chr>            <int> <lgl>      <chr> <lgl>             
 #>  1 Acipenser t… Fish  Acipenser tran… 3.79e5 FALSE      ""    FALSE             
@@ -199,7 +199,7 @@ derappp$species
 #>  6 Anabaena fl… Aqua… Dolichospermum… 3.69e5 FALSE      "sib… FALSE             
 #>  7 Anabaena fl… Aqua… Dolichospermum… 3.69e5 FALSE      "sib… FALSE             
 #>  8 Anabaena va… Aqua… Trichormus var… 5.24e5 TRUE       "inc… FALSE             
-#>  9 Ankistrodes… Aqua… Ankistrodesmus… 7.28e5 FALSE      ""    FALSE             
-#> 10 Aphanizomen… Aqua… Aphanizomenon … 8.94e5 FALSE      "sib… FALSE             
-#> # ℹ 194 more rows
+#>  9 Ankistrodes… Aqua… Selenastrum bi… 3.06e4 FALSE      ""    FALSE             
+#> 10 Ankistrodes… Aqua… Selenastrum bi… 3.06e4 FALSE      ""    FALSE             
+#> # ℹ 215 more rows
 ```

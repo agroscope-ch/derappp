@@ -56,7 +56,7 @@ Code
 derappp$substances
 ```
 
-    # A tibble: 409 × 3
+    # A tibble: 411 × 3
        substance                                                   n_chents type
        <chr>                                                          <int> <fct>
      1 (10Z)-Heptadec-10-enoic acid, potassium salt                       1 chent
@@ -69,7 +69,7 @@ derappp$substances
      8 1-Methylcyclopropene                                               1 chent
      9 1-Naphthylacetic acid                                              1 chent
     10 1-Naphthylacetic acid sodium salt                                  1 chent
-    # ℹ 399 more rows
+    # ℹ 401 more rows
 
 ### Pure substances with defined chemical structure (chemical entities)
 
@@ -86,7 +86,7 @@ Code
 derappp$substance_compositions |> filter(min == 1)
 ```
 
-    # A tibble: 378 × 6
+    # A tibble: 380 × 6
        substance                                       chent   min   max doi    page
        <chr>                                           <chr> <dbl> <dbl> <chr> <int>
      1 (10Z)-Heptadec-10-enoic acid, potassium salt    (10Z…     1     1 <NA>     NA
@@ -99,7 +99,7 @@ derappp$substance_compositions |> filter(min == 1)
      8 1-Methylcyclopropene                            1-Me…     1     1 <NA>     NA
      9 1-Naphthylacetic acid                           1-Na…     1     1 <NA>     NA
     10 1-Naphthylacetic acid sodium salt               1-Na…     1     1 <NA>     NA
-    # ℹ 368 more rows
+    # ℹ 370 more rows
 
 ### Mixtures of chemical entities
 
@@ -114,7 +114,7 @@ Code
 derappp$substance_compositions |> filter(min < 1)
 ```
 
-    # A tibble: 48 × 6
+    # A tibble: 50 × 6
        substance        chent                       min   max doi               page
        <chr>            <chr>                     <dbl> <dbl> <chr>            <int>
      1 Abamectin        Avermectin B1a              0.8 1     10.2903/j.efsa.…     2
@@ -127,7 +127,7 @@ derappp$substance_compositions |> filter(min < 1)
      8 Bifenthrin       Bifenthrin-(1S,3S)          0   1     10.2903/j.efsa.…    11
      9 Bordeaux mixture Copper(II) sulfate          0   1     10.2903/j.efsa.…     7
     10 Bordeaux mixture Calcium hydroxide           0   1     10.2903/j.efsa.…     7
-    # ℹ 38 more rows
+    # ℹ 40 more rows
 
 ### Substances without specified composition
 
@@ -142,7 +142,7 @@ Code
 derappp$substance_compositions |> filter(is.na(min))
 ```
 
-    # A tibble: 17 × 6
+    # A tibble: 16 × 6
        substance                              chent   min   max doi    page
        <chr>                                  <chr> <dbl> <dbl> <chr> <int>
      1 3AEY                                   <NA>     NA    NA <NA>     NA
@@ -153,15 +153,14 @@ derappp$substance_compositions |> filter(is.na(min))
      6 Horsetail extract                      <NA>     NA    NA <NA>     NA
      7 Maltodextrin                           <NA>     NA    NA <NA>     NA
      8 Mancozeb                               <NA>     NA    NA <NA>     NA
-     9 Meptyldinocap                          <NA>     NA    NA <NA>     NA
-    10 Metiram                                <NA>     NA    NA <NA>     NA
-    11 Mineral oil                            <NA>     NA    NA <NA>     NA
-    12 Orange oil                             <NA>     NA    NA <NA>     NA
-    13 Paraffin oil                           <NA>     NA    NA <NA>     NA
-    14 Soy lecithin                           <NA>     NA    NA <NA>     NA
-    15 Tea tree oil                           <NA>     NA    NA <NA>     NA
-    16 Terpenoid Blend QRD 460                <NA>     NA    NA <NA>     NA
-    17 Zineb                                  <NA>     NA    NA <NA>     NA
+     9 Metiram                                <NA>     NA    NA <NA>     NA
+    10 Mineral oil                            <NA>     NA    NA <NA>     NA
+    11 Orange oil                             <NA>     NA    NA <NA>     NA
+    12 Paraffin oil                           <NA>     NA    NA <NA>     NA
+    13 Soy lecithin                           <NA>     NA    NA <NA>     NA
+    14 Tea tree oil                           <NA>     NA    NA <NA>     NA
+    15 Terpenoid Blend QRD 460                <NA>     NA    NA <NA>     NA
+    16 Zineb                                  <NA>     NA    NA <NA>     NA
 
 ## Chemical entities
 
@@ -174,7 +173,7 @@ Code
 derappp$chents
 ```
 
-    # A tibble: 378 × 8
+    # A tibble: 380 × 8
        chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
        <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>
      1 (10Z)-Heptadec-10-en… TRUE  <NA>  308.  "CCCC… NA      <NA>     <NA>
@@ -187,7 +186,7 @@ derappp$chents
      8 1-Methylcyclopropene  TRUE  <NA>   54.1 "CC1=…  1.51e5 SHDPRTQ… plant growth…
      9 1-Naphthylacetic acid TRUE  <NA>  186.  "C1=C…  6.86e3 PRPINYU… <NA>
     10 1-Naphthylacetic aci… TRUE  <NA>  208.  "C1=C…  2.37e7 CJUUXVF… <NA>
-    # ℹ 368 more rows
+    # ℹ 370 more rows
 
 In the package, there is also a list of chent objects that can be used
 to plot any of the structures as shown in [Figure 2](#fig-tebufenozide)
@@ -217,7 +216,7 @@ Code
 derappp$sources
 ```
 
-    # A tibble: 597 × 5
+    # A tibble: 601 × 5
        sk                        reference                         year  url   file
        <chr>                     <chr>                             <chr> <chr> <chr>
      1 derappp                   "E. Lutz, M. Mathis, and J. Rank… 2026  http… <NA>
@@ -230,7 +229,7 @@ derappp$sources
      8 PPDB_Agroscope_2024-07-01 "University of Hertfordshire, ed… 2024  <NA>  <NA>
      9 PIERIS_2024-06-05         "Agroscope, ed. _Pesticides and … 2024  <NA>  <NA>
     10 ranke2026openfoodtox      "J. Ranke. _OpenFoodTox: EFSA Op… 2026  http… <NA>
-    # ℹ 587 more rows
+    # ℹ 591 more rows
 
 Any of the sources can be referenced in any vignette in this package.
 For example, we can refer to the derapp package ([Lutz et al.
@@ -252,7 +251,7 @@ Code
 derappp$species
 ```
 
-    # A tibble: 204 × 7
+    # A tibble: 225 × 7
        species      group derappp_species ott_id is_synonym flags salt_water_species
        <chr>        <chr> <chr>            <int> <lgl>      <chr> <lgl>
      1 Acipenser t… Fish  Acipenser tran… 3.79e5 FALSE      ""    FALSE
@@ -263,9 +262,9 @@ derappp$species
      6 Anabaena fl… Aqua… Dolichospermum… 3.69e5 FALSE      "sib… FALSE
      7 Anabaena fl… Aqua… Dolichospermum… 3.69e5 FALSE      "sib… FALSE
      8 Anabaena va… Aqua… Trichormus var… 5.24e5 TRUE       "inc… FALSE
-     9 Ankistrodes… Aqua… Ankistrodesmus… 7.28e5 FALSE      ""    FALSE
-    10 Aphanizomen… Aqua… Aphanizomenon … 8.94e5 FALSE      "sib… FALSE
-    # ℹ 194 more rows
+     9 Ankistrodes… Aqua… Selenastrum bi… 3.06e4 FALSE      ""    FALSE
+    10 Ankistrodes… Aqua… Selenastrum bi… 3.06e4 FALSE      ""    FALSE
+    # ℹ 215 more rows
 
 ## Endpoint tables
 
@@ -385,7 +384,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 1,512 × 7
+    # A tibble: 1,494 × 7
        substance             derappp_species       duration effect sign  value sk
        <chr>                 <chr>                      [d] <chr>  <chr> [mg/… <chr>
      1 1-Naphthylacetic acid Cyprinus carpio              4 morta… >        56 j.ef…
@@ -398,7 +397,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
      8 1-Naphthylacetic acid Daphnia magna                2 morta… <       100 j.ef…
      9 1-Naphthylacetic acid Daphnia magna                4 morta… >        82 j.ef…
     10 1-Naphthylacetic acid Daphnia magna               21 repro… =        22 j.ef…
-    # ℹ 1,502 more rows
+    # ℹ 1,484 more rows
 
 ### Soil toxicity
 
