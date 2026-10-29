@@ -33,6 +33,18 @@ derappp_bib_aquatic_toxicity <- c(
     file = 'EU_DAR_dRAR/Captan_DAR_2005/Captan_DAR_07_Vol 3_B9_public',
   ),
   BibEntry(
+    key = 'Diuron_RAR_22_LoEP_2018-03-16',
+    title = 'Diuron RAR 22 List of End Points (LoEP)',
+    series = 'Diuron RAR 2018',
+    bibtype = 'Report',
+    institution = 'European Commission',
+    author = '{Germany} and {Denmark}',
+    type = 'Renewal Assessment Report (RAR)',
+    year = '2018',
+    note = 'Rapporteur Member State: Germany; Co-Rapporteur Member State: Denmark',
+    file = 'EU_DAR_dRAR/Diuron_RAR_2018/Diuron_RAR_22_LoEP_2018-03-16.pdf',
+  ),
+  BibEntry(
     key = 'Folpet_DAR_07_Vol_3_B9_public',
     title = 'Folpet DAR Volume 3 Annex B.9 public',
     series = 'Folpet DAR 2005',
