@@ -133,7 +133,7 @@ efsa_map_auto <- substances |>
 # "The proportion of isomers was originally defined as a 3:1 ratio."
 # Therefore, the IUPAC name used in OpenFoodtox (explicitly not stating
 # a ratio) can be mapped to our definition which is based on the ISO definition.
-# A similar case is Meptyldinocap, where the ISO definition was apparently updated 
+# A similar case is Meptyldinocap, where the ISO definition was apparently updated
 # to allow for up to 25% of the minor component after the EFSA conclusion was published
 efsa_map <- efsa_map_auto |>
   mutate(DOI = recode_values(substance,
@@ -418,6 +418,16 @@ derappp_bib_rar_sssd_rr <- c(
     title = "Review report for the active substance MCPB",
     date = "2005-04-15",
     file = "EU_Review_Reports/MCPB_RR_2005.pdf"
+  ),
+  BibEntry(
+    key = "Paraffin_oil_ASU_DAR_07_Vol3_B9_public",
+    bibtype = "Report",
+    institution = "European Commission",
+    author = "{Greece}",
+    type = "Draft Assessment Report (DAR)",
+    title = "Draft Assessment Report (DAR) - Paraffin Oil (CAS 8042-47-5)",
+    date = "2008-08",
+    file = "EU_DAR_dRAR/Paraffin_oil_DAR_2008/Paraffin oil ASU_DAR_07_Vol3_B9_public.pdf"
   ),
   BibEntry(
     key = "Prosulfocarb_RR_2007",
