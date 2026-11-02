@@ -82,7 +82,7 @@ check_and_add <- function(filename) {
     rowwise() |>  # set_units is not vectorised
     mutate(duration = set_units(dur_val, ifelse(is.na(dur_unit), "d", dur_unit), mode = "standard")) |>
     mutate(duration = set_units(duration, "d")) |>
-    mutate(value = ifelse(is.na(value), set_units(NA, "mg/L"), set_units(value, unit, mode = "standard"))) |> # NA values need a unit, too
+    mutate(value = set_units(ifelse(is.na(value), NA, value), unit, mode = "standard")) |>
     mutate(value = set_units(value, "mg/L")) |> # Convert reported units to mg/L
     mutate(sign = if_else(is.na(sign), "=", sign)) |>
     mutate(file = filename) |>
