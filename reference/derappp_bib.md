@@ -39,7 +39,8 @@ derappp_bib[1:10]
 #> <https://agroscope-ch.github.io/openfoodtox>.
 #> 
 #> [7] J. Ranke. _chents: Chemical Entities as R Objects_. R package
-#> version 0.4.1. 2025. <https://pkgdown.jrwb.de/chents/>.
+#> version 0.4.2, commit 7c84d4ac9d1178717fba6d1f0c988c8ed2834980. 2025.
+#> <https://github.com/jranke/chents>.
 #> 
 #> [8] E. Szöcs, T. Stirling, E. R. Scott, et al. “webchem: An R Package
 #> to Retrieve Chemical Information from the Web”. In: _Journal of

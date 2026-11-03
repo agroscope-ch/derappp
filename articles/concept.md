@@ -233,7 +233,7 @@ National Center for Biotechnology Information. 2024. ‘PubChem’.
 <https://pubchem.ncbi.nlm.nih.gov/>.
 
 Ranke, Johannes. 2026. *Chents: Chemical Entities as r Objects*.
-<https://pkgdown.jrwb.de/chents/>.
+<https://github.com/jranke/chents>.
 
 Szöcs, Eduard, Tamás Stirling, Eric R. Scott, Andreas Scharmüller, and
 Ralf B. Schäfer. 2020. ‘webchem: An R Package to Retrieve Chemical
