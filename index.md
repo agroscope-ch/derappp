@@ -41,7 +41,7 @@ published on CRAN.
 
 In case you wonder how to install a version \<= 1.0.11 of the
 `DiagrammeR` package (we list this as “Suggests:” in the DESCRIPTION),
-with the `pak` installed it is as easy as
+with `pak` installed it is as easy as
 
 ``` r
 
