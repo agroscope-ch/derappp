@@ -13,16 +13,14 @@ print(x, n = 3, ...)
 
 ## Format
 
-A list of
-[chents::chent](https://pkgdown.jrwb.de/chents/reference/chent.html)
+A list of [chents::chent](https://rdrr.io/pkg/chents/man/chent.html)
 objects, with class `derappp_chents`
 
 ## Arguments
 
 - x:
 
-  A list of
-  [chents::chent](https://pkgdown.jrwb.de/chents/reference/chent.html)
+  A list of [chents::chent](https://rdrr.io/pkg/chents/man/chent.html)
   objects, with class `derappp_chents`
 
 - n:
@@ -101,7 +99,7 @@ derappp_chents$Captan$pubchem$MolecularFormula
 # items
 print(derappp_chents, n = 2)
 #> <derappp_chents>
-#> A list of  380 <chent> objects
+#> A list of  382 <chent> objects
 #> Showing the first  2  entries:
 #> 
 #> <pai> without ISO common name

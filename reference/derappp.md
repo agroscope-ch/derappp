@@ -67,7 +67,7 @@ substance_keyssubstancesubstance_keys:substance->substances:substance
 
 # The list of chemical entities ("chents")
 derappp$chents
-#> # A tibble: 380 × 8
+#> # A tibble: 382 × 8
 #>    chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
 #>    <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>        
 #>  1 (10Z)-Heptadec-10-en… TRUE  NA    308.  "CCCC… NA      NA       NA           
@@ -80,7 +80,7 @@ derappp$chents
 #>  8 1-Methylcyclopropene  TRUE  NA     54.1 "CC1=…  1.51e5 SHDPRTQ… plant growth…
 #>  9 1-Naphthylacetic acid TRUE  NA    186.  "C1=C…  6.86e3 PRPINYU… NA           
 #> 10 1-Naphthylacetic aci… TRUE  NA    208.  "C1=C…  2.37e7 CJUUXVF… NA           
-#> # ℹ 370 more rows
+#> # ℹ 372 more rows
 
 # Some vapor pressures and water solubilities
 # We need to convert to °C if we do not want Kelvin
@@ -119,7 +119,7 @@ derappp$chents |>
   filter(db == "srppp") |>
   left_join(srppphist::srppp_active_substances, by = c(key = "pk")) |>
   select(chent, iso, smiles, substance_de)
-#> # A tibble: 382 × 4
+#> # A tibble: 380 × 4
 #>    chent                    iso   smiles                           substance_de 
 #>    <chr>                    <chr> <chr>                            <chr>        
 #>  1 1-Decanol                NA    CCCCCCCCCCO                      1-Decanol    
@@ -132,7 +132,7 @@ derappp$chents |>
 #>  8 2-(1-Naphthyl) acetamide NA    C1=CC=C2C(=C1)C=CC=C2CC(=O)N     1-Naphthylac…
 #>  9 2-(1-Naphthyl) acetamide NA    C1=CC=C2C(=C1)C=CC=C2CC(=O)N     1-Naphthylac…
 #> 10 6-Benzyladenine          NA    C1=CC=C(C=C1)CNC2=NC=NC3=C2NC=N3 6-benzyladen…
-#> # ℹ 372 more rows
+#> # ℹ 370 more rows
 
 # Show some soil sorption data with units, use percent for readability
 derappp$soil_sorption |>
@@ -188,7 +188,7 @@ head(derappp$aquatic_toxicity) |>
 
 # Species groupings and taxonomic IDs
 derappp$species
-#> # A tibble: 225 × 7
+#> # A tibble: 226 × 7
 #>    species      group derappp_species ott_id is_synonym flags salt_water_species
 #>    <chr>        <chr> <chr>            <int> <lgl>      <chr> <lgl>             
 #>  1 Acipenser t… Fish  Acipenser tran… 3.79e5 FALSE      ""    FALSE             
@@ -201,5 +201,5 @@ derappp$species
 #>  8 Anabaena va… Aqua… Trichormus var… 5.24e5 TRUE       "inc… FALSE             
 #>  9 Ankistrodes… Aqua… Selenastrum bi… 3.06e4 FALSE      ""    FALSE             
 #> 10 Ankistrodes… Aqua… Selenastrum bi… 3.06e4 FALSE      ""    FALSE             
-#> # ℹ 215 more rows
+#> # ℹ 216 more rows
 ```
