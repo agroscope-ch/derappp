@@ -1,3 +1,8 @@
+## version 0.9.4.9000
+
+- `wlt()`: Add derappp notes to the `data` component of the returned object
+- Add aquatic toxicity for paraffin oil including data from the 2008 EFSA conclusions for now, as it is not always clear why they do not appear in any of the current RARs and EFSA conclusions
+
 ## version 0.9.4
 
 - A unit conversion error sneaked in that lead to aquatic toxicity endpoints in µg/L to be read in with the wrong units. Thanks to @Lutzeli and @MarcelMagro for independently spotting and fixing the error (#14 and #15).

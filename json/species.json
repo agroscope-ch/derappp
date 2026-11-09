@@ -234,6 +234,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Carp",
+    "group": "Fish",
+    "derappp_species": "Cyprinus carpio",
+    "ott_id": 429083,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Catostomus commersoni",
     "group": "Fish",
     "derappp_species": "Catostomus commersonii",

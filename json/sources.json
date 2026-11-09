@@ -1,7 +1,7 @@
 [
   {
     "sk": "derappp",
-    "reference": "E. Lutz, M. Mathis, and J. Ranke. _derappp: Data for Environmental\nRisk Assessment of Plant Protection Products_. R package version 0.9.3.\n2026. <https://agroscope-ch.github.io/derappp/>.",
+    "reference": "E. Lutz, M. Mathis, and J. Ranke. _derappp: Data for Environmental\nRisk Assessment of Plant Protection Products_. R package version 0.9.4.\n2026. <https://agroscope-ch.github.io/derappp/>.",
     "year": "2026",
     "url": "https://agroscope-ch.github.io/derappp/"
   },
@@ -1896,6 +1896,27 @@
     "year": "2010",
     "url": "http://dx.doi.org/10.2903/j.efsa.2010.1876",
     "file": "10.2903/j.efsa.2010.1876.pdf"
+  },
+  {
+    "sk": "j.efsa.2009.220r",
+    "reference": "EFSA. _Peer review of the pesticide risk assessment of the active\nsubstance paraffin oil (CAS 8042-47-5, chain lengths C17-C31, boiling\npoint 280-460°C)._ EFSA conclusion. European Food Safety Authority,\nMar. 09, 2009. DOI: doi:10.2903/j.efsa.2009.220r.\n<http://dx.doi.org/10.2903/j.efsa.2009.220r>.",
+    "year": "2009",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2009.220r",
+    "file": "10.2903/j.efsa.2009.220r.pdf"
+  },
+  {
+    "sk": "j.efsa.2009.216r",
+    "reference": "EFSA. _Peer review of the pesticide risk assessment of the active\nsubstances paraffin oils (CAS 64742-46-7 chain lengths C11-C25; CAS\n72623-86-0 chain lengths C15-C30 and CAS 97862-82-3 chain lengths\nC11-C30)._ EFSA conclusion. European Food Safety Authority, Mar. 30,\n2009. DOI: doi:10.2903/j.efsa.2009.216r.\n<http://dx.doi.org/10.2903/j.efsa.2009.216r>.",
+    "year": "2009",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2009.216r",
+    "file": "10.2903/j.efsa.2009.216r.pdf"
+  },
+  {
+    "sk": "j.efsa.2009.219r",
+    "reference": "EFSA. _Peer review of the pesticide risk assessment of the active\nsubstance paraffin oil (CAS 8042-47-5, chain lengths C18-C30, reliable\nboiling point range not available)._ EFSA conclusion. European Food\nSafety Authority, Mar. 31, 2009. DOI: doi:10.2903/j.efsa.2009.219r.\n<http://dx.doi.org/10.2903/j.efsa.2009.219r>.",
+    "year": "2009",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2009.219r",
+    "file": "10.2903/j.efsa.2009.219r.pdf"
   },
   {
     "sk": "j.efsa.2008.175r",

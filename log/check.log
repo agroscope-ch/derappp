@@ -1,16 +1,16 @@
 * using log directory ‘/home/f80868656/projects/derappp/derappp.Rcheck’
-* using R version 4.6.1 (2026-06-24)
+* using R version 4.6.2 (2026-10-29)
 * using platform: x86_64-pc-linux-gnu
 * R was compiled by
-    gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
-    GNU Fortran (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
-* running under: Ubuntu 24.04.4 LTS
+    gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+    GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+* running under: Ubuntu 26.04.1 LTS
 * using session charset: UTF-8
-* current time: 2026-09-30 05:15:12 UTC
+* current time: 2026-11-09 12:27:36 UTC
 * using options ‘--no-tests --as-cran’
 * checking for file ‘derappp/DESCRIPTION’ ... OK
 * checking extension type ... Package
-* this is package ‘derappp’ version ‘0.9.3’
+* this is package ‘derappp’ version ‘0.9.4’
 * package encoding: UTF-8
 * checking CRAN incoming feasibility ... OK
 * checking package namespace information ... OK
@@ -21,11 +21,11 @@
 * checking for hidden files and directories ... OK
 * checking for portable file names ... OK
 * checking for sufficient/correct file permissions ... OK
-* checking whether package ‘derappp’ can be installed ... [14s/15s] OK
+* checking whether package ‘derappp’ can be installed ... [17s/18s] OK
 * checking installed package size ... INFO
   installed size is 10.6Mb
   sub-directories of 1Mb or more:
-    data   7.9Mb
+    data   8.0Mb
     doc    2.2Mb
 * checking package directory ... OK
 * checking for future file timestamps ... OK
@@ -48,7 +48,7 @@
 * checking S3 generic/method consistency ... OK
 * checking replacement functions ... OK
 * checking foreign function calls ... OK
-* checking R code for possible problems ... [12s/13s] OK
+* checking R code for possible problems ... [15s/14s] OK
 * checking Rd files ... OK
 * checking Rd metadata ... OK
 * checking Rd line widths ... OK
@@ -69,7 +69,7 @@
 * checking tests ... SKIPPED
 * checking for unstated dependencies in vignettes ... OK
 * checking package vignettes ... OK
-* checking re-building of vignette outputs ... OK
+* checking re-building of vignette outputs ... [11s/10s] OK
 * checking PDF version of manual ... OK
 * checking HTML version of manual ... NOTE
 Skipping checking HTML validation: no command 'tidy' found.

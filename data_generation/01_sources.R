@@ -82,11 +82,18 @@ oft_latest_efsa_conclusions_partial <- oft$efsa_outputs |>
 # considered relevant for surface water assessments based on PECini
 
 # 2,4-D 2014: The 2016 EFSA conclusion linked to 2,4-D is actually on 2,4-DB
+
+# Paraffin oil variants: We could not understand why some of the old studies were not included
+# in the conclusions from 2024 and 2026
 oft_latest_efsa_conclusions_manual <- oft$efsa_outputs |>
+  mutate(Substance = if_else(
+    grepl("Paraffin oil", Substance), 
+    "Paraffin oil", Substance))  |> 
   filter(
     (Substance == "Captan" & DOI == "doi:10.2903/j.efsa.2009.296r") |
-    (Substance == "2,4-D" & DOI == "doi:10.2903/j.efsa.2014.3812")
-  ) |>
+    (Substance == "2,4-D" & DOI == "doi:10.2903/j.efsa.2014.3812") |
+    (grepl("Paraffin oil", Substance) & grepl("doi:10.2903\\/j.efsa.2009.2..r", DOI))
+  ) |> 
   select(Substance, OutputID, Published, Title, DOI, URL)
 
 oft_latest_efsa_conclusions <- rbind(
@@ -135,30 +142,43 @@ efsa_map_auto <- substances |>
 # a ratio) can be mapped to our definition which is based on the ISO definition.
 # A similar case is Meptyldinocap, where the ISO definition was apparently updated
 # to allow for up to 25% of the minor component after the EFSA conclusion was published
-efsa_map <- efsa_map_auto |>
+efsa_map_adapted <- efsa_map_auto |>
   mutate(DOI = recode_values(substance,
-  "Copper oxychloride" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
-  "Copper(II) chloride" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
-  "Copper(II) hydroxide" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
-  "Copper(II) nitrate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
-  "Copper(II) sulfate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
-  "Flurochloridone" ~ "doi:10.2903/j.efsa.2010.1869", # ISO definition has been updated
-  "Potassium bicarbonate" ~ "doi:10.2903/j.efsa.2021.6593", # substance not in OpenFoodTox
-  "Triclopyr-butotyl" ~ "doi:10.2903/j.efsa.2024.8177", # 2024 conclusion not in OpenFoodTox
-  "Aluminium sulfate" ~ "doi:10.2903/j.efsa.2010.1889", # Substance is called Aluminium sulphate in OpenFoodTox
-  "Azadirachtin" ~ "doi:10.2903/j.efsa.2018.5234", # Substance is called Azadirachtin A in OpenFoodTox
-  "Emamectin benzoate" ~ "doi:10.2903/j.efsa.2012.2955", # Substance is called Emamectin in OpenFoodTox
-  "Fatty acids C10-C20, potassium salts" ~ "doi:10.2903/j.efsa.2013.3023",
-  "Haloxyfop-P-methyl" ~ "doi:10.2903/j.efsa.2009.1348", # Substance is called Haloxyfop-P-methyl ester in OpenFoodTox
-  "Lime sulfur" ~ "doi:10.2903/j.efsa.2010.1890", # Substance is called Lime sulphur in OpenFoodTox
-  "Meptyldinocap" ~ "doi:10.2903/j.efsa.2014.3473", # Substance is called differently in OpenFoodTox
-  default = DOI)
-)
+    "Copper oxychloride" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
+    "Copper(II) chloride" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
+    "Copper(II) hydroxide" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
+    "Copper(II) nitrate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
+    "Copper(II) sulfate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
+    "Flurochloridone" ~ "doi:10.2903/j.efsa.2010.1869", # ISO definition has been updated
+    "Potassium bicarbonate" ~ "doi:10.2903/j.efsa.2021.6593", # substance not in OpenFoodTox
+    "Triclopyr-butotyl" ~ "doi:10.2903/j.efsa.2024.8177", # 2024 conclusion not in OpenFoodTox
+    "Aluminium sulfate" ~ "doi:10.2903/j.efsa.2010.1889", # Substance is called Aluminium sulphate in OpenFoodTox
+    "Azadirachtin" ~ "doi:10.2903/j.efsa.2018.5234", # Substance is called Azadirachtin A in OpenFoodTox
+    "Emamectin benzoate" ~ "doi:10.2903/j.efsa.2012.2955", # Substance is called Emamectin in OpenFoodTox
+    "Fatty acids C10-C20, potassium salts" ~ "doi:10.2903/j.efsa.2013.3023",
+    "Haloxyfop-P-methyl" ~ "doi:10.2903/j.efsa.2009.1348", # Substance is called Haloxyfop-P-methyl ester in OpenFoodTox
+    "Lime sulfur" ~ "doi:10.2903/j.efsa.2010.1890", # Substance is called Lime sulphur in OpenFoodTox
+    "Meptyldinocap" ~ "doi:10.2903/j.efsa.2014.3473", # Substance is called differently in OpenFoodTox
+    default = DOI)
+  ) |> 
+  filter(!is.na(DOI)) # Remove unmapped chemical entities
 
-# Check for unmapped chemical entities
-efsa_map <- efsa_map |>
-  filter(!is.na(DOI)) |>
-  select(substance, DOI)
+# We use a broader definition of paraffin oil, because the difference between
+# the variants regarding environmental risk is unclear
+efsa_map_manual <- tribble(~substance, ~DOI,
+
+  # Paraffin oils formulation (Arb'hiver) in OpenFoodTox, but has three additional 
+  # linked names in OpenFoodTox specifying carbon chain lengths of C11-C25, C11-C30, C15-C30):
+  "Paraffin oil", "doi:20.2903/j.efsa.2009.2016r", 
+
+  # Paraffin oils with carbon chain lengths C18-C30 in OpenFoodTox
+  "Paraffin oil", "doi:20.2903/j.efsa.2009.2019r",
+
+  # Paraffin oil (Para Sommer) in OpenFoodTox, but also in a variant specifying C17-C31 and a boiling point range
+  "Paraffin oil", "doi:20.2903/j.efsa.2009.2020r"
+  )
+
+efsa_map <- rbind(efsa_map_adapted, efsa_map_manual)
 
 # Initialize table with substance name and mappings to latest EFSA conclusions
 substance_keys <- tibble(
