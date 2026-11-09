@@ -1,6 +1,7 @@
 ## version 0.9.4
 
 - A unit conversion error sneaked in that lead to aquatic toxicity endpoints in µg/L to be read in with the wrong units. Thanks to @Lutzeli and @MarcelMagro for independently spotting and fixing the error (#14 and #15).
+- Add more aquatic toxicity endpoints from EFSA conclusions, add and update the necessary definitions.
 
 ## version 0.9.3 
 
