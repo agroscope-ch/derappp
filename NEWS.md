@@ -1,6 +1,9 @@
-## version 0.9.3 
+## version 0.9.4
 
 - A unit conversion error sneaked in that lead to aquatic toxicity endpoints in µg/L to be read in with the wrong units. Thanks to @Lutzeli and @MarcelMagro for independently spotting and fixing the error (#14 and #15).
+
+## version 0.9.3 
+
 - Add aquatic toxicity endpoints from EFSA conclusions for a number of active substances we are working on in different projects. Add or update the necessary definitions of chents, substances, species and sources.
 - Improve the return value of the `wlt` function for the case of no data in derappp. The list component `wlt` is now length 1 instead of length 0, and the `type` component is NA.
 - Import from `dm` instead of depending on it (issue #4) to avoid noise when loading `derappp`
