@@ -1,5 +1,13 @@
 # Changelog
 
+## version 0.9.4.9000
+
+- [`wlt()`](https://agroscope-ch.github.io/derappp/reference/wlt.md):
+  Add derappp notes to the `data` component of the returned object
+- Add aquatic toxicity for paraffin oil including data from the 2008
+  EFSA conclusions for now, as it is not always clear why they do not
+  appear in any of the current RARs and EFSA conclusions
+
 ## version 0.9.4
 
 - A unit conversion error sneaked in that lead to aquatic toxicity

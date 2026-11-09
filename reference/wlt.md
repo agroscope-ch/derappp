@@ -127,7 +127,7 @@ f_wlt$ratios_salt_nosalt
 #> 4 Fish                  lt_fi         0.04  NA         NA     NA   
 #> 5 Fish                  st_fi         0.027 NA         NA     NA   
 f_wlt$data
-#> # A tibble: 17 × 20
+#> # A tibble: 17 × 21
 #>    group    category species formulation test_nr test_system duration life_stage
 #>    <chr>    <chr>    <chr>   <chr>       <ord>   <chr>            [d] <chr>     
 #>  1 Aquatic… pp       Selena… ""          12      static             3 NA        
@@ -147,9 +147,9 @@ f_wlt$data
 #> 15 Fish     st_fi    Lepomi… ""          2       static             4 NA        
 #> 16 Fish     st_fi    Oncorh… ""          1       static             4 NA        
 #> 17 Fish     st_fi    Pimeph… ""          3       static             4 NA        
-#> # ℹ 12 more variables: effect <chr>, effect_details <chr>, level <chr>,
-#> #   sign <chr>, value [mg/L], measured <chr>, selected <lgl>, reason <chr>,
-#> #   wlt_candidate [mg/L], critical <lgl>, sk <chr>, page <chr>
+#> # ℹ 13 more variables: effect <chr>, effect_details <chr>, level <chr>,
+#> #   sign <chr>, value [mg/L], measured <chr>, note <chr>, selected <lgl>,
+#> #   reason <chr>, wlt_candidate [mg/L], critical <lgl>, sk <chr>, page <chr>
 
 # Repeat the analysis without the special treatment for salt water organisms
 f_wlt_special <- wlt("Flutolanil", salt_water = "special")

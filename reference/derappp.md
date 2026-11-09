@@ -192,7 +192,7 @@ head(derappp$aquatic_toxicity) |>
 
 # Species groupings and taxonomic IDs
 derappp$species
-#> # A tibble: 226 × 7
+#> # A tibble: 227 × 7
 #>    species      group derappp_species ott_id is_synonym flags salt_water_species
 #>    <chr>        <chr> <chr>            <int> <lgl>      <chr> <lgl>             
 #>  1 Acipenser t… Fish  Acipenser tran… 3.79e5 FALSE      ""    FALSE             
@@ -205,5 +205,5 @@ derappp$species
 #>  8 Anabaena va… Aqua… Trichormus var… 5.24e5 TRUE       "inc… FALSE             
 #>  9 Ankistrodes… Aqua… Selenastrum bi… 3.06e4 FALSE      ""    FALSE             
 #> 10 Ankistrodes… Aqua… Selenastrum bi… 3.06e4 FALSE      ""    FALSE             
-#> # ℹ 216 more rows
+#> # ℹ 217 more rows
 ```

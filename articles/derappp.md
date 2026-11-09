@@ -216,7 +216,7 @@ Code
 derappp$sources
 ```
 
-    # A tibble: 611 × 5
+    # A tibble: 614 × 5
        sk                        reference                         year  url   file
        <chr>                     <chr>                             <chr> <chr> <chr>
      1 derappp                   "E. Lutz, M. Mathis, and J. Rank… 2026  http… <NA>
@@ -229,7 +229,7 @@ derappp$sources
      8 PPDB_Agroscope_2024-07-01 "University of Hertfordshire, ed… 2024  <NA>  <NA>
      9 PIERIS_2024-06-05         "Agroscope, ed. _Pesticides and … 2024  <NA>  <NA>
     10 ranke2026openfoodtox      "J. Ranke. _OpenFoodTox: EFSA Op… 2026  http… <NA>
-    # ℹ 601 more rows
+    # ℹ 604 more rows
 
 Any of the sources can be referenced in any vignette in this package.
 For example, we can refer to the derapp package ([Lutz et al.
@@ -251,7 +251,7 @@ Code
 derappp$species
 ```
 
-    # A tibble: 226 × 7
+    # A tibble: 227 × 7
        species      group derappp_species ott_id is_synonym flags salt_water_species
        <chr>        <chr> <chr>            <int> <lgl>      <chr> <lgl>
      1 Acipenser t… Fish  Acipenser tran… 3.79e5 FALSE      ""    FALSE
@@ -264,7 +264,7 @@ derappp$species
      8 Anabaena va… Aqua… Trichormus var… 5.24e5 TRUE       "inc… FALSE
      9 Ankistrodes… Aqua… Selenastrum bi… 3.06e4 FALSE      ""    FALSE
     10 Ankistrodes… Aqua… Selenastrum bi… 3.06e4 FALSE      ""    FALSE
-    # ℹ 216 more rows
+    # ℹ 217 more rows
 
 ## Endpoint tables
 
@@ -384,7 +384,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 1,700 × 7
+    # A tibble: 1,736 × 7
        substance             derappp_species       duration effect sign  value sk
        <chr>                 <chr>                      [d] <chr>  <chr> [mg/… <chr>
      1 1-Naphthylacetic acid Cyprinus carpio              4 morta… >        56 j.ef…
@@ -397,7 +397,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
      8 1-Naphthylacetic acid Daphnia magna                2 morta… <       100 j.ef…
      9 1-Naphthylacetic acid Daphnia magna                4 morta… >        82 j.ef…
     10 1-Naphthylacetic acid Daphnia magna               21 repro… =        22 j.ef…
-    # ℹ 1,690 more rows
+    # ℹ 1,726 more rows
 
 ### Soil toxicity
 

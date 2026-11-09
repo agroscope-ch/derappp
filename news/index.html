@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">derappp</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.9.4</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.9.4.9000</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,6 +37,12 @@
       <small>Source: <a href="https://github.com/agroscope-ch/derappp/blob/main/NEWS.md" class="external-link"><code>NEWS.md</code></a></small>
     </div>
 
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.9.4.9000" id="version-0949000">version 0.9.4.9000<a class="anchor" aria-label="anchor" href="#version-0949000"></a></h2>
+<ul><li>
+<code><a href="../reference/wlt.html">wlt()</a></code>: Add derappp notes to the <code>data</code> component of the returned object</li>
+<li>Add aquatic toxicity for paraffin oil including data from the 2008 EFSA conclusions for now, as it is not always clear why they do not appear in any of the current RARs and EFSA conclusions</li>
+</ul></div>
     <div class="section level2">
 <h2 class="pkg-version" data-toc-text="0.9.4" id="version-094">version 0.9.4<a class="anchor" aria-label="anchor" href="#version-094"></a></h2>
 <ul><li>A unit conversion error sneaked in that lead to aquatic toxicity endpoints in µg/L to be read in with the wrong units. Thanks to <a href="https://github.com/Lutzeli" class="external-link">@Lutzeli</a> and <a href="https://github.com/MarcelMagro" class="external-link">@MarcelMagro</a> for independently spotting and fixing the error (<a href="https://github.com/agroscope-ch/derappp/issues/14" class="external-link">#14</a> and <a href="https://github.com/agroscope-ch/derappp/issues/15" class="external-link">#15</a>).</li>
