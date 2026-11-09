@@ -1,6 +1,6 @@
 # Changelog
 
-## version 0.9.3
+## version 0.9.4
 
 - A unit conversion error sneaked in that lead to aquatic toxicity
   endpoints in µg/L to be read in with the wrong units. Thanks to
@@ -9,6 +9,9 @@
   spotting and fixing the error
   ([\#14](https://github.com/agroscope-ch/derappp/issues/14) and
   [\#15](https://github.com/agroscope-ch/derappp/issues/15)).
+
+## version 0.9.3
+
 - Add aquatic toxicity endpoints from EFSA conclusions for a number of
   active substances we are working on in different projects. Add or
   update the necessary definitions of chents, substances, species and
