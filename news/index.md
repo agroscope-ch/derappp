@@ -9,6 +9,8 @@
   spotting and fixing the error
   ([\#14](https://github.com/agroscope-ch/derappp/issues/14) and
   [\#15](https://github.com/agroscope-ch/derappp/issues/15)).
+- Add more aquatic toxicity endpoints from EFSA conclusions, add and
+  update the necessary definitions.
 
 ## version 0.9.3
 
