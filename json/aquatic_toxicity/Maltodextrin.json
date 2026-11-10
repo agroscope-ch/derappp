@@ -1,0 +1,21 @@
+[
+  {
+    "substance": "Maltodextrin",
+    "derappp_species": "Daphnia magna",
+    "group": "Aquatic invertebrates",
+    "test_nr": "1",
+    "duration": 2,
+    "effect": "mortality",
+    "level": "EC50",
+    "sign": ">",
+    "value": 1000,
+    "sk": "j.efsa.2025.9294_LoEP",
+    "page": "39",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "reported_species": "Daphnia magna",
+    "recorded": "mamr",
+    "checked": "rajo",
+    "file": "maltodextrin_aquatic_toxicity.xlsx"
+  }
+]

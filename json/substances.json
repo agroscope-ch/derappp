@@ -1280,6 +1280,11 @@
     "type": "chent"
   },
   {
+    "substance": "Maleic hydrazide-potassium",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
     "substance": "Maltodextrin",
     "n_chents": 0,
     "type": "undefined"

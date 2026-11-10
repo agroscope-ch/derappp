@@ -3444,3 +3444,10 @@ Trinexapac | FALSE | NA | NA | NA | NA
 Querying PubChem for name Trinexapac ...
 Get chemical information from RDKit using PubChem SMILES
 C1CC1C(=C2C(=O)CC(CC2=O)C(=O)O)O
+
+chent Maleic hydrazide-potassium
+Maleic hydrazide-potassium | TRUE | NA | NA | NA | NA
+Querying BCPC for Maleic hydrazide-potassium ...
+Querying PubChem for inchikey ONFPEXMNTHPYGN-UHFFFAOYSA-M ...
+Get chemical information from RDKit using PubChem SMILES
+C1=CC(=NNC1=O)[O-].[K+]

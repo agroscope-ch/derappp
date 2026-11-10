@@ -163,9 +163,12 @@ efsa_map_adapted <- efsa_map_auto |>
   ) |> 
   filter(!is.na(DOI)) # Remove unmapped chemical entities
 
-# We use a broader definition of paraffin oil, because the difference between
-# the variants regarding environmental risk is unclear
+# Manual adaptations of automatic mapping to EFSA conclusions
+
 efsa_map_manual <- tribble(~substance, ~DOI,
+
+  # We use a broader definition of paraffin oil, because the difference between
+  # the variants regarding environmental risk is unclear
 
   # Paraffin oils formulation (Arb'hiver) in OpenFoodTox, but has three additional 
   # linked names in OpenFoodTox specifying carbon chain lengths of C11-C25, C11-C30, C15-C30):
@@ -175,7 +178,14 @@ efsa_map_manual <- tribble(~substance, ~DOI,
   "Paraffin oil", "doi:20.2903/j.efsa.2009.2019r",
 
   # Paraffin oil (Para Sommer) in OpenFoodTox, but also in a variant specifying C17-C31 and a boiling point range
-  "Paraffin oil", "doi:20.2903/j.efsa.2009.2020r"
+  "Paraffin oil", "doi:20.2903/j.efsa.2009.2020r",
+
+  # The substance tested in the Fosetyl EFSA conclusion is actually Fosetyl-aluminium
+  "Fosetyl-aluminium", "doi:20.2903/j.efsa.2025.9513",
+
+  # There are endpoints for the potassium salt of maleic hydrazide in the 2016 conclusion
+  "Maleic hydrazide-potassium", "doi:20.2903/j.efsa.2016.4492",
+
   )
 
 efsa_map <- rbind(efsa_map_adapted, efsa_map_manual)

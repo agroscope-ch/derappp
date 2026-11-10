@@ -2195,6 +2195,15 @@
     "bcpc_activity": "plant growth regulators"
   },
   {
+    "chent": "Maleic hydrazide-potassium",
+    "ai": true,
+    "mw": 150.18,
+    "smiles": "C1=CC(=NNC1=O)[O-].[K+]",
+    "pubchem": 103896,
+    "inchikey": "ONFPEXMNTHPYGN-UHFFFAOYSA-M",
+    "bcpc_activity": "plant growth regulators"
+  },
+  {
     "chent": "Mandipropamid",
     "ai": true,
     "iso": "Mandipropamid",

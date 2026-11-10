@@ -6,13 +6,16 @@
     GNU Fortran (Ubuntu 15.2.0-16ubuntu1) 15.2.0
 * running under: Ubuntu 26.04.1 LTS
 * using session charset: UTF-8
-* current time: 2026-11-09 12:27:36 UTC
+* current time: 2026-11-10 15:12:24 UTC
 * using options ‘--no-tests --as-cran’
 * checking for file ‘derappp/DESCRIPTION’ ... OK
 * checking extension type ... Package
-* this is package ‘derappp’ version ‘0.9.4’
+* this is package ‘derappp’ version ‘0.9.4.9001’
 * package encoding: UTF-8
-* checking CRAN incoming feasibility ... OK
+* checking CRAN incoming feasibility ... NOTE
+Maintainer: ‘Johannes Ranke <johannes.ranke@agroscope.admin.ch>’
+
+Version contains large components (0.9.4.9001)
 * checking package namespace information ... OK
 * checking package dependencies ... OK
 * checking if this is a source package ... OK
@@ -21,7 +24,7 @@
 * checking for hidden files and directories ... OK
 * checking for portable file names ... OK
 * checking for sufficient/correct file permissions ... OK
-* checking whether package ‘derappp’ can be installed ... [17s/18s] OK
+* checking whether package ‘derappp’ can be installed ... [15s/16s] OK
 * checking installed package size ... INFO
   installed size is 10.6Mb
   sub-directories of 1Mb or more:
@@ -48,7 +51,7 @@
 * checking S3 generic/method consistency ... OK
 * checking replacement functions ... OK
 * checking foreign function calls ... OK
-* checking R code for possible problems ... [15s/14s] OK
+* checking R code for possible problems ... [14s/13s] OK
 * checking Rd files ... OK
 * checking Rd metadata ... OK
 * checking Rd line widths ... OK
@@ -69,7 +72,7 @@
 * checking tests ... SKIPPED
 * checking for unstated dependencies in vignettes ... OK
 * checking package vignettes ... OK
-* checking re-building of vignette outputs ... [11s/10s] OK
+* checking re-building of vignette outputs ... [11s/11s] OK
 * checking PDF version of manual ... OK
 * checking HTML version of manual ... NOTE
 Skipping checking HTML validation: no command 'tidy' found.
@@ -79,7 +82,7 @@ release or compiling the source code from <https://www.html-tidy.org/>.
 * checking for detritus in the temp directory ... OK
 * DONE
 
-Status: 1 NOTE
+Status: 2 NOTEs
 See
   ‘/home/f80868656/projects/derappp/derappp.Rcheck/00check.log’
 for details.

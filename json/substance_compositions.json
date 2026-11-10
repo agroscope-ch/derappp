@@ -1446,6 +1446,12 @@
     "max": 1
   },
   {
+    "substance": "Maleic hydrazide-potassium",
+    "chent": "Maleic hydrazide-potassium",
+    "min": 1,
+    "max": 1
+  },
+  {
     "substance": "Mandipropamid",
     "chent": "Mandipropamid",
     "min": 1,

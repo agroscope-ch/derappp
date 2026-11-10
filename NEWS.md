@@ -1,7 +1,9 @@
-## version 0.9.4.9000
+## version 0.9.4.9001
 
 - `wlt()`: Add derappp notes to the `data` component of the returned object
-- Add aquatic toxicity for paraffin oil including data from the 2008 EFSA conclusions for now, as it is not always clear why they do not appear in any of the current RARs and EFSA conclusions
+- Add aquatic toxicity for paraffin oil including data from the 2009 EFSA conclusions, but deselected, although it is not always clear why they do not appear in any of the current RARs and EFSA conclusions, but we follow EFSA decisions on dropping data in newer EFSA conclusions, unless we have specific reasons
+- Add aquatic toxicity for fosetyl-aluminium. In the title of the EFSA conclusion from 2025, only "fosetyl" is mentioned, but in the endpoint list, there is a comment in the very beginning that the data relate to the variant fosetyl-aluminium
+- Add aquatic toxicity for buprofezin, clomazone, daminozide, maleic hydrazide, maltodextrin, pelargonic acid, pyraclostrobin and pyrethrins
 
 ## version 0.9.4
 
