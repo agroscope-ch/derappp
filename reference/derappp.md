@@ -71,7 +71,7 @@ substance_keyssubstancesubstance_keys:substance->substances:substance
 
 # The list of chemical entities ("chents")
 derappp$chents
-#> # A tibble: 382 × 8
+#> # A tibble: 383 × 8
 #>    chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
 #>    <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>        
 #>  1 (10Z)-Heptadec-10-en… TRUE  NA    308.  "CCCC… NA      NA       NA           
@@ -84,7 +84,7 @@ derappp$chents
 #>  8 1-Methylcyclopropene  TRUE  NA     54.1 "CC1=…  1.51e5 SHDPRTQ… plant growth…
 #>  9 1-Naphthylacetic acid TRUE  NA    186.  "C1=C…  6.86e3 PRPINYU… NA           
 #> 10 1-Naphthylacetic aci… TRUE  NA    208.  "C1=C…  2.37e7 CJUUXVF… NA           
-#> # ℹ 372 more rows
+#> # ℹ 373 more rows
 
 # Some vapor pressures and water solubilities
 # We need to convert to °C if we do not want Kelvin

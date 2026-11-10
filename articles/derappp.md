@@ -56,7 +56,7 @@ Code
 derappp$substances
 ```
 
-    # A tibble: 414 × 3
+    # A tibble: 415 × 3
        substance                                                   n_chents type
        <chr>                                                          <int> <fct>
      1 (10Z)-Heptadec-10-enoic acid, potassium salt                       1 chent
@@ -69,7 +69,7 @@ derappp$substances
      8 1-Methylcyclopropene                                               1 chent
      9 1-Naphthylacetic acid                                              1 chent
     10 1-Naphthylacetic acid sodium salt                                  1 chent
-    # ℹ 404 more rows
+    # ℹ 405 more rows
 
 ### Pure substances with defined chemical structure (chemical entities)
 
@@ -86,7 +86,7 @@ Code
 derappp$substance_compositions |> filter(min == 1)
 ```
 
-    # A tibble: 382 × 6
+    # A tibble: 383 × 6
        substance                                       chent   min   max doi    page
        <chr>                                           <chr> <dbl> <dbl> <chr> <int>
      1 (10Z)-Heptadec-10-enoic acid, potassium salt    (10Z…     1     1 <NA>     NA
@@ -99,7 +99,7 @@ derappp$substance_compositions |> filter(min == 1)
      8 1-Methylcyclopropene                            1-Me…     1     1 <NA>     NA
      9 1-Naphthylacetic acid                           1-Na…     1     1 <NA>     NA
     10 1-Naphthylacetic acid sodium salt               1-Na…     1     1 <NA>     NA
-    # ℹ 372 more rows
+    # ℹ 373 more rows
 
 ### Mixtures of chemical entities
 
@@ -173,7 +173,7 @@ Code
 derappp$chents
 ```
 
-    # A tibble: 382 × 8
+    # A tibble: 383 × 8
        chent                 ai    iso      mw smiles pubchem inchikey bcpc_activity
        <chr>                 <lgl> <chr> <dbl> <chr>    <int> <chr>    <chr>
      1 (10Z)-Heptadec-10-en… TRUE  <NA>  308.  "CCCC… NA      <NA>     <NA>
@@ -186,7 +186,7 @@ derappp$chents
      8 1-Methylcyclopropene  TRUE  <NA>   54.1 "CC1=…  1.51e5 SHDPRTQ… plant growth…
      9 1-Naphthylacetic acid TRUE  <NA>  186.  "C1=C…  6.86e3 PRPINYU… <NA>
     10 1-Naphthylacetic aci… TRUE  <NA>  208.  "C1=C…  2.37e7 CJUUXVF… <NA>
-    # ℹ 372 more rows
+    # ℹ 373 more rows
 
 In the package, there is also a list of chent objects that can be used
 to plot any of the structures as shown in [Figure 2](#fig-tebufenozide)
@@ -384,7 +384,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 1,736 × 7
+    # A tibble: 2,083 × 7
        substance             derappp_species       duration effect sign  value sk
        <chr>                 <chr>                      [d] <chr>  <chr> [mg/… <chr>
      1 1-Naphthylacetic acid Cyprinus carpio              4 morta… >        56 j.ef…
@@ -397,7 +397,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
      8 1-Naphthylacetic acid Daphnia magna                2 morta… <       100 j.ef…
      9 1-Naphthylacetic acid Daphnia magna                4 morta… >        82 j.ef…
     10 1-Naphthylacetic acid Daphnia magna               21 repro… =        22 j.ef…
-    # ℹ 1,726 more rows
+    # ℹ 2,073 more rows
 
 ### Soil toxicity
 
