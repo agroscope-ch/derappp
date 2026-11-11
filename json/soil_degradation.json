@@ -56,7 +56,7 @@
     "type": "EFSA PECsoil",
     "DT50": 227.4,
     "kinetics": "SFO",
-    "sk": "Boscalid_RAR_2018_LoEP",
+    "sk": "boscalid_RAR_22_LoEP_2018-11-09",
     "page": "59",
     "reason": "EFSA LoEP",
     "note": "replaced 314.5 DT50 from 2002 dRAR with 227.4 from 2018 RAR",

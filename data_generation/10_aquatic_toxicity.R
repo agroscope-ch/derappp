@@ -348,6 +348,23 @@ check_and_add("tritosulfuron_aquatic_toxicity.xlsx")
 check_and_add("spinosad_aquatic_toxicity.xlsx")
 check_and_add("sulfur_aquatic_toxicity.xlsx")
 
+unclear_duration <- aquatic_toxicity |>
+  filter(
+    is.na(duration) & 
+    !grepl("[Cc]hronic", note) &
+    !life_stage %in%
+      c(
+        "early life stage",
+        "larval",
+        "juvenile",
+        "full life cycle"
+      ))
+if (nrow(unclear_duration) > 0) {
+  unclear_duration  |>
+    select(substance, test_nr, sk, page) |>
+    print()
+  stop("The above endpoints have unclear duration \n")
+}
 
 saveRDS(aquatic_toxicity, compress = FALSE,
   file = here('data_generation/cache/aquatic_toxicity.rds'))

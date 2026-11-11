@@ -310,62 +310,8 @@ purrr::pwalk(efsa_conclusions_used,
     }
   })
 
-derappp_bib_rar_sssd_rr <- c(
-  BibEntry(
-    key = "Fatty_acids_potassium_salts_RAR_01_Volume_1_2022-12-21",
-    bibtype = "Report",
-    institution = "European Food Safety Authority",
-    author = "Anonymous",
-    type = "Renewal Assessment Report",
-    title = "Combined Renewal Assessment Report prepared according to Regulation (EC) N° 1107/2009 and Proposal for Harmonised Classification and Labelling (CLH Report) according to Regulation (EC) N° 1272/2008 - Fatty Acids Potassium Salts Volume 1",
-    date = "2022-12-21",
-    url = "https://connect.efsa.europa.eu/RM/s/consultations/publicconsultation2/a0l09000006qyzn/pc0419",
-    file = "Fatty_acids_potassium_salts_RAR_2023/Fatty acids potassium salts_RAR_01_Volume_1_2022-12-21",
-  ),
-  BibEntry(
-    key = "Fatty_acids_potassium_salts_RAR_33_LoEP_2022-12-21",
-    bibtype = "Report",
-    institution = "European Food Safety Authority",
-    author = "Anonymous",
-    type = "Renewal Assessment Report",
-    title = "Combined Renewal Assessment Report prepared according to Regulation (EC) N° 1107/2009 and Proposal for Harmonised Classification and Labelling (CLH Report) according to Regulation (EC) N° 1272/2008 - Fatty Acids Potassium Salts List of Endpoints",
-    date = "2023-03-02",
-    url = "https://connect.efsa.europa.eu/RM/s/consultations/publicconsultation2/a0l09000006qyzn/pc0419",
-    file = "Fatty_acids_potassium_salts_RAR_2023/Fatty acids potassium salts_RAR_33_LoEP_1_2023-03-02",
-  ),
-  BibEntry(
-    key = "Boscalid_RAR_2018_LoEP",
-    bibtype = "Report",
-    institution = "European Food Safety Authority",
-    author = "Anonymous",
-    type = "Renewal Assessment Report",
-    title = "Draft Renewal Assessment Report under Regulation (EC) 1107/2009 - Boscalid List of Endpoints",
-    date = "2018-11-09",
-    url = "https://www.efsa.europa.eu/en/consultations/call/190125",
-    file = "Boscalid_RAR_2017/boscalid_RAR_22_LoEP_2018-11-09.pdf"
-  ),
-  BibEntry(
-    key = "Chlorpyrifos-methyl_RAR_32_LoEP_2017-07-03",
-    bibtype = "Report",
-    institution = "European Food Safety Authority",
-    author = "Anonymous",
-    type = "Renewal Assessment Report",
-    title = "Draft Renewal Assessment Report under Regulation (EC) 1107/2009 - Boscalid List of Endpoints",
-    date = "2017-07-03",
-    url = "https://www.efsa.europa.eu/en/consultations/call/190125",
-    file = "Chlorpyrifos-methyl_RAR_2017/Chlorpyrifos-methyl_RAR_32_LoEP_2017-07-03.pdf"
-  ),
-  BibEntry(
-    key = "Fluopyram_Bayer_SSSD_2021_MCA_Sec_7",
-    bibtype = "Report",
-    institution = "European Food Safety Authority",
-    author = "Anonymous",
-    type = "Sanitised Supplementary Summary Dossier",
-    title = "1st Amendment of Summary of the fate and behaviour in the environment for fluopyram",
-    date = "2021-06-25",
-    url = "https://open.efsa.europa.eu/questions/EFSA-Q-2017-00125",
-    file = "Fluopyram_Bayer_SSSD_2021/D_P-MCA_Section_7_02_M-770117_0005411077.pdf"
-  ),
+# Review reports and SSSD documents
+derappp_bib_rr_sssd <- c(
   BibEntry(
     key = "Beflubutamid_RR_2007",
     bibtype = "Report",
@@ -385,40 +331,6 @@ derappp_bib_rar_sssd_rr <- c(
     title = "Review report for the active substance chlorotoluron",
     date = "2005-02-15",
     file = "EU_Review_Reports/Chlorotoluron_RR_2007.pdf"
-  ),
-  BibEntry(
-    key = "Chlorotoluron_dRAR_23-LoEP_2021-07-29",
-    bibtype = "Report",
-    institution = "European Commission",
-    author = "Anonymous",
-    type = "Review report",
-    title = "Combined Draft Renewal Assessment Report prepared according to
-    Regulation (EC) No 1107/200 and Proposal for Harmonised Classification and
-    Labelling (CLH Report) according to Regulation (EC) No 1272/2008
-    CHLOROTOLURON List of End Points",
-    date = "2021-07-29",
-    file = "EU_DAR_dRAR/Chlorotoluron_RAR_2021/Chlorotoluron_dRAR_23-LoEP_2021-07-29.pdf"
-  ),
-  BibEntry(
-    key = "Chlorpyrifos_RAR_60_LoEP_2017-07-03",
-    bibtype = "Report",
-    institution = "European Commission",
-    author = "Anonymous",
-    type = "Review report",
-    title = "Level 2 (Appendix 1) CHLORPYRIFOS Appendix 1. List of end points",
-    date = "2017-07-03",
-    file = "EU_DAR_dRAR/Chlorpyrifos_RAR_2017/Chlorpyrifos_RAR_60_LoEP_2017-07-03.pdf"
-  ),
-  BibEntry(
-    key = "Diflufenican_RAR_12_List_of_endpoints_2018-07-19",
-    bibtype = "Report",
-    institution = "European Commission",
-    author = "Anonymous",
-    type = "Review report",
-    title = "Renewal Assessment Report prepared according to the Commission
-    Regulation (EU) No 1107/2009 Diflufenican List of Endpoints",
-    date = "2018-07-19",
-    file = "EU_DAR_dRAR/Diflufenican_RAR_2018/Diflufenican_RAR_12_List_of_endpoints_2018-07-19.pdf"
   ),
   BibEntry(
     key = "Fenarimol_RR_2007",
@@ -451,16 +363,6 @@ derappp_bib_rar_sssd_rr <- c(
     file = "EU_Review_Reports/MCPB_RR_2005.pdf"
   ),
   BibEntry(
-    key = "Paraffin_oil_ASU_DAR_07_Vol3_B9_public",
-    bibtype = "Report",
-    institution = "European Commission",
-    author = "{Greece}",
-    type = "Draft Assessment Report (DAR)",
-    title = "Draft Assessment Report (DAR) - Paraffin Oil (CAS 8042-47-5)",
-    date = "2008-08-18",
-    file = "EU_DAR_dRAR/Paraffin_oil_DAR_2008/Paraffin oil ASU_DAR_07_Vol3_B9_public.pdf"
-  ),
-  BibEntry(
     key = "Prosulfocarb_RR_2007",
     bibtype = "Report",
     institution = "European Commission",
@@ -469,16 +371,6 @@ derappp_bib_rar_sssd_rr <- c(
     title = "Review report for the active substance prosulfocarb",
     date = "2007-09-10",
     file = "EU_Review_Reports/Prosulfocarb_RR_2007.pdf"
-  ),
-  BibEntry(
-    key = "Pyraclostrobin_RAR_31_LoEP_2018-02-15",
-    bibtype = "Report",
-    institution = "European Commission",
-    author = "Anonymous",
-    type = "Review report",
-    title = "Renewal Assessment Report Pyraclostrobin List of end points",
-    date = "2018-02-15",
-    file = "EU_DAR_dRAR/Pyraclostrobin_RAR_2018/Pyraclostrobin_RAR_31_LoEP_2018-02-15.pdf"
   ),
   BibEntry(
     key = "Quinoxyfen_RR_2003",
@@ -510,21 +402,28 @@ derappp_bib_rar_sssd_rr <- c(
     date = "2017-05-31",
     url = "https://open.efsa.europa.eu/questions/EFSA-Q-2016-00678",
     file = "Dimethomorph_BASF_SSSD_2017/BAS 550 01 F/BAS 550 01 F Document MCP Section 10 update 3_sanitized.pdf"
+  ),
+  BibEntry(
+    key = "Fluopyram_Bayer_SSSD_2021_MCA_Sec_7",
+    bibtype = "Report",
+    institution = "European Food Safety Authority",
+    author = "Anonymous",
+    type = "Sanitised Supplementary Summary Dossier",
+    title = "1st Amendment of Summary of the fate and behaviour in the environment for fluopyram",
+    date = "2021-06-25",
+    url = "https://open.efsa.europa.eu/questions/EFSA-Q-2017-00125",
+    file = "Fluopyram_Bayer_SSSD_2021/D_P-MCA_Section_7_02_M-770117_0005411077.pdf"
   )
 )
 
-# DAR/RAR documents referred to in Jhoniels soil toxicity data files
-# These were generated using the script
-# 'private/archive/data_generation/01_sources_archive.R?
-# which is currently not intended for publication as it contains private paths.
-source(here("data_generation/01_sources/derappp_bib_soil_fauna_toxicity.R"))
+# DAR/RAR/Review report documents
+source(here("data_generation/01_sources/DAR_RAR.R"))
 
-# DAR/RAR documents referred to in the aquatic toxicity data files
-source(here("data_generation/01_sources/derappp_bib_aquatic_toxicity.R"))
-
-derappp_bib <- c(derappp_bib_ini, derappp_bib_efsa, derappp_bib_rar_sssd_rr,
-  derappp_bib_soil_fauna_toxicity,
-  derappp_bib_aquatic_toxicity)
+derappp_bib <- c(
+  derappp_bib_ini,
+  derappp_bib_efsa, 
+  derappp_bib_rr_sssd,
+  derappp_bib_dar_rar)
 
 WriteBib(derappp_bib, file = here("inst/REFERENCES.bib"))
 save(derappp_bib, file = here("data/derappp_bib.rda"), compress = "bzip2")
@@ -570,9 +469,8 @@ rm(
   efsa_map_auto)
 rm(derappp_sources, derappp_source_dir,
   derappp_bibentry,
-  derappp_bib_ini, derappp_bib_efsa, derappp_bib_rar_sssd_rr,
-  derappp_bib_soil_fauna_toxicity,
-  derappp_bib_aquatic_toxicity,
+  derappp_bib_ini, derappp_bib_efsa, derappp_bib_rr_sssd,
+  derappp_bib_dar_rar,
   source_table_list,
   derappp_bib,
   substances, substance_keys, sources

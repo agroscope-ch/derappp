@@ -1,12 +1,12 @@
 Package: derappp
 Type: Package
 Title: Data for Environmental Risk Assessment of Plant Protection Products
-Version: 0.9.4.9001
-Date: 2026-11-10
+Version: 0.9.4.9002
+Date: 2026-11-11
 Authors@R: c(
   person("Elisabeth", "Lutz", role = "aut",
     email = "elisabeth.lutz@agroscope.admin.ch",
-    comment = c(acronym = "luel", "data generation scripts, aquatic toxicity data")),
+    comment = c(acronym = "luel", "data generation scripts, aquatic toxicity data, soil degradation data")),
   person("Marcel", "Mathis", role = "aut",
     email = "marcel.mathis@agroscope.admin.ch",
     comment = c(acronym = "mamr", "data generation scrips, aquatic toxicity data")),
@@ -21,6 +21,8 @@ Authors@R: c(
     comment = "SMILES codes for pyrethroid stereoisomers"),
   person("Fabian", "Balk", role = "rev",
     comment = c(ORCID = "0000-0001-7764-7214", acronym = "bafa", "review of soil toxicity data")),
+  person("Andrea", "Roesch", role = "ctb",
+    comment = c(ORCID = "0000-0002-8756-2852", acronym = "roan", "soil degradation data")),
   person("Johannes", "Ranke", role = c("aut", "cre"),
     email = "johannes.ranke@agroscope.admin.ch",
     comment = c(ORCID = "0000-0003-4371-6538", acronym = "rajo")),

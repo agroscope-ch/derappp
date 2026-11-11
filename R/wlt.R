@@ -161,7 +161,7 @@ wlt <- function(
           group %in%
             c("Fish", "Aquatic invertebrates") &
             (duration > threshold_lt_fi |
-              grepl("chronic", note) |
+              grepl("[Cc]hronic", note) |
               life_stage %in%
                 c(
                   "early life stage",
@@ -178,8 +178,7 @@ wlt <- function(
             level == "EC50" ~ "pp",
 
           # Aquatic macrophytes (EFSA guidance p. 17 says 7-14 days)
-          group %in%
-            c("Aquatic algae", "Aquatic macrophytes") &
+          group == "Aquatic macrophytes" &
             duration > set_units(6, "d") &
             duration < set_units(15, "d") &
             level == "EC50" ~ "pp",
