@@ -1,9 +1,20 @@
 # Changelog
 
-## version 0.9.4.9001
+## version 0.9.4.9002
 
+- The source files specifying bibliographic entries for DAR and RAR
+  documents were merged, leading to the elimination of one duplicate
+  (boscalid RAR LoEP from 2018).
+- Add test durations or indications of test duration where it was not
+  specified. Such indications can be “Chronic” or “chronic” in the
+  notes, or one of the life stages “early life stage”, “larval”,
+  “juvenile” or “full life cycle”, because these are checked for in the
+  `wlt` function. The specification of a duration satisfying these rules
+  is now checked when reading in the aquatic toxicity data
 - [`wlt()`](https://agroscope-ch.github.io/derappp/reference/wlt.md):
-  Add derappp notes to the `data` component of the returned object
+  Add derappp notes to the `data` component of the returned object.
+  Also, look for “chronic” or “Chronic” in notes in cases the duration
+  is not specified
 - Add aquatic toxicity for paraffin oil including data from the 2009
   EFSA conclusions, but deselected, although it is not always clear why
   they do not appear in any of the current RARs and EFSA conclusions,

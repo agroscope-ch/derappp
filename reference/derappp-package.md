@@ -34,7 +34,7 @@ Authors:
   ([ORCID](https://orcid.org/0000-0003-4371-6538)) (acronym: rajo)
 
 - Elisabeth Lutz <elisabeth.lutz@agroscope.admin.ch> (acronym: luel,
-  data generation scripts, aquatic toxicity data)
+  data generation scripts, aquatic toxicity data, soil degradation data)
 
 - Marcel Mathis <marcel.mathis@agroscope.admin.ch> (acronym: mamr, data
   generation scrips, aquatic toxicity data)
@@ -54,6 +54,9 @@ Other contributors:
 
 - Fabian Balk ([ORCID](https://orcid.org/0000-0001-7764-7214)) (acronym:
   bafa, review of soil toxicity data) \[reviewer\]
+
+- Andrea Roesch ([ORCID](https://orcid.org/0000-0002-8756-2852))
+  (acronym: roan, soil degradation data) \[contributor\]
 
 - European Food Safety Authority (EFSA conclusions, bibliographic
   information in OpenFoodTox, Renewal Assessment Reports) \[data

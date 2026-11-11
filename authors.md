@@ -3,7 +3,8 @@
 ## Authors
 
 - **Elisabeth Lutz**. Author.  
-  luel,data generation scripts, aquatic toxicity data
+  luel,data generation scripts, aquatic toxicity data, soil degradation
+  data
 
 - **Marcel Mathis**. Author.  
   mamr,data generation scrips, aquatic toxicity data
@@ -23,6 +24,10 @@
 
 - **Fabian Balk**. Reviewer. [](https://orcid.org/0000-0001-7764-7214)  
   bafa,review of soil toxicity data
+
+- **Andrea Roesch**. Contributor.
+  [](https://orcid.org/0000-0002-8756-2852)  
+  roan,soil degradation data
 
 - **Johannes Ranke**. Author, maintainer.
   [](https://orcid.org/0000-0003-4371-6538)  
@@ -54,13 +59,13 @@ Source:
 [`DESCRIPTION`](https://github.com/agroscope-ch/derappp/blob/main/DESCRIPTION)
 
 Lutz E, Mathis M, Ranke J (2026). *derappp: Data for Environmental Risk
-Assessment of Plant Protection Products*. R package version 0.9.4.9001,
+Assessment of Plant Protection Products*. R package version 0.9.4.9002,
 <https://agroscope-ch.github.io/derappp/>.
 
     @Manual{,
       title = {derappp: Data for Environmental Risk Assessment of Plant Protection Products},
       author = {Elisabeth Lutz and Marcel Mathis and Johannes Ranke},
       year = {2026},
-      note = {R package version 0.9.4.9001},
+      note = {R package version 0.9.4.9002},
       url = {https://agroscope-ch.github.io/derappp/},
     }

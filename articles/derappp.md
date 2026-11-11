@@ -216,7 +216,7 @@ Code
 derappp$sources
 ```
 
-    # A tibble: 614 × 5
+    # A tibble: 613 × 5
        sk                        reference                         year  url   file
        <chr>                     <chr>                             <chr> <chr> <chr>
      1 derappp                   "E. Lutz, M. Mathis, and J. Rank… 2026  http… <NA>
@@ -229,7 +229,7 @@ derappp$sources
      8 PPDB_Agroscope_2024-07-01 "University of Hertfordshire, ed… 2024  <NA>  <NA>
      9 PIERIS_2024-06-05         "Agroscope, ed. _Pesticides and … 2024  <NA>  <NA>
     10 ranke2026openfoodtox      "J. Ranke. _OpenFoodTox: EFSA Op… 2026  http… <NA>
-    # ℹ 604 more rows
+    # ℹ 603 more rows
 
 Any of the sources can be referenced in any vignette in this package.
 For example, we can refer to the derapp package ([Lutz et al.
@@ -366,7 +366,7 @@ print(derappp$soil_degradation[c("substance", "DT50", "kinetics",
      2 Azoxystrobin   262   SFO      NA     NA   NA      NA        NA  NA j.efsa.20…
      3 Benalaxyl      128.  SFO      NA     NA   NA      NA        NA  NA j.efsa.20…
      4 Bixafen       3014   HS       NA     NA    0.0081  0.00023  NA  53 j.efsa.20…
-     5 Boscalid       227.  SFO      NA     NA   NA      NA        NA  NA Boscalid_…
+     5 Boscalid       227.  SFO      NA     NA   NA      NA        NA  NA boscalid_…
      6 Bupirimate     119.  FOMC      1.12  58.4 NA      NA        NA  NA j.efsa.20…
      7 Buprofezin     166.  SFO      NA     NA   NA      NA        NA  NA j.efsa.20…
      8 Carbendazim     78   SFO      NA     NA   NA      NA        NA  NA j.efsa.20…
