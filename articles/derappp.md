@@ -384,7 +384,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 2,510 × 7
+    # A tibble: 2,527 × 7
        substance                derappp_species    duration effect sign  value sk
        <chr>                    <chr>                   [d] <chr>  <chr> [mg/… <chr>
      1 2-(1-Naphthyl) acetamide Oncorhynchus myki…        4 morta… =      44   j.ef…
@@ -397,7 +397,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
      8 2-(1-Naphthyl) acetamide Desmodesmus subsp…        3 bioma… >       8.2 j.ef…
      9 2-(1-Naphthyl) acetamide Desmodesmus subsp…        3 growt… >       8.2 j.ef…
     10 2-(1-Naphthyl) acetamide Lemna minor              14 other  =       7.4 j.ef…
-    # ℹ 2,500 more rows
+    # ℹ 2,517 more rows
 
 ### Soil toxicity
 
