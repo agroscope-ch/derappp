@@ -183,12 +183,12 @@ head(derappp$aquatic_toxicity) |>
 #> # A tibble: 6 × 8
 #>   substance        formulation derappp_species duration effect level sign  value
 #>   <chr>            <chr>       <chr>                [d] <chr>  <chr> <chr> [mg/…
-#> 1 1-Naphthylaceti… NA          Cyprinus carpio        4 morta… EC50  >        56
-#> 2 1-Naphthylaceti… NA          Cyprinus carpio        4 morta… EC50  <       100
-#> 3 1-Naphthylaceti… 1-Naphthyl… Cyprinus carpio        4 morta… EC50  >        82
-#> 4 1-Naphthylaceti… NA          Oncorhynchus m…        4 morta… EC50  =        75
-#> 5 1-Naphthylaceti… Spollonant… Oncorhynchus m…        4 morta… EC50  =        37
-#> 6 1-Naphthylaceti… NA          Oncorhynchus m…       28 growth NOEC  =        10
+#> 1 2-(1-Naphthyl) … NA          Oncorhynchus m…        4 morta… LC50  =      44  
+#> 2 2-(1-Naphthyl) … Amid-Thin W Oncorhynchus m…        4 morta… EC50  >       8.2
+#> 3 2-(1-Naphthyl) … NA          Daphnia magna          2 morta… EC50  >      56  
+#> 4 2-(1-Naphthyl) … NA          Daphnia magna          2 morta… EC50  <     100  
+#> 5 2-(1-Naphthyl) … Amid-Thin W Daphnia magna          2 morta… EC50  >       8.2
+#> 6 2-(1-Naphthyl) … NA          Desmodesmus su…        3 bioma… EC50  >     100  
 
 # Species groupings and taxonomic IDs
 derappp$species

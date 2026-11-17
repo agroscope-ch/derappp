@@ -1,7 +1,17 @@
 # Changelog
 
+## version 0.9.4.9003
+
+- Add aquatic toxicity data for 2-(1-naphthyl) acetamide, glyphosate and
+  kresoxim-methyl. Correct an exposure duration for a tebuconazole
+  endpoint.
+- Reread tefluthrin stereoisomers into the `derappp_chent` object, now
+  correctly tagged as stereoisomers.
+
 ## version 0.9.4.9002
 
+- Add Andrea Rösch as contributor of soil degradation parameters
+  collected from EFSA conclusions that were added a while ago.
 - The source files specifying bibliographic entries for DAR and RAR
   documents were merged, leading to the elimination of one duplicate
   (boscalid RAR LoEP from 2018).

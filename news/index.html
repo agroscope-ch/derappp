@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">derappp</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.9.4.9002</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.9.4.9003</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,8 +38,14 @@
     </div>
 
     <div class="section level2">
+<h2 class="pkg-version" data-toc-text="0.9.4.9003" id="version-0949003">version 0.9.4.9003<a class="anchor" aria-label="anchor" href="#version-0949003"></a></h2>
+<ul><li>Add aquatic toxicity data for 2-(1-naphthyl) acetamide, glyphosate and kresoxim-methyl. Correct an exposure duration for a tebuconazole endpoint.</li>
+<li>Reread tefluthrin stereoisomers into the <code>derappp_chent</code> object, now correctly tagged as stereoisomers.</li>
+</ul></div>
+    <div class="section level2">
 <h2 class="pkg-version" data-toc-text="0.9.4.9002" id="version-0949002">version 0.9.4.9002<a class="anchor" aria-label="anchor" href="#version-0949002"></a></h2>
-<ul><li>The source files specifying bibliographic entries for DAR and RAR documents were merged, leading to the elimination of one duplicate (boscalid RAR LoEP from 2018).</li>
+<ul><li>Add Andrea Rösch as contributor of soil degradation parameters collected from EFSA conclusions that were added a while ago.</li>
+<li>The source files specifying bibliographic entries for DAR and RAR documents were merged, leading to the elimination of one duplicate (boscalid RAR LoEP from 2018).</li>
 <li>Add test durations or indications of test duration where it was not specified. Such indications can be “Chronic” or “chronic” in the notes, or one of the life stages “early life stage”, “larval”, “juvenile” or “full life cycle”, because these are checked for in the <code>wlt</code> function. The specification of a duration satisfying these rules is now checked when reading in the aquatic toxicity data</li>
 <li>
 <code><a href="../reference/wlt.html">wlt()</a></code>: Add derappp notes to the <code>data</code> component of the returned object. Also, look for “chronic” or “Chronic” in notes in cases the duration is not specified</li>

@@ -29,7 +29,7 @@ derappp_bib[1:10]
 #> 
 #> [4] E. Lutz, M. Mathis, and J. Ranke. _derappp: Data for Environmental
 #> Risk Assessment of Plant Protection Products_. R package version
-#> 0.9.4.9001. 2025. <https://agroscope-ch.github.io/derappp/>.
+#> 0.9.4.9002. 2025. <https://agroscope-ch.github.io/derappp/>.
 #> 
 #> [5] National Center for Biotechnology Information. _PubChem_. 2023.
 #> <https://pubchem.ncbi.nlm.nih.gov/>.
