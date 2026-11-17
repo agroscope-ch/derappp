@@ -1,5 +1,10 @@
 # Changelog
 
+## version 0.9.4.9004
+
+- Add aquatic toxicity for diuron (now including the LoEP from the RAR),
+  mancozeb and mandipropamid
+
 ## version 0.9.4.9003
 
 - Add aquatic toxicity data for 2-(1-naphthyl) acetamide, glyphosate and
