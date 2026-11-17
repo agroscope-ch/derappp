@@ -1,3 +1,7 @@
+## version 0.9.4.9005
+
+- Add aquatic toxicity for metalaxyl and metalaxyl-M
+
 ## version 0.9.4.9004
 
 - Add aquatic toxicity for diuron (now including the LoEP from the RAR), mancozeb and mandipropamid
