@@ -3451,3 +3451,19 @@ Querying BCPC for Maleic hydrazide-potassium ...
 Querying PubChem for inchikey ONFPEXMNTHPYGN-UHFFFAOYSA-M ...
 Get chemical information from RDKit using PubChem SMILES
 C1=CC(=NNC1=O)[O-].[K+]
+
+chent Tefluthrin-(1R,3R)
+Tefluthrin-(1R,3R) | TRUE | NA | CC1(C)[C@@H](\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F | Agroscope | NA
+Querying BCPC for Tefluthrin-(1R,3R) ...
+Common name Tefluthrin-(1R,3R) is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CC1(C)[C@@H](\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F ...
+Get chemical information from RDKit using user SMILES
+CC1(C)[C@@H](\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F
+
+chent Tefluthrin-(1S,3S)
+Tefluthrin-(1S,3S) | TRUE | NA | CC1(C)[C@H](\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F | Agroscope | NA
+Querying BCPC for Tefluthrin-(1S,3S) ...
+Common name Tefluthrin-(1S,3S) is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CC1(C)[C@H](\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F ...
+Get chemical information from RDKit using user SMILES
+CC1(C)[C@H](\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F

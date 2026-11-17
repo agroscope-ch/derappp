@@ -1,5 +1,11 @@
+## version 0.9.4.9003
+
+- Add aquatic toxicity data for 2-(1-naphthyl) acetamide, glyphosate and kresoxim-methyl. Correct an exposure duration for a tebuconazole endpoint.
+- Reread tefluthrin stereoisomers into the `derappp_chent` object, now correctly tagged as stereoisomers.
+
 ## version 0.9.4.9002
 
+- Add Andrea Rösch as contributor of soil degradation parameters collected from EFSA conclusions that were added a while ago.
 - The source files specifying bibliographic entries for DAR and RAR documents were merged, leading to the elimination of one duplicate (boscalid RAR LoEP from 2018).
 - Add test durations or indications of test duration where it was not specified. Such indications can be "Chronic" or "chronic" in the notes, or one of the life stages "early life stage", "larval", "juvenile" or "full life cycle", because these are checked for in the `wlt` function. The specification of a duration satisfying these rules is now checked when reading in the aquatic toxicity data
 - `wlt()`: Add derappp notes to the `data` component of the returned object. Also, look for "chronic" or "Chronic" in notes in cases the duration is not specified

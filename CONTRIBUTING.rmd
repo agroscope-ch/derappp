@@ -1,0 +1,43 @@
+<!-- CONTRIBUTING.md is generated from CONTRIBUTING.rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/CONTRIBUTING-"
+)
+```
+
+# Contributing data
+
+The main data object `derappp` is produced by the scripts under `data_generation`.
+Some of these scripts like `00_substances.R` only read data from this directory
+and from the internet. Others, like `10_aquatic_toxicity.R` check for updated
+input files in the directory specified in the environment variable
+`_derappp_input_`.
+
+In the first case, for example if you would like to add chemical entities, you
+can amend the input files like e.g. `data_generation/00_substances/chents.yml`
+and study and run the corresponding script e.g. `00_substances.R`, watching
+out for instructions in the comments. This will lead to updated data in 
+`data_generation/cache/`. When done with the changes, you need to run
+`data_generation/99_derappp.R` which will check for referential integrity
+of the data (are unique keys really unique, do the target entries for foreign
+keys exist) and write updated text representations of the data objects
+to the `json` directory, so you can use `git diff` for reviewing
+changes in these JSON files.
+
+In the second case, you do not necessarily need to set up and specify
+a `_derappp_input_` directory. You can also prepare excel sheets derived from
+those that can be found e.g. under `data_generation/06_soil_sorption/` or
+`data_generation/10_aquatic_toxicity/` and upload them to github by navigating
+to the directory on github, and use the button `Add file` and then select
+`Upload files`.
+
+# Versioning
+
+In order to support reproducible workflows, every commit that changes 
+data objects should specify an incremented version component in the
+DESCRIPTION file. For versions under development, we use numbers starting with
+9000 as the fourth version component, e.g. version `0.9.4.9002` is the third
+incremental change since version `0.9.4`, after `0.9.4.9000` and `0.9.4.9001`.

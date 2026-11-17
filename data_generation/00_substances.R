@@ -26,7 +26,7 @@
 
 # The 'chents.yml' file defines if the chent is regarded an active ingredient,
 # (currently every chent that is not a transformation product). Only for active
-# ingredients, the BCPC compendium is queried.
+# ingredients that are not stereoisomers, the BCPC compendium is queried.
 
 # The YAML also contains SMILES codes for the cases where the names are not
 # sufficient to retrieve the correct chemical structure from PubChem.
@@ -98,6 +98,10 @@ chents_log <- here("data_generation/log/01_chents.log")
 #derappp_chents <- list()
 #chent_names <- character()
 #unlink(chents_log)
+
+# If you just want to update the info for a single chent
+#derappp_chents[["Tefluthrin-(1S,3S)"]] <- NULL
+#chent_names <- sort(names(derappp_chents))
 
 new_chent_names <- setdiff(chents_to_include[["Name"]], chent_names)
 obsolete_chent_names <- setdiff(chent_names, chents_to_include[["Name"]])

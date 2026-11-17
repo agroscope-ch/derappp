@@ -1,7 +1,26 @@
 ---
 # The listed chemical entities are pesticide active ingredients or components
 # of pesticide active ingredients, unless they contain TP: True or
-# stereoisomer: True or synergist: True
+# synergist: True
+# 
+# For active substances, we check for ISO common names at the Pesticide
+# Compendium of the British Crop Protection Council
+# https://www.bcpcpesticidecompendium.org
+#
+# For variants of compounds with ISO common names (e.g. 2,4-D-dimethylammonium)
+# we also follow the BCPC compendium
+#
+# For transformation products, we use commonly used names like atrazine-2-hydroxy
+# that do not have an official status. However, each such transformation product
+# will only occur once, as duplicates will be detected based on SMILES codes,
+# PubChem IDs or InChIKeys.
+#
+# Other compound names in this file should follow IUPAC nomenclature, but are
+# not necessarily an "ISO preferred name" or the "Preferred IUPAC name (PIN)".
+# A reason not to generally use ISO preferred names is the case of
+# 1-Naphthylacetic acid where the BCPC states that "α-naphthaleneacetic acids"
+# (plural) comprises both the 1- and the 2- isomer, while other sources would
+# use beta for the 2-isomer.
 - 1-Decanol
 - 1-Methylcyclopropene
 - 1-Naphthylacetic acid:
@@ -555,9 +574,11 @@
 - Tefluthrin-(1R,3R):
     smiles: CC1(C)[C@@H](\C=C(/Cl)C(F)(F)F)[C@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F
     source: Agroscope
+    stereoisimer: True
 - Tefluthrin-(1S,3S):
     smiles: CC1(C)[C@H](\C=C(/Cl)C(F)(F)F)[C@@H]1C(=O)OCc1c(F)c(F)c(C)c(F)c1F
     source: Agroscope
+    stereoisimer: True
 - Tembotrione
 - Terbuthylazine
 - Terbuthylazine-desethyl:

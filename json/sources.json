@@ -1,7 +1,7 @@
 [
   {
     "sk": "derappp",
-    "reference": "E. Lutz, M. Mathis, and J. Ranke. _derappp: Data for Environmental\nRisk Assessment of Plant Protection Products_. R package version\n0.9.4.9001. 2026. <https://agroscope-ch.github.io/derappp/>.",
+    "reference": "E. Lutz, M. Mathis, and J. Ranke. _derappp: Data for Environmental\nRisk Assessment of Plant Protection Products_. R package version\n0.9.4.9002. 2026. <https://agroscope-ch.github.io/derappp/>.",
     "year": "2026",
     "url": "https://agroscope-ch.github.io/derappp/"
   },
@@ -3684,6 +3684,18 @@
     "file": "EU_DAR_dRAR/Foramsulfuron_RAR_2015/Foramsulfuron_RAR_11_Volume_3CA_B-9_2015_03_18_san.pdf"
   },
   {
+    "sk": "Glyphosate_RAR_19_Volume_3CA_B-9_ecotoxicology_2023-04-21_public",
+    "reference": "Anonymous.\n_Glyphosate_RAR_19_Volume_3CA_B-9_ecotoxicology_2023-04-21_public_.\nRenewal Assessment Report (RAR). European Commission, 2023.",
+    "year": "2023",
+    "file": "EU_DAR_dRAR/Glyphosate_RAR_19_Volume_3CA_B-9_ecotoxicology_2023-04-21_public.pdf"
+  },
+  {
+    "sk": "Glyphosate_RAR_20_Volume_3CA_B-9_ecotoxicology_appendix_literature_search_2023-04-21_public",
+    "reference": "Anonymous. _Glyphosate_RAR_20_Volume_3CA_B-9_ecotoxicology_appendix\nliterature search_2023-04-21_public_. Renewal Assessment Report (RAR).\nEuropean Commission, 2023.",
+    "year": "2023",
+    "file": "EU_DAR_dRAR/Glyphosate_RAR_20_Volume_3CA_B-9_ecotoxicology_appendix literature search_2023-04-21_public.pdf"
+  },
+  {
     "sk": "Imazalil_AR_07_VOL_3_B9_public",
     "reference": "Anonymous. _Imazalil AR 07 VOL 3 B9 public_. Draft Renewal\nAssessment Report (dRAR). European Commission, 2009.",
     "year": "2009",
@@ -3712,6 +3724,12 @@
     "reference": "Anonymous. _Isoproturon RAR 11 Volume 3CA-CP B-9 2014-02-28 san_.\nDraft Renewal Assessment Report (dRAR). European Commission, Feb. 28,\n2014.",
     "year": "2014",
     "file": "EU_DAR_dRAR/Isoproturon_RAR_2014/Isoproturon_RAR_11_Volume_3CA-CP_B-9_2014-02-28_san.pdf"
+  },
+  {
+    "sk": "kresoxim-methyl_assessment_report_14_Vol3_B9_Part_1_(March_2010)",
+    "reference": "Anonymous. _kresoxim-methyl_assessment report_14_Vol3_B9_Part\n1_(March 2010)_. Draft Assessment Report (DAR). European Commission,\n2010.",
+    "year": "2010",
+    "file": "EU_DAR_dRAR/kresoxim-methyl_assessment report_14_Vol3_B9_Part 1_(March 2010).pdf"
   },
   {
     "sk": "Linuron_RAR_20_Volume_3CP_B-9_2015-04-15_san",

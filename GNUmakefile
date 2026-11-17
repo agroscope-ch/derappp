@@ -8,6 +8,9 @@ all: install
 README.md: README.rmd
 	Rscript -e "rmarkdown::render('README.rmd', output_format = 'github_document', output_options = list(html_preview = FALSE))"
 
+CONTRIBUTING.md: CONTRIBUTING.rmd
+	Rscript -e "rmarkdown::render('CONTRIBUTING.rmd', output_format = 'github_document', output_options = list(html_preview = FALSE))"
+
 pkgfiles = \
 	.Rbuildignore \
 	_pkgdown.yml \

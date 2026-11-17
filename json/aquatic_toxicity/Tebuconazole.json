@@ -488,7 +488,7 @@
     "group": "Aquatic algae",
     "test_nr": "21",
     "test_system": "static",
-    "duration": 4,
+    "duration": 3,
     "effect": "biomass",
     "level": "EC50",
     "sign": "=",
