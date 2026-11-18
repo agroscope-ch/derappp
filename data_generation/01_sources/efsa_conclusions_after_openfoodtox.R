@@ -1,5 +1,6 @@
 # These EFSA conclusions were published after the latest OpenFoodTox data extraction (2022-09-30)
 
+# Should be in order of the publication date
 # We are not complete here, but for 2024 and 2025, the EFSA conclusions for
 # substances deemed relevant for the update of the Swiss National Risk Indicators
 # are included.
@@ -63,14 +64,6 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     DOI = "doi:10.2903/j.efsa.2023.8126",
     URL = "http://dx.doi.org/10.2903/j.efsa.2023.8126"))
 
-# Folpet 2023
-latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
-  tibble(Substance = "Folpet", OutputID = NA,
-    Published = as.Date("2023-08-18"),
-    Title = "Peer review of the pesticide risk assessment of the active substance folpet",
-    DOI = "doi:10.2903/j.efsa.2023.8139_LoEP",
-    URL = "http://dx.doi.org/10.2903/j.efsa.2023.8139"))
-
 # Dimethomorph 2023
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
   tibble(Substance = "Dimethomorph", OutputID = NA,
@@ -102,6 +95,22 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     Title = "Updated peer review of the pesticide risk assessment of the active substance mepanipyrim",
     DOI = "doi:10.2903/j.efsa.2023.8196",
     URL = "http://dx.doi.org/10.2903/j.efsa.2023.8196"))
+
+# Folpet 2023
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Folpet", OutputID = NA,
+    Published = as.Date("2023-08-18"),
+    Title = "Peer review of the pesticide risk assessment of the active substance folpet",
+    DOI = "doi:10.2903/j.efsa.2023.8139_LoEP",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2023.8139"))
+
+# Metribuzin 2023
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Metribuzin", OutputID = NA,
+    Published = as.Date("2023-08-24"),
+    Title = "Peer review of the pesticide risk assessment of the active substance metribuzin",
+    DOI = "doi:10.2903/j.efsa.2023.8140_LoEP",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2023.8140"))
 
 # Mecoprop-P 2023
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,

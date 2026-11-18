@@ -295,6 +295,13 @@
     "file": "10.2903/j.efsa.2018.5126_LoEP.pdf"
   },
   {
+    "sk": "j.efsa.2010.1856",
+    "reference": "EFSA. _Conclusion on the peer review of the pesticide risk\nassessment of the active substance metaldehyde_. EFSA conclusion.\nEuropean Food Safety Authority, Oct. 22, 2010. DOI:\ndoi:10.2903/j.efsa.2010.1856.\n<http://dx.doi.org/10.2903/j.efsa.2010.1856>.",
+    "year": "2010",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2010.1856",
+    "file": "10.2903/j.efsa.2010.1856.pdf"
+  },
+  {
     "sk": "j.efsa.2014.3812",
     "reference": "EFSA. _Conclusion on the peer review of the pesticide risk\nassessment of the active substance 2,4-D_. EFSA conclusion. European\nFood Safety Authority, Sep. 11, 2014. DOI:\ndoi:10.2903/j.efsa.2014.3812.\n<http://dx.doi.org/10.2903/j.efsa.2014.3812>.",
     "year": "2014",
@@ -2500,13 +2507,6 @@
     "file": "10.2903/j.efsa.2023.8126_LoEP.pdf"
   },
   {
-    "sk": "j.efsa.2023.8139_LoEP:1",
-    "reference": "EFSA. _Peer review of the pesticide risk assessment of the active\nsubstance folpet_. EFSA conclusion. European Food Safety Authority,\nAug. 18, 2023. DOI: doi:10.2903/j.efsa.2023.8139_LoEP.\n<http://dx.doi.org/10.2903/j.efsa.2023.8139>.",
-    "year": "2023",
-    "url": "http://dx.doi.org/10.2903/j.efsa.2023.8139",
-    "file": "10.2903/j.efsa.2023.8139_LoEP.pdf"
-  },
-  {
     "sk": "j.efsa.2023.8032",
     "reference": "EFSA. _Peer review of the pesticide risk assessment of the active\nsubstance dimethomorph_. EFSA conclusion. European Food Safety\nAuthority, Jun. 23, 2023. DOI: doi:10.2903/j.efsa.2023.8032.\n<http://dx.doi.org/10.2903/j.efsa.2023.8032>.",
     "year": "2023",
@@ -2561,6 +2561,20 @@
     "year": "2023",
     "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2023.8196#support-information-section",
     "file": "10.2903/j.efsa.2023.8196_LoEP.pdf"
+  },
+  {
+    "sk": "j.efsa.2023.8139_LoEP:1",
+    "reference": "EFSA. _Peer review of the pesticide risk assessment of the active\nsubstance folpet_. EFSA conclusion. European Food Safety Authority,\nAug. 18, 2023. DOI: doi:10.2903/j.efsa.2023.8139_LoEP.\n<http://dx.doi.org/10.2903/j.efsa.2023.8139>.",
+    "year": "2023",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2023.8139",
+    "file": "10.2903/j.efsa.2023.8139_LoEP.pdf"
+  },
+  {
+    "sk": "j.efsa.2023.8140_LoEP",
+    "reference": "EFSA. _Peer review of the pesticide risk assessment of the active\nsubstance metribuzin_. EFSA conclusion. European Food Safety Authority,\nAug. 24, 2023. DOI: doi:10.2903/j.efsa.2023.8140_LoEP.\n<http://dx.doi.org/10.2903/j.efsa.2023.8140>.",
+    "year": "2023",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2023.8140",
+    "file": "10.2903/j.efsa.2023.8140_LoEP.pdf"
   },
   {
     "sk": "j.efsa.2023.8344",
@@ -4082,6 +4096,12 @@
     "file": "EU_DAR_dRAR/Thiabendazole_RAR_2013/Thiabendazole_RAR_11_Volume_3_B-9_28-06-2013_san.pdf"
   },
   {
+    "sk": "Thiacloprid_RAR_11_Volume_3CA_B-9_2017-10-31",
+    "reference": "Anonymous. _Thiacloprid RAR 11 Volume 3CA B-9 2017-10-31_. Draft\nRenewal Assessment Report (dRAR). European Commission, Oct. 31, 2017.",
+    "year": "2017",
+    "file": "EU_DAR_dRAR/Thiacloprid_RAR_2017/Thiacloprid_RAR_11_Volume_3CA_B-9_2017-10-31.pdf"
+  },
+  {
     "sk": "Thiacloprid_RAR_20_Volume_3CP_Thiacloprid_FS_400_B-9_2017-10-31",
     "reference": "Anonymous. _Thiacloprid RAR 20 Volume 3CP Thiacloprid FS 400 B-9\n2017-10-31_. Draft Renewal Assessment Report (dRAR). European\nCommission, Oct. 31, 2017.",
     "year": "2017",
@@ -4092,6 +4112,12 @@
     "reference": "Anonymous. _Thiacloprid RAR 29 Volume 3CP Thiacloprid OD 240 B-9\n2017-10-31_. Draft Renewal Assessment Report (dRAR). European\nCommission, Oct. 31, 2017.",
     "year": "2017",
     "file": "EU_DAR_dRAR/Thiacloprid_RAR_2017/Thiacloprid_RAR_29_Volume_3CP_Thiacloprid_OD_240_B-9_2017-10-31.pdf"
+  },
+  {
+    "sk": "Thiacloprid_RAR_31_LoEP_2017-10-31",
+    "reference": "Anonymous. _Thiacloprid RAR 31 LoEP 2017-10-31_. Draft Renewal\nAssessment Report (dRAR). European Commission, Oct. 31, 2017.",
+    "year": "2017",
+    "file": "EU_DAR_dRAR/Thiacloprid_RAR_2017/Thiacloprid_RAR_31_LoEP_2017-10-31.pdf"
   },
   {
     "sk": "Triadimenol_DAR_13_Vol3_B9_public",

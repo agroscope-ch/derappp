@@ -159,6 +159,7 @@ efsa_map_adapted <- efsa_map_auto |>
     "Haloxyfop-P-methyl" ~ "doi:10.2903/j.efsa.2009.1348", # Substance is called Haloxyfop-P-methyl ester in OpenFoodTox
     "Lime sulfur" ~ "doi:10.2903/j.efsa.2010.1890", # Substance is called Lime sulphur in OpenFoodTox
     "Meptyldinocap" ~ "doi:10.2903/j.efsa.2014.3473", # Substance is called differently in OpenFoodTox
+    "Metaldehyde" ~ "doi:10.2903/j.efsa.2010.1856", # Metaldehyde is called 2,4,6,8-Tetramethyl... in OpenFoodTox
     default = DOI)
   ) |> 
   filter(!is.na(DOI)) # Remove unmapped chemical entities

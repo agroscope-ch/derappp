@@ -1,8 +1,8 @@
 Package: derappp
 Type: Package
 Title: Data for Environmental Risk Assessment of Plant Protection Products
-Version: 0.9.4.9005
-Date: 2026-11-17
+Version: 0.9.4.9006
+Date: 2026-11-18
 Authors@R: c(
   person("Elisabeth", "Lutz", role = "aut",
     email = "elisabeth.lutz@agroscope.admin.ch",
