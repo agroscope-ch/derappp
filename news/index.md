@@ -1,5 +1,11 @@
 # Changelog
 
+## version 0.9.4.9006
+
+- Add aquatic toxicity for metaldehyde, metribuzin, oxathiapiprolin,
+  pencycuron, prochloraz, prosulfocarb, pyraflufen-ethyl, thiacloprid
+  and thiophanate-methyl
+
 ## version 0.9.4.9005
 
 - Add aquatic toxicity for metalaxyl and metalaxyl-M

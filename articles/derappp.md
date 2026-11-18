@@ -216,7 +216,7 @@ Code
 derappp$sources
 ```
 
-    # A tibble: 617 × 5
+    # A tibble: 621 × 5
        sk                        reference                         year  url   file
        <chr>                     <chr>                             <chr> <chr> <chr>
      1 derappp                   "E. Lutz, M. Mathis, and J. Rank… 2026  http… <NA>
@@ -229,7 +229,7 @@ derappp$sources
      8 PPDB_Agroscope_2024-07-01 "University of Hertfordshire, ed… 2024  <NA>  <NA>
      9 PIERIS_2024-06-05         "Agroscope, ed. _Pesticides and … 2024  <NA>  <NA>
     10 ranke2026openfoodtox      "J. Ranke. _OpenFoodTox: EFSA Op… 2026  http… <NA>
-    # ℹ 607 more rows
+    # ℹ 611 more rows
 
 Any of the sources can be referenced in any vignette in this package.
 For example, we can refer to the derapp package ([Lutz et al.
@@ -384,7 +384,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
   "sign", "value", "sk")]
 ```
 
-    # A tibble: 2,527 × 7
+    # A tibble: 2,748 × 7
        substance                derappp_species    duration effect sign  value sk
        <chr>                    <chr>                   [d] <chr>  <chr> [mg/… <chr>
      1 2-(1-Naphthyl) acetamide Oncorhynchus myki…        4 morta… =      44   j.ef…
@@ -397,7 +397,7 @@ derappp$aquatic_toxicity[c("substance", "derappp_species", "duration", "effect",
      8 2-(1-Naphthyl) acetamide Desmodesmus subsp…        3 bioma… >       8.2 j.ef…
      9 2-(1-Naphthyl) acetamide Desmodesmus subsp…        3 growt… >       8.2 j.ef…
     10 2-(1-Naphthyl) acetamide Lemna minor              14 other  =       7.4 j.ef…
-    # ℹ 2,517 more rows
+    # ℹ 2,738 more rows
 
 ### Soil toxicity
 
