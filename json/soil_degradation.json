@@ -755,6 +755,22 @@
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   },
   {
+    "substance": "Folpet",
+    "type": "Maximum non-normalised lab DT50",
+    "DT50": 31.082833,
+    "kinetics": "DFOP",
+    "k1": 0.6515,
+    "k2": 0.0223,
+    "g": 0.2409,
+    "sk": "j.efsa.2023.8139_LoEP",
+    "page": "57",
+    "reason": "EFSA LoEP",
+    "note": "Substitute half-life (ln(2)/k2)",
+    "recorded": "luel",
+    "checked": "rajo",
+    "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
+  },
+  {
     "substance": "Fluazinam",
     "type": "EFSA PECsoil",
     "DT50": 226,
@@ -858,7 +874,7 @@
     "sk": "j.efsa.2018.5150",
     "page": "40",
     "reason": "EFSA LoEP",
-    "note": "\"Worst-case from laboratory soil trials, referenced to pF2 and\r\n20°C. Geometric mean of two values\"",
+    "note": "\"Worst-case from laboratory soil trials, referenced to pF2 and\n20°C. Geometric mean of two values\"",
     "recorded": "luel",
     "checked": "rajo",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
@@ -1149,6 +1165,18 @@
     "note": "Maximum normalised worst case lab DT50 (Marietta sandy loam) used for PECsoil calculations by EFSA",
     "recorded": "luel",
     "checked": "rajo",
+    "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
+  },
+  {
+    "substance": "Captan",
+    "type": "Maximum non-normalised lab DT50",
+    "DT50": 5.7,
+    "kinetics": "SFO",
+    "sk": "j.efsa.2020.6230_LoEP",
+    "page": "39",
+    "reason": "EFSA LoEP",
+    "note": "Maximum normalised worst case lab DT50 (sand) used for PECsoil calculations by EFSA",
+    "recorded": "luel",
     "file": "soil_degradation_EFSA_PEC_soil_luel_additional_ai.xlsx"
   }
 ]
